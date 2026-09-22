@@ -1,0 +1,1678 @@
+===== page 1
+CENTENAIRE DE LA SOCIETE GEOLOGIQUE DE BELGIQUE
+GISEMENTS STRATIFORMES ET PROVINCES CUPRIFERES, LIEGE, 1974, 103-122
+
+MINERALISATIONS CUPRO-COBALTIFERES
+ASSOCIEES AUX HORIZONS PYROCLASTIQUES
+SITUES DANS LE FAISCEAU SUPERIEUR
+
+DE LA SERIE DE ROAN, A SHITURU, SHABA, ZAIRE
+
+J. J. LEFEBVRE (*)
+
+RESUME
+
+Le gisement de Shituru se situe 4 peu prés au ceeur du district cupro-cobaltifére du Shaba
+(Zaire). La particularité de ce gisement est d’appartenir au Mwashya inférieur (R.4.1) et de
+présenter, malgré cette différence, de trés fortes analogies avec les minéralisations de la Série
+des Mines conventionnelle (Faisceau médian de la Série de Roan).
+
+La minéralisation de Shituru est associée 4 des roches volcano-sédimentaires et s’accom-
+pagne de manifestations hydrothermales parfois importantes.
+
+Une étude préliminaire, sur des échantillons non altérés, permet une certaine approche
+dans la définition du type de gisement et des conditions de mise en place. La minéralisation est
+pour une part syngénétique, liée 4 un volcanisme métallogénique. Un remaniement, peut-étre
+accompagné d’un enrichissement, résulte trés vraisemblablement d’une activité hydrothermale
+tardi-volcanique.
+
+L’intérét économique de ce gisement réside plus particulisrement dans le remarquable
+enrichissement lié & une altération météorique intense.
+
+ABSTRACT
+
+The copper deposit at Shituru is located almost in the center of the copper-cobalt-bearing
+district of Shaba. The most interesting feature of this deposit is that it belongs to the Lower
+Mwashya (R.4.1) and offers in spite of this difference, very strong analogies to the more
+common mineralization found in the Série des Mines (middle part of the Roan).
+
+The Shituru mineralization is associated with volcanic-sedimentary rocks and is accom-
+panied by locally important hydrothermal manifestations.
+
+A preliminary study, on unweathered samples, allows a first approach in the definition
+of the type of deposit and of the conditions of formation. The mineralization is, for a part,
+syngenetic and bound to a metallogenetic volcanism. A modification, perhaps accompanied by
+an enrichment, very likely results from late-voleanic hydrothermal activity.
+
+The most prominent economic interest of this deposit lies in the remarkable enrichment
+resulting from an intense meteoritic alteration.
+
+(*) Générale des carritres et mines, département géologique, Likasi, province de Shaba,
+Zaire.
+
+===== page 2
+104 J.J, LEFEBVRE
+
+INTRODUCTION
+
+La minéralisation au Shaba est classiquement lige 4 des horizons appartenant
+a la partie médiane du Roan. Hors la minéralisation filonienne dans le Calcaire
+de Kakontwe 4 Kipushi, il est courant d’admettre que seuls ces horizons sont
+susceptibles de présenter un intérét économique.
+
+Le faisceau (+) supérieur de la Série de Roan constitue une exception & cette
+régle. Quelques gisements ont déja été reconnus dans les formations dolomitiques
+du Mwashya. Le plus important d’entre eux, le gisement de Shituru, déja observé
+et décrit par J. Cornet au x1x® siécle, a été partiellement exploité. Des sondages,
+forés tout récemment 4 moyenne profondeur, ont montré que la minéralisation
+se poursuivait dans les zones moins oxydées. Dans un futur immédiat, d’autres
+sondages tenteront de recouper les couches minéralisées 4 des profondeurs que
+Paltération n’atteint pas.
+
+Cette note est donc le résumé des observations effectuées sur les matériaux
+issus de ces prospections préliminaires.
+
+1. Situation générale (fig. 1)
+
+La carriére de Shituru s’ouvre & prés d’un kilométre au sud de Likasi. Cette
+agglomération est un neud sur la route qui relie Lubumbashi 4 Kolwezi, 4 mi-
+chemin entre ces deux centres miniers.
+
+La création de Likasi est liée 4 lexploitation de deux gisements de cuivre
+appartenant a un méme anticlinal de direction ouest-nord-ouest - est-sud-est et cerné
+de deux failles importantes, celles de Jadotville au nord et de Likasi au sud. Le gise-
+ment de Likasi est trés classique, la minéralisation affecte les couches du faisceau
+médian du Roan, formant un bloc noyé dans la faille axiale de I’anticlinal
+(écaille de la Série des Mines). Dans le méme anticlinal, plus au sud, la minéra-
+lisation de Shituru imprégne les lévres de la faille axiale ; tandis que les écailles
+que l’on observe dans la bréche, & l’est du gisement, sont totalement stériles.
+
+2. Stratigraphie générale (fig. 2)
+
+Nous avons réparti les différents horizons observés 4 Shituru en quatre
+groupes. Le premier renferme les diamictites que l’on peut voir tout au nord et
+au sud du gisement. Ce sont les roches conglomératiques du Ki.I.I dans la
+nomenclature des géologues miniers (Frangois, 1973).
+
+Le contact de ces roches avec les pélites microgréseuses sous-jacentes est normal
+et progressif au nord ; il est nettement bréchié au sud.
+
+() Coordinator's note: The stratigraphic nomenclature used here may appear confusing
+to readers who are not familiar with it. Therefore it may be useful to point out that:
+
+4) the term faisceau is applied in Shaba to lithostratigraphic units, most of which would
+be given the rank of groups in the international system of nomenclature;
+
+5) the term groupe is used here in a very loose sense.
+
+===== page 3
+ 
+
+MINERALISATIONS CUPRO-COBALTIFERES A SHITURU, ZAIRE 105
+
+LEGENDE
+
+Ville «
+Frontiére.
+Route.
+Riviére.
+
+ 
+
+FIGURE 1
+
+HAUT SHABA
+
+ECHELLE
+1/4.000. 000
+
+ 
+
+ 
+
+ 
+
+Fic. 1. — Situation générale.
+
+Dans l’état actuel de nos connaissances, il n’est pas invraisemblable de croire
+que ce contact anormal résulte d’une érosion anté-kundelungienne.
+
+Le groupe suivant est formé de prés de 80 métres de pélites plus ou moins
+bien stratifiées, nettement plus massives a la base, vertes et peut-étre tufacées.
+Ce groupe est fréquemment rattaché a la diamictite pour constituer un ensemble
+périglaciaire (Cahen, 1954). Nous continuerons de distinguer ces deux groupes,
+le deuxi¢me étant dénommé provisoirement Mwashya supérieur ou R.4.2.
+
+Le troisitme groupe est, pour nous, le plus important, car il renferme la
+minéralisation ; c’est le Mwashya inférieur ou R.4.I, classique, aux multiples
+successions de dolomies souvent talqueuses, de grés argileux et de roches volcano-
+sédimentaires. Le passage du Mwashya inférieur au Mwashya supérieur est géné-
+talement souligné par un niveau dolomitique blanchatre, silicifié, parfois trés peu
+épais (1 cm).
+
+Enfin, tout & la base de la coupe, prés de la bréche axiale, la dolomie du
+Mwashya inférieur passe brutalement & une formation de roches stratifiées grises
+ou rouges, gréseuses et extrémement riches en hématite, 4 niveaux dolomitiques
+roses et a oolites ferrugineuses. Nous avons rassemblé ces roches, non encore
+observées jusqu’alors, dans un dernier groupe, celui de Shituru.
+
+La coupure entre les deux derniers groupes est brutale par la variation de
+aspect lithologique, mais aussi pour le changement rapide des conditions d’oxy-
+dation : le Mwashya inférieur est, A la base, nettement réducteur, tandis que le
+groupe de Shituru correspond 4 un milieu nettement oxydant.
+
+===== page 4
+ 
+
+ 
+
+ 
+
+277500
+
+274400 |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7283/7090
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FLAWC | SUD
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FLANC| NORD
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7283400
+
+ 
+
+ 
+
+TET T TITY
+
+ 
+
+ 
+
+Mineralisations
+
+MrT tree
+beet
+j (
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+283/300
+
+cash
+Coc 08t
+
+ 
+
+743/200
+
+ 
+
+ 
+
+LEGENDE
+
+ 
+
+Eendite
+
+Mecuce%,
+
+caer
+
+I) Passe
+
+ 
+
+ 
+
+ial ial
+
+ 
+
+ 
+
+ 
+
+ 
+
+7) ensombte volcano sedmenentave (—] Sténte
+
+FED Rochen pyrecastiquee
+9 dates
+
+ 
+
+ 
+
+ 
+
+277800
+771400
+
+ 
+
+ 
+
+ 
+
+ 
+
+| arrdeo.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+DE SHITURU ET REPARTITION DE LA
+MINERALISATION EN FACIES D‘ALTERATION.
+
+SCHEMA GEOLOGIQUE EN PLAN DU GISEMENT
+
+      
+  
+
+ 
+
+ 
+
+ 
+
+asc
+2as)200
+
+CocS%
+
+Minaras cupre-cobattifire 2160
+
+ 
+
+ 
+
+EMY. Formation i minarai vert
+283/200
+
+ 
+
+|
+
+Briches taclonuquae
+
+nferiewr
+
+ 
+
+ 
+
+5 pense pine
+ED multe de hanunge
+
+ 
+
+ 
+
+}2771p0
+
+ 
+
+===== page 5
+ 
+
+ 
+
+ 
+
+                     
+
+“foos-eez = x7 1998)
+28 7 18 S79VONOS $30 NOIIDIS YT NOTIS ‘nenLNS
+JO INIWISID NG SYFAVYL NI ‘ONS-QHON F3LNTINO FANOD EY
+
+\
+
+ 
+
+ya
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+wow
+
+wos woh oe wor wor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a et o
+wot
+woe
+
+woru p uonowsos wns | on)
+
+sossune p vonowsoy nd | of) ¢bouosnoszuiiy ‘woe
+
+Bosvurm 9 U0; ;OUs04 “OWS
+
+1
+
+‘anbwepey 2219
+ramus ap ednosy
+
+physpau 2p vassou vanjoo [Foo
+sasndus sazwopep 42 seuojop ep 401989295.
++s9g;0u0gin) s2pr/0d ap 19
+casndust ‘Sanaojop *p woiss92ng
+sonbiuorioa syz4g
+spr0ffaq 9219
+nurdoy Jny 42 fag
+‘saojueuipas-ouvzjoa says0y
+aaissou aousy
+: soprodsof ssy20u
+unauigdns ohysomyy
+sora ay
+
+ons
+
+ 
+
+ 
+
+Fic. 3
+
+===== page 6
+108 J.J. LEFEBVRE
+
+3. Le Mwashya inférieur et le groupe de Shituru (fig. 3)
+
+La stratigraphie du Mwashya inférieur, 4 Shituru, a déja fait l’objet d’une
+étude de détail menée parallélement a la cartographie de surface (Lefebvre, 1973).
+Les récents sondages ont confirmé les premiéres observations en les complétant et
+en les précisant. Comme le propos de cette note est surtout de définir la minéra-
+lisation & Shituru, nous nous en tiendrons & une image assez schématique de la
+stratigraphie. Quant a la pétrographie, nous nous contenterons d’en préciser les
+aspects qui semblent avoir une relation avec la mise en place de la minéralisation.
+
+Par ses caractéres stratigraphiques, pétrographiques et minéralogiques, le
+groupe de Shituru a un aspect assez tranché par rapport au Mwashya inférieur.
+I s’agit d’un ensemble assez uniforme de roches gréso-chloriteuses plus ou moins
+bien stratifiées. Entre le grés chloriteux et la pélite gréseuse, tous les intermé-
+diaires existent. Il en va de méme pour la dolomite qui peut étre totalement
+absente ou abonder au point de transformer la roche en une dolomie impure, gréso-
+chloriteuse. Certains bancs, peu épais, sont de véritables dolomies massives roses,
+trés peu gréseuses.
+
+Ces roches sont singulitrement tendres ; ceci explique aisément que la rupture,
+lors de tectogenéses, se soit faite 4 ce niveau.
+
+Une autre caractéristique des roches de ce groupe se marque par des conditions
+nettement oxydantes du bassin de sédimentation, lors de leur dépét. Il en résulte
+la couleur rouge ou rose de certains horizons, la présence d’oolites trés ferru-
+gineuses et surtout l’abondance de paillettes d’oligistes disséminées dans l'ensemble
+de la roche. Par ce dernier caractére, le groupe de Shituru s’apparente fort tant
+aux «roches gréso-schisteuses » de la Dipeta (premiéres formations du faisceau
+supérieur) qu’aux R.A.T. lilas du faisceau inférieur de la Série de Roan.
+
+Le Mwashya inférieur est extrémement complexe par les successions multiples
+et variées des faciés, souvent lenticulaires, que l’on voit se succéder. D’une
+maniére générale, il se dessine une courbe lithologique négative qui se marque
+par une abondance relative de dolomies a la base (alternance de dolomies et de
+dolomies trés impures), tandis qu’au contact avec le Mwashya supérieur, la pro-
+portion est inverse (alternances de dolomies impures et pélites gréso-carbonatées).
+Ce groupe joue un réle de charniére entre la série de Roan nettement carbonatée
+et les faciés détritiques des séries kundelungiennes.
+
+Cette séquence négative, nettement oscillante, est compliquée par des apports
+volcano-sédimentaires parfois trés grossiers et de plus en plus importants. La
+derniére phase volcanique, avant le Mwashya supérieur, formée de grés tufacés,
+de tufs et de tufs lapilli, ne fait pas moins de 80 métres d’épaisseur dans le flanc
+sud de l’anticlinal, dans la partie médiane de la carriére.
+
+La partie supérieure du Mwashya inférieur ne nous est pas encore apparue
+vierge de toute altération météorique. Malgré cela, on devine l’existence de varia-
+tions dans le potentiel oxydo-réducteur du bassin de sédimentation.
+
+Le contact entre le groupe de Shituru et le Mwashya inférieur se marque par
+le passage brutal de conditions oxydantes & des conditions réductrices. Les hori-
+zons volcano-sédimentaires ou franchement volcaniques sont abondamment pyri-
+teux. Les dolomies de base affectent des couleurs bariolées et la pyrite y est rare ;
+mais dés avant la formation a minerai noir (F.M.N.), les teintes virent au gris
+verdatre et les sulfures sont bien représentés. La formation 4 minerai vert (F.M.V.)
+
+===== page 7
+ 
+
+MINERALISATIONS CUPRO-COBALTIFERES A SHITURU, ZAIRE 109
+
+Roches pyroclastiques
+
+i
+
+ 
+
+Fic. 4. — Flanc sud de lanticlinal; base du Mwashya inférieur et contact avec la bréche
+axiale.
+
+qui est en fait une formation pyroclastique formée de tufs et tufs lapilli est
+également riche en pyrite (voir fig. 3).
+
+Dans les dépéts plus récents, les conditions réductrices sont moins nettes
+quand les dolomies apparaissent a I’état non altéré ; elles ont des couleurs moins
+ternes et ne contiennent que des traces de pyrite. Les horizons volcaniques qui
+vont, dés lors, se succéder sont tous nettement oxydés. Le fer y est abondant,
+jusqu’a former localement des bancs ou l’hématite est seule représentée (fer du
+Mwashya).
+
+LA MINERALISATION EN FACIES D’ALTERATION
+
+En surface, la minéralisation prend une grande extension. Si on l’observe a
+Yemplacement de la F.M.N. avec des teneurs exceptionnelles (jusqu’a 25 % Cu),
+on la retrouve a peu prés 4 tous les niveaux du Mwashya inférieur appartenant
+au flanc sud de l’anticlinal. Une exception toutefois, et elle est de taille, le dernier
+niveau de roches volcaniques, avant le Mwashya supérieur, est absolument stérile
+dans l’entiéreté de ses 80 métres de puissance. Pourtant, la minéralisation est
+présente, en traces faut-il le dire, dans les derniers niveaux du Mwashya inférieur,
+et méme dans le Mwashya supérieur, 4 une ou deux reprises, a l’occasion de
+fractures paralléles 4 l’axe de J’anticlinal.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+===== page 8
+ 
+
+110 J.J, LEFEBVRE
+
+Dans le flane nord, la minéralisation est rare. Concordante, elle est attachée
+A quelques niveaux peu épais situés entre la F.M.N. et la bréche axiale de
+Vanticlinal. En aucun endroit de la carriére, il n’a été observé de minéralisation
+en cuivre dans cette bréche axiale. Parfois, elle se concentre juste & son contact,
+jamais elle ne la pénétre.
+
+La ob Ja fracturation n’améne pas des enrichissements locaux, trois formations
+sont minéralisées de maniére plus nette. Ce sont les formations & minerai noir,
+ocre et vert des premiers exploitants (voir fig. 3).
+
+Le plus jeune de ces corps minéralisés, la formation 4 minerai ocre (F.M.O.)
+est formée d’une dolomie impure, greige, qui par altération, se réduit & une roche
+pélitique jaune-ocre, chlorito-talqueuse et séricitique, souvent quartzeuse. Cette
+roche est trés meuble et se défait sous la seule pression des doigts. Le seul minéral
+économique exprimé est la malachite qui peut se transformer en chrysocolle quand
+on se rapproche de la zone de cémentation. Elle se présente sous la forme de
+petites écailles et plaquettes dans les joints de stratification.
+
+La formation & minerai vert (F.M.V.) est fréquemment enrichie en oxydes de
+cuivre aux épontes et plus particulisrement au mur (au contact avec la F.M.N.).
+A Pétat non altéré, la roche est un tuf volcanique hydrothermalisé, de teinte grise
+et riche en pyrite. Ses constituants principaux sont le quartz, la chlorite et un
+mica blanc idiomorphe. Le minerai oxydé est formé de malachite granulaire ou
+en imprégnation intime d’une gangue gréso-chloriteuse beige ou gris-vert, massive
+et indurée.
+
+La formation a minerai noir (F.M.N.) est en fait une nette alternance de
+minerai jaune, trés semblable au corps minéralisé supérieur, et d’un minerai noir
+& trés forte teneur en cuivre. La gangue de ce minerai noir est presque essentiel-
+lement quartzeuse, parfois accompagnée d’un peu de mica blanc. La minéralisa-
+tion consiste en granules de malachites noyés dans une substance noire, abondante,
+qui encroiite le quartz. Cette substance assez grasse et fort salissante ne donne
+aucune réflexion en diffractométrie de RX. Il s’agit vraisemblablement de cupro-
+asbolane en abondance (De Leenheer, 1937). Ce minerai est le résidu de disso-
+lution de niveaux dolomitiques assez purs.
+
+Quel que soit le type de minerai, il se caractérise par la présence de tourmaline
+en quantité et celle, plus sporadique, d’apatite. La tourmaline, idiomorphe, incolore
+est une variété proche de la dravite. Le chimisme de ces minerais est trés uni-
+forme ; le seul élément réellement important est le cuivre; viennent ensuite, en
+beaucoup moins grande quantité, le fer, le manganése et le cobalt. Les autres
+éléments n’apparaissent qu’en traces géochimiques et sont le plomb, le nickel
+accompagnés d’indices de molybdéne, de vanadium et de chrome. Zinc, sélénium,
+tellure et métaux précieux sont totalement inexistants.
+
+Hors ces trois corps minéralisés, les teneurs en cuivre dépassent rarement
+2% et, le plus souvent, restent inférieures a 1%. Elles correspondent a des
+remplissages de cassures et diaclases, dans les roches tufacées et pyroclastiques,
+en belles associations de pseudo-malachite et de libéthénite. Il est plausible d’attri-
+buer V’origine du phosphore, qui participe 4 cette minéralisation, 4 l’apatite fré-
+quente dans tous ces horizons tufacés. Dans les autres niveaux, le plus souvent
+anciennement dolomitiques, c’est la malachite, en fines mouchetures, que l’on
+observe, disséminée dans la masse de la roche.
+
+La minéralisation en fer (et manganése) est incompatible avec la présence
+de cuivre oxydé; une seule fois, prés du contact avec le Mwashya supérieur,
+
+===== page 9
+ 
+
+MINERALISATIONS CUPRO-COBALTIFERES A SHITURU, ZAIRE 111
+
+il a été possible d’observer quelques enduits de malachite dans un niveau pélitique
+métasomatisé en oxyde de fer.
+
+Si ces différents corps minéralisés sont remarquablement concordants, ils sont
+toutefois lenticulaires. Le flanc nord est quasi stérile, tandis qu’a lest et & J’ouest,
+dans le flanc sud, les teneurs en cuivre baissent assez brutalement. Le cobalt,
+en général trés mal représenté dans le coeur du gisement, devient nettement plus
+abondant avec des teneurs qui se rapprochent de 2 %. Ainsi, avant la disparition
+de la minéralisation, il se forme une auréole cobaltifére qui succéde 4 une minéra-
+lisation cuprifére ot le cobalt excéde rarement le dixiéme de pour cent (fig. 2).
+
+LA MINERALISATION EN FACIES DOLOMITIQUES INALTERES
+
+Le matériel mis a notre disposition par cette campagne préliminaire de sondage
+ne correspond qu’a d’assez faibles métrages en zones non altérées ou non cémen-
+tées. Il en résulte que la compréhension du phénoméne régissant la mise en place
+de la minéralisation ne repose que sur un nombre relativement limité d’échantil-
+lons. Ce nombre reste toutefois suffisant pour une premiére approche et les
+observations sont assez nombreuses pour tirer quelques premiéres conclusions.
+
+1. Répartition de la minéralisation
+
+D’une maniére générale, quand on quitte le domaine d’altération météorique,
+les corps minéralisés, précédemment décrits, s’individualisent d’autant mieux que
+la minéralisation secondaire, affectant les horizons réputés stériles, disparait.
+
+Crest en pénétrant le domaine dolomitique que l’on observe la disparition
+de la minéralisation dans la F.M.O. Dans le sondage SI, tant que la roche est
+encore profondément altérée, les teneurs en cuivre restent semblables a celles
+observées en surface. La partie inférieure de la formation est entiérement dolo-
+mitique et la seule minéralisation encore visible est une pyrite trés finement
+disséminée en rares cristaux idiomorphes limonitisés. On peut donc prévoir que
+les sondages qui iront recouper cette formation a plus grande profondeur ne
+rencontreront aucune teneur en cuivre.
+
+Le gisement de Shituru ne comporte donc qu’un seul corps minéralisé et
+celui-ci s’attache de maniére parfaitement concordante aux deux formations que
+sont la F.M.V. et la F.M.N. Avec la profondeur, ce dernier corps voit ses teneurs
+en cuivre diminuer considérablement. Comme on a pu le voir pour la F.M.O.,
+les enrichissements dus a l’altération météorique sont considérables; mais ici,
+on peut croire que la diminution des teneurs découle également de ce que !’on
+s’écarte du coeur du gisement.
+
+Les horizons volcaniques, plus jeunes que la F.M.V., conservent, dans les
+zones non altérées, leur faciés oxydé. Il en résulte que l’hématite continue d’étre
+abondante, en bancs massifs ou en enrichissements dans les tufs et bréches volca-
+niques. Le cuivre qui s’associe 4 ces niveaux n’est visible qu’en traces et sous
+forme de chrysocolle.
+
+Plus haut dans le Mwashya inférieur, 4 la base de la F.M.O. de méme qu’entre
+les oolites noires et la forte puissance de tufs, des niveaux isolés de roches
+
+===== page 10
+112 J.J. LEFEBVRE
+
+jaspoides apparaissent non altérés, abondamment pyriteux et accompagnés de sul-
+fures de cuivre en trace. La succession des dépdts en milieux tantét oxydants, tantot
+réducteurs est une réalité qui se montre plus nettement en profondeur, mais livre
+également 4 nos yeux sa pleine complexité.
+
+Il semble que, au-dela de la F.M.V., les dépéts chimiques, c’est-a-dire les
+dolomies et les roches jaspoides d'origine volcanique se soient déposés dans des
+bassins en milieu plus réducteur. Avec l’apport en masse de sédiments volcano-
+détritiques, probablement accompagnés de mouvements affectant le fond du bassin,
+il s’est ensuivi des comblements rapides favorisant apparition des conditions de
+milieu oxydant.
+
+L’existence de mouvements du bassin est attestée par observation, 4 au moins
+trois niveaux, de contacts ravinants ou rubéfiés entre des formations volcaniques
+et les dolomies sous-jacentes.
+
+Il existe donc, 4 Shituru, au moins trois types de minéralisation différents :
+— les minéralisations liées aux roches détritiques en milieu oxydant ;
+— les minéralisations liées aux roches détritiques en milieu réducteur ;
+— les minéralisations liées aux roches chimiques en milieu réducteur.
+
+2. Les minéralisations liées aux roches détritiques en milieu oxydant
+
+A toutes les couches pyroclastiques de la partie supérieure du Mwashya, est
+associée une minéralisation en fer. Sous forme d’hématite idiomorphe, le fer est
+parfois 4 ce point abondant qu’il constitue des bancs entiers 4 grande extension
+latérale et pouvant atteindre localement 2 métres d’épaisseur. Ce minéral s’intégre
+de telle maniére dans la succession stratigraphique que son origine sédimentaire
+ne fait aucun doute. Il résulte d’une précipitation tantét isolée, tantét liée 4 des
+bréches volcaniques, tufs et pélites tufacées que l’oxyde de fer métasomatise en
+partie.
+
+Dans ces horizons, le cuivre est absent, sauf parfois en infimes quantités dans
+les bréches volcaniques. Dans ce cas, il apparait sous forme d’une trés fine
+dissémination de chalcopyrite, ligée 4 un peu de pyrite fréquemment oxydée. En
+régle générale, quand on peut observer cette minéralisation en cuivre, elle est
+circonscrite aux éléments de lave qui constituent la bréche.
+
+La précipitation du fer s’accompagne trés souvent de silice ; elle forme alors
+des intercalations jaspoides rouges contenant une fine imprégnation d’hématite.
+Le manganése est également présent dans ces niveaux, mais en trés faible quantité ;
+on ne l’observe bien que dans les zones altérées ot il remplit les cassures avec
+Yaspect d’un produit noir amorphe.
+
+Cette minéralisation est remarquablement concordante et présente une exten-
+sion non négligeable quand on sait que le fer de Mwashya est un horizon repére
+dans toute la zone cuprifére du bassin katangien. On la retrouve, bien entendu,
+dans le flanc nord de J’anticlinal de Shituru.
+
+3. Les minéralisations liées aux roches détritiques en milieu réducteur
+
+Elles s’attachent a la F.M.V. et, avec des teneurs extrémement pauvres, 4 un
+horizon de faible épaisseur situé entre le groupe de Shituru et la F.M.N. Cet
+
+===== page 11
+ 
+
+MINERALISATIONS CUPRO-COBALTIFERES A SHITURU, ZAIRE 113
+
+horizon est une pélite dolomitique hydrothermalisée dont ’origine est mal définie.
+Il n’est pas invraisemblable que ce banc soit volcano-sédimentaire.
+
+Dans la F.M.V., comme dans V’horizon hydrothermalisé, la minéralisation se
+présente comme une association de pyrite et de sulfures de cuivre; le sulfure
+porteur de cuivre est la chalcopyrite dans la F.M.V. et la bornite accompagnée
+d'un peu de chalcopyrite dans le second niveau.
+
+Dans un cas comme dans l’autre, sulfures de fer et de cuivre sont intimement
+liés, ’'un ne paraissant pas remplacer l’autre. Généralement xénomorphe, le sulfure
+de cuivre est imbriqué ou en inclusion dans la pyrite. Cette pyrite est finement
+disséminée ou tend a former des nuages et localement de petits amas.
+
+La F.M.V. est un tuf lapilli dont les éléments, d’origine volcanique, ne dépas-
+sent pas en diamétre le demi-millimétre et baignent dans un ciment profondément
+silicifié, 4 nombreuses inclusions d’origine vraisemblement hydrothermale. La
+minéralisation en fer et en cuivre se retrouve dans l’entiéreté de la roche ; le plus
+souvent dans le ciment, parfois elle gagne les éléments, mais elle conserve, par
+Tapport a eux, un net état de postériorité.
+
+Dans l’ensemble, la minéralisation est légérement cémentée. La digénite et la
+chalcosine auréolent la bornite dans Vhorizon inférieur. Dans la F.M.V., la
+chalcosine remplace directement la chalcopyrite avec des figures de cémentation
+desquelles la bornite est exclue. Cette chalcosine montre parfois des inclusions
+claires, disposées en un fin alignement concentrique, peu éloigné du bord de la
+plage. Ce minéral & fort relief est une carrollite ou une linnéite qui semble
+correspondre a un épisode cobaltifére interrompant la cémentation.
+
+Dans l’hydrothermalite inférieure, nous n’avons observé de sulfures de cobalt
+que dans de fins filonnets et partiellement digérés par la bornite. Cette bornite
+elle-méme subit un début de transformation en chalcosine.
+
+En s’accentuant, la cémentation provoque l’apparition d’amas de chalcosine,
+intimement lige & de la gethite et a de la malachite ainsi qu’A des traces de
+cuprite.
+
+4. Les minéralisations liées aux roches chimiques en milieu réducteur
+
+Dans la partie supérieure du Mwashya, méme les roches déposées en milieu
+réducteur sont dépourvues de cuivre. La précipitation conjuguée du fer et de la
+silice donne naissance 4 des roches jaspoides grises et pyriteuses. La pyrite est
+parfois framboidale ; le plus souvent idiomorphe 4 subidiomorphe, elle forme
+des amas importants ott pointent, de-ci, de-la, de trés rares et trés petites plages
+de chalcosine. Quant aux dolomies, elles sont totalement stériles, on n’y trouve
+que de rares grains de pyrite idiomorphe.
+
+C’est dans des dolomies siliceuses, tout au bas du Mwashya, que se rencon-
+trent les plus fortes concentrations en cuivre.
+
+La F.M.N. est une succession de bancs, tantét massifs, tant6t finement stra-
+tifiés, de dolomies souvent impures. Les phénoménes de silicification sont fréquents,
+on observe une quartzification assez systématique, tandis qu’une chertification
+s‘installe sporadiquement. De nombreux bancs se caractérisent par la présence
+de nodules siliceux ellipsoidaux, centimétriques.
+
+Dans l’ensemble, la partie supérieure de la formation est, dans le sondage S 1,
+un peu moins riche que la partie inférieure. Les associations qui s’y forment
+sont de la pyrite et de la chalcopyrite avec un peu de bornite ou de la pyrite
+
+===== page 12
+ 
+
+114 J.J, LEFEBVRE
+
+et des traces de chalcopyrite. Jamais la pyrite et la chalcopyrite n’apparaissént
+en contact, leur développement semble indépendant. Des phénoménes d’enrichis-
+sement sont nettement visibles ; c’est ainsi que la chalcopyrite se transforme en
+bornite et digénite avec parfois de belles figures de cémentation.
+
+A un plus haut niveau d’enrichissement, on remarque les associations bornite-
+digénite, digénite-chalcosine et chalcosine seule. De son cété, la pyrite est digérée
+par la bornite qui s’auréole de digénite. La répartition de la minéralisation obéit
+a des impératifs qui naissent de Ia texture de la roche, mais la tendance est
+beaucoup plus nette dans la partie inférieure de la formation.
+
+Vers le bas de la F.M.N., la minéralisation n’est généralement plus formée
+que de chalcosine. Elle montre des aspects trés différents qui sont intimement li¢s
+a Ja texture de la roche. D’une manitre générale, elle épouse la dimension des
+grains de la gangue. Dans les zones massives, grossiérement recristallisées, elle
+est disséminée, largement cristallisée, souvent peecilitique. On la retrouve avec
+le méme faciés dans les nodules quartzo-dolomitiques et dans les filonnets et
+cassures. Autour de ces filonnets, la présence de halos, ou toute minéralisation
+parait lessivée, est un fait assez fréquent. Dans les zones ot la roche montre
+une texture plus fine, orientée, la chalcosine, en petits grains ramassés, est trés
+abondante et liée préférentiellement aux joints phylliteux. Quelquefois on retrouve,
+dans de grandes plages de quartz ou de dolomite recristallisée, une trés fine
+dissémination de chalcopyrite ou de bornite. Une seule fois, il nous a été donné
+d’observer, dans les mémes conditions, un nuage de trés fins grains de pyrite
+associée 4 un peu de bornite. Certains échantillons contenaient une chalcosine
+lisérée de sulfure de cobalt.
+
+Enfin, les dolomies comprises entre la F.M.N. et le groupe de Shituru sont
+également minéralisées, mais trés faiblement. Les associations que l’on y trouve
+expriment un état de déséquilibre : de la pyrite xénomorphe 4 inclusions de
+bornite, est englobée de chalcosine 4 auréole de sulfure de cobalt.
+
+Dans la carriére, quelques pointements de roches dolomitiques appartenant a
+ces niveaux montrent des associations qui ressemblent 4 s’y méprendre 4 celles
+que l’on a coutume de rencontrer dans la Série des Mines. Dans une dolomie
+massive, recristallisée, de grandes plages idiomorphes d’un sulfure de cobalt
+(carrollite ?) se disposent sans ordre. De petites inclusions (5 & 10 microns) de
+bornite et de pyrite, sont parfois visibles dans ce sulfure. Ce mineral est en passe
+d’étre transformé par de la bornite qui, elle-méme s’enrichit en chalcosine. Entre
+ces figures, d’abondantes plages de bornite pecilitique se cémentent pour donner
+des associations du type bornite-digénite-chalcosine. Une fois de plus on observe
+un sulfure de cobalt, de seconde venue, en bordure de la chalcosine.
+
+Dans le flanc nord, ot la F.M.N. est réputée stérile, examen au microscope
+met en évidence l’abondance de pyrite en trés fine cristallisation disséminée,
+idiomorphe a subidiomorphe, accompagnée, tout 4 la base de la formation, d’un
+peu de chalcopyrite et parfois de bornite. Tantét cette minéralisation s’aligne
+sur la stratification, tantét elle se rassemble en bouffées nuageuses dans une
+dolomie massive a gros cristaux noirs de dolomite.
+
+5. Successions et paragenése des sulfures
+
+La minéralisation initiale semble avoir été formée de l’association pyrite et
+chalcopyrite avec peut-étre un peu de bornite. C’est elle que l’on observe dans
+
+===== page 13
+MINERALISATIONS CUPRO-COBALTIFERES A SHITURU, ZAIRE 115
+
+les minerais non enrichis, c’est elle que l’on peut voir parfois en inclusion dans
+les minéraux de cristallisation tardive comme le quartz, la dolomite et méme
+le sulfure de cobalt idiomorphe.
+
+Ce sulfure de cobalt, quand il existe est métasomatisé par de la bornite.
+Enfin la chalcosine tend 4 remplacer le tout avec, fréquemment, une interruption
+qui correspond 4 un épisode cobaltifére.
+
+On aurait donc, dans l’ordre :
+1. pyrite, chalcopyrite (bornite) ;
+2. sulfure de cobalt ;
+
+3. bornite ;
+
+4. sulfures simples de cuivre.
+
+TRANSFORMATIONS DE LA GANGUE
+ET ALTERATIONS HYDROTHERMALES
+
+Le groupe de Shituru est fréquemment recoupé par des filons 4 remplissage
+de dolomite accompagnée de quartz et d’un peu de calcite. Au contact, on observe
+des transformations trés nettes qui se marquent par de grandes masses phylliteuses
+verdAtres qui noient la texture de la roche. Dans ces masses, de grands cristaux
+idiomorphes d’apatite orange croissent jusqu’& atteindre des tailles dun demi-
+centimétre. L’examen diffractométrique des parties argileuses de la roche et des
+produits de transformation verdatres fait apparaitre une succession complexe de
+chlorite, chlorites ouvertes, interstratifiés, d’une kaolinite qui s’apparente a la dickite,
+et probablement aussi d’une montmorillonite. On a le sentiment que la chlorite qui
+constituait initialement la partie argileuse de la roche se métasomatise en dickite
+au contact des filons, en laissant subsister tous les stades intermédiaires de sa
+transformation. En plus de l’apatite, il faut noter la remarquable abondance de
+tourmaline incolore et de rutile parfaitement idiomorphes.
+
+Dans l’ensemble du Roan de Shituru, on remarque des recristallisations qui
+font intervenir les mémes minéraux. C’est ainsi que la tourmaline de néoformation
+est présente dans tous les niveaux, idiomorphe et incolore dans les dolomies ou
+en auréole limpide de cristallisation autour des tourmalines vertes détritiques du
+groupe de Shituru. Elle est brun sale dans les roches pyroclastiques et parfois
+abondante au point que certaines bréches volcaniques ont le ciment transformé
+en une véritable tourmalinite. Par contre, c’est encore une tourmaline incolore
+qui envahit Vhydrothermalite sous-jacente 4 la F.M.N.
+
+L’apatite de néoformation se retrouve, idiomorphe et peecilitique dans toutes
+les roches et s’associe de maniére assez systématique a la quartzification des
+dolomites. De plus, il n’est pas de dolomie qui n’ait subi de recristallisations ;
+certains bancs arborent méme une dolomite noire, macroscopique, en croissance
+désordonnée. Dans les roches pyroclastiques, la silicification se marque par la
+métasomatose a la fois du ciment et des baguettes de plagioclase. Il est significatif
+de constater que, dans l’ensemble de ce groupe, 4 caractére franchement volca-
+nique, aucun feldspath n’ait jamais été mis en évidence, méme par diffractométrie
+des rayons X.
+
+===== page 14
+116 J.J. LEFEBVRE
+
+Le rutile est trés abondant dans I’ensemble des roches volcano-détritiques
+ainsi que dans les lits pélitiques et un peu gréseux des dolomites. Toutefois, sauf
+dans les bréches volcaniques, il montre un aspect nettement détritique. En ce qui
+regarde les roches pyroclastiques, le rutile et le leucoxéne qui les dévore littérale-
+ment paraissent appartenir 4 une phase antérieure 4 la sédimentation des débris
+@origine effusive.
+
+L’ensemble des niveaux liés au volcanisme est caractérisé par une importante
+chloritisation. C’est un phénoméne général et les roches effusives, connues au
+Shaba, participent toutes, en se dévitrifiant, A un phénoméne semblable.
+
+A Shituru, dans les faciés 4 caractére réducteur, les roches pyroclastiques ont
+leur mésostase chloriteuse constituée essentiellement d’une clinochlore du type
+leuchtenbergite. En milieu oxydant, accompagnant des traces de leuchtenbergite,
+cCest une magnésio-rhipidolite (Trdger, 1971) vert pale que l’on observe en quantité.
+Crest dans ce dernier facits que l’on a pu mettre en évidence la présence d’un
+matériel kaolinique que nous rapportons, avec réserves, & de la dickite et de la
+kaolinite en mélange. Dans ces mémes roches, la séricite idiomorphe apparait en
+amas nébuleux.
+
+Au mur de la F.M.N., un banc de dolomie impure trés fine, ainsi que l’hydro-
+thermalite qui lui est sous-jacente, montrent une croissance multiple et désordonnée
+de plages rectangulaires de trois 8 quatre millimétres de longueur, larges de prés
+dun millimétre, 4 remplissage de chlorite ; c’est une rhipidolite ferrifére (Tréger)
+a nombreuses inclusions de tourmaline, quartz, dolomite, apatite, pyrite et mica
+blanc qui résulte de la transformation d’un minéral inconnu.
+
+La montmorillonite est fréquente dans les dolomies sous-jacentes 4 la F.M.N.
+
+Enfin, le talc est abondant dans certains horizons du groupe de Shituru et
+présent dans les niveaux impurs des dolomies du Mwashya inférieur. Toutefois, il
+ne parait lié en aucune maniére aux transformations hydrothermales (Oosterbosch,
+1960, Lefebvre, 1973). Il en va de méme pour des traces de biotite et de phlogopite
+-observées tant dans les dolomies que dans les grés tufacés.
+
+Tl est trés difficile de juger des relations qui peuvent exister entre cet hydro-
+thermalisme et la minéralisation. Pour V’instant, les observations ont mis en évi-
+dence une métasomatose de la dolomite secondaire par la chalcosine et l’absence de
+relation entre la silicification et la minéralisation. D’autre part, la transformation
+Ahydrothermale est nettement secondaire par rapport a la cristallisation de la pyrite.
+
+INTERPRETATION METALLOGENIQUE
+
+La minéralisation 4 Shituru est concordante. Les dépéts d’hématite et de roches
+jaspoides pyriteuses montrent un coefficient de stratiformité (Pélissonnier, 1973)
+remarquablement grand. Pour ce qui regarde les corps minéralisés en cuivre et
+cobalt, les teneurs exploitables occupent un espace également concordant, mais
+nettement plus lenticulaire. Cependant, dans le flanc nord, la minéralisation se
+poursuit avec de la pyrite et de rares traces de chalcopyrite. Des teneurs exploitables
+ont été observées, également a hauteur de ces niveaux, en d’autres points du
+Shaba (Van Eyll, 1973).
+
+Dans les roches jaspoides pyriteuses, l’existence de structures de type fram-
+boidal représente, pour la pyrite, un argument favorable 4 une sédimentation sous
+
+===== page 15
+ 
+
+MINERALISATIONS CUPRO-COBALTIFERES A SHITURU, ZAIRE 117
+
+forme de gels sulfurés. Enfin, nous croyons en l’existence d’un volcanisme métallo-
+génique attesté par la présence de chalcopyrite et de pyrite dans les éléments des
+bréches volcaniques. Pour une part, au moins, la minéralisation est du type syngéné-
+tique familier (Routhier, 1967) et trouve sa source dans un volcanisme basique
+proche des zones de dépét.
+
+Nous engloberons dans un méme phénoméne toutes les minéralisations corres-
+pondant a l’association pyrite-chalcopyrite (et bornite), c’est-a-dire celles que l’on
+observe dans les roches pyroclastiques en milieu réducteur ainsi que celles de la
+F.M.N. et des dolomies sous-jacentes, qu’elles soient vierges de tout enrichissement,
+comme dans le flanc nord de Vanticlinal, ou a l’état de minéralisation relique
+dans le flanc sud. Cette minéralisation est trés finement disséminée dans les roches
+de précipitation chimique (dolomies) ; dans les roches volcaniques, elle s’attache
+au ciment mais gagne, par métasomatose, les lapilli. Elle acquiert, de ce fait, un
+caractére secondaire qui la lie, sans doute, aux phénoménes diagénétiques. Elle
+provient, a notre avis, d’une méme source que la précédente, a la différence que sa
+mise en place résulte d’une précipitation chimique en milieu réducteur.
+
+Fic. 5. — F.M.N. inférieur
+minéralisé en chalcosine ; les
+sulfures apparaissent en noir
+sur la photo et se concen-
+trent dans les joints de
+stratification.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+===== page 16
+ 
+
+118 J.J, LEFEBVRE
+
+En conclusion, pour cette premiére phase, le schéma serait assez simple. Un
+volcanisme basique alimente en fer et en cuivre le bassin de sédimentation, sous la
+forme de sulfures emprisonnés dans les éléments détritiques et en solution dans
+l’eau de mer. Nous ne pouvons pas savoir si cette mise en solution s’est faite &
+partir du lessivage des roches volcaniques par venues fumerolliennes ou directement
+a partir d’ions métalliques primitivement contenus dans ces fumerolles, ou par
+toute autre maniére encore. Mais il est certain qu’il se précipitera davantage de fer
+pour des conditions de Eh oxydantes et que le cuivre, lui, ne précipitera qu’en
+milieu réducteur.
+
+Les conditions oxydantes du groupe de Shituru ont pu se maintenir pendant un
+temps assez long et favoriser un enrichissement progressif et continu des solutions
+de cuivre jusqu’a une rupture brutale qui coincide avec l’apparition du Mwashya
+inférieur et des minéralisations sulfurées, Ceci suppose que les horizons détritiques
+du groupe de Shituru soient également liées & des phénoménes volcaniques. Ce
+qui n’est pas invraisemblable si on en juge par la texture et la composition des
+roches.
+
+Dés lors, l’aspect épigénétique des associations qui vont se succéder va appa-
+raitre nettement. La phase de minéralisation en cobalt ot les sulfures correspon-
+dants sont idiomorphes, peecilitiques et se retrouvent préférentiellement dans les
+bancs dolomitiques massifs, est A caractére nettement secondaire.
+
+Les associations pyrite-bornite et pyrite-chalcosine sont l’expression d’un désé-
+quilibre thermodynamique qui ne peut s’expliquer que par des apports successifs
+(Bartholomé, 1971).
+
+On est tenté, pour ces faciés nouveaux, d’apporter pour réponse les manifes-
+tations hydrothermales. Leur présence est bien normale dans un environnement
+volcanique et déja leur importance s’est marquée profondément dans les trans-
+formations de la gangue. Que la source du cobalt et des enrichissements en
+cuivre se trouve dans les fluides appartenant 4 un hydrothermalisme tardi-volca-
+nique consanguin, cela est probable, mais ce n’est pas certain. Le réle des fluides
+a pu se limiter au seul remaniement de la minéralisation. Il existe toutefois un
+argument favorable 4 un enrichissement épigénétique : la minéralisation syngéné-
+tique-familier présente une extension importante pour une faible puissance ;
+Penrichissement qui définit le gisement de Shituru n’a que la dimension d’un corps
+minéralisé, mais pour une puissance relativement plus importante. La délimitation
+dans la stratigraphie de zones oxydantes et réductrices, qui sont apparues lors de
+la sédimentation, a pu servir, une nouvelle fois, 8 provoquer une fixation sélective
+des ions métalliques a partir des fluides minéralisateurs.
+
+PARALLELISME AVEC LA MINERALISATION
+DE LA «SERIE DES MINES »
+
+(fig. 7)
+
+Le gisement de Shituru constitue, par rapport aux minéralisations stratiformes
+de la Série des Mines, un bel exemple de permanence (Zuffardi, 1969). I existe en
+effet une identité parfaite entre le chimisme de la minéralisation a Shituru et celui
+de a Série des Mines dans la zone cupro-cobaltifére. Si le chimisme est identique,
+les associations minéralogiques qui se succédent sont trés semblables (Oosterbosch ;
+
+===== page 17
+MINERALISATIONS CUPRO-COBALTIFERES A SHITURU, ZAIRE 119
+
+Bartholomé). Il est impossible de distinguer 4 l’examen des paragenéses, un
+échantillon de l’un ou l’autre type de gisement, au moins en ce qui concerne les
+minéralisations en milieu réducteur.
+
+Une comparaison des stratigraphies fait apparaitre des conditions de dépot
+trés semblables.
+
+Aprés un épisode gréseux, assez long, a caractére oxydant, entrecoupé d’épisodes
+plus dolomitiques, on débouche, dans un cas comme dans I’autre, sur des dolomies
+correspondant A des conditions de dépét en milieu euxinique. C’est alors que la
+minéralisation se met en place au sein de dolomies stratifiées ou massives et
+construites. Des dolomies du type R.S.C., R.S.F., D. Strat, se retrouvent dans la
+F.MN. mais en désordre et avec des puissances différentes. Le phénoméne des
+R.S.C. stériles coincées entre des bancs minéralisés peut se représenter 4 Shituru et
+méme plusieurs fois 4 la suite, mais avec des dimensions beaucoup plus restreintes
+(fig. 6).
+
+ 
+
+Fic. 6. — De part et d’autre d'une dolomie massive a faible teneur en cuivre, des facies, de
+type R.S.F. a gauche et de type D. Strat. 4 droite, mieux minéralisés.
+
+Des roches du type R.A.T. grises et S.D. se retrouvent & Shituru, trés semblables
+en texture et en composition, mais dans ce cas, il s’agit de grés et de pélites tufacées.
+
+Si l’on connait, au sein des corps minéralisés du faisceau médian du Roan, des
+phénoménes de silicification et de recristallisation dolomitique importants, la tour-
+maline est un peu moins fréquente qu’a Shituru ; par contre, l’apatite peut étre plus
+abondante encore. Le rutile d’origine détritique est fréquent dans les R.A.T. et les
+S.D. et la chloritisation est un phénoméne général. Enfin, 4a Kambove et 4 Kabolela,
+il nous a été donné d’observer dans les R.A.T. lilas sous-jacentes 4 la Série des
+Mines d’importantes manifestations hydrothermales ow de la dickite, de la mont-
+morillonite et des interstratifiés remplissaient de nombreux filons et cassures, avec
+transformation correspondante de la roche (Lefebvre, 1972).
+
+D’aprés une étude récente (Frangois, 1973), la minéralisation dans la Série des
+Mines parait se mettre en place par taches. Ces taches montrent une auréole
+nettement cobaltifére.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+===== page 18
+ 
+
+ 
+
+ 
+
+Q 12% "7 %
+
+1
+|
+|
+|
+i
+i
+1
+|
+|
+|
+|
+I
+|
+i
+|
+|
+I
+|
+|
+|
+|
+|
+1
+1
+I
+1
+|
+|
+|
+|
+I
+|
+|
+
+ 
+
+NaNWHS “9
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NW
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Awd
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i
+
+ 
+
+i
+iM
+
+       
+
+|
+|
+|
+|
+
+|
+
+ 
+
+|
+|
+|
+
+ 
+
+ 
+
+ 
+
+ 
+
+OWs
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“OE
+
+TTC
+tilt
+
+PUREE ELTA
+
+moe
+
+|
+|
+
+ 
+ 
+
+“g}
+
+ 
+
+‘ug
+
+sastou $3442 Oey
+Sapiaa seysoy Y
+sesh say20y A
+sobnosz sayroy FH
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oonnn non-A
+
+ 
+
+ 
+
+I
+| TT |
+saxopo sayroy (| ynayonpas puopkxo snajyonpa4
+
+“RINYS ap Juswasin natu ap Suo1jipuoz (0961 495992}500'Y) S2uIy Sep 2242
+
+L |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fic. 7
+
+===== page 19
+ 
+
+MINERALISATIONS CUPRO-COBALTIFERES A SHITURU, ZAIRE 121
+
+Il existe toutefois une différence importante et elle réside dans l’absence de
+talc au sein des assises inférieures du faisceau médian du Roan. Par contre, a
+Kambove, ot l’on trouve une fois de plus une minéralisation cupro-cobaltifére,
+mais cette fois dans les assises supérieures du méme faisceau, le talc est présent en
+quantité. C’est dans le C.M.N. inférieur, correspondant a ce faisceau médian, qu'il
+nous a été donné d’observer des roches qui s’apparentent de maniére troublante aux
+roches pyroclastiques de Shituru (Ducci-Kolebacki, 1974).
+
+REMERCIEMENTS
+
+Nous remercions la direction de la Gécamines d’avoir permis la publication de
+cette note et plus particuligrement M. Oosterbosch et M. A. Francois, Directeur
+du Département géologique de la Gécamines, pour leur aide et leurs conseils avisés.
+
+Bibliographie
+
+ANDERSON, C. A. (1967). —- Massive sulfide deposits and volcanism. Econ. Geol., 64, No. 2,
+p. 125-146.
+
+BARTHOLOME, P. (1962). — Les minerais cupro-cobaltiféres de Kamoto (Katanga ouest).
+I. Pétrographie 3 IL Paragenése. Studia Universitatis « Lovanium », Fac. Sc. (Kinshasa)
+n° 14, 40 p.
+
+BARTHOLOME, P., EVRARD, P., KATEKESHA, F., Lopez-Ruiz, J. and NGonco, M. (1972). —
+Diagenetic ore forming process at Kamoto, Republic of Zaire). In: G. C. Amstutz and
+A. J. Bernard, ed., Ores in Sediments, p. 21-42. Springer-Verlag, Berlin.
+
+BERTRAND, M. F. (1922). — Parallélisme entre les gisements cupriféres du Katanga et du
+Niari. Congrés Géol. Int., XII session, p. 771-795.
+
+Besson, M. (1973). — La formation ferrifére de Pierrefitte. Bull. B.R.G.M., sect. II, n° 2,
+p. 89-114.
+
+Brown, G. (1961). — The X-Ray Identification and Crystal Structures of Clay Minerals.
+London, Mineralogical Society.
+
+BUTTIGENBACH, H. (1947). — Les minéraux de Belgique et du Congo belge. Dunod, Paris,
+Vaillant-Carmanne, Liége, 573 p.
+
+Cornet, J. (1897). — Observation sur les terrains anciens du Katanga faites au cours de
+Vexpédition Bia-Francqui (1891-1893). An. Soc. géol. de Belgique, t. XXVI, p. 25-190.
+
+Cornet, J. (1903). — Les gisements métalliféres du Katanga. Bull. Soc, belge de Géoll.,
+t. XVIL, p. 3-47.
+
+DE LEENHEER (1937). — Sur quelques minerais de manganése du Katanga. Comité spécial du
+Katanga, t. XXX, p. 62.
+
+Derour, J. (1971). — Les minéralisations sulfurées de Nugqrah et de Jabal Sayid (Arabie
+Séoudite). Bull. B.R.G.M., sect. II, n° 6, p. 51-67.
+
+Desprez, D. et Soxer, E. (1971). — Les minéralisations pyriteuses et manganésiféres liées aux
+formations volcano-sédimentaires de la Province de Huelva (sud-ouest de 1’Espagne).
+Bull. B.R.G.M., sect. II, n° 6, p. 5-16.
+
+Ducci, E. et Kotepack, H. (1974), — L’écaille de Kambove Ouest ; les problémes du C.M.N.
+(sous presse).
+
+Francois, A. (1973). — Extrémité occidentale de Varc cuprifére shabien. Etude géologique.
+Gécamines, Likasi, Shaba, République du Zaire.
+
+Honnorez, J. (1969), — La formation actuelle d’un gisement sous-marin de sulfures fume-
+Tolliens 4 Vulcano (mer Tyrrhénienne). Min. Deposita, 4, p. 114-131.
+
+KINKEL, A. R., Jr. (1966), — Massive pyritic deposits related to volcanism, and possible
+methods of emplacement. Econ. Geol., 61, p. 673-694.
+
+===== page 20
+ 
+
+122 J.J, LEFEBVRE
+
+LEFEBvrE, J. J. (1972). — Manifestations hydrothermales dans les R.A.T. lilas de Kambove.
+Rapports non publiés.
+
+Lerepveg, J. J, (1973). — Identification d’une sédimentation pyroclastique dans le Mwashya
+inférieur du Shaba méridional (ex-Katanga). Ann. Soc. géol. Belg., p. 197-218.
+
+Lomparb, A. (1956). —- Géologie sédimentaire. Les séries marines. Masson et Cie, Paris, 722 p.
+
+LoverInG, T. S. (1963), — Epigenetic, diplogenetic, syngenetic and lithogene deposits. Econ.
+Geol., 58, p. 315-330.
+
+Lusx, J. (1972). — Examination of volcanic-exhalative and biogenic origins for sulfur in the
+stratiform massive sulfide deposits of New Brunswick. Econ. Geol., 67, p. 169-183.
+
+Nico int, P. (1970). — Gitologie des concentrations minérales stratiformes. Gauthier-Villars,
+792 p.
+OosteRBoscH, R. (1950). — La Série des Mines dans le polygone de Fungurume. Comm.
+
+50° Ann. Comité spécial du Katanga, n° 14.
+
+OosterBoscu, R. (1951). — Copper mineralization in the Fungurume region, Katanga. Econ,
+Geol., 46, p. 121-148.
+
+OosterBoscH, R. (1960). — Les minéralisations dans le systeme de Roan au Katanga. In :
+Gisements stratiformes de cuivre en Afrique. Symposium coordonné par J. Lombard et
+P. Nicolini, 1°° partie : Lithologie-Sédimentologie.
+
+PELISSONNIER, H. (1965). — Le probléme de la concentration naturelle des substances miné-
+rales. Ann. des Mines, déc. 1965, p. 889-924.
+
+PéLISSONNIER, H. (1971). — Le gisement de cuivre stratiforme de Cerro-Negro (Aconcagua,
+Chili). Bull. B.R.G.M., sect. n° 6, p. 43-50.
+
+PELISSONNIER, H. (1972). — Les dimensions des gisements de cuivre du monde. Essai de
+métallogénie quantitative. Mém. du B.R.G.M., n° 57, 405 p.
+
+Pertuonn, F. J., Porter, P. E. and Stever, R. (1972). — Sand and Sandstone. Springer-
+Verlag, Berlin, Heidelberg, New York, 618 p.
+
+Rickarp, D. T. (1973). — Limiting conditions for synsedimentary sulfide ore formation. Econ.
+Geol., 68, p. 605-617.
+
+RoutHier, P. (1963). — Les gisements métalliferes. Géologie et principes de recherche. Masson
+et Ce, Paris, 2 vol., 1 282 p.
+
+Roututer, P, (1967). — Le modéle de la genése. Chron. des Mines et de la Rech. min.,
+35° année, n° 363.
+
+Trocer, W. E. (1971). — Optische Bestimmung der gesteinbildende Minerale. Teil I:
+Bestimmungstabellen. Stuttgart, E, Schweizerbart’sche Verlagsbuchhandlung, 188 p.
+
+UyTENBOGAARDT, W. and Burke, E. A. J. (1971). — Tables for Microscopic Identification of
+Ore Minerals. Ed. Elsevier Publ. Co., 2nd ed.
+
+Van EYLL, M. (1973). — Le gisement de Kahumbwe et de Luita. Rapport non publié.
+
+Wissink, A. (1972). — Les gisements de manganése du monde. Conditions de dépét, typologie
+et métal contenu. Bull. B.R.G.M., sect. II, n° I, p. 33-48.
+
+ZuFFARDI, P. (1969). — La métallogénie du plomb, du zinc et du baryum en Sardaigne : un
+exemple de permanence, de polygénétisme et de transformisme. An. Soc. géol. de
+Belgique, 92, p. 321-344.
+

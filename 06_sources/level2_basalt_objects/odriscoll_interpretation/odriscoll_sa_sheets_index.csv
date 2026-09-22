@@ -1,0 +1,68 @@
+Proj No,Plan No,Scale,Sheet Name,Geology,Magnetics,Gravity,Photo tracks,Targets,Line interps,Notes,Tasman Notes,file,stuart_shelf_window
+OD4,iii,250000,Andamooka,Survey,,,,Y,Y,,Tectonic targets 1974,OD4_iii_agd66_amg_Z53.jpg,True
+OD4,iv,250000,Andamooka,,,,Y,Y,Y,,Phot lins plus targets 1974,OD4_iv_agd66_amg_Z53.jpg,True
+OD4,ix,250000,Andamooka,,,Survey,,,,,No interps,OD4_ix_agd66_amg_Z53.jpg,True
+OD4,v,250000,Andamooka,,Interp,,,,,,Rutter Targets plus others 1974?,OD4_v_agd66_amg_Z53.jpg,True
+OD4,vii,250000,Andamooka,,,,Y,Y,Y,,"Chicken tracks, And Ring, targets",OD4_vii_agd66_amg_Z53.jpg,True
+OD4,xiv,250000,Andamooka,,,,,Y,,,Tectonic Targets LA Burgess 1974,OD4_xiv_agd66_amg_Z53.jpg,True
+OD4,xvi,250000,Andamooka,Survey,,,,Y,Y,,Linears and circ targets,OD4_xvi_agd66_amg_Z53.jpg,True
+OD4,xvii,250000,Andamooka,,Contours,,,Y,Y,,Some linears/targets,OD4_xvii_agd66_amg_Z53.jpg,True
+OD4,xxiii,250000,Andamooka,,,,Y,,Y,,"G2 gravity, OD",OD4_xxiii_agd66_amg_Z53.jpg,True
+OD4,xxx,250000,Andamooka/Torrens,,,,,Y,Y,,Tectonic targets DMcP D,OD4_xxx_agd66_amg_Z53.jpg,True
+OD4,xxxi,250000,Andamooka/Torrens,,,,Y,,Y,,,OD4_xxxi_agd66_amg_Z53.jpg,True
+OD4,xxxii,250000,Andamooka,,,,Y,Y,Y,,,OD4_xxxii_agd66_amg_Z53.jpg,True
+OD5,iii,250000,Torrens,,,,Y,Y,Y,,,OD5_iii_agd66_amg_Z53.jpg,True
+OD5,ix,250000,Torrens,,,,Y,,Y,,,OD5_ix_agd66_amg_Z53.jpg,True
+OD5,xi,250000,Torrens,Survey,,,,Y,Y,,,OD5_xi_agd66_amg_Z53.jpg,True
+OD5,xvi,250000,Torrens,Survey,,Contours,,,,,,OD5_xvi_agd66_amg_Z53.jpg,True
+OD6,iii,250000,Andamooka/Torrens,,,,Y,,Y,,WMC drill holes added,OD6_iii_agd66_amg_Z53.jpg,True
+OD6,iv,250000,Andamooka/Torrens,,,,,Y,,,Mt Gunson Interp,OD6_iv_agd66_amg_Z53.jpg,True
+OD6,v,1000000,Andamooka/Torrens,,,,,,Y,,,OD6_v_agd66_amg_Z53.jpg,True
+OD6,vi,1000000,Andamooka/Torrens,,,,,,Y,,dup of v,OD6_vi_agd66_amg_Z53.jpg,True
+OD6,viii,1000000,Andamooka/Torrens,,,,,,Y,,dup of v with comments,OD6_viii_agd66_amg_Z53.jpg,True
+OD7,i,250000,Stuart Shelf,,,,,Y,,,early targets 2004,OD7_i_agd66_amg_Z53.jpg,True
+OD7,ii,500000,Stuart Shelf,,,Contours,,,Y,,,OD7_ii_agd66_amg_Z53.jpg,True
+OD7,iii,250000,Stuart Shelf,,,,,Y,,,,OD7_iii_agd66_amg_Z53.jpg,True
+OD7,iv,250000,Stuart Shelf,d to b,,,,,Y,,"depth to basement, drill holes",OD7_iv_agd66_amg_Z53.jpg,True
+OD7,ix,250000,Stuart Shelf,,Contours,,,Y,Y,,,OD7_ix_agd66_amg_Z53.jpg,True
+OD7,v,250000,Stuart Shelf,,,,Y,,,,,OD7_v_agd66_amg_Z53.jpg,True
+OD7,vi,250000,Stuart Shelf,d to b,,,,,,,drill holes,OD7_vi_agd66_amg_Z53.jpg,True
+OD7,vii,250000,Stuart Shelf,d to b,,,,,,,drill holes,OD7_vii_agd66_amg_Z53.jpg,True
+OD7,viii,250000,Stuart Shelf,,,,Y,,,,,OD7_viii_agd66_amg_Z53.jpg,True
+OD7,x,250000,Stuart Shelf,,,Contours,,,Y,,drill holes,OD7_x_agd66_amg_Z53.jpg,True
+OD7,xii,250000,Stuart Shelf,,Contours,,,,,,drill holes,OD7_xii_agd66_amg_Z53.jpg,True
+OD7,xv,250000,Stuart Shelf,,,Contours,,,Y,,,OD7_xv_agd66_amg_Z53.jpg,True
+OD7,xxi,250000,Stuart Shelf,d to b,,,,,,,drill holes,OD7_xxi_agd66_amg_Z53.jpg,True
+OD14,ii,250000,Burra,survey,,,,,Y,,,OD14_ii_agd66_amg_Z54.jpg,False
+OD20,i,250000,Coober Pedy,,,,Y,,,,,OD20_i_agd66_amg_Z53.jpg,False
+OD21,i,250000,Copley,survey,,,,,Y,,,OD21_i_agd66_amg_Z54.jpg,False
+OD21,ii,250000,Copley,survey,,,,,Y,,,OD21_ii_agd66_amg_Z54.jpg,False
+OD21,iv,250000,Copley,,,,Y,,,,,OD21_iv_agd66_amg_Z54.jpg,False
+OD24,i,250000,Curnamona,survey,,,,,Y,,,OD24_i_agd66_amg_Z54.jpg,False
+OD24,ii,250000,Curnamona,,,,Y,,,,,OD24_ii_agd66_amg_Z54.jpg,False
+OD24,iii,250000,Curnamona,,contours,,,,Y,,,OD24_iii_agd66_amg_Z54.jpg,False
+OD26,ii,500000,Eyre Peninsula,BIF,,,,,Y,,,OD26_ii_agd66_amg_Z53.jpg,False
+OD27,iii,250000,Frome,,,,Y,,,,transparency,OD27_iii_agd66_amg_Z54.jpg,False
+OD28,iii,250000,Gairdner,survey,,,,,Y,,,OD28_iii_agd66_amg_Z53.jpg,False
+OD39,ii,250000,Kingoonya,survey,,,,,Y,,,OD39_ii_agd66_amg_Z53.jpg,False
+OD4,xxxvii,500000,Copper Invests SA,,,,,,,,Historical plan D Haynes 1973,OD4_xxxvii_agd66_amg_Z53.jpg,False
+OD44,i,250000,Lake Eyre-Warrina,,contours,,,,Y,,,OD44_i_agd66_amg_Z53.jpg,False
+OD49,ii,250000,Marree-Copley-Parachilna,,,,Y,,,,,OD49_ii_agd66_amg_Z54.jpg,False
+OD53,iii,250000,Maurice,,,,Y,,,,Copy of ii,OD53_iii_agd66_amg_Z52.jpg,False
+OD59,iii,500000,Officer Basin,,,,Y,,,,,OD59_iii_agd66_amg_Z52.jpg,False
+OD62,iv,250000,Parachilna,,,,Y,,,,,OD62_iv_agd66_amg_Z54.jpg,False
+OD68,i,250000,Port Augusta,survey,,,,,Y,,,OD68_i_agd66_amg_Z53.jpg,False
+OD68,ii,250000,Port Augusta,outlines,,,,,Y,,,OD68_ii_agd66_amg_Z53.jpg,False
+OD72,i,250000,Strzelecki,,,,Y,,,,,OD72_i_agd66_amg_Z54.jpg,False
+OD73,i,1000000,South Australia,,,contours,Y,,,,ERTS,OD73_i_agd66_amg_Z53.jpg,False
+OD73,vi,1000000,South Australia,,,contours,,,,,W edge SA,OD73_vi_agd66_amg_Z53.jpg,False
+OD75,ii,250000,Tallaringa,,,,Y,,,,,OD75_ii_agd66_amg_Z53.jpg,False
+OD76,i,1000000,Tarcoola,,contours,,,,Y,,,OD76_i_agd66_amg_Z53.jpg,False
+OD76,ii,1000000,Tarcoola-Broken Hill,,contours,,Y,,,,,OD76_ii_agd66_amg_Z53.jpg,False
+OD76,vii,250000,Tarcoola,,,,Y,,,,,OD76_vii_agd66_amg_Z53.jpg,False
+OD81,i,250000,Whyalla,ingredients,,,,,Y,,,OD81_i_agd66_amg_Z53.jpg,False
+OD81,ii,250000,Whyalla,survey,,,,,Y,,,OD81_ii_agd66_amg_Z53.jpg,False
+OD89,ii,1000000,SA - NE,survey,,,,,Y,,Many lineaments (two sheets),OD89_ii_agd66_SC.jpg,False
+OD89,iii,1000000,SA - SE,survey,,,,,Y,,,OD89_iii_agd66_SC.jpg,False
+OD89,v,1000000,SA - E Sheet,outlines,,,,,Y,,WMC plan with O/lay,OD89_v_agd66_SC.jpg,False
+OD9,ii,250000,Barton,,,,Y,,,,"dup of i, thinner liners",OD9_ii_agd66_amg_Z53.jpg,False

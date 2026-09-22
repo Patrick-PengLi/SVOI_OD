@@ -1,0 +1,2 @@
+file,url,citation,date,bytes,expected_bytes,sha256,retrieved,status
+usgs_pp820_1973_us_mineral_resources.pdf,https://pubs.usgs.gov/pp/0820/report.pdf,"Brobst, D.A. and Pratt, W.P. (eds.) 1973. United States Mineral Resources. USGS Professional Paper 820 (copper chapter)",1973,101600351,101600351,6c3a9db4cc54aab1989f509262756ade0ae35b3d0659a1e287a2ed667efe4957,2026-09-21 16:20:08,ok

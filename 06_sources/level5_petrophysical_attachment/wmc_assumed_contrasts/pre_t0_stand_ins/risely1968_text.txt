@@ -1,0 +1,1586 @@
+Risely, B.G., 1 Nov 1968, RB 67/00081 Geophysical report no. 1 on a gravity and magnetic survey of the Roopena Volcanics.
+Text layer of the scan (pdftotext -layout), page by page, extracted 2026-09-21. Uncorrected OCR; check quotations against the page.
+
+=============== PDF PAGE 1 ===============
+                                                                         .Cfcc Yfo-rs^
+                           •   > jfl.Vry
+
+                                           Ji.
+
+
+
+
+R e p t . Bk. N o . 6 7 / 8 1
+G . S . N o . U109
+
+
+
+
+                           DEPARTMENT OF MINES
+                                       SOUTH AUSTRALIA
+                                                 GEOLOGICAL SURVEY
+
+
+
+
+                                           GEOPHYSICAL REPORT NO.    t
+
+                                                    ON
+
+                                  A GRAVITY AND MAGNETIC SURVEY
+
+                                           OF THE ROOEENA VOLCANICS
+
+
+
+
+                                                      by
+
+                                     B.G . RISELY
+                                     GEOHIYSICIST
+                           EXPLORATION GEOPHYSICS SECTION
+
+
+
+
+                                                                         D.M.   2056/62
+
+
+
+
+1 s t Novemlber, i 9 6 8 ,                                                               PC
+
+=============== PDF PAGE 2 ===============
+                                                     TUB      t-i
+
+                       DEPARTMENT OF MINES
+                         SOUTH AUSTRALIA
+
+
+
+
+                   GEOPHYSICAL REPORT NO. 1
+
+                              ON
+
+             A GRAVITY AND -MAGNETIC SURVEY
+
+               OF THE ROOPENA VOLCANICS
+
+
+
+
+                              by
+
+
+                       B.G. RISELY
+                       GEOPHYSICIST
+           EXPLORATION GEOPHYSICS SECTION
+
+
+
+
+        CONTENTS                              PAGE
+
+ABSTRACT                                         1
+INTRODUCTION                                   1
+PREVIOUS GEOPHYSICAL WORK                      2
+GEOLOGY                                        2
+  Surface Geology                              2
+  Drilling                                     5
+GEOPHYSICAL FIELD WORK                         6
+  Traverse Layout                              6
+  Surveying                                    6
+  Gravity                                      7
+  Magnetic                                     7
+RESULTS                                        8
+  Gravity Reduction                            8
+  Magnetic Reduction                           9
+  Presentation                                 9
+  Gravity Description                          9
+  Magnetic Description                        12
+INTERPRETATION                                13
+  Gravity                                     13
+  Magnetic                                    13
+  General                                     16
+CONCLUSIONS AND RECOMMENDATIONS               18
+REFERENCES                                    20
+
+
+                          J
+                                                Rept. Bk. No. 67/81
+                                                G.S. No. 4109
+                                                D.M. 2056/62
+
+
+1st November, 1968.
+
+=============== PDF PAGE 3 ===============
+                    PLAN REFERENCES
+
+
+No.                    Title                      Scale
+L68-51   Roopena Volcanics                        !••>' « 60 chains
+          Regional Gravity, Contour Sketch Plan
+
+L68-52   Roopena Volcanics                        1" « 1000*
+          Geological Sketch Plan
+
+L68-53   Roopena Volcanics                        1" - 1000'
+          Gravity, Magnetic and Elevation
+          Profiles
+
+L68-54   Roopeta Volcanics                        1" « 1000'
+          Gravity and Magnetic Fence Diagram
+          with Structural Interpretation
+
+=============== PDF PAGE 4 ===============
+                          DEPARTMENT OF MINES
+                            SOUTH AUSTRALIA
+
+
+
+                                                   Rept.Bk.No. 67/81
+                                                   G.S. No. 4109
+                                                   D.M. 2056/62
+
+
+                     GEOPHYSICAL REPORT NO. 1
+
+                                 ON
+
+                 A GRAVITY AND MAGNETIC SURVEY
+
+                    OF THE ROOPENA VOLCANICS
+
+
+
+                             ABSTRACT
+
+
+          The survey was planned as an aid in positioning a
+     stratigraphic drill hole. Preliminary depth estimates were
+     not particularly accurate but the drill holes encountered
+     low grade copper mineralisation which changed the emphasis
+     of investigation. Some structural trends are postulated
+     and recommendations made for further work.
+
+
+
+                           INTRODUCTION
+
+
+
+           At the request of the Regional Surveys Division of the Department,
+
+an attempt was made to determine a sectional depth of the Roopena Volcanics
+
+which surround Roopena h'omestead approximately 14 miles east of Iron Knob.
+
+This information was required for siting stratigraphic diamond drill holes
+
+to penetrate a reasonable thickness of the section fof radiometric age-
+
+determination.
+
+           Gravity readings were initially taken along two traverses which
+
+crossed the volcanics but the results were inconclusive as there was no way
+
+of determining whether a strong positive gradient to the west was due to a
+
+regional gravity effect or to a thickening of the volcanics.    Additional
+
+gravity work was then carried out in an attempt to determine the regional
+
+gravity.   In addition, magnetic readings were taken to try to resolve the
+
+local geological structure.
+
+           The complex regional gravity environment made it impossible to
+
+determine the thickness of the volcanics accurately even with adequate
+
+drilling control and the two holes subsequently drilled were mainly sited
+
+on geological evidence.    As the magnetic results appeared to reflect the
+
+geological structure and one of the diamond drill holes intersected copper
+
+mineralization, emphasis was then shifted from depth determination to struc-
+
+=============== PDF PAGE 5 ===============
+tural interpretation and possible environments favourable to copper miner-
+
+alization.     It should be emphasized that this interpretation is highly
+
+speculative due to the limited amount of factual information obtained.
+
+          The geophysical field work was carried out by B.A.C. Brice and
+
+B. Risely during the periods 10/7/67 - 13/7/67 and 25/7/67 - 5/8/67*
+
+
+
+   '                  PREVIOUS GEOPHYSICAL WORK
+
+
+
+          An aeromagnetic survey was flown over the Corunna and Roopena
+
+1-mile areas at a height of 1,500ft. by the Bureau of Mineral Resources
+
+during 1951.     The contour plan does not appear to map the Roopena Vol-
+
+canics but it does show an anomaly of several hundred gammas west of the
+
+Roopena Fault which might correspond to the gravity ridge causing the
+
+strong regional gradient over the Roopena Volcanics as shown in Plan L68-51.
+
+             During 1955 and 1956 a regional gravity survey was carried out
+
+over the northern portion of the Pirie-Torrens Basin by Geosurveys of
+
+Australia Pty. Ltd. (Pegum, 1957).     Only two traverses with a station
+
+spacing of approximately one mile were read in the area of interest.        One
+
+traverse extended sixteen miles along the Eyre Highway from the junction with
+
+the Flinders Highway towards Iron Knob.     The other extended from this
+
+junction to the Middleback homestead on the Wftyalla-Iron Knbb highway.
+
+          A gravity tie between the Isogal gravity "control stations establish-
+
+ed by the Bureau of Mineral Resources at Cewe 11    and Hawker has been
+
+carried out by Rowan in 1966.    The present survey was tied to an absolute
+
+gravity value at one of the intermediate stations.    No other stations were
+
+used as the station     spacing was of the order of 10 - 20 miles.
+
+
+
+                                  GEOLOGY
+
+                 -             Surface Geology;
+
+
+
+             A detailed description of the surface geology and the diamond
+
+drilling results will be given by B.P. Thomson, Supervising Geologist, in a
+
+report in preparation.     Plan No. L68-52 shows a provisional sketch of the
+
+surface geology from this work.    The following geological description is
+
+=============== PDF PAGE 6 ===============
+                               a 3 a
+
+
+
+largely based on Thomson's work, however it should be stressed that a
+
+number of inferences;•;...<: have been made by the writer.
+
+            Basalts, trachytes and andesites of the Roopena Volcanics
+
+(Adelaide System? - Willouran) underlie a plain which extends northwards,
+
+eastwards and southwards for approximately a mile from the homestead,
+
+westwards to the north-south trending Roopena Fault and north-westwards to
+
+Trig Dam.   Outcrops on the plain are small and scarce with the area masked
+
+with pebble float and red loam.     Along Traverse S, long low mounds of
+
+volcanic float with some outcrop can be.seen trending northwest - southeast.
+
+Both on the ground and on aerial photographs the nature and attitude of these
+
+mounds is difficult to determine.      They might indicate volcanic flows,
+
+sills, or dykes cutting across flows or sills.      The dominant creek pattern
+
+west of Traverses N and S tends to follow this trend.        To the east the
+
+creek pattern trends to swing to an east-west direction and then to a
+
+norths-south direction just before Traverse A and may reflect the trends in
+
+the volcanics.
+
+            The Roopena Volcanics unconformably overlie grits and siltstones
+
+of the Corunna Conglomerate (Pre-Adelaide System - Carpentarian) which in
+
+turn overlie grits and sandstones Of the Moonabie Formation (Pre-Adelaide
+
+System - Early Carpentarian?).     The Moonabie Formation outcrops in two small
+
+isolated hills near "RoopSna" and again in low lying hills running
+
+east-west approximately a mile south of the homestead.        In these hills the
+
+unconformity between the Moonabie Formation and the Corunna Conglomerate is
+
+hidden but appears to trend north-northeast=soUth-southwest towards the
+
+western side of the two hills near the homestead.      West of this inferred
+
+unconformity the Corunsna Conglomerate outcrops to approximately h niile
+
+east of the Roopena Fault.    Going westwards over the fault there is a
+
+topographic rise of several feet with Moonabie Formation possibly on the
+
+other side.
+
+            Gently dipping grits, sandstones and siltstones Of the Pandurra
+
+Formation (Adelaide System - either Torrensian or Willouran) unConformably
+
+overly the Roopena Volcanics with the Pandurra Formation in contact with
+
+the Moonabie Formation approximately 2 miles southeast of "Roopena".
+
+=============== PDF PAGE 7 ===============
+                            - 4 -
+
+
+
+The Pandurra Formation outcrops in the low lying hills surrounding the
+
+volcanics on the northern, northeastern, eastern and southeastern sides.
+
+On the eastern side the dips to the east steepen somewhat.
+
+            A red porphyry appears to intrude the Corurfla Conglomerate
+
+approximately 1H miles southwest of "Roopena" and porphyry float extends
+
+to the east and west.    Silicification and the introduction of some
+
+feldspar into the Moonabie Formation? at 14,300 S may have come from this         '
+
+porphyry.    Another outcrop of porphyry lies just south of the Eyre Highway      I
+
+and east of the Roopena Fault.      Regionally, these porphyries lie on the
+
+projection of the eastern end of the porphyries of the Gawler Range
+
+Volcanics of the Gawler Ranges southeast to the Cultana Granite Outcropping
+
+at the coast.
+
+            Radiometric age-determination (Compston et al, 1966) indicates
+
+ages of 1535 -L 20 m.y. and 1500 - 20 m.y. for the Corunna Conglomerate and
+
+1535 - 25 m.y. for the Gawler Range Volcanics confirming their contempor-
+
+ariety as suggested by field evidence.      The Roopena Volcanics have been
+
+dated at 1345 * 30 m.y. and a doubtful minimum age of 1,320 m.y. has been
+
+given to the Cultana Granite.       If the porphyries near "Roopena" belong to
+
+the Gawler Range Volcanics then they would hot intrude the Roopena Volcanics
+
+but if they belong to the Cultana Granite then they possibly could.        Hand
+
+specimens of the Roopena Volcanics taken along Traverse N are a pink-brown
+
+colour in contrast to the grey colour along Traverse S.      The pink colour
+
+appears to be due to blebs and laths of feldspar and quartz and quartz
+
+filled vesicles, together with patches of a pink^brown groundmass enveloping
+
+patches of a black groundmass.      The mean density of 2.67 gm/cc for surface
+
+volcanic samples taken on Traverse N is closer to the density of 2.60 gm/cc
+
+for the porphyry on Traverse B than the density of 2.89 for the volcanics
+
+on Traverse S (See Plan No.     L68-54).   This difference in colour and
+
+density might suggest that the porphyry has altered the Roopena Volcanics
+
+and is consequently younger.
+
+            A gabbro intrudes Moonabie Formation? at 25,000 S and might
+
+have been a ;feeder for the Roopena Volcanics which have been eroded on this
+
+side of the Roopena Fault but partly preserved in the down-thrown eastern side.
+
+=============== PDF PAGE 8 ===============
+                                - 5 -
+
+          Slight copper and lead mineralization has been reported from the
+
+Roopena Volcanics in an area approximately 3,500* west of 4,000 N.W.
+
+
+
+                              Drilling
+
+
+          Two stratigraphic diamond holes were drilled immediately west of
+
+the hills at "Roopena", the first vertically at 600 D and the second
+
+depressed at 65° to the east at 1300 D.       These were put down after the
+
+geophjsiaal field work but were sited mainly on geological evidence.
+
+The summarized logs are as folowst
+
+                    ROOPENA P.P. HOLE NO. 1
+
+Depth in Ft.                                     Description
+From      To
+
+Surface   431'         Basalts and andesites of the Roopena Volcanics*
+
+ 431      490         Grits, conglomerates and phyllitic siltstones of the
+
+                       Corunna Conglomerate with fine*grained chalcopyrite in
+
+                        siltstone giving the following copper assays;-
+
+                        460' - 463»      3'    0.05%
+
+                        463' - 467'      4' 9 0.35%
+
+                        467' - 469'      2' 8 0.52%
+
+                        478' - 483'5"      5'5" @ 0.30%
+
+                        483'5" = 490'      6'7" @ 0.20%
+
+ 490       511         Siliceous siltstone possibly of the Corunna Conglomerate.
+
+
+
+                  ROOPENA P.P. HOLE NO. 2
+
+Depth in Ft.
+From       To
+
+Surface    337+        Basalt and andesite of the Roopena Volcanics.
+
+ 337+      390         Dense grit of the Moonabie Formation.    No copper
+
+                       mineralization.
+
+          The logs indicate that the unconformity between the Roopena
+
+Volcanics and the Corunna Conglomerate has an apparent dip of approximately
+
+30° west from the outcrop to D.D.H. No. 2 flattening out to 10° west from
+
+D.D.H. No. 2 to D.D.H. No. 1. They also show that the holes straddle the
+
+westerly dipping unconformity between the Corunna Conglomerate and the
+
+=============== PDF PAGE 9 ===============
+Moonabie Formation.     A change in slope of the gravity profile along
+
+ Traverse D suggests that the Corunna Conglomerate pinches Out east of
+
+ 1200 D.
+
+
+
+                      GEOPHYSICAL FIELD WORK
+
+                          Traverse Layout
+
+
+
+           Initially, two traverses were laid out to cross the volcanics with
+
+ their origins just west of "Roopena".      Traverse 1ft was pegged at a 200'
+
+ interval; from 00S/00N to 15,600S.   The coverage was later increased by
+
+ extending traverse S from 15,600S to 26,000S with a 200' peg interval and
+
+ including traverses B(0-8,000', 400' int.), N.W. (0 - 21,000', 400' int.),
+
+C(0 - 2000', 200' int.), D(0 - 1800', 200' int.), E (0 - 9000', 200' int.),
+
+A (0 - 8,000', 400' int.) and D.M. (9 - 18, .3M - .6M int.).       This layout
+
+gave a series of traverses radiating out from "Roopena" with the regional
+
+traverse DM linking the local work to the Flinders Highway as shown in
+
+Plan No. L68-S1.
+
+           Regional   gravity was carried out around the Flinders, Eyre and
+
+Whyalla - Iron Knob Highways surrounding the local area, with a station
+
+ spacing ranging from 2% to 5 miles and averaging 4 miles.
+
+
+
+                                Surveying
+
+
+
+
+           In the local survey, stations were pegged out along tracks and
+
+fence lines except for Traverses C, D and E. Stations 0 — 7,000N and 0 -
+
+ 15,600S were marked with 2" x 2" x 1'      wooden pegs, stations DM8 - DM17 with
+
+ 1" x 1" x 40" pegs and the remainder with 1" x 1" x 1' pegs.      The teverse
+
+and coordinates were marked on all pegs.       Distances were measured by tape
+
+and the stations were optically levdled at ground level and tied to the
+
+ levels of the Department of Land^ 3rd order bench marks B.M. 3353 near
+
+ "Pandurra" on the Eyre Highway and B.M. 1693 near Myall Creek Bridge on
+
+the Flinders Highway.     Station positions were located oh aerial photographs
+
+and not by ground survey.
+
+           In the regional part of the survey, Department of Landd
+
+=============== PDF PAGE 10 ===============
+                                  - 7 -
+
+
+
+3rd Order bench marks were used as stations along the Eyre and Flinders
+                                                                  ievel
+Highways.    Along the Whyalla - Iron Knob Highway a number of highway/pegs
+
+were used as stations.    These are yellow 2" x 2" x 1* yellow wooden pegs
+
+stamped in hundreds of feet from Whyalla and placed every 100' along the
+
+southern    side of the highway, 40' from the centre-line.       Every third peg
+
+has been levelled.    This surveying was carried out for the Highways
+
+Department by K.W. Lange and Associates, Consulting Engineers at Whyalla,
+
+who kindly gave us their original level sheets.         The Lands Department bench
+
+mark levels are related to M.S.L. Pt. Adelaide but the Highways Department
+
+levels were related to the E. § W.S. levels at Whyalla and have been
+
+converted to M.S.L. Pt. Adelaide by subtracting 5.9*.         The conversion figure
+
+was obtained by tying from the 159,100' highway peg to the Department of
+
+Land's bench mark B.M. 3361 at Iron Knob.
+
+
+                                  Gravity
+
+
+
+            Readings were taken with the Sharpe CG-2 gravity meter No. 201.
+
+Instrument drift was controlled with the leap frog method with the control
+
+stations re-read within an hour.          Absolute values of observed gravity were
+
+obtained by tying the survey to gravity station 6610.0015 with a value of
+
+979, 512.62 milli£als. 1 - S t a t i o n s 5610.0002 and 5610.0003 at the Iron
+
+Knob Hotel and 5610.0103 at the Whyalla Institue were re-occupied to tie
+
+previous local surveys to the State gravity network.
+
+            During the regionalwork between Whyalla and the Eyre Highway,
+                                   tares or            +
+the meter behaved very erratically with/jumps of up to - 3.6 divisions.
+
+Tests on    the :.jieter that night at Pt. Augusta gave average tares of the
+
+order of - 1.5 divisions with a major tare of 426 divisions.         In spite of
+
+this an attempt was made to use the ; met fey. A known gravity interval was
+
+repeated satisfactorily and the link was completed without any obvious
+
+tares and with a total loop misclosure around the highways of only 0.1 dial
+
+divisions.
+
+
+
+                            Magnetic
+
+
+
+             In general> readings were taken every 200'.       Closer spacing was
+
+=============== PDF PAGE 11 ===============
+                             - 8 -
+
+
+
+attempted over the Roopena Volcanics due to the irregular magnetic pattern
+
+but was discontined as the number of peaks continued to increase as the
+
+spacing was decreased.
+              It was intended to csgry out the survey using two total field
+
+Elsec Proton Magnetometers, type 592/H.         As both instruments behaved
+
+erratically in the field the Jalander Vertical force fluxgate magnetometer
+
+No. 57136 was used instead.      Magnetic      profiles along Traverses C, D and part
+
+of S from the two types Of magnetometer as shown in Plan L68*53 ageared
+
+to be similar enough to justify using the less sensitive Jalander.            Readings
+
+could be taken more quickly with the Jalander but care was necessary in
+
+orienting the instrument due to a heading error which could have been
+
+several hundred gammas on rotating the instrument 180°.         Using a watch and the
+
+sun to point the Jalander always northwards the readings cOuld be repeated
+
+to within approximately 10 gammas.
+
+              Diurnal drift was controlled by returning to a station within two
+
+hours and the readings were tied to stations 200E and 400E used as a double
+
+base.   These stations were not tied to anyl absolute va^ue.
+
+
+
+                                     RESULTS
+
+
+                              Gravity Reduction
+
+
+
+          The observed gravity was obtained by correcting the dial readings
+
+for drift, using a calibration factor of 0.10556 milligals/division and tying
+
+the results to an observed gravity value of 979,512.62 milligals at Station              '
+
+6610.0015 (Ro,wan).     An elevation correction of 0.06 milligals/division
+
+was used corresponding to a surface density of 2.67 grams/cc.         This value
+
+may be too low over the Roopena Volcanics but is a compromise for the
+
+whofe area.    The value was accepted as the correlation between the gravity and
+
+elevation profiles was not too high.        No terrain corrections were applied
+
+due to the relatively low relief.
+
+          The relevant results from the previous surv ey carried out by
+
+Geosurveys of Aust. Pty. Ltd. (Pegum, 1957) have been incorporated in the
+
+present work.     As a contour plan was the only available source of informa-
+
+=============== PDF PAGE 12 ===============
+tion and a new elevation correction had to be used, these results cannot
+
+be very accurate.
+
+
+
+                           Magnetic Reduction
+
+
+             After correcting for diurnal drift, calibration factors of
+9.7 gammas/division (Scale 1) and 28.0 gammas/division (Scale 2^ were used
+for the Jalander magnetometer and a factor of          24051.1 x 10 5 gammas/
+L'O.Iffi "UiuliT w a s use( *   the
+                                      Elsec magnetometers.   No geographic correction
+was applied and all values are relative.
+
+
+
+                                Presentation
+
+
+
+             The results are presented as:-
+
+(a)    Inferred contours of Bouguer gravity anomaly for the whole survey
+
+(Plan No. L68-51).         Because of the limited number of gravity stations these
+
+contours are very much an interpretation especially outside of the local area.
+
+(b)   Superimposed profiles of Bouguer gravity anomaly, elevation and
+
+smoothed and unsmoothed vertical and some total magnetic intensity.             These
+
+are shown in Plan L68-53.
+
+(c) A fence diagram of Bouguer gravity anomaly and un-smoothed vertical
+
+magnetic intensity superimposed on the inferred geological structure
+
+(Plan L68-54).
+
+
+                                Gravity Description
+
+                                      Regional
+
+             The domina, nt regional gravity feature is a north-south trending
+
+ridge just west of the Roopena Fault (Plan L68-51).
+
+             East of this fault the contours are more open.        North of "Roopena"
+
+and east of the fault there are a series of troughs and ridges trending
+
+northwest - southeast and plunging to the southeast.           One of these trough
+
+containing minor troughs and ridges appears to turn eastwest through
+
+"Roopena", then swing southwards to a prominent "low" in the middle of the
+
+area and south-southwest towards Middleback homestead and away from a "high"
+
+over Whyalla.
+
+=============== PDF PAGE 13 ===============
+                             - 10 -
+
+
+
+         Two east-west troughs may cross the area, one trough
+
+"Roopena" and the other through the prominent "low" just mentioned.
+
+
+
+                              Local
+
+
+
+         The dominant feature of the local gravity is the Steep positive
+
+gradient of approximately 3.3 milligals/mile to the west, which the
+
+regional gravity indicates to be the eastern slope of a relatively large
+
+gravity ridge running north-south.just west of the Roopena Fault (See
+
+Plans L68-51, L68-53 and L68-54).     The fault itself is indicated by a
+
+step up in gravity to the west of approximately 1.2 miJLigtis on Traverse S.
+
+On traverse NW there is a reversed effect with a step down in giadty        to" the
+
+west of approximately 0.7 milligals.
+
+          The local gravity is strongly masked by the regional effects
+
+but it does appear that the Roopena VolcaniCs generally coincide with a
+
+gravity trough.   This trough extends at least as far north as Trig Daip
+
+and plunges to the southeast towards "Roopena".     It then turns east
+
+terminating at the small gravity high just east Of Traverse A.     On the
+
+other side of this high it may continue southwards into the prominent regional
+
+low at the Centre of the eastern half of the area.    A gravity low over the
+
+Roopena Volcanics at first sight appears odd as their mean specific gravity
+
+in a number of surface samples was found to be greater than that of the
+
+surrounding rocks as shown in the following table and in Plan No. 68-800.
+
+=============== PDF PAGE 14 ===============
+                                - 11 -
+
+
+
+Station   Position of              Rock                         Specific       Mean
+          Sample Rer-                                           Gravity      Specific
+          lative    to                                         (g.m./c.c.)   Gravity
+            Station
+
+400B      400'E          Weathered Roopena                        2.42
+                             Volcanic
+
+600N      100'W          Roopena Volcanic                         2.73       )
+                           ti               ii                               )
+600N                                                              2.74
+                           it               ti
+                                                                             )
+1400N                                   >                         2.61       )   2.68
+                           it               II
+1800N                                                             2,63       )
+2000N                      ti               n                     2,71
+                                                                             )
+200S                       ii               II-                   2.75
+
+1600S                      ii                ti-                  2.88
+                           ll               ii
+3600S                                                             2.85       )
+3800S     600'NW    •    (Dolerite ?)                             2.75
+                                                                             )           2.82
+
+4400S                    Roopena Volcanic                  .
+                                                                             )
+                                                                  2.99
+                           U                II
+4750S                                                             3.35       )
+                                                                             )   2.87
+4800S                      ii               ti                    2,80
+
+4980S                      tt               i? -                  2.89
+                           tt               M          .                     )
+6930S                                                             2.83
+                                                                             \
+
+8000S                    (Dolerite ?)                             2.80
+                                                                             V
+                                                                             J
+8000S                    Roopena Volcanic                         2.82
+
+9000S                      ti               II                    2.78
+                                                                             )
+
+2000E     1000'N         Moonabie Formation                       2.63
+                             Quartzite                                       )   2.645
+                                                                             J
+                           II      it            it
+3200E     1000»N                                                  2.66       )
+                                                                                         2.64
+14300S                    •t       tt            iiy              2,64
+                                                                             )   2.63
+25000S                     it     ' it            tt^..           2.62
+
+
+49S0N                    Pandurra Formation
+                             Quartzite                            2,44
+
+2500S                    Gabbro                                   3.07
+
+6800B     1000'E         Gawler Range Granophyre                  2.57       )
+                                                                             )   2.60
+8000B     300'SW         Gawler Range Porphyry                    2.62       )
+
+=============== PDF PAGE 15 ===============
+                             - 12 -
+
+
+
+         The only other local gravity features of interest appear to
+
+be the small negative anomaly    of approximately 0.25 milligals over the
+
+Moonabie Formation outcropping immediately north of "Roopena", a small
+
+positive anomaly of approximately 0.3 milligals immediately east of
+
+this negative anomaly and a small     but broad positive anomaly of
+
+approximately 0.6 milligals extending from 5000S to 8000S.
+
+
+
+                        Magnetic Description
+
+
+
+          Radiating out from the centre of the local traverses, the
+magnetics are extremely irregular with the number of magnetic peaks
+
+increasing as the station spacing is decreased.    This pattern extends to
+
+approximately 19,300NW,    12,800S, 5,400B, 8,500E and 3,800N.   Although the
+                                                        i
+traverses are too far apart to correlate these fluctuations with any
+
+certainty, there does appear to be a recurring pattern shown in the smoothed
+
+fluctuations on traverses S, N, B and possibly NW.    This pattern comprises
+
+a group of fluctuations with the base level dipping into a characteristic
+
+centre consisting of a relatively broad low amplitude peak.      The fluctuations
+
+are asymmetric with the long slopes having apparent dips towards this centre.
+
+These centres occur at 1800N, 1700B, 2100S, 10,200S and pbisibly at 17,800NW
+
+(See Plans L68-53 and L68-54).    It seems possible to correlate one such
+
+pattern on Traverse B with the easterly pattern on Traberse S giving a
+
+northwest-southeast trend.   This inferred trend is almost parallel to
+
+Traverse NW and tends to be confirmed by the long slopes of the smoothed
+
+fluctuations possibly having apparent dips to the northwest as far as from
+
+0ONW to 17.800NW.    The fluctuations from 00NW to 17,800NW might then be
+
+correlated with those from 00S to 2100S and from 00B to 1700B.     A similar
+
+pattern occurs east of "Roopena" on Traverse E except that the peak at the
+
+centre is sharper.    Apart.from the centres of these patterns the amplitude
+
+over the area of magnetic fluctuations decreases from 6100S to 8000S and over
+
+the outcrop of Moonabie Formation near "Roopena".
+
+          Outside of this central area of pronounced magnetic fluctuations
+
+the magnetic wave-form is less characteristic but still capable of being
+
+separated into a number of different types.     From 12,800S to the Roopena
+
+=============== PDF PAGE 16 ===============
+                              - 13 -
+
+
+
+Fault at 13,900S the wave-form has a very low amplitude and is similar
+
+to that from 5400B to 9000B and fran 3800N to 4600N.     West of the Roopena
+
+Fault on Traverses S and NW the base level is higher and the fluctuations
+
+have a larger period than over the central area although their amplitude is
+
+approximately the same.     Similar fluctuations are found from 8500E to
+
+appnximately 6200A and slightly lower amplitude fluctuations from 5400N
+
+to 8000N.   An almost flat wave form is found from 4600N to 5400N and from
+
+6200A to 8000A.
+
+
+
+                              INTERPRETATION
+
+                             Regional Gravity
+
+
+
+            The dominant N-S gravity ridge just west of the Roopena Fault
+
+may have a deep seated source in the Archean.     It coincides approximately with
+
+an aeromagnetic anomaly of several hundred gammas above background and
+
+could ba due to an iron formation.     The more open giarity contours on the
+
+eastern side of the fault might suggest that this is the down-thrown side.
+
+            In the vicinity of "Roopena" the gravity troughs and ridges may
+
+indicate folding which generally trends northwest - southeast and pitches
+
+to the southeast.    However, a monoclinal fold in the axial planes causes
+
+the folds to trend east-west through "Roopena".     The exposed Roopena
+
+Volcanics tend to follow an inferred syncline from at least as far north as
+
+Trig Dam to immediately west of Traverse A where they may be terminated
+
+locally by a minor pitch reversal.     If a syitrine is indicated by a gravity
+
+trough, then it is possible that the downfolded Roopena Volcanics which are
+
+denser than the surrounding rocks may not fully compensate this gravity low
+
+so that the effect is still a low.     The presence of the volcanics may
+
+account for this syncline being smaller than the next one to the east but
+
+it is doubtful whether there are no volcanics there.     Volcanic float has
+
+been found in Stud Dam over the eastern syncline, but it is probably
+
+transported material.
+
+
+
+                            Local Gravity
+
+
+
+            The local gravity was found to be of little value in interpreting
+
+=============== PDF PAGE 17 ===============
+                               - 14 -
+
+
+the extent and depth of the volcanics due to the Complex regional effects
+
+including those from the large gravity ridge just west of the Roopena
+
+Fault and the unknown effect from the inferred syncline containing the
+
+volcanics.     If the volcanics are indicated by magnetic fluctuations as will
+
+be suggested, then on     Traverses Band N which give a cross-section of the
+
+volcanics it can be seen in Plan L68-S3 that the gravity effect from the
+
+volcanics may have partly flattened out a gravity low containing a small
+
+gravity high in the middle due to an anticline which exposes the basement
+
+of Moonabie Formation just north of "Roopena".     The effect of the Volcanics
+
+does not completely compensate the low from the syn,c3ine so that a low still
+
+results.     Even with relatively close drilling control the gravity depth
+
+calculations were found to be unreliable.     The calculated depfe   at   D.D.H.
+
+No. 1 agreed exactly with the depth found from drilling, but this was found
+
+to be a coincidence as the calculated depth for D.D.H. No. 2 using the control
+        from
+available/D.D.H. No. 1 was in error by approximately 30%, with the holes only
+
+700ft. apart.     About all that can be Said here concerning the depth of the
+
+volcanics is that it probably does not exceed lQOOft.
+
+             The broad gravity low from 5000S to 8000S may indicate an anticl-ine.
+
+This tends to be confirmed by the corresponding decrease in magnetic
+
+fluctuations.
+
+           §ver the Roopena Fault the reversal of the gravity step ups on
+
+Traverses NW and S might be explained by differences in folding across the
+fault.
+
+
+
+                                   Magnetic
+
+
+
+             Quantitatively the magnetics appeared to be more useful in
+
+indicating the geological structure than the gravity.     The character of the
+
+waveforms appears to be indicative of the geological formations as suggested
+
+in the following table.
+
+=============== PDF PAGE 18 ===============
+                      = 15 »
+
+
+
+
+       Range               Wave - Type            Geological Formation
+                      (200' station spacing)
+
+OONW -- 1S.300NW      Characteristic relatively   Roopena Volcanics
+
+OOS - 12,800S          short period fluctua-
+
+OOB - 5400B            tions of the central
+
+OOE - 8500E            area (See Plans L68-53
+
+OON - 3800N            and L68-54)
+
+
+
+19.300NW - 22,200NW   Similar to that over the    Moonabie Formation?
+
+13,900S - 26,000S      Roopena Volcanics but       (Requires confirmation
+
+8500E - 9000E         with a larger period.        over more outcropping
+
+OOA - 6200A                                       Moonabie Formation.
+
+
+
+
+5400N - 8000N         Similar to that over the    Moonabie Formation over-
+
+                      Moonabie Formation but       lain by Pandurra
+
+                       with a smaller ampli-       Formation?
+
+                       tude.
+
+
+
+
+3800N - 4600N         Similar to that over the    Corunna Conglomerate
+
+12.800S - 13.900S      Roopena Volcanics but
+
+5400B - 9000B          with a smaller ampli-
+
+                       tude .
+
+4600N - 5400N         Almost flat                 Corunna Conglomerate
+
+6200A - 8000A                                      overlain by Pandurra
+
+                                                   Formation?
+
+=============== PDF PAGE 19 ===============
+                       - 15a -
+
+
+In addition, the apparently recurring pattern over the Roopena
+
+Volcanics referred to under "Magnetic Description" has been taken as
+
+a guide to the structure of the volcanics.   The fluctuations.over the
+
+volcanics may indicate lyering in the flows or sills and the
+
+characteristic pattern might arise from the volcanics being folded
+
+into a syncline.   The layers dripping towards the centre of a
+
+syncline would give the asymmetrical nature of the smoothed fluctuations
+
+and the higher magnetic intensity on the limbs might be due to more
+
+magnetic layers at the bottom.   Although the volcanics would be
+
+thicker at the fold axis these layers would be deeper giving a
+
+general low.   A relatively broad low amplitude peak at the axis may
+
+result from the segment shape of the uppermost layer.   The suggested
+
+northwest-southeast trend of a syncline passing through traverses
+
+B, S and possibly NW might be confirmed by the similar trend of the
+
+long mound-like outcrops seen along traverse S and showing up on the
+
+aerial photographs.   The trend is accentuated on the photographs by
+
+the stream pattern.   Changes in the stream pattern to a north-
+
+northeast - south-southwest direction in the Trig Dam - Tank.Hill
+
+area, to an east-west direction near Roopena and to a north-south
+
+direction just west of Traverse A have also been used in the
+
+interpretation of the structure of the Volcanics.
+
+          A decrease in the magnetic fluctuations over the volcanics
+
+from 6100S to 8000S may indicate that the underlying rocks have been
+
+brought close to the surface by a northwest-southeast trending
+
+anticline.   This same anticline may have contributed to the exposure of
+
+the underlying Corunna Conglomerate on Traverse B.   The main cause of
+
+the exposure might be a -
+
+=============== PDF PAGE 20 ===============
+                              - 16 -
+
+
+
+north-northeast-south-southwest anticlinal crossfold pitching to the north-
+
+northeast which in conjunction with an east-west trending anticline exposes
+
+the Moonabie Formtion   just north of "Roopena"*    An adjacent north-northeast-
+                                                                                 »
+
+
+south-southwest synclinal cross-fold to the east of "Roopena" may be indicated
+
+by a pattern somewhat similar to the inferred synclinal magnetic pattern.
+
+The sharper magnetic peak at the centre may be due to the influence of the
+
+east-west anticline.    It is more likely that the axis of the anticline lies
+
+to the north of Traverse E but has been shown to the south in Plan No. L68-54
+
+for clarity in the diagram.    The larger period fluctuations on Traverse A
+
+may indicate that the a^acent anticlinal crossfold to the east has brought
+
+the Moonabie Formation to the surface although it is not exposed directly.
+
+          From the geological mapping and the patterns of the magnetic
+
+wave-forms there appears to be an unconformity between the Corunna
+
+Conglomerate to the west and the underlying Moonabie to the east which trends
+
+north-northeast - south-southwest just west of "Roopena" and may turn north-
+
+westerly to pass through 5400N.    Another unconform ity between the Corunna
+
+Conglomerate to the east and the Moonabie to the west might pass through
+
+6200A but this is highly speculative.
+
+          The Corunna Conglomerate may lie under a thin alluvial cover from
+
+12,800S to 13,900S due to folding;     No exposures have been found.   At the
+
+Roopena Fautt at 13.900S and also at 19.300NW Corunna Conglomerate and Roopena
+
+Volcanics respectiv ely could be faulted against Moonabie to the west..
+
+
+
+                               General
+
+
+
+          The Roopena Volcanics may have been folded and preserved in a
+
+synclinorium generally trending northwest-southeast to north-northwest -
+
+south-southeast but trending east-west through "Roopena" due to the. efect
+
+of two anticlinal crossfolds trending north-northeast - south-southwest
+
+and pitching steeply to the north-northeast.     On the west the volcanics are
+
+terminated against the Roopena Fault and on the east by the eastern crossfold.
+
+The Roopena Volcanics overlie the Corunna Conglomerate with an angular
+
+unconformity which in turn overlies the Moonabie Formation with an angular
+
+=============== PDF PAGE 21 ===============
+                            * 17 -
+
+
+
+unconformity.   At the surface, the Corunna Conglomerate - Moonabie Formation
+unconformity trends north-northeast - south-southwest just west of
+"Roopena" with theCorunna Conglomerate to the west.
+
+          The synclinorium appears to contain two anticlines.    The southern
+
+anticline causes the Cftrunna Conglomerate to possibly come close to the
+
+surface from 6100S to 8000S beneath a thin cover of Roopena Volcanics.
+
+Together with the western anticlinal crossfold it causes the Corunaa
+
+Conglomerate to come to the surface under a thin cover of soil and float south
+
+of 5400B and the Moonabie Formation to outcrop approximately a mile south
+
+of "Roopena".   The northern anticline together with the western anticlinal
+
+crossfold causes the Moonabie Formation to outcrop at "Roopena".    Although
+
+porphyry float has been found along the inferred anticline south of the
+
+synclinorium the major outcrops occur south of "Roopwaa" on this
+
+anticlinal crossfold.   If the anticlinal folding was a control for the
+
+porphyry then it could intrude the Roopena Volcanics which were also sub-
+
+jected to the folding and may be related to the Cultana Granite rather
+
+than the Gawler Range Volcanics.     The fact that the porphyry has not been
+
+found intruding the volcanics may be due to the volcanics occurring in a
+
+synclinorium.
+
+          Evidence of copper minerlaization found in D.D.H. No. 1 might be
+
+related to this porphyry, and siltstones in the Corunna Conglomerate
+
+appear to have been favourable for deposition.    An unconformity might have
+
+been another control for the mineralization which was possibly closer
+
+to the Corunna Conglomerate - Roopena Volcanics unconformity than the
+
+Corunna Conglomerate - Moonabie Formation unconformity. If the porphyry
+
+is older than the volcanics then the copper minerlization may have come
+
+directly from the porphyry and have been controlled by the Corunna
+
+Conglomerate - Moonabie Formation unconformity.     If the porphyry is
+
+younger than the Roopena Volcanics then the mineralization may have a
+
+similar origin but could be controlled by both unconformities.     Alternative-
+
+ly the mineralization may have been due to solutions heated by the
+
+porphyry leaching disseminated copper minerals from the Roopena Volcanics
+
+and be controlled by the unconformity at the base of the volcanics.      Slight
+
+=============== PDF PAGE 22 ===============
+                                - 18 -
+
+
+copper and lead mineralization has been reported from the volcanics at the
+
+surface.   Folding affecting the Roopena Volcanics may have also been a
+
+control    for mineralization    provided that it is older than the porphyry.
+
+The anticlines might be more favourable than the synclines due to in-
+
+creased fracturing.    In Diamond Drill Hole No. 1 the mineralization may
+
+have been approximately two-thirds up the southern side of a syncline and
+
+might have increased towards the anticline.      As the siltstones of the
+
+Corunna    Conglomerate do not follow the overlying unconformity with the
+
+Roopena Volcanics, the distribution of the siltstones in the Corunna
+
+Conglomerate may have been a major control.
+
+            Hie Pandurra Formation unconformably overlies the Roopena
+
+Volcanics which has a general easterly dip of 10° steepening up east of
+
+the local area.    As the strike appears to follow that of the underlying
+
+Roopena Volcanics, it may have been controlled by differential erosion
+
+over the structure of the volcanics.
+
+
+
+                          CONCLUSIONS AND RECOMMENDATIONS
+
+
+
+            Although the survey failed in its original aim of determining
+
+the thickness of the Roopena Volcanics for siting two stratigraphic
+diamond drill holes it did indicate that the ground magnetics might be of
+
+considerable help in determining the geological structure. As evidence of
+slight copper mineralization was found in the first diamond drill hole
+
+attention was then shifted to a rough structural interpretation with
+
+emphasis on possible controls for the mineralization.       The interpretation
+
+given has been taken far beyond that justified by the limited amount of
+
+work done.    It should prove interesting to compare this interpretation with
+
+one based on adequate magnetic coverage.       The present interpretation
+
+suggests Certain structural environments which might have been suitable for
+
+mineralization.    A primary control     may have been the siltstones in the
+
+Corunna Conglomerate which at present would limit the environment to one
+
+between the Roopena Fault on the west and the Corunna Conglomerate -
+
+Moonabie Formation unconformity just west of "Roopena".       Inside this area
+
+another control might have been the axes of      anticlines, synclines, or
+
+possibly both.    The anticlinal axes may have been more favourable due to
+
+=============== PDF PAGE 23 ===============
+                           - 19 -
+
+
+
+increased fracturing.    A third control might have been the unconformity
+
+between the Roopena Volcanics and the Corunna Conglomerate putting the
+
+suitable environment immediately beneath the volcanics.      This control
+
+appears necessary to explain the fact that no copper minerals have been
+
+found over the inferred anticline and syncline in the siltstones of the
+
+Corunna Conglomerate outcropping at thesouth of the so-called favourable
+
+area.    It is not known if mineralization was associated with this un>-
+
+conformity as it has not been found exposed.    If mineralization was
+
+associated with the axes of anticlines this would be favoufable, due to the
+
+shallow depth beneath the Roopena Volcanics.    In view of controls which
+
+might be suggested from the limited field work carried out, it is re-
+
+commended that magnetic readings be taken every 100ft. along northeast -
+
+southwest traverses 500ft. apart, covering the local area.      From    the more
+
+detailed character of the waveforms obtained over the outcrops these rock
+
+types could possibly be resolved mOre accurately where covered.        Apart
+
+from any economic significance, this should be carried out as an exercise
+
+in magnetic structural interpretation over an area where there is
+
+sufficient outcrop to obtain    characteristic wave-forms.    The new interpre-
+
+tation should then be compardd with the initial one to gain some idea of how
+
+far an interpretation should be taken with a limited amoufit of.information,
+
+In, magnetic work the importance of asing it as a tool for structural
+
+interpretation can easily be overlooked in concentrating on the more eye-
+
+catching anomalies.     These anomalies may in fact have nothing to do with the
+
+problem in hand serving only to detract attention from the real issues.        If
+
+this recommendation cannot be carried out then an alternative would be to
+
+determine the characteristic wave-forms over the outcrops more accurately
+
+and test the present interpretation with a number of short traverses in key
+
+areas*
+
+           The initial interpretation has suggested that the siltstones of
+
+the Corunna Conglomerate immediately beneath the Roopena Volcanics and
+
+possibly along anticlinal axes sycnlinal axes or both may have been favouf-
+
+able for mineralization.     If the initial interpretation remains unchanged
+
+with more detailed magnetic work then an induced    polarization survey is
+
+recommended to cover D.D.H. No. 1, the Corunna Conglomerate - Moonabie
+
+=============== PDF PAGE 24 ===============
+                          - 20 -
+
+
+
+Formation unconformity to the east and the inferred anticlinal and
+
+synclinal axes trending approximately through 00N and 2000N respectively.
+
+It is hoped that the survey would determine whether the mineralization
+
+was restricted to the Corunna Conglomerate and if it favoured either
+
+anticlinal or synclinal axes.      Should it have been restricted to the
+
+Corunna Conglomerate and have favoured anticlinal axes then the inferred
+
+anticline through 7000S might be tested to the southeast by the I.P, method
+
+as the Corunna Conglomerate - Roopena Volcanics unconformity may be
+
+broughtto the surface under a thin layer of alluvium by the cross-folding
+
+through uRoopena".   If synclinal    axes were more favourable then the
+
+inferred syncline through 10,000s might also be tested to the southeast.
+
+The syncline through 1700B might be tested but as with the syncline through
+                                              (
+                                              i
+2000N the Corunna Conglomerate - Roopem      Volcanics unconformity is not
+
+exposed by the cross-folding.
+
+            In view of the relatively large area which might have been
+
+favourable for copper mineralization it is strongly recommended that the
+
+extent of the chalcopyrite found in D.D.H. No. 1 should be determined.       The
+
+possibility of the Roopena area lying in a zone of regional cross-folding
+
+trending north-west-southeast and embracing the old Mongolata Goldfield, the
+
+old Burra Copper Mine, copper mineralization at Spalding and iron mineraliza-
+
+tion at Iron Monarch may be significant.
+
+
+
+
+BGR:CC:RW                                     B.G. RISBLY
+1.11.1968                                     GEOPHYSICIST
+                                    EXPLORATION GEOPHYSICS SECTION
+
+
+
+
+                             REFERENCES
+
+
+PEGUM, D.M., 1957,   "Correlation of Geological and Geophysical Data in the
+            Northern Portion of the Pirie Torrens Basin of South Australia".
+            Envelope No. 112, S.R. 11/5/3A Vol. 5, Unpublished.
+
+C0MPST0N, W., et al, 1966 - "A Radiometric Estimate of the Duration of
+            Sedimentation in the Adelaide Geosyncline, South Australia".
+            Journal of the Geological Society of Australia* Vol. 13, Part 1,
+            pp. 229-276.
+
+=============== PDF PAGE 25 ===============
+
+=============== PDF PAGE 26 ===============
+
+=============== PDF PAGE 27 ===============
+
+=============== PDF PAGE 28 ===============
+

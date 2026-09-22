@@ -1,0 +1,12 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "od4_xxx_agd66_amg_z53.jpg"
+  Type "RASTER"
+  (629975.05385911511,6703608.7128663724) (0,0) Label "Pt 1",
+  (824812.37145511503,6703608.7128663724) (6036,0) Label "Pt 2",
+  (629975.05385911511,6430203.7956963722) (0,8470) Label "Pt 3"
+  CoordSys Earth Projection 8, 12, "m", 135, 0, 0.9996, 500000, 10000000
+  Units "m"

@@ -1,0 +1,932 @@
+===== page 1
+CENTENAIRE DE LA SOCIETE GEOLOGIQUE DE BELGIQUE
+GISEMENTS STRATIFORMES ET PROVINCES CUPRIFERES, LIEGE, 1974, 317-330
+
+ 
+
+THE COPPER PROVINCE
+OF NORTHERN MICHIGAN, US.A.
+
+Alexander C. BRown (*)
+
+ABSTRACT
+
+The late Proterozoic, Keweenawan strata of northern Michigan contain two principal
+types of copper mineralization, each at a distinctly separate stratigraphic position. Native
+copper occurs in amygdaloidal and fragmental flow tops and in reddish interflow conglomerates
+of the Portage Lake Lava Series. Chalcocite and combined chalcocite-native copper mineral-
+ization is found as fine-grained disseminations in basal portions of the Nonesuch Shale, a
+sulfide-bearing, organic-rich formation lying some 100°s to 1000's of metres above the
+Keweenawan lavas. An extensive red-bed conglomerate and a more local mafic to felsic flow
+pile lie stratigraphically between the Portage Lake Lava and Nonesuch strata. The Nonesuch
+mineralization of the White Pine area is also geographically centred some 60 miles southwest
+of the main native copper districts of Calumet and Houghton. Both copper types contain
+silver as a significant minor constituent.
+
+Exploration and investigation of these two camps have taken place in large part as
+distinctly separate operations. The native copper ore, exploited almost continuously since
+1844, occurs as irregular stratiform lodes at numerous stratigraphic levels in steep to
+moderately dipping beds. Many observations including those of mineral zoning, indicators of
+elevated metamorphic or hydrothermal temperatures, and ore controls related to relative
+permeabilities within and between stratigraphic units suggest that source-bed or magmatic
+concepts could best explain the origin of these lodes. On the other hand, the White Pine
+mineralization, exploited since 1954, is remarkably continuous and uniform in grade over an
+extensive area within strictly defined basal beds of the gently to moderately inclined Nonesuch
+Formation. It possesses all basic characteristics of a classic sedimentary deposit. Detailed
+studies in recent years have suggested, however, that mineralization of the Nonesuch may
+have resulted from an upward influx of cupriferous solutions which caused replacement of
+syndiagenetic iron sulfides and some accompanying precipitation of native copper in the
+presence of organic matter.
+
+In past years concerted efforts by many individuals and organizations have produced a
+vast fund of information and interpretations concerning this famous copper province.
+Undoubtedly, a definitive solution to the occurrence and genesis of the Keweenawan mineral-
+ization will depend not only on further careful investigations at the local scale, but also on
+the discovery of additional regional guides such as those currently developing concepts
+resulting from stratigraphic and structural analyses throughout the Lake Superior basin.
+
+(*) Département de Génie minéral, Ecole Polytechnique, Université de Montréal,
+C.P. 6079, Succursale “A”, Montréal H3C 3A7, Québec, Canada.
+
+===== page 2
+318 ALEXANDER C, BROWN
+
+INTRODUCTION
+
+The Lake Superior copper deposits are contained in an area known as the
+Keweenaw peninsula, a linear zone some 200 km in length along the south shore
+of Lake Superior (fig. 1). Within this region, late Precambrian Keweenawan strata
+have been successfully exploited for native copper, principally in basalts and con-
+glomerates, for some 130 years; and for copper sulfide and lesser amounts of native
+copper in “black shales” for some 20 years. Copper is accompanied by important
+traces of silver in both geologic environments.
+
+This mine production has quite naturally stirred much interest in other areas of
+Keweenawan rocks which occur around the present Lake Superior basin, and has
+resulted in a vast number of geologic studies and exploration programs throughout
+the immediate area and possible extensions of the Keweenawan copper province.
+The recognition in recent years of a probable Precambrian rift features has added
+new dimensions to current geologic concepts and economic studies in the basin.
+
+This paper deals mainly with the nature of the Lake Superior copper mining
+camps and with regional aspects of the Keweenaw basin. Certain portions of the
+text result from the writer’s personal studies and his continued interest in this highly
+intriguing metallogenic province, but obviously the majority of data and inter-
+pretations are borrowed from the careful work of many, many other students of the
+district. Hopefully, the credits mentioned will fully and accurately represent the
+contributions of a least the major pertinent studies; of course, the writer assumes
+responsibility for the present synthesis and his own interpretations.
+
+KEWEENAWAN BASIN GEOLOGY
+
+The Keweenawan strata (table 1) occupy an arcuate structural trough largely
+concealed beneath the present glacial Lake Superior and beneath fiat-lying
+Paleozoic sediments along southwest and southeastward extensions of the basin.
+Nevertheless, good exposures are present around the rim of Lake Superior (fig. 1).
+
+Animikean rocks (>1650 m.yr.), including Lake Superior iron formations
+enclose the trough to the south and northwest. Archean rocks (>2480 m.yr.)
+enclose it in turn on the south, north, northeast and northwest. Keweenawan
+intrusives and flows have been dated at approximately 1050 to 1 200 m.yr. in age.
+
+In general, the Keweenawan is divisible into a lower sedimentary sequence, a
+middle volcanic sequence, and an upper sedimentary sequence. The Lower
+Keweenawan is best exposed as a 200 m thickness of sediments known as the
+Sibley Series north of Lake Superior.
+
+The Middle Keweenawan consists mainly of tholeiitic flood basalts and minor
+but important interflow red-bed conglomerates. The volcanics are composed of
+several hundred individual flows commonly measuring tens of metres in thickness
+and possibly attaining some 9000 m in total thickness (White, 1968). They are
+known variously as the Portage Lake Lava Series and the South Shore Traps in
+the copper mining districts, as the North Shore Volcanics adjacent to the Duluth
+gabbro complex in Minnesota, and as the Osler Series in Ontario north of Lake
+
+a
+
+===== page 3
+ 
+
+We. VINSNINAd ©
+si H SDS MVNAIM DG
+a Sym,
+
+N3LODIdIHOIW
+
+S3AISNYLNI NVMVN33M3x% Yorvw KJ
+
+nvaHouv [2y]
+
+Ayiw40j u09uQ ————-———.
+
+43ONNHL nvaniwiny Lv]
+Ajiwsojuooun
+
+NVMVN33M3y Y3Mo7 f
+NVMVN33M3™ 37aaIW [T]
+NVMVN33M4ax Y3ddn fess
+
+NVIMGW 91 /NVMVYN3AM ay “0 Eee
+Ajlwis0opuooun
+
+NvIdNs<—NnviNaMvo ‘na |
+—dNs9371 —
+
+ynog i
+ajpkoy am -
+
+ 
+
+Fic. 1. — General geology of the Lake Superior region (after Halls and West, 1971).
+
+===== page 4
+320 ALEXANDER C. BROWN
+
+TABLE I. — Stratigraphy of the Lake Superior Copper Districts
+
+ 
+
+Paleozoic Upper Cambrian to Silurian
+seosetesoteecnnseneececraneneneneneasanasenaseceasnasenseeseas Unconformity -------------------nevn nn ensereretereenceccctctete eres
+
+Upper Keweenawan/
+
+{ .
+Lower Cambrian \ Jacobsville and Bayfield Sandstones
+
+Freda Sandstone
+
+Upper Keweenawan { Nonesuch Shale
+
+Late Copper Harbor Conglomerate/
+Precambrian . Unnamed Formation
+Middle Keweenawan Portage Lake Lava Series/
+
+North Shore Volcanics/Osler Series
+
+Lower Keweenawan Sibley Series (on north shore)
+sorereatececneeanennarentatesnateneananannassrescatsscese soe Unconformity --------------senncerereroretereecncteteserecrenessenens
+
+Middle Animikie
+Precambrian
+
+Unconformity ---n-------voceeeeesenrsecteceeteeceetee eect
+
+ 
+
+ 
+
+Early Archean
+Precambrian
+
+ 
+
+ 
+
+ 
+
+Superior. Similar volcanics are exposed on Isle Royale and Michipocoten Island
+within the Lake, and at other minor localities around the lake.
+
+A major projection of these mafic flows (fig. 2) has been made on the basis of
+a well-defined mid-continent gravity high trending southwest from Lake Superior
+to Kansas, and southeast beneath the Michigan basin (Muehlberger et al., 1966).
+
+Upper Keweenawan strata are composed predominantly of red-bed con-
+glomerates and sandstones, and a relatively minor black shale section. The Copper
+Harbor Conglomerate was formerly considered as the basal non-volcanic unit of
+the Upper Keweenawan, but it has been found to contain local mafic flows and has
+been relegated to the Middle Keweenawan (White, 1972). The Upper Keweenawan
+now consists of the greyish Nonesuch Shale (approximately 200 m thick) and the
+overlying Freda Sandstone, a red-bed section, which may exceed 4000 m in
+thickness.
+
+An unnamed formation consisting of 0-2 500 m of mafic and felsic flows under-
+lies the White Pine area. It has the form of a volcanic dome overlying the Portage
+Lake Lava Series and was buried by contemporaneous and/or subsequent onlap
+of the Copper Harbor Conglomerate.
+
+The Upper Keweenawan is apparently overlain by the Bayfield and Jacobsville
+Formations which are probably laterally-equivalent, non-fossiliferous sandstones
+
+===== page 5
+COPPER PROVINCE OF NORTHERN MICHIGAN 321
+
+ 
+
+Fic. 2. — Keweenawan mid-continental rift features (from Card et al., 1972).
+
+located in Wisconsin and Michigan, respectively. These strata are in turn succeeded
+unconformably by fossiliferous Upper Cambrian beds. The Bayfield and Jacobsville
+Formations are generally considered lithologically more similar to the Freda
+Sandstone than to late Cambrian strata, and are commonly assigned to the upper-
+most Keweenawan, although a Lower Cambrian age is also possible. Seismic
+studies indicate that these sandstones probably form a thick friable sedimentary
+unit underlying most of Lake Superior (Halls and West, 1971).
+
+The structure of the Keweenawan basin is dominated by an arcuate syn-
+clinorium filled by inward-dipping Keweenawan extrusives and sediments. White
+(1960@) draws attention to the increasing thickness of stratigraphic units toward the
+synclinal axis, and suggests that flows and sediments generally kept pace with sub-
+sidence of the basin. Bent pipe-amygdules in lavas suggest flow outward from the
+centre of the basin whereas current analysis indicate a northerly transport of
+sediments toward the basin. The total thickness of Keweenawan strata in the central
+part of the basin is estimated to be as much as 55-60 km on the basis of seismic
+studies (Berry and West; and Smith et al., both in Steinhart and Smith, 1966).
+
+Numerous moderate to steeply-dipping reverse faults parallel the north and
+south sides of the Keweenaw basin. The best known of these is the northward-
+dipping Keweenaw fault which forms the south boundary of the Michigan copper
+districts and separates the Portage Lake Lavas from the Animikie rocks and the
+Jacobsville Sandstone to the south. The Keweenaw fault probably continues
+toward the southwest along the Lake Owen fault in Wisconsin.
+
+===== page 6
+322 ALEXANDER C. BROWN
+
+This southern system of boundary faults is complemented on the north side of
+the basin by the Douglas fault and its possible extension, the Isle Royale fault,
+interpreted from seismic investigations in the north-central portion of Lake Superior
+(Halls and West, 1971).
+
+It seems clear that the Keweenaw basin represents a late Precambrian graben
+and horst structure with rapid infilling, followed by reverse thrusting during late
+stages of rift adjustment. The exposures of Keweenawan strata north and south
+of the lake have been tilted gently to moderately, even steeply, toward the basin
+axis during these late movements.
+
+A local anticlinal flexure (Porcupine Mountain structure, fig. 1) with an accom-
+panying northward-dipping thrust fault occurs on the south flank of the basin in
+the White Pine area (Hubbard, 1971). The Nonesuch Shale copper mineralization
+is contained in synclinal limbs of this structure.
+
+Among intrusives of the Lake Superior region, the Duluth Gabbro complex
+(1 142425 m.yr.) is especially intriguing since (1) it dips from its exposed location
+on the north shore toward the Keweenawan peninsula, (2) it correlates closely
+in age with Keweenawan strata, and (3) it contains copper and nickel in large
+amounts. While it may be metallogenically attractive to postulate that the Duluth
+complex underlies the lake proper and gave rise to cupriferous ore solutions which
+ascended through strata of the Keweenaw peninsula (e.g., Butler and Burbank,
+1929), gravity data now indicate that the complex must pinch out near the northern
+shoreline of the lake (White, 1966).
+
+A smaller sill-like complex occurs at Mellon, Wisconsin at the probable junction
+of the Lake Owens and Keweenaw faults (fig. 1). It intrudes Portage Lake Lavas
+and possibly the Copper Harbor Conglomerate. Similarities in form and petrology
+to the Duluth Gabbro have long suggested a common origin for these two
+complexes.
+
+Other intrusives of Keweenawan affiliation include the Logan sills and dikes
+of generally basaltic composition. These are especially common along the north-
+west shore of Lake Superior where they invade Lower and Middle Keweenawan
+strata.
+
+Alkaline complexes occur northeast of Lake Superior along the north-northeast
+trending Kapuskasing subprovince within the Superior (Archean) province. A
+portion of these intrusives are distinctly pre-Keweenawan in age, but a younger
+group (approximately 1050 m.yr.) appears to correlate rather closely with
+Keweenawan ages (Stockwell et al., 1970).
+
+NATIVE COPPER MINERALIZATION
+
+The following descriptions of native copper in interbedded tholeiitic flows and
+red-bed conglomerates of the Portage Lake Lava Series along the Keweenawan
+Peninsula (fig. 3) are taken mainly from Weege and Pollock (1971), Weege et al.
+(1972) and White (1968, 19716). Other sources are mentioned as appropriate.
+
+The 200 or more flows of the Portage Lake Lava Series are chiefly amygdaloidal
+basalts, with lesser amounts of andesites and a few rhyolites. Individual flows
+commonly measure 30-50 m in thickness and are laterally continuous for tens of
+kilometres.
+
+Some 20 conglomerate and sandstone horizons occur within the lava flows.
+
+===== page 7
+ed on the north side of
+, the Isle Royale fault,
+ortion of Lake Superior
+
+ite Precambrian graben
+se thrusting during late
+strata north and south
+seply, toward the basin
+
+, fig. 1) with an accom-
+h flank of the basin in
+e copper mineralization
+
+uluth Gabbro complex
+om its exposed location
+2) it correlates closely
+yer and nickel in large
+stulate that the Duluth
+ous ore solutions which
+Butler and Burbank,
++h out near the northern
+
+ 
+
+at the probable junction
+les Portage Lake Lavas
+; in form and petrology
+1 origin for these two
+
+> Logan sills and dikes
+mmon along the north-
+id Middle Keweenawan
+
+long the north-northeast
+(Archean) province. A
+in age, but a younger
+fe rather closely with
+
+ION
+
+ded tholeiitic flows and
+along the Keweenawan
+ck (1971), Weege et al.
+d as appropriate.
+
+are chiefly amygdaloidal
+olites. Individual flows
+‘continuous for tens of
+
+within the lava flows.
+
+DY. a
+
+Copper Harbor
+
+mie
+
+Keweenaw
+Point
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+  
+
+ 
+
+ 
+
+  
+
+ 
+
+   
+ 
+
+ 
+
+ 
+
+S c
+o v5 0 . 3
+5 0 Br ao 3
+= e = a vo
+a 5 oS o 2g oo
+oO wv es no = [os
+2 c vo 2 E 133
+° 5 ee ge g ‘ 20
+2 B 85 25 3 Be vibes
+Eb o ge 4 c ifs
+= Vo 0 o c [so
+z Bag se ES 2: i5s
+a 2 26 4 < Jes
+a ° o6 #eé oO io &
+° US ¢ o . 53
+x °° 2 3 3 q Jeg.
+Ww 7 ira Su 2 " ; oe
+ac o dq °
+ao O°
+° a ~ ¢
+oO =
+t oO
+Y,
+%&
+zt
+v
+<q
+
+ 
+
+5 i
+°
+3
+S Nae)
+= / 4
+° / =
+i °
+a
+wi /
+Se /
+
+SO,
+
+Ot °
+°®@ x
+o> =/
+
+% S/o
+o
+oO gig
+S/S
+ag 2
+/s
+;
+°
+Fic. 3. — General geology of the Keweenawan copper province of Michigan (after White,
+
+1971b).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+===== page 8
+324 ALEXANDER C, BROWN
+
+They are typically felsic in composition and contain pebbles of quartz and felspar
+porphyry. Conglomerates make up some 3 to 8 % of the Lava Series and have the
+general configuration of discontinuous lensoid sheets. On the basis of identified
+channelways, crossbeds, coarse pebble size and imbricated pebbles, White (1968,
+1971b) considers the conglomerate to represent stream sediments which were
+deposited on nearly horizontal flow tops by generally northward flowing streams.
+
+The Portage Lake Lava Series is succeeded upward by the Copper Harbor
+Conglomerate, followed by the Nonesuch Shale and Freda Sandstone. All strata
+have strikes parallel to the trend of the Keweenawan Peninsula, and dip 20 to 75°
+northwest toward the centre of the Lake Superior basin. The base of the Lava
+Series is truncated by the Keweenawan Fault, a reverse strike fault separating
+Middle Keweenawan lavas from the Upper Keweenawan (?) Jacobsville Sandstone *
+to the south of the fault.
+
+Native copper and minor native silver occur almost entirely within permeable
+portions of the Lava Series, i.e., in amygdaloidal flow tops of otherwise massive
+basalts, and in interflow conglomerates. Of the 5 x 10° tons of copper produced,
+almost 60 % has come from six major and several minor amygdaloids, and almost
+40 % from conglomerates, especially the Calumet and Hecla Conglomerate. About
+2 % of the total copper has been mined from cross-cutting fissure veins.
+
+Amygdaloidal Lodes
+
+Among flow top types, “cellular” amygdaloids (Weege and Pollock, 1971),
+characterized by isolated vescicles, typically contain only traces of copper; “coalesc-
+ing cellular” amygdaloids with interconnecting vescicles host one major mine;
+“fragmental amygdaloids, apparently formed by flow beneath a chilled crust, host
+several major deposits; and “scoriaceous” amygdaloids, characterized by sandy
+infillings of fragmented flows, are mineralized at one stratigraphic horizon. Frag-
+mental amygdaloids generally grade downward into non-fragmental amygdaloids
+which contain little or no copper values.
+
+The thickness of lodes is naturally quite variable, but may commonly attain
+3 to 5 m. The lateral configuration and dimensions are also highly irregular.
+
+Conglomerate Lodes
+
+Mineralization in conglomerate beds between basalt flows occurs in the form of
+lensoid sheets. In thick conglomerate sections, a noticeably greater proportion of
+copper is usually found close to the upper and lower contacts, and lower grade ore
+may exist at intermediate levels. In thin stratigraphic thicknesses, the entire con-
+glomerate section may be well-mineralized.
+
+Native copper in conglomerates is commonly but not everywhere associated
+with bleached rock in which the usual deep red color due to hematite has changed
+to a salmon-pink color. The chemical exchange responsible for this alteration
+apparently involves a partial reduction of ferric iron as well as some loss of iron.
+
+Considerable exploration success has been realized in recent years (Weege and
+Pollock, 1971; Weege et al., 1972) from careful analysis of stream channels and
+interpreted ore solution barriers within conglomerate beds. A fundamental factor in
+
+===== page 9
+COPPER PROVINCE OF NORTHERN MICHIGAN 325
+
+this success has been a conviction that the native copper mineralization was
+deposited from ascending hot aqueous solutions.
+
+The barrier concept is clearly and concisely explained by Weege et al. (1972,
+p. 625):
+
+The most reasonable explanation for the form of many deposits lies in the barrier hypo-
+thesis, originally advanced by Graton, Broderick, and Butler in special reports to the
+Calumet and Hecla Mining Co. This theory visualizes the ore solutions as travelling up dip
+along certain amygdaloids and conglomerates with throughgoing permeability (Butler and
+Burbank, 1929). Inasmuch as the thickness and permeability of a given amygdaloid or con-
+glomerate bed may vary enormously from place to place, flow tended to be concentrated
+along those pathways that afforded the least resistance to flow from depth to the surface, and
+tended to avoid relatively impermeable areas, which would thus act as barriers. Solutions were
+funneled by barriers of various types into the areas that are now mineralized... Where no
+major barrier or constriction was present in a thick layer acting as a major channel way, the
+flow would not be concentrated, and as a result, small amounts of copper could be dispersed
+through a large volume of rock that would not be rich enough to mine (Broderick, 1931).
+
+Contouring of conglomerate thicknesses at the Kingston mine (Weege et al.,
+1972) clearly demonstrates a positive correlation of good ore with thinning of the
+conglomerate.
+
+An important economic oreshoot was also located by recognition of tributary
+stream channels (the new Centennial No. 3-6 deposit) merging with the spectacularly
+large and rich Calumet and Hecla orebody which occupies the main channel. Both
+the main and tributary channels are characterized by greater thicknesses of highly
+permeable conglomerate relative to the more compact sediments bordering the
+channelways. The nonchannel sediments with fine-grained matrices would again
+serve as barriers, whereas the stream channels would behave as conduits suitable
+for ore solution transport as well as for interstitial mineralization.
+
+To the writer’s knowledge, all current concepts on genesis of the native copper
+lodes involve ascending hydrothermal solutions coming from deeper portions of
+the Keweenawan basin. Evidence of low grade alteration of mineralized flow tops,
+and the attractive possibilities of warm ore solutions at depth are principally
+responsible for the consensus.
+
+Some authors (e.g., Butler and Burbank, 1929) point to the immense igneous
+activity indicated by the flows themselves and by the roughly contemporaneous
+Duluth gabbro. However, White (1968) notes the paucity of sulfur in the native
+copper lodes, and suggests that a mafic magmatic source would probably result
+instead in a characteristic copper sulfide mineralization.
+
+Others (e.g., Stoiber and Davidson, 1959: White, 1968; Jolly, 1973) suggest
+that ore solutions were generated by metamorphism at depth and rose to mineralize
+permeable zones near surface. Jolly proposes that dehydration of the basalts under
+metamorphism involving epidotization at depth would leach much more than
+adequate quantities of trace element copper from flows; and that hydration of
+near-surface flows by the ascending, chloride-rich, metamorphic fluids producing
+typical pumpellyite and chlorite alteration would cause deposition of copper by
+simple over-saturation in the ore channels.
+
+Hegelson (pers. commun., 1967; 1969) has ofered another attractive explana-
+tion for reduction of copper to the native metal. His studies of metal complexes
+in aqueous solutions at elevated temperatures have demonstrated that simple com-
+plexes such as HCl and perhaps CuCl may exist as stable and appreciably soluble
+species at temperatures above approximately 300°C. On cooling, the cuprous
+
+===== page 10
+ 
+
+326 ALEXANDER C. BROWN
+
+chloride complexes may disproportionate spontaneously into equal amounts of
+cupric chloride complexes (oxidation) and native copper (reduction). This process
+would provide for a 50 % efficient deposition of copper by reduction from ascend-
+ing ore solutions.
+
+Some sulfide mineralization occurs in a 15 mile segment of lower Portage Lake
+Lavas east of the principal native copper deposits (fig. 3). Studies by Robertson
+(1972) indicate a zonal distribution of copper-iron sulfides and a close association
+of mineralization with andesite dikes which also contain copper-bearing sulfides.
+A magmatic origin is favored although leaching of copper from flows at depth is
+not excluded.
+
+NONESUCH SHALE MINERALIZATION
+
+Since White and Wright’s (1954) initial description of the White Pine mineral-
+ization, a large number of detailed studies and analyses have been carried out on
+the Nonesuch Shale, chiefly to define the nature, distribution and controls of
+mineralization. This section will attempt to summarize the principal findings and
+interpretations to date.
+
+The White Pine copper mineralization (fig. 3) occurs mainly as sulfide and
+native metal disseminations within well-bedded, fine-grained clastic horizons at the
+base of the Nonesuch Shale. A very minor portion of mineralization is located in
+fractures considered to be post-ore in age.
+
+In a typical vertical profile, a few inches or feet of underlying Copper Harbor
+Conglomerate may contain interstitial native copper and minor native silver of
+ore grade. The copper is found in diagenetically chloritized zones and intimately
+associated with organic particles. Hamilton (1967) suggests that these occurrences
+resulted from chemical reduction of initially reddish conglomerate by connate
+solutions which were pressed out of the overlying Nonesuch during compaction
+and carried soluble organic matter into the immediately underlying aquifer. Favor-
+able reduction zones created in this manner would then be susceptible to native
+copper mineralization from cupriferous solutions circulating in the Copper Harbor
+Formation.
+
+The overlying Nonesuch contains several widespread ore horizons in its basal
+section (for details, see White and Wright, 1954; White, 1968). Native copper, and
+again minor native silver, may accompany the more dominant copper mineral,
+chalcocite, in the lowermost beds, but upper mineralized horizons typically contain
+fine-grained chalcocite as the only ore mineral.
+
+Disseminated chalcocite generally extends stratigraphically upward in ore or
+sub-ore quantities to a remarkably abrupt selvage surface, above which the beds are
+consistently pyritic. The selvage surface cross-cuts strata at gentle to moderate
+angles and varies in position from a few centimetres to about 15 m above the
+base of the Nonesuch within the mine area. Concepts of post-sedimentary mineral-
+ization from copper ascending at low temperatures into an initially pyritic, poorly
+consolidated Nonesuch Shale have been advanced and refined to explain the
+amounts, distribution, mineralogy and metal zoning in these strata (White, 1960b,
+1971a; Brown, 1965, 1970, 1971; White and Wright, 1966; White, D. E., 1968).
+
+Without attempting to recount all details of evidences gathered thus far, the
+
+===== page 11
+COPPER PROVINCE OF NORTHERN MICHIGAN 327
+
+principal features which nevertheless support the above hypothesis may be sum-
+marized as follows:
+
+(1) Sulfide textures showing a systematic step-by-step replacement of syn-
+diagenetic pyrite by Cu-Fe sulfides, and then Cu-sulfides within the narrow selvage
+zone; this feature is interpreted as a fossil mineralization front.
+
+(2) Chalcocite nodules surrounded by hematic halos at several horizons within
+the ore zones, indicating probable replacement of iron-sulfide nodules, with con-
+sequent redeposition of iron as hematite.
+
+(3) A statistically reasonable inverse correlation between the amount of copper
+deposited in lowermost ore horizons and the height of the selvage surface in the
+Nonesuch strata, strongly suggesting that approximately equal amounts of copper
+entered vertically into the Nonesuch across a broad basal area, and that little
+copper remained to mineralize higher beds where a greater proportion of copper
+was precipitated in thick or high grade ore beds at the base of the Nonesuch.
+
+(4) Anomalous concentrations of minor metals (Cd, Pb and Zn) as sulfides
+directly above the stratigraphically undulating selvage zone; these metals are less
+sulfophile than copper and were presumably swept continuously upward before the
+mineralization front. Luppens (1970) has also found anomalous mercury con-
+centration above the selvage surface.
+
+Not all observations support the early diagenetic replacement model. For
+example, Jost (1968) discovered, and Rohrbacker (1969) confirmed, a mine locality
+in which a selvage of Cu-Fe sulfides of as yet uncertain configuration and dimen-
+sions occurs near the top of the Parting Shale unit and well below the top of the
+cupriferous zone proper. This feature could be the first indication that cupriferous
+and pyritic zones oscillated laterally with onlap and offlap facies of sedimentation
+as has been suggested to explain lateral oscillations on a larger scale in the Zambian
+Copperbelt deposits (Garlick, 1961).
+
+Other investigations specifically intended to locate possible lateral oscillations
+of the selvage surface at White Pine (e.g., Brown, 1965, 1971) did not reveal such
+features. It is therefore not unreasonable to suggest that perhaps Jost’s discovery
+represents an island of unmineralized shale within a cupriferous zone otherwise
+formed according to the concepts of the diagenetic replacement model. Rohrbacker
+(1971, pers. commun.) also found minute iron sulfide grains beneath the main Cu-Fe
+selvage, and consequently questions the copper-sulfide replacement model.
+
+DISCUSSION
+
+The above description of the Michigan copper province in Keweenawan strata
+illustrates the highly distinctive natures of two different, neighboring geologic
+environments which nevertheless contain remarkably similar copper-silver con-
+centrations, almost to the exclusion of other normally associated base metals.
+Because there now exists rather substantial evidence that the native copper ores
+were derived from ascending, warm solutions, it is certainly very tempting to extend
+portions of this concept to explain the sulfur-dominated Nonesuch mineralization.
+No doubt this bias has influenced some investigations at White Pine, but not without
+some justification, for the majority of qualitative and quantitative data obtained
+thus far have generally reinforced this view.
+
+===== page 12
+328 ALEXANDER C. BROWN
+
+In the absence of diagnostic evidence in favor of an original sedimentary origin
+for copper mineralization of the lower Nonesuch, the writer is presently inclined
+to support the iron-sulfide replacement hypothesis for the White Pine ore, and to
+view the two Michigan copper districts as resulting from closely related, ascending
+ore solutions. In the native copper district, copper and silver probably precipitated
+within the ore solution aquifer by saturation and/or reduction near surface. At
+White Pine, similar solutions again precipitated native metals, but the majority
+of copper precipitated as sulfides upon encountering the initially pyritic lower
+Nonesuch Shale. The temperature of deposition at White Pine was probably lower
+than in the native copper district; this may simply reflect the higher stratigraphic
+level of the Nonesuch and/or its geographic separation from the native copper
+regions. There may be no clear distinction in time between mineralization of the
+two environments.
+
+The proposed cupriferous solutions for both districts may have been generated
+during still-active igneous events of approximately Middle to early Upper
+Keweenawan time, or to the more passive leaching of metals during de-hydration
+of flows at depth as adequately explained by Jolly (1973). The continued volcanism
+until just prior to Nonesuch Shale deposition as evidenced by flows in the Copper
+Harbor, and the apparent evolution of stratigraphically higher Middle Keweenawan
+flows toward more felsic compositions suggests that late stage volcanic volatiles
+may have emptied into subsurface aquifers or even onto surface in early Nonesuch
+time. The occurrence of a rather large felsic dome stratigraphically beneath the
+White Pine area is in fact surprisingly similar to the common association of base-
+metal massive sulfides with felsic volcanic domes in calc-alkaline volcanic sequences
+elsewhere (e.g., Sangster, 1972).
+
+The lack of associated lead-zinc in abundance in the Michigan copper district
+argues against a differentiating calc-alkaline magmatic source, and suggest that a
+post-volcanic selective leaching process such as proposed by Jolly may be more
+reasonable. However, the recognition of essentially monometallic, copper-pyrite
+ores of volcanic affiliation in Cyprus (Hutchinson and Searle, 1971) and in New-
+foundland (Upadhyay, 1973), for example, opens other avenues of speculation.
+
+In fact, the copper-pyrite ores are now thought (Hutchinson, 1973) to be
+closely related to deep crustal or mantle sources from which contemporaneous
+tholeiitic flows emanate. Considering the immense volume and thickness of
+tholeiitic basalt in the Keweenawan basin, it is very tempting to draw parallel
+conclusions for the unique regional association of copper with basaltic volcanism
+in the Lake Superior district. Additional incentive for these broad concepts arises
+from the interpretation of the Keweenawan belt as a mid-continental rift which
+probably tapped mantle sources of magma material. Hopefully, a constructive
+balance of criticism among students of the Lake Superior copper province will
+lead to further refinement of these oversimplified concepts of Keweenawan
+metallogenesis.
+
+References
+
+ANNELLS, R. N. (1973). — Proterozoic flood basalts of eastern Lake Superior; The Kewee-
+nawan volcanic rocks of the Mamainse Point area, Ontario. Geol. Surv. Can. Paper, 72-10,
+27 p.
+
+BRODERICK, T. M. (1931). — Fissure vein and lode relations in Michigan copper deposits.
+Econ. Geology, Vol. 26, p. 840-856.
+
+===== page 13
+COPPER PROVINCE OF NORTHERN MICHIGAN 329
+
+Brown, A. C. (1965). — Mineralogy at the Top of the Cupriferous Zone, White Pine Mine,
+Ontonagon Co., Michigan. M.S. Thesis, University of Michigan, Ann Arbor, 81 p.
+
+Brown, A. C. (1970). — Environments of generation of some base-metal ore deposits. Econ.
+Geology, Vol. 63, p. 301-335.
+
+Brown, A. C. (1971). — Zoning in the White Pine copper deposit, Ontonagon County,
+Michigan. Econ. Geology, Vol. 66, p. 543-573.
+
+Butter, B. S. and BuRBANK, W. S. (1929). — The copper deposits of Michigan. U.S. Geol.
+Surv. Prof. Paper, 144, 238 p.
+
+Burne, S. W., ScHwarcz, H. P. and Crocxet, J. H. (1972). — A sulfur isotopic study of the
+White Pine mine, Michigan. Econ. Geology, Vol. 67, p. 895-914.
+
+Carp, K. D., CurcH, W. R., FRANKLIN, J. M., Frarey, M. J., RoBerTson, J. A., WEST, G. F.
+and Youna, G. M. (1972). — The Southern province. In: Variations in Tectonic Styles in
+Canada, R. A. Price and R. J. W. Douglas, eds. Geol. Assoc. Canada, Spec. Paper No. 11,
+
+. 335-380.
+
+Carp, K. D. and Hutcuinson, R. W. (1972). — The Sudbury structure: its regional geologic
+setting. Geol. Assoc. Can., Spec. Paper No. 10, p. 67-78. _
+
+CornwaLt, H. R. (1951). —— Differentiation in lavas of the Keweenawan Series and the origin
+of the copper deposits of Michigan. Bull. Geol. Soc. Amer., Vol. 62, p. 159-202.
+
+EnsIon, C. O., Jr., WHITE, W. S., Wricut, J. C., Patrick, J. L., Leone, R. J., Hatnaway, D. J.,
+TRAMMELL, J. W., Fritrs, J. J. and Wricut, T. L. (1968). — Copper deposits in the
+Nonesuch Shale, White Pine, Michigan: Graton-Sales Volume 1. Ore Deposits of the
+United States 1933/1967. Am. Inst. Min. Met. Petr. Eng., Inc., New York, p. 460-488.
+
+Faure, G. (1964), —- The age of the Duluth gabbro complex and the Endion sill by the
+whole-rock Rb-Sr method. Mass. Inst. Tech., 12th Annual Prog. Rept., p. 255-257. ,
+
+Fraser, J. A., HOFFMANN, P. F., Irvine, T. N. and Mursky, G. (1972). — The Bear province.
+Geol. Assoc. Canada, Spec. Paper No. 11, p. 453-503. .
+
+Gar ick, W. G. (1961). — The syngenetic theory. In: The Geology of the Northern Rhodesian
+Copperbelt. F. Mendelsohn, ed. MacDonald and Co., Ltd., London, 523 p.
+
+Hats, H. C. and West, G. F. (1971). — A seismic refraction survey in Lake Superior. Can.
+J. of Earth Sci., Vol. 8, p. 610-630.
+
+Hamitton, S. K. (1967). — Copper mineralization in the upper part of the Copper Harbor
+conglomerate at White Pine, Michigan. Econ. Geology, Vol. 62, p. 885-904.
+
+HELGEsON, H. C. (1969). — Thermodynamics of hydrothermal systems at elevated temperatures
+and pressures. Amer. Jour. Sci., Vol. 267, p. 729-804.
+
+Hupparp, H. A. (1971). — Keweenawan geology of the Porcupine Mountains, Western Upper
+Peninsula, Michigan. Abstracts and Field Guide, 17th Ann. Inst. on Lake Superior
+Geology, Duluth. .
+
+Hutcunson, R. W. (1973). — Volcanogenic sulfide deposits and their metallogenic significance.
+Econ. Geology, Vol. 68, p. 1223-1246.
+
+Hutcuinson, R, W. and SEARLE, D. L. (1971). — Stratabound pyrite deposits in Cyprus and
+relations to other sulfides ores. Soc. Mining Geologists Japan, Spec. Issue No. 3, p. 198-
+205.
+
+Jotty, W. T. (1973). — Behaviour of Cu, Zn and Ni during prehnite-pumpellyite rank meta-
+morphism of the Keweenawan basalts, Northern Michigan. Geol. Sec. Amer. 1973 Annual
+Meetings, Abstracts with Programs, Vol. 5, p. 684; Econ. Geology, in press.
+
+Jost, M. (1968). — The White Pine Copper Deposit, Michigan, U.S.A., Mineralogical Investiga-
+tion and Genetic Interpretation. Ph.D. dissertation, Johannes Gutenberg, Univ., Mainz,
+78 p.
+
+Krauskopr, K. B. (1967). — Source rocks for metal-bearing fiuids. In: Geochemistry of
+Hydrothermal Ore Deposits, H. L. Barnes, ed. MacDonald and Co., Ltd., London, 523 p.
+
+KumaraPELi, P. S. and Sautt, V. A. (1966). — The St. Lawrence Valley System: a North
+American equivalent of the East African rift valley system. Can. J. Earth Sci., Vol. 3,
+p. 639-658.
+
+Leong, R. J., SEASor, R. W. and RopRBAcHER, T. J. (1971). — Geology of the White Pine
+area. Guidebook for Field Conference, Michigan Copper District, Sept. 30-Oct. 2, 1971,
+Society of Economic Geologists, p. 44-64. .
+
+Luppens, J. A. (1970). — Distribution of mercury in selected drill holes from the White
+Pine copper deposit, White Pine, Michigan. Unpublished M.S. Thesis, University of
+Toledo, 59 p. . :
+
+MUEHLBERGER, W. R. ef al. (1966). — Geochronology of the Midcontinent region, United
+States, Part 3. J. Geophys. Res., Vol. 71, p. 5409-5426.
+
+===== page 14
+330 ALEXANDER C. BROWN
+
+Rosertson, J. M. (1972). — Geology and Mineralogy of some Copper Sulfide Deposits,
+Keweenaw County, Michigan. Ph.D. dissertation, Univ. of Michigan, 125 p.
+
+Rosertson, W. A. and Fanric, W. F. (1971). — The great Logan paleomagnetic loop. The
+polar wandering path from Canadian Shield rocks during the Neohelikian era. Can. J.
+Earth Sci., Vol. 8, p. 1355-1372.
+
+ROHRBACKER, T. J. (1969). — Verification of Jost’s parting shale fringe zone. White Pine
+Copper Company report.
+
+Roy, J. L. and Fanric, W. F. (1973). — The paleomagnetism of Seal and Croteau Rocks form
+the Grenville Front, Labrador: Polar wandering and tectonic implications. Can. J. Earth
+Sci., Vol. 10, p. 1279-1301.
+
+SANGSTER, D. F. (1972). — Precambrian volcanogenic massive sulfide deposits in Canada:
+a review. Geol. Surv. Canada Paper, 72-22, 44 p.
+
+STEINHART, J. S. and SmitTH, T. J., ed. (1966). — The Earth beneath the Continents. Amer.
+Geophys. Union, Monograph 10, 663 p. (20 papers on geophysical and geologic studies
+of the Lake Superior region).
+
+STOCKWELL, C. H., McGLynn, J. C., Emsiiz, R. F., SANForD, B. V., Norris, A. W.,
+DonaLpson, J. A., FAHRIG, W. F. and Currie, K. L. (1970). — Geology of the Canadian
+shield. In: Geology and Economic Minerals of Canada, R. J. W. Douglas, ed. Geol. Surv.
+Canada, Economic Geology Report No. 1, 5th ed., 838 p.
+
+Stoirer, R. E. and Davoison, E. S. (1959). — Amygdule mineral zoning in the Portage Lake
+Lava Series, Michigan copper district. Econ. Geology, Vol. 54, p. 1250-1277, 1440-1460.
+
+Turneaure, F. S. (1955). — Metallogenetic provinces and epochs. Econ. Geology, 50th Anniv.
+Vol., p. 38-98.
+
+Upapuyay, H. D. (1973). — Geological setting of the Betts Cove copper deposits, Newfound-
+land: an example of ophiolite sulfide mineralization. Econ. Geology, Vol. 68, p. 161-167.
+
+VoceL, T. A. and Eurticu, R. E. (1971). — A detailed petrographic, fabric, and chemical
+analyses of the lower Nonesuch Shale. Progress report, White Pine Copper Co.
+
+WeecgE, R. J. and Pottock, J. P. (1971). — Recent developments in the native-copper district
+of Michigan. Guidebook for Field Conference, Michigan Copper District, Sept. 30-
+Oct. 2, 1971, Society of Economic Geologists, p. 18-43.
+
+Weece, R. J., Pottock, J. P. and the Calumet Division Geological Staff (1972). — The
+geology of two new mines in the native copper district of Michigan. Econ. Geology,
+Vol. 67, p. 622-633.
+
+Wuite, D. E. (1968). — Environments of generation of some base-metal ore deposits. Econ.
+Geology, Vol. 63, p. 301-335.
+
+Waite, W. S. (1960a). — The Keweenawan lavas of Lake Superior, an example of flood
+basalts. Amer. Jour. Sci., Vol. 25 8 A (Bradley volume), p. 367-374.
+
+Wuite, W. S. (19606). — The White Pine copper deposit (discussion). Econ. Geology, Vol. 55,
+p. 401-414.
+
+Wurte, W. S. (1966). — Tectonics of the Keweenawan basin, western Lake Superior region.
+U.S. Geol. Surv. Prof. Paper, 524, 23 p.
+
+WuitE, W. S. (1968). — The native-copper deposits of Northern Michigan: Graton-Sales.
+Volume 1. Ore Deposits of the United States 1933/1967. Am. Inst. Min. Met. Petr. Eng.,
+Inc., N.Y., p. 308-325.
+
+Wuirte, W. S. (1971a). — A paleohydrologic model for mineralization of the White Pine
+copper deposit, Northern Michigan. Econ. Geology, Vol. 66, p. 1-13.
+
+Wuite, W. S. (19715). — Geologic setting of the Michigan copper district. Guidebook for
+Field Conference, Michigan Copper District, Sept. 30-Oct. 2, 1971, Society of Economic
+Geologists, p. 3-17.
+
+Waite, W. S. (1972). — The base of the Upper Keweenawan, Michigan and Wisconsin. U.S.
+Geol. Surv., Bull. 1354-F, 23 p.
+
+Waite, W. S. and Wricut, J. C. (1954). — The White Pine copper deposit, Ontonagon
+County, Michigan. Econ. Geology, Vol. 49, p. 675-716.
+
+Waite, W. S. and Wricut, J. C. (1960). — Lithofacies of the Copper Harbor conglomerate,
+Northern Michigan. U.S. Geol. Surv. Prof. Paper, 400-B, p. 135-138.
+
+Waite, W. S. and Wricut, J. C. (1966). — Sulfide-mineral zoning in the basal Nonesuch
+Shale, Northern Michigan. Econ. Geology, Vol. 61, p. 1171-1190.
+
+Wiese, R. G., Jr. (1973). — Mineralogy and geochemistry of the Parting Shale, White Pine,
+Michigan. Econ. Geology, Vol. 68, p. 317-331.
+

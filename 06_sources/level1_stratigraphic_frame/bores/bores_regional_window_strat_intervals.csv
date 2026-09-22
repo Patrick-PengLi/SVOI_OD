@@ -1,0 +1,881 @@
+drillhole_no,depth_from_m,depth_to_m,strat_unit,hole_name,drill_date
+16574,0.0,2.4,Quaternary rocks,NOBLES BORE,1959-07-06
+16574,2.4,14.9,Watchie Sandstone,NOBLES BORE,1959-07-06
+16574,14.9,53.95,Andamooka Limestone,NOBLES BORE,1959-07-06
+16575,0.0,1.2,Quaternary rocks,MARSHALL SWAMP BORE,1959-08-13
+16575,1.2,10.7,Simmens Quartzite Member,MARSHALL SWAMP BORE,1959-08-13
+16575,10.7,23.16,Corraberra Sandstone Member,MARSHALL SWAMP BORE,1959-08-13
+16576,0.0,4.3,Quaternary rocks,KNOLL BORE,1959-09-01
+16576,4.3,24.4,Simmens Quartzite Member,KNOLL BORE,1959-09-01
+16576,24.4,42.67,Corraberra Sandstone Member,KNOLL BORE,1959-09-01
+16588,0.0,4.6,Tertiary-Pleistocene rocks,MACS TANK NO.3 B,1965-05-27
+16588,4.6,28.0,Simmens Quartzite Member,MACS TANK NO.3 B,1965-05-27
+16588,28.0,46.0,Corraberra Sandstone Member,MACS TANK NO.3 B,1965-05-27
+16588,46.0,47.24,no sample,MACS TANK NO.3 B,1965-05-27
+16590,0.0,4.3,Quaternary rocks,MACS TANK NO.5 B,1965-07-09
+16590,4.3,30.5,Simmens Quartzite Member,MACS TANK NO.5 B,1965-07-09
+16590,30.5,46.33,Corraberra Sandstone Member,MACS TANK NO.5 B,1965-07-09
+16626,0.0,5.0,Quaternary rocks,P-1,1976-01-01
+16626,5.0,15.0,Watchie Sandstone,P-1,1976-01-01
+16627,0.0,2.0,Quaternary rocks,P-2,1976-01-01
+16627,2.0,5.0,Millers Creek Dolomite Member,P-2,1976-01-01
+16627,5.0,10.0,Watchie Sandstone,P-2,1976-01-01
+16627,10.0,25.0,Curdlawidny Siltstone Member,P-2,1976-01-01
+16627,25.0,43.0,Andamooka Limestone,P-2,1976-01-01
+16628,0.0,6.0,Millers Creek Dolomite Member,P-3,1976-01-01
+16628,6.0,19.0,Watchie Sandstone,P-3,1976-01-01
+16628,19.0,32.0,Curdlawidny Siltstone Member,P-3,1976-01-01
+16628,32.0,34.0,Andamooka Limestone,P-3,1976-01-01
+16629,0.0,4.0,Quaternary rocks,P-4,1976-01-01
+16629,4.0,19.0,Watchie Sandstone,P-4,1976-01-01
+16629,19.0,59.0,Andamooka Limestone,P-4,1976-01-01
+16629,84.0,99.0,Simmens Quartzite Member,P-4,1976-01-01
+16630,0.0,4.0,Quaternary rocks,P-5,1976-01-01
+16630,4.0,24.0,Watchie Sandstone,P-5,1976-01-01
+16630,24.0,50.0,Andamooka Limestone,P-5,1976-01-01
+16631,0.0,16.0,Watchie Sandstone,P-6,1976-01-01
+16631,16.0,45.0,Andamooka Limestone,P-6,1976-01-01
+16631,45.0,50.0,Simmens Quartzite Member,P-6,1976-01-01
+16637,0.0,9.0,Bulldog Shale,WB-01,1979-02-17
+16637,9.0,52.0,Simmens Quartzite Member,WB-01,1979-02-17
+16637,52.0,56.0,Corraberra Sandstone Member,WB-01,1979-02-17
+16637,56.0,72.0,Tregolana Shale Member,WB-01,1979-02-17
+16638,0.0,6.0,Quaternary rocks,SSR-1001,1983-05-23
+16638,6.0,44.77,Simmens Quartzite Member,SSR-1001,1983-05-23
+16638,44.77,63.69,Corraberra Sandstone Member,SSR-1001,1983-05-23
+16638,63.69,215.76,Tregolana Shale Member,SSR-1001,1983-05-23
+16638,215.76,240.95,Seacliff Sandstone,SSR-1001,1983-05-23
+16638,240.95,241.52,Nuccaleena Formation,SSR-1001,1983-05-23
+16638,241.52,242.52,Whyalla Sandstone,SSR-1001,1983-05-23
+16638,242.52,258.5,Pandurra Formation,SSR-1001,1983-05-23
+16638,258.5,300.0,Pandurra Formation,SSR-1001,1983-05-23
+16638,300.0,307.6,Gairdner Dolerite,SSR-1001,1983-05-23
+16638,307.6,328.4,Pandurra Formation,SSR-1001,1983-05-23
+16638,328.4,423.65,Gairdner Dolerite,SSR-1001,1983-05-23
+16638,423.65,432.0,Pandurra Formation,SSR-1001,1983-05-23
+16638,432.0,434.25,Gairdner Dolerite,SSR-1001,1983-05-23
+16638,434.25,499.5,Pandurra Formation,SSR-1001,1983-05-23
+16664,0.0,32.08,Curdlawidny Siltstone Member,,1927-04-29
+16670,0.0,2.4,Quaternary rocks,SOUTHERN CROSS B,1959-04-24
+16670,2.4,6.4,Curdlawidny Siltstone Member,SOUTHERN CROSS B,1959-04-24
+16670,6.4,38.71,Andamooka Limestone,SOUTHERN CROSS B,1959-04-24
+16674,0.0,1.2,Quaternary rocks,RED LAKE BORE,1959-07-14
+16674,1.2,15.8,Curdlawidny Siltstone Member,RED LAKE BORE,1959-07-14
+16674,15.8,34.14,Andamooka Limestone,RED LAKE BORE,1959-07-14
+16675,0.0,2.4,Quaternary rocks,HUMPS BORE,1959-07-24
+16675,2.4,16.1,Curdlawidny Siltstone Member,HUMPS BORE,1959-07-24
+16675,16.1,36.58,Andamooka Limestone,HUMPS BORE,1959-07-24
+16699,0.0,32.7,Boorthanna Formation,PLAYFORD 1,1978-11-11
+16699,32.7,155.14,Andamooka Limestone,PLAYFORD 1,1978-11-11
+16699,155.14,437.79,Tregolana Shale Member,PLAYFORD 1,1978-11-11
+16699,437.79,438.18,Nuccaleena Formation,PLAYFORD 1,1978-11-11
+16699,438.18,442.41,Mesoproterozoic-Neoproterozoic rocks,PLAYFORD 1,1978-11-11
+16699,442.41,586.0,Pandurra Formation,PLAYFORD 1,1978-11-11
+16700,0.0,8.0,Quaternary rocks,PRE-1,1978-09-23
+16700,8.0,50.0,Boorthanna Formation,PRE-1,1978-09-23
+16700,50.0,130.0,Andamooka Limestone,PRE-1,1978-09-23
+16700,130.0,178.0,Simmens Quartzite Member,PRE-1,1978-09-23
+16700,178.0,190.0,Corraberra Sandstone Member,PRE-1,1978-09-23
+16700,190.0,200.0,Tregolana Shale Member,PRE-1,1978-09-23
+16701,0.0,22.0,Quaternary rocks,,1986-01-01
+16701,22.0,40.0,Boorthanna Formation,,1986-01-01
+16701,40.0,64.0,Andamooka Limestone,,1986-01-01
+16705,0.0,1.5,Quaternary rocks,BKA01 DH9,1982-11-03
+16705,1.5,129.0,Boorthanna Formation,BKA01 DH9,1982-11-03
+16706,0.0,3.0,Quaternary rocks,BKA01 DH10,1982-11-03
+16706,3.0,138.0,Boorthanna Formation,BKA01 DH10,1982-11-03
+16706,138.0,138.5,Andamooka Limestone,BKA01 DH10,1982-11-03
+16707,0.0,4.5,Quaternary rocks,BKA01 DH11,1982-11-05
+16707,4.5,69.0,Boorthanna Formation,BKA01 DH11,1982-11-05
+16709,0.0,11.0,no description,AUGER HOLE,1983-01-01
+18159,0.0,122.0,Simmens Quartzite Member,CSD 1,1980-08-21
+18159,122.0,128.0,Corraberra Sandstone Member,CSD 1,1980-08-21
+18159,128.0,348.6,Tregolana Shale Member,CSD 1,1980-08-21
+18159,348.6,352.8,Whyalla Sandstone,CSD 1,1980-08-21
+18159,352.8,399.3,Woocalla Dolomite Member,CSD 1,1980-08-21
+18159,399.3,864.95,Pandurra Formation,CSD 1,1980-08-21
+18159,864.95,994.2,Palaeoproterozoic rocks,CSD 1,1980-08-21
+18160,0.0,4.0,Quaternary rocks,HHD 1 (HHD 1 W1) 1,1981-01-13
+18160,4.0,10.0,Tertiary rocks,HHD 1 (HHD 1 W1) 1,1981-01-13
+18160,10.0,22.0,Yarrawurta Shale,HHD 1 (HHD 1 W1) 1,1981-01-13
+18160,22.0,138.0,Simmens Quartzite Member,HHD 1 (HHD 1 W1) 1,1981-01-13
+18160,138.0,361.1,Tregolana Shale Member,HHD 1 (HHD 1 W1) 1,1981-01-13
+18160,361.1,1132.8,Pandurra Formation,HHD 1 (HHD 1 W1) 1,1981-01-13
+18160,1132.8,1186.2,Hutchison Group,HHD 1 (HHD 1 W1) 1,1981-01-13
+18162,0.0,4.0,Quaternary rocks,TWN 2,1981-06-14
+18162,4.0,20.0,Andamooka Limestone,TWN 2,1981-06-14
+18162,20.0,154.0,Corraberra Sandstone Member,TWN 2,1981-06-14
+18162,154.0,293.3,Tregolana Shale Member,TWN 2,1981-06-14
+18162,293.3,294.5,Nuccaleena Formation,TWN 2,1981-06-14
+18162,294.5,303.4,Umberatana Group unit 2,TWN 2,1981-06-14
+18162,303.4,545.6,Wirrda Subsuite,TWN 2,1981-06-14
+18164,0.0,4.0,Quaternary rocks,HHD 2,1982-04-21
+18164,4.0,8.0,Tertiary-Pleistocene rocks,HHD 2,1982-04-21
+18164,8.0,156.0,Simmens Quartzite Member,HHD 2,1982-04-21
+18164,156.0,328.0,Tregolana Shale Member,HHD 2,1982-04-21
+18164,328.0,364.0,Pandurra Formation,HHD 2,1982-04-21
+18165,0.0,6.0,Quaternary rocks,CRD 1,1980-07-01
+18165,6.0,118.0,Simmens Quartzite Member,CRD 1,1980-07-01
+18166,0.0,40.0,Andamooka Limestone,ACD 1,1980-01-24
+18166,40.0,172.0,Simmens Quartzite Member,ACD 1,1980-01-24
+18166,172.0,200.5,Corraberra Sandstone Member,ACD 1,1980-01-24
+18166,200.5,411.37,Tregolana Shale Member,ACD 1,1980-01-24
+18166,411.37,412.9,Nuccaleena Formation,ACD 1,1980-01-24
+18166,412.9,718.95,Pandurra Formation,ACD 1,1980-01-24
+18166,718.95,1097.6,Palaeoproterozoic-Mesoproterozoic rocks,ACD 1,1980-01-24
+18167,0.0,2.0,Quaternary rocks,ACD 2,1981-04-13
+18167,2.0,27.0,Andamooka Limestone,ACD 2,1981-04-13
+18167,27.0,162.0,Simmens Quartzite Member,ACD 2,1981-04-13
+18167,162.0,180.0,Corraberra Sandstone Member,ACD 2,1981-04-13
+18167,180.0,402.55,Tregolana Shale Member,ACD 2,1981-04-13
+18167,402.55,431.9,Pandurra Formation,ACD 2,1981-04-13
+18167,431.9,915.0,Palaeoproterozoic-Mesoproterozoic rocks,ACD 2,1981-04-13
+18168,0.0,18.0,Quaternary rocks,ACD 4,1981-08-27
+18168,18.0,60.0,Andamooka Limestone,ACD 4,1981-08-27
+18168,60.0,212.0,Simmens Quartzite Member,ACD 4,1981-08-27
+18168,212.0,222.0,Corraberra Sandstone Member,ACD 4,1981-08-27
+18168,222.0,457.05,Tregolana Shale Member,ACD 4,1981-08-27
+18168,457.05,458.4,Nuccaleena Formation,ACD 4,1981-08-27
+18168,458.4,486.1,Tapley Hill Formation,ACD 4,1981-08-27
+18168,486.1,576.25,Pandurra Formation,ACD 4,1981-08-27
+18168,576.25,848.0,Palaeoproterozoic-Mesoproterozoic rocks,ACD 4,1981-08-27
+18170,0.0,15.0,Quaternary rocks,ACD 7,1982-06-22
+18170,15.0,44.0,Andamooka Limestone,ACD 7,1982-06-22
+18170,44.0,194.0,Simmens Quartzite Member,ACD 7,1982-06-22
+18170,194.0,202.0,Corraberra Sandstone Member,ACD 7,1982-06-22
+18170,202.0,421.75,Tregolana Shale Member,ACD 7,1982-06-22
+18170,421.75,423.9,Nuccaleena Formation,ACD 7,1982-06-22
+18170,423.9,448.9,Tapley Hill Formation,ACD 7,1982-06-22
+18170,448.9,464.3,Pandurra Formation,ACD 7,1982-06-22
+18170,464.3,978.8,Palaeoproterozoic-Mesoproterozoic rocks,ACD 7,1982-06-22
+18171,0.0,10.0,Quaternary rocks,ACD 9,1982-10-06
+18171,10.0,41.0,Andamooka Limestone,ACD 9,1982-10-06
+18171,41.0,156.0,Simmens Quartzite Member,ACD 9,1982-10-06
+18171,156.0,196.0,Corraberra Sandstone Member,ACD 9,1982-10-06
+18171,196.0,409.9,Tregolana Shale Member,ACD 9,1982-10-06
+18171,409.9,410.2,Nuccaleena Formation,ACD 9,1982-10-06
+18171,410.2,642.95,Pandurra Formation,ACD 9,1982-10-06
+18171,642.95,877.0,Palaeoproterozoic-Mesoproterozoic rocks,ACD 9,1982-10-06
+18172,0.0,2.0,Quaternary rocks,ACD 10,1983-10-20
+18172,2.0,44.0,Andamooka Limestone,ACD 10,1983-10-20
+18172,44.0,178.0,Simmens Quartzite Member,ACD 10,1983-10-20
+18172,178.0,196.0,Corraberra Sandstone Member,ACD 10,1983-10-20
+18172,196.0,430.5,Tregolana Shale Member,ACD 10,1983-10-20
+18172,430.5,550.6,Pandurra Formation,ACD 10,1983-10-20
+18172,550.6,807.5,Palaeoproterozoic-Mesoproterozoic rocks,ACD 10,1983-10-20
+18189,0.0,78.6,Yarrawurta Shale,BD 1,1981-06-08
+18189,78.6,217.4,Andamooka Limestone,BD 1,1981-06-08
+18189,217.4,389.0,Simmens Quartzite Member,BD 1,1981-06-08
+18189,389.0,407.6,Corraberra Sandstone Member,BD 1,1981-06-08
+18189,407.6,607.6,Tregolana Shale Member,BD 1,1981-06-08
+18189,607.6,941.0,Gawler Range Volcanics,BD 1,1981-06-08
+18190,0.0,18.0,Quaternary rocks,BD 2,1981-03-19
+18190,18.0,110.0,Yarrawurta Shale,BD 2,1981-03-19
+18190,110.0,257.95,Andamooka Limestone,BD 2,1981-03-19
+18190,257.95,434.4,Yarloo Shale,BD 2,1981-03-19
+18190,434.4,455.35,Corraberra Sandstone Member,BD 2,1981-03-19
+18190,455.35,649.1,Tregolana Shale Member,BD 2,1981-03-19
+18190,649.1,652.5,Nuccaleena Formation,BD 2,1981-03-19
+18190,652.5,657.4,Umberatana Group unit 2,BD 2,1981-03-19
+18190,657.4,829.4,Hutchison Group,BD 2,1981-03-19
+20769,0.0,44.0,Simmens Quartzite Member,DRD 1,1980-06-01
+20769,44.0,54.0,Corraberra Sandstone Member,DRD 1,1980-06-01
+20769,54.0,118.0,Tregolana Shale Member,DRD 1,1980-06-01
+20769,118.0,1067.65,Pandurra Formation,DRD 1,1980-06-01
+20769,1067.65,1192.0,Palaeoproterozoic rocks,DRD 1,1980-06-01
+20770,0.0,2.0,Quaternary rocks,HWD 1,1982-06-16
+20770,2.0,20.0,Simmens Quartzite Member,HWD 1,1982-06-16
+20770,20.0,243.0,Corraberra Sandstone Member,HWD 1,1982-06-16
+20770,243.0,439.25,Tregolana Shale Member,HWD 1,1982-06-16
+20770,439.25,440.2,Nuccaleena Formation,HWD 1,1982-06-16
+20770,440.2,592.48,Whyalla Sandstone,HWD 1,1982-06-16
+20770,592.48,592.78,Brighton Limestone,HWD 1,1982-06-16
+20770,592.78,839.7,Tapley Hill Formation,HWD 1,1982-06-16
+20770,839.7,861.2,Pandurra Formation,HWD 1,1982-06-16
+20770,861.2,1097.15,Gawler Range Volcanics,HWD 1,1982-06-16
+20771,0.0,2.0,Quaternary rocks,RED 1,1982-05-06
+20771,2.0,120.0,Corraberra Sandstone Member,RED 1,1982-05-06
+20771,120.0,290.0,Tregolana Shale Member,RED 1,1982-05-06
+20771,290.0,296.95,Umberatana Group unit 2,RED 1,1982-05-06
+20771,296.95,410.0,Gawler Range Volcanics,RED 1,1982-05-06
+20772,0.0,52.0,Yarloo Shale,RED 2,1985-12-10
+20772,52.0,106.0,Simmens Quartzite Member,RED 2,1985-12-10
+20772,106.0,114.0,Corraberra Sandstone Member,RED 2,1985-12-10
+20772,114.0,304.65,Tregolana Shale Member,RED 2,1985-12-10
+20772,304.65,306.96,Nuccaleena Formation,RED 2,1985-12-10
+20772,306.96,310.61,Umberatana Group unit 2,RED 2,1985-12-10
+20772,310.61,686.9,Gawler Range Volcanics,RED 2,1985-12-10
+20773,0.0,88.0,Simmens Quartzite Member,WLD 1,1981-06-22
+20773,88.0,225.0,Tregolana Shale Member,WLD 1,1981-06-22
+20773,225.0,445.5,Hiltaba Suite,WLD 1,1981-06-22
+20828,0.0,2.0,Quaternary rocks,SHD 1,1981-05-12
+20828,2.0,18.0,Jurassic-Cretaceous rocks,SHD 1,1981-05-12
+20828,18.0,108.0,Yarrawurta Shale,SHD 1,1981-05-12
+20828,108.0,254.5,Andamooka Limestone,SHD 1,1981-05-12
+20828,254.5,264.9,Yarloo Shale,SHD 1,1981-05-12
+20828,264.9,534.0,Corraberra Sandstone Member,SHD 1,1981-05-12
+20828,534.0,770.4,Tregolana Shale Member,SHD 1,1981-05-12
+20828,770.4,776.67,Nuccaleena Formation,SHD 1,1981-05-12
+20828,776.67,829.6,Tapley Hill Formation,SHD 1,1981-05-12
+20828,829.6,965.0,Hutchison Group,SHD 1,1981-05-12
+20829,0.0,28.47,Yarrawurta Shale,SCYW-79 1A,1981-07-07
+20829,28.47,196.2,Andamooka Limestone,SCYW-79 1A,1981-07-07
+20829,196.2,386.57,Yarloo Shale,SCYW-79 1A,1981-07-07
+20829,386.57,731.8,Simmens Quartzite Member,SCYW-79 1A,1981-07-07
+20829,731.8,733.67,Corraberra Sandstone Member,SCYW-79 1A,1981-07-07
+20829,733.67,1037.27,Tregolana Shale Member,SCYW-79 1A,1981-07-07
+20829,1037.27,1039.39,Nuccaleena Formation,SCYW-79 1A,1981-07-07
+20829,1039.39,1073.78,Whyalla Sandstone,SCYW-79 1A,1981-07-07
+20829,1073.78,1142.86,Angepena Formation,SCYW-79 1A,1981-07-07
+20829,1142.86,1192.86,Brighton Limestone,SCYW-79 1A,1981-07-07
+20829,1192.86,1372.6,Tapley Hill Formation,SCYW-79 1A,1981-07-07
+20829,1372.6,1450.2,Appila Tillite,SCYW-79 1A,1981-07-07
+20830,0.0,18.0,Andamooka Limestone,BLD1,1979-05-01
+20830,18.0,140.0,Yarloo Shale,BLD1,1979-05-01
+20830,140.0,294.16,Simmens Quartzite Member,BLD1,1979-05-01
+20830,294.16,304.69,Corraberra Sandstone Member,BLD1,1979-05-01
+20830,304.69,512.28,Tregolana Shale Member,BLD1,1979-05-01
+20830,512.28,515.25,Nuccaleena Formation,BLD1,1979-05-01
+20830,515.25,522.8,Umberatana Group unit 2,BLD1,1979-05-01
+20830,522.8,768.0,Mesoproterozoic rocks,BLD1,1979-05-01
+20831,0.0,36.0,Andamooka Limestone,BLD2,1979-09-01
+20831,36.0,152.0,Yarloo Shale,BLD2,1979-09-01
+20831,152.0,362.65,Simmens Quartzite Member,BLD2,1979-09-01
+20831,362.65,374.3,Corraberra Sandstone Member,BLD2,1979-09-01
+20831,374.3,646.2,Tregolana Shale Member,BLD2,1979-09-01
+20831,646.2,650.85,Umberatana Group unit 2,BLD2,1979-09-01
+20831,650.85,696.7,Backy Point Formation,BLD2,1979-09-01
+20831,696.7,860.2,Hiltaba Suite,BLD2,1979-09-01
+20832,0.0,4.0,Quaternary rocks,BLD3,1981-07-31
+20832,4.0,82.0,Andamooka Limestone,BLD3,1981-07-31
+20832,82.0,172.0,Yarloo Shale,BLD3,1981-07-31
+20832,172.0,300.0,Bunyeroo Formation,BLD3,1981-07-31
+20832,300.0,447.3,Simmens Quartzite Member,BLD3,1981-07-31
+20832,447.3,470.7,Corraberra Sandstone Member,BLD3,1981-07-31
+20832,470.7,756.55,Tregolana Shale Member,BLD3,1981-07-31
+20832,756.55,759.37,Nuccaleena Formation,BLD3,1981-07-31
+20832,759.37,775.0,Umberatana Group unit 2,BLD3,1981-07-31
+20832,775.0,793.9,Woocalla Dolomite Member,BLD3,1981-07-31
+20832,793.9,871.67,Tapley Hill Formation,BLD3,1981-07-31
+20832,871.67,872.0,Umberatana Group unit 1,BLD3,1981-07-31
+20832,872.0,1024.0,Mesoproterozoic rocks,BLD3,1981-07-31
+20833,0.0,2.0,Tertiary-Pleistocene rocks,BLD4,1985-06-21
+20833,2.0,100.0,Andamooka Limestone,BLD4,1985-06-21
+20833,100.0,208.0,Yarloo Shale,BLD4,1985-06-21
+20833,208.0,480.28,Simmens Quartzite Member,BLD4,1985-06-21
+20833,480.28,504.49,Corraberra Sandstone Member,BLD4,1985-06-21
+20833,504.49,806.0,Tregolana Shale Member,BLD4,1985-06-21
+20833,806.0,816.3,Reynella Siltstone Member,BLD4,1985-06-21
+20833,816.3,818.67,Umberatana Group unit 2,BLD4,1985-06-21
+20833,818.67,957.68,Tapley Hill Formation,BLD4,1985-06-21
+20833,957.68,968.66,Appila Tillite,BLD4,1985-06-21
+20833,968.66,1037.0,Burra Group,BLD4,1985-06-21
+136949,0.0,1.3,Quaternary rocks,SCC 16,1977-09-16
+136949,1.3,8.6,Marree Subgroup,SCC 16,1977-09-16
+136949,8.6,13.6,Algebuckina Sandstone,SCC 16,1977-09-16
+136949,13.6,15.6,Pound Subgroup,SCC 16,1977-09-16
+136950,0.0,0.5,Quaternary rocks,SCC 19,1977-09-22
+136950,0.5,2.3,Mount Sarah Sandstone,SCC 19,1977-09-22
+136950,2.3,20.9,Marree Subgroup,SCC 19,1977-09-22
+136951,0.0,1.3,Quaternary rocks,SCC 25,1977-09-21
+136951,1.3,3.4,Mount Sarah Sandstone,SCC 25,1977-09-21
+136951,3.4,6.19,Marree Subgroup,SCC 25,1977-09-21
+136951,6.19,6.2,ABC Range Quartzite,SCC 25,1977-09-21
+138077,0.0,13.0,Cretaceous rocks,LT 6,1986-11-25
+138077,13.0,13.5,Wilpena Group,LT 6,1986-11-25
+138123,0.0,2.0,Quaternary rocks,DF 0,1988-08-23
+138123,2.0,36.0,Bulldog Shale,DF 0,1988-08-23
+138257,0.0,15.0,Neoproterozoic rocks,LT 9,1986-11-25
+138258,0.0,15.0,Neoproterozoic rocks,LT 10,1986-11-25
+138269,0.0,4.0,Quaternary rocks,DF 1,1988-08-25
+138269,4.0,6.0,Eocene-Quaternary silcrete,DF 1,1988-08-25
+138269,6.0,32.0,Bulldog Shale,DF 1,1988-08-25
+138269,32.0,40.0,Bulldog Shale,DF 1,1988-08-25
+138270,0.0,18.0,Bulldog Shale,DF 2,1988-08-25
+138270,18.0,32.0,Algebuckina Sandstone,DF 2,1988-08-25
+138271,0.0,6.0,Quaternary rocks,DF 3,1988-08-25
+138271,6.0,12.0,Bulldog Shale,DF 3,1988-08-25
+138272,0.0,2.0,Quaternary rocks,DF 4,1988-08-25
+138272,2.0,18.0,Bulldog Shale,DF 4,1988-08-25
+138273,0.0,2.0,Quaternary rocks,DF 5,1988-08-26
+138273,2.0,24.0,Bulldog Shale,DF 5,1988-08-26
+138274,0.0,2.0,Quaternary rocks,DF 6,1988-08-26
+138274,2.0,50.0,Bulldog Shale,DF 6,1988-08-26
+138274,50.0,60.0,Neoproterozoic rocks,DF 6,1988-08-26
+138277,0.0,2.0,Quaternary rocks,ED 3,1988-08-24
+138277,2.0,26.0,Bulldog Shale,ED 3,1988-08-24
+138277,26.0,54.0,Neoproterozoic rocks,ED 3,1988-08-24
+138278,0.0,2.0,Quaternary rocks,ED 4,1988-08-24
+138278,2.0,46.0,Bulldog Shale,ED 4,1988-08-24
+138278,46.0,50.0,Neoproterozoic rocks,ED 4,1988-08-24
+138279,0.0,2.0,Quaternary rocks,ED 5,1988-08-24
+138279,2.0,18.5,Bulldog Shale,ED 5,1988-08-24
+138279,18.5,40.0,Yarrawurta Shale,ED 5,1988-08-24
+138284,0.0,22.0,Bulldog Shale,PH 2,1988-08-27
+138284,22.0,36.0,Neoproterozoic rocks,PH 2,1988-08-27
+138290,0.0,2.0,Quaternary rocks,BF 1,1988-08-25
+138290,2.0,35.0,Bulldog Shale,BF 1,1988-08-25
+138290,35.0,36.0,Neoproterozoic rocks,BF 1,1988-08-25
+138294,0.0,20.0,Amberoona Formation,WC 1,1979-01-01
+138298,0.0,7.0,Amberoona Formation,WC 2,1979-01-01
+138299,0.0,25.0,Amberoona Formation,WC 4,1979-01-01
+138300,0.0,32.0,Yarrawurta Shale,SCYW-79 1,1979-09-22
+138300,32.0,200.0,Andamooka Limestone,SCYW-79 1,1979-09-22
+138300,200.0,286.5,Yarloo Shale,SCYW-79 1,1979-09-22
+138319,0.0,82.0,Andamooka Limestone,PPR 4B,1978-09-17
+138319,82.0,126.0,Yarloo Shale,PPR 4B,1978-09-17
+138319,126.0,182.0,Simmens Quartzite Member,PPR 4B,1978-09-17
+138319,182.0,400.0,Tregolana Shale Member,PPR 4B,1978-09-17
+138320,0.0,26.0,Quaternary rocks,PPR 6,1978-09-27
+138320,26.0,97.0,Andamooka Limestone,PPR 6,1978-09-27
+138320,97.0,104.0,Yarloo Shale,PPR 6,1978-09-27
+138320,104.0,180.0,Simmens Quartzite Member,PPR 6,1978-09-27
+138320,180.0,194.0,Tregolana Shale Member,PPR 6,1978-09-27
+138321,0.0,9.0,Quaternary rocks,PPR 7,1979-08-16
+138321,9.0,40.0,Andamooka Limestone,PPR 7,1979-08-16
+138321,40.0,42.0,Yarloo Shale,PPR 7,1979-08-16
+138321,42.0,130.0,Simmens Quartzite Member,PPR 7,1979-08-16
+138321,130.0,172.0,Corraberra Sandstone Member,PPR 7,1979-08-16
+138321,172.0,334.0,Tregolana Shale Member,PPR 7,1979-08-16
+138322,0.0,72.0,Andamooka Limestone,PPR 5 SAP 1,1979-12-01
+138322,72.0,74.0,Yarloo Shale,PPR 5 SAP 1,1979-12-01
+138322,74.0,192.0,Simmens Quartzite Member,PPR 5 SAP 1,1979-12-01
+138322,192.0,226.0,Corraberra Sandstone Member,PPR 5 SAP 1,1979-12-01
+138322,226.0,423.23,Tregolana Shale Member,PPR 5 SAP 1,1979-12-01
+138322,423.23,425.05,Nuccaleena Formation,PPR 5 SAP 1,1979-12-01
+138322,425.05,426.7,Umberatana Group,PPR 5 SAP 1,1979-12-01
+138322,426.7,464.5,Tapley Hill Formation,PPR 5 SAP 1,1979-12-01
+138322,464.5,476.9,Umberatana Group,PPR 5 SAP 1,1979-12-01
+138322,476.9,1369.3,Pandurra Formation,PPR 5 SAP 1,1979-12-01
+148000,0.0,2.0,Quaternary rocks,ACD 3,1981-07-23
+148000,2.0,32.0,Andamooka Limestone,ACD 3,1981-07-23
+148000,32.0,184.0,Simmens Quartzite Member,ACD 3,1981-07-23
+148000,184.0,198.0,Corraberra Sandstone Member,ACD 3,1981-07-23
+148000,198.0,417.6,Tregolana Shale Member,ACD 3,1981-07-23
+148000,417.6,431.7,Nuccaleena Formation,ACD 3,1981-07-23
+148000,431.7,433.2,Tapley Hill Formation,ACD 3,1981-07-23
+148000,433.2,640.1,Pandurra Formation,ACD 3,1981-07-23
+148000,640.1,700.0,Palaeoproterozoic-Mesoproterozoic rocks,ACD 3,1981-07-23
+153715,0.0,34.75,Andamooka Limestone,LTA 1,1968-08-22
+153715,34.75,92.35,Yarloo Shale,LTA 1,1968-08-22
+153716,0.0,36.88,Andamooka Limestone,LTA 2,1968-09-07
+153716,36.88,59.13,Yarloo Shale,LTA 2,1968-09-07
+153717,0.0,41.15,Andamooka Limestone,LTA 3,1968-09-09
+153717,41.15,44.2,Yarloo Shale,LTA 3,1968-09-09
+169969,0.0,27.43,Andamooka Limestone,AND/RP 1,1970-11-26
+169970,0.0,64.01,Andamooka Limestone,AND/RP 2,1970-11-27
+169971,0.0,12.19,Holocene lacustrine/playa sediments,AND/RP 3,1970-11-28
+169971,12.19,32.92,Andamooka Limestone,AND/RP 3,1970-11-28
+169972,0.0,3.05,Holocene lacustrine/playa sediments,AND/RP 4,1970-11-30
+169972,3.05,64.92,Andamooka Limestone,AND/RP 4,1970-11-30
+169973,0.0,60.96,Andamooka Limestone,AND/RP 5,1970-12-01
+169974,0.0,79.25,Andamooka Limestone,AND/RP 6,1970-12-01
+169975,0.0,39.62,Andamooka Limestone,AND/RP 7,1970-12-02
+169976,0.0,33.53,Andamooka Limestone,AND/RP 8,1970-12-02
+169977,0.0,3.05,Holocene lacustrine/playa sediments,AND/RP 9,1970-12-03
+169977,3.05,67.06,Andamooka Limestone,AND/RP 9,1970-12-03
+169978,0.0,6.1,Holocene lacustrine/playa sediments,AND/RP 10,1970-12-04
+169978,6.1,64.01,Andamooka Limestone,AND/RP 10,1970-12-04
+169979,0.0,3.05,Holocene lacustrine/playa sediments,AND/RP 11,1970-12-04
+169979,3.05,60.96,Andamooka Limestone,AND/RP 11,1970-12-04
+169980,0.0,1.22,Holocene lacustrine/playa sediments,AND/RP 12,1970-12-12
+169980,1.22,43.59,Andamooka Limestone,AND/RP 12,1970-12-12
+170020,0.0,0.5,Quaternary rocks,BRD 1,1996-10-26
+170020,0.5,18.0,Andamooka Limestone,BRD 1,1996-10-26
+170020,18.0,58.0,Hawker Group,BRD 1,1996-10-26
+170020,58.0,132.0,Yarloo Shale,BRD 1,1996-10-26
+170020,132.0,275.5,Simmens Quartzite Member,BRD 1,1996-10-26
+170020,275.5,415.58,Corraberra Sandstone Member,BRD 1,1996-10-26
+170020,415.58,710.3,Tregolana Shale Member,BRD 1,1996-10-26
+170020,710.3,718.6,Nuccaleena Formation,BRD 1,1996-10-26
+170020,718.6,730.5,Reynella Siltstone Member,BRD 1,1996-10-26
+170020,730.5,797.53,Tapley Hill Formation,BRD 1,1996-10-26
+170020,797.53,890.6,Hiltaba Suite,BRD 1,1996-10-26
+170058,0.0,2.0,Quaternary rocks,BRD 2,1997-11-25
+170058,2.0,96.0,Yarloo Shale,BRD 2,1997-11-25
+170058,96.0,241.74,Simmens Quartzite Member,BRD 2,1997-11-25
+170058,241.74,264.43,Corraberra Sandstone Member,BRD 2,1997-11-25
+170058,264.43,407.13,Tregolana Shale Member,BRD 2,1997-11-25
+170058,407.13,408.28,Nuccaleena Formation,BRD 2,1997-11-25
+170058,408.28,424.4,Reynella Siltstone Member,BRD 2,1997-11-25
+170058,424.4,522.5,Mesoproterozoic rocks,BRD 2,1997-11-25
+176158,0.0,0.5,Quaternary rocks,SCC 1,1977-09-15
+176158,0.5,11.18,Marree Subgroup,SCC 1,1977-09-15
+176159,0.0,0.5,Quaternary rocks,SCC 2,1977-09-15
+176159,0.5,11.7,Marree Subgroup,SCC 2,1977-09-15
+176160,0.0,0.5,Quaternary rocks,SCC 8,1977-09-15
+176160,0.5,11.2,Marree Subgroup,SCC 8,1977-09-15
+176161,0.0,0.5,Quaternary rocks,SCC 9,1977-09-15
+176161,0.5,11.7,Marree Subgroup,SCC 9,1977-09-15
+176162,0.0,0.5,Quaternary rocks,SCC 10,1977-09-15
+176162,0.5,6.4,Marree Subgroup,SCC 10,1977-09-15
+176163,0.0,0.5,Quaternary rocks,SCC 11,1977-09-15
+176163,0.5,5.9,Marree Subgroup,SCC 11,1977-09-15
+176164,0.0,0.5,Quaternary rocks,SCC 12,1977-09-16
+176164,0.5,6.1,Marree Subgroup,SCC 12,1977-09-16
+176165,0.0,0.6,Quaternary rocks,SCC 17,1977-09-16
+176165,0.6,10.9,Marree Subgroup,SCC 17,1977-09-16
+176166,0.0,0.4,Quaternary rocks,SCC 20,1977-09-22
+176166,0.4,4.9,Marree Subgroup,SCC 20,1977-09-22
+176167,0.0,1.2,Quaternary rocks,SCC 24,1977-09-22
+176167,1.2,6.3,Marree Subgroup,SCC 24,1977-09-22
+176168,0.0,0.3,Quaternary rocks,SCC 26,1977-09-21
+176168,0.3,12.9,Marree Subgroup,SCC 26,1977-09-21
+176169,0.0,0.6,Quaternary rocks,SCC 27,1977-09-21
+176169,0.6,14.9,Marree Subgroup,SCC 27,1977-09-21
+191138,0.0,57.0,Tertiary-Pleistocene rocks,RCM 1,2002-07-08
+191138,57.0,176.0,Andamooka Limestone,RCM 1,2002-07-08
+191138,176.0,324.0,Corraberra Sandstone Member,RCM 1,2002-07-08
+191138,324.0,553.0,Tregolana Shale Member,RCM 1,2002-07-08
+191138,553.0,555.0,Nuccaleena Formation,RCM 1,2002-07-08
+191138,555.0,602.0,Pandurra Formation,RCM 1,2002-07-08
+206086,102.0,295.2,Simmens Quartzite Member,BLANCHE 1,2005-10-03
+206086,295.2,303.03,Corraberra Sandstone Member,BLANCHE 1,2005-10-03
+206086,303.03,545.53,Tregolana Shale Member,BLANCHE 1,2005-10-03
+206086,545.53,636.71,Tapley Hill Formation,BLANCHE 1,2005-10-03
+206086,636.71,718.05,Pandurra Formation,BLANCHE 1,2005-10-03
+206086,718.05,1936.6,Hiltaba Suite,BLANCHE 1,2005-10-03
+209782,0.0,1.0,Quaternary rocks,RC-DD04MS001,2004-12-20
+209782,1.0,18.0,Bulldog Shale,RC-DD04MS001,2004-12-20
+209782,18.0,26.0,Yarrawurta Shale,RC-DD04MS001,2004-12-20
+209782,26.0,138.0,Andamooka Limestone,RC-DD04MS001,2004-12-20
+209782,138.0,141.0,Yarloo Shale,RC-DD04MS001,2004-12-20
+209782,141.0,361.0,Simmens Quartzite Member,RC-DD04MS001,2004-12-20
+209782,361.0,368.0,Corraberra Sandstone Member,RC-DD04MS001,2004-12-20
+209782,368.0,559.0,Tregolana Shale Member,RC-DD04MS001,2004-12-20
+209782,559.0,830.8,Olympic Dam Breccia Complex,RC-DD04MS001,2004-12-20
+209917,0.0,2.0,Quaternary rocks,RC-DD04TI008,2004-11-20
+209917,2.0,69.0,Yarrawurta Shale,RC-DD04TI008,2004-11-20
+209917,69.0,213.0,Andamooka Limestone,RC-DD04TI008,2004-11-20
+209917,213.0,406.0,Simmens Quartzite Member,RC-DD04TI008,2004-11-20
+209917,406.0,413.0,Corraberra Sandstone Member,RC-DD04TI008,2004-11-20
+209917,413.0,621.0,Tregolana Shale Member,RC-DD04TI008,2004-11-20
+209917,621.0,797.8,Pandurra Formation,RC-DD04TI008,2004-11-20
+231063,0.0,9.0,Yarrawurta Shale,PH-DD05MS003,2005-09-21
+231063,9.0,163.85,Andamooka Limestone,PH-DD05MS003,2005-09-21
+231063,163.85,189.9,Yarloo Shale,PH-DD05MS003,2005-09-21
+231063,189.9,439.93,Simmens Quartzite Member,PH-DD05MS003,2005-09-21
+231063,439.93,444.7,Corraberra Sandstone Member,PH-DD05MS003,2005-09-21
+231063,444.7,693.8,Tregolana Shale Member,PH-DD05MS003,2005-09-21
+231063,693.8,711.46,Nuccaleena Formation,PH-DD05MS003,2005-09-21
+231063,711.46,891.2,Neoproterozoic rocks,PH-DD05MS003,2005-09-21
+231064,0.0,1.5,Quaternary alluvial/fluvial sediments,PH-DD05MS004,2005-11-17
+231064,1.5,9.0,Bulldog Shale,PH-DD05MS004,2005-11-17
+231064,9.0,131.18,Andamooka Limestone,PH-DD05MS004,2005-11-17
+231064,131.18,145.0,Yarloo Shale,PH-DD05MS004,2005-11-17
+231064,145.0,407.2,Simmens Quartzite Member,PH-DD05MS004,2005-11-17
+231064,407.2,414.2,Corraberra Sandstone Member,PH-DD05MS004,2005-11-17
+231064,414.2,654.5,Tregolana Shale Member,PH-DD05MS004,2005-11-17
+231064,654.5,658.5,Nuccaleena Formation,PH-DD05MS004,2005-11-17
+231064,658.5,759.0,Neoproterozoic rocks,PH-DD05MS004,2005-11-17
+232640,0.0,3.0,Quaternary alluvial/fluvial sediments,PH-DD05MS002,2005-09-17
+232640,3.0,12.0,Yarrawurta Shale,PH-DD05MS002,2005-09-17
+232640,12.0,113.85,Andamooka Limestone,PH-DD05MS002,2005-09-17
+232640,113.85,357.9,Simmens Quartzite Member,PH-DD05MS002,2005-09-17
+232640,357.9,363.17,Corraberra Sandstone Member,PH-DD05MS002,2005-09-17
+232640,363.17,553.37,Tregolana Shale Member,PH-DD05MS002,2005-09-17
+232640,553.37,557.55,Nuccaleena Formation,PH-DD05MS002,2005-09-17
+232640,557.55,930.4,Pandurra Formation,PH-DD05MS002,2005-09-17
+234093,0.0,2.0,Quaternary rocks,DD07CH01,2007-07-03
+234093,2.0,65.0,Yarrawurta Shale,DD07CH01,2007-07-03
+234093,65.0,235.35,Andamooka Limestone,DD07CH01,2007-07-03
+234093,235.35,240.5,Yarloo Shale,DD07CH01,2007-07-03
+234094,0.0,2.0,Quaternary rocks,DD07CH02,2007-06-17
+234094,2.0,90.0,Yarrawurta Shale,DD07CH02,2007-06-17
+234094,90.0,109.0,Andamooka Limestone,DD07CH02,2007-06-17
+234095,0.0,2.0,Quaternary rocks,DD07CH03,2007-06-18
+234095,2.0,69.0,Yarrawurta Shale,DD07CH03,2007-06-18
+234095,69.0,88.0,Andamooka Limestone,DD07CH03,2007-06-18
+234096,0.0,2.0,Quaternary rocks,DD07CH04,2007-07-30
+234096,2.0,60.0,Yarrawurta Shale,DD07CH04,2007-07-30
+234096,60.0,228.1,Andamooka Limestone,DD07CH04,2007-07-30
+234096,228.1,231.5,Yarloo Shale,DD07CH04,2007-07-30
+234097,0.0,2.0,Quaternary rocks,DD07CH05,2007-07-17
+234097,2.0,68.5,Yarrawurta Shale,DD07CH05,2007-07-17
+234097,68.5,213.6,Andamooka Limestone,DD07CH05,2007-07-17
+235602,0.0,35.0,Andamooka Limestone,AS07D01,2007-09-19
+235602,35.0,182.0,Corraberra Sandstone Member,AS07D01,2007-09-19
+235602,182.0,379.5,Tregolana Shale Member,AS07D01,2007-09-19
+235602,379.5,1461.89,Pandurra Formation,AS07D01,2007-09-19
+235602,1461.89,1488.4,Gawler Range Volcanics,AS07D01,2007-09-19
+235602,1488.4,1490.9,breccia unit 1,AS07D01,2007-09-19
+235602,1490.9,1525.6,Gawler Range Volcanics,AS07D01,2007-09-19
+237081,0.0,1.0,Quaternary rocks,08GL01,2008-05-14
+237081,1.0,56.0,Simmens Quartzite Member,08GL01,2008-05-14
+237081,56.0,78.0,Corraberra Sandstone Member,08GL01,2008-05-14
+237081,78.0,254.0,Tregolana Shale Member,08GL01,2008-05-14
+237081,254.0,551.0,Pandurra Formation,08GL01,2008-05-14
+237081,551.0,999.6,Gawler Range Volcanics,08GL01,2008-05-14
+237529,0.0,58.0,Boorthanna Formation,08PD04C,2008-03-30
+237529,58.0,155.33,Andamooka Limestone,08PD04C,2008-03-30
+237529,155.33,214.65,Simmens Quartzite Member,08PD04C,2008-03-30
+237529,214.65,235.47,Corraberra Sandstone Member,08PD04C,2008-03-30
+237529,235.47,438.0,Tregolana Shale Member,08PD04C,2008-03-30
+237529,438.0,439.9,Nuccaleena Formation,08PD04C,2008-03-30
+237529,439.9,446.33,Gairdner Dolerite,08PD04C,2008-03-30
+237529,446.33,451.5,Pandurra Formation,08PD04C,2008-03-30
+237529,451.5,477.5,Gairdner Dolerite,08PD04C,2008-03-30
+237529,477.5,739.5,Pandurra Formation,08PD04C,2008-03-30
+237529,739.5,877.5,Gawler Range Volcanics,08PD04C,2008-03-30
+237529,877.5,1157.0,Wandearah Formation,08PD04C,2008-03-30
+241857,0.0,6.0,Quaternary rocks,AS09D03,2009-01-31
+241857,6.0,296.76,Andamooka Limestone,AS09D03,2009-01-31
+241857,296.76,518.91,Tregolana Shale Member,AS09D03,2009-01-31
+241857,518.91,539.97,Seacliff Sandstone,AS09D03,2009-01-31
+241857,539.97,543.02,Nuccaleena Formation,AS09D03,2009-01-31
+241857,543.02,545.07,Whyalla Sandstone,AS09D03,2009-01-31
+241857,545.07,671.2,Tapley Hill Formation,AS09D03,2009-01-31
+241857,671.2,754.1,Donington Suite,AS09D03,2009-01-31
+241857,754.1,756.53,Tournefort Metadolerite,AS09D03,2009-01-31
+241857,756.53,758.87,Donington Suite,AS09D03,2009-01-31
+241857,758.87,761.9,Tournefort Metadolerite,AS09D03,2009-01-31
+241857,761.9,804.53,Donington Suite,AS09D03,2009-01-31
+258882,0.0,14.0,Quaternary spring sediments,RCDD10VUD002,2010-04-23
+258882,14.0,20.0,Bulldog Shale,RCDD10VUD002,2010-04-23
+258882,20.0,126.0,Yarrawurta Shale,RCDD10VUD002,2010-04-23
+258882,126.0,268.15,Andamooka Limestone,RCDD10VUD002,2010-04-23
+258882,268.15,291.0,Yarloo Shale,RCDD10VUD002,2010-04-23
+258882,291.0,546.0,Simmens Quartzite Member,RCDD10VUD002,2010-04-23
+258882,546.0,573.2,Corraberra Sandstone Member,RCDD10VUD002,2010-04-23
+258882,573.2,838.6,Tregolana Shale Member,RCDD10VUD002,2010-04-23
+258882,838.6,845.05,Nuccaleena Formation,RCDD10VUD002,2010-04-23
+258882,845.05,889.35,Tapley Hill Formation,RCDD10VUD002,2010-04-23
+258882,889.35,899.5,breccia,RCDD10VUD002,2010-04-23
+258882,899.5,913.3,Hutchison Group,RCDD10VUD002,2010-04-23
+258882,913.3,926.0,breccia,RCDD10VUD002,2010-04-23
+258882,926.0,937.2,Hutchison Group,RCDD10VUD002,2010-04-23
+258882,937.2,953.35,breccia,RCDD10VUD002,2010-04-23
+258882,953.35,972.8,Hutchison Group,RCDD10VUD002,2010-04-23
+258882,972.8,986.9,breccia,RCDD10VUD002,2010-04-23
+258882,986.9,997.2,Hutchison Group,RCDD10VUD002,2010-04-23
+258882,997.2,1001.0,breccia,RCDD10VUD002,2010-04-23
+258882,1001.0,1004.3,Hutchison Group,RCDD10VUD002,2010-04-23
+258882,1004.3,1007.5,breccia,RCDD10VUD002,2010-04-23
+258882,1007.5,1037.4,Hutchison Group,RCDD10VUD002,2010-04-23
+258882,1037.4,1047.0,breccia,RCDD10VUD002,2010-04-23
+258882,1047.0,1065.7,Hutchison Group,RCDD10VUD002,2010-04-23
+258882,1065.7,1067.8,breccia,RCDD10VUD002,2010-04-23
+258882,1067.8,1088.5,Hutchison Group,RCDD10VUD002,2010-04-23
+258882,1088.5,1093.15,breccia,RCDD10VUD002,2010-04-23
+258882,1093.15,1101.45,Hutchison Group,RCDD10VUD002,2010-04-23
+258882,1101.45,1105.97,breccia,RCDD10VUD002,2010-04-23
+258882,1105.97,1119.3,Hutchison Group,RCDD10VUD002,2010-04-23
+258883,0.0,20.0,Quaternary spring sediments,RCDD10VUD003,2010-06-06
+258883,20.0,106.0,Yarrawurta Shale,RCDD10VUD003,2010-06-06
+258883,106.0,254.14,Andamooka Limestone,RCDD10VUD003,2010-06-06
+258883,254.14,289.0,Yarloo Shale,RCDD10VUD003,2010-06-06
+258883,289.0,543.4,Simmens Quartzite Member,RCDD10VUD003,2010-06-06
+258883,543.4,549.5,Corraberra Sandstone Member,RCDD10VUD003,2010-06-06
+258883,549.5,827.0,Tregolana Shale Member,RCDD10VUD003,2010-06-06
+258883,827.0,832.5,Nuccaleena Formation,RCDD10VUD003,2010-06-06
+258883,832.5,874.2,Tapley Hill Formation,RCDD10VUD003,2010-06-06
+258883,874.2,896.5,breccia,RCDD10VUD003,2010-06-06
+258883,896.5,912.0,Hutchison Group,RCDD10VUD003,2010-06-06
+258883,912.0,930.2,breccia,RCDD10VUD003,2010-06-06
+258883,930.2,1024.1,Hutchison Group,RCDD10VUD003,2010-06-06
+258883,1024.1,1028.0,breccia,RCDD10VUD003,2010-06-06
+258883,1028.0,1039.0,Hutchison Group,RCDD10VUD003,2010-06-06
+258883,1039.0,1047.55,breccia,RCDD10VUD003,2010-06-06
+258883,1047.55,1080.9,Hutchison Group,RCDD10VUD003,2010-06-06
+258883,1080.9,1109.3,breccia,RCDD10VUD003,2010-06-06
+258883,1109.3,1119.8,Hutchison Group,RCDD10VUD003,2010-06-06
+258884,0.0,13.0,Quaternary spring sediments,RCDD10VUD004,2010-06-21
+258884,13.0,23.0,Bulldog Shale,RCDD10VUD004,2010-06-21
+258884,23.0,104.0,Yarrawurta Shale,RCDD10VUD004,2010-06-21
+258884,104.0,254.4,Andamooka Limestone,RCDD10VUD004,2010-06-21
+258884,254.4,284.3,Yarloo Shale,RCDD10VUD004,2010-06-21
+258884,284.3,536.5,Simmens Quartzite Member,RCDD10VUD004,2010-06-21
+258884,536.5,555.1,Corraberra Sandstone Member,RCDD10VUD004,2010-06-21
+258884,555.1,834.3,Tregolana Shale Member,RCDD10VUD004,2010-06-21
+258884,834.3,840.0,Nuccaleena Formation,RCDD10VUD004,2010-06-21
+258884,840.0,882.63,Tapley Hill Formation,RCDD10VUD004,2010-06-21
+258884,882.63,948.1,Hutchison Group,RCDD10VUD004,2010-06-21
+258884,948.1,948.5,breccia,RCDD10VUD004,2010-06-21
+258884,948.5,959.5,Hutchison Group,RCDD10VUD004,2010-06-21
+258884,959.5,961.0,breccia,RCDD10VUD004,2010-06-21
+258884,961.0,990.7,Hutchison Group,RCDD10VUD004,2010-06-21
+258885,0.0,7.0,Quaternary spring sediments,RCDD10VUD005,2010-07-22
+258885,7.0,11.0,Quaternary coastal sediments,RCDD10VUD005,2010-07-22
+258885,11.0,27.0,Bulldog Shale,RCDD10VUD005,2010-07-22
+258885,27.0,98.0,Yarrawurta Shale,RCDD10VUD005,2010-07-22
+258885,98.0,237.7,Andamooka Limestone,RCDD10VUD005,2010-07-22
+258885,237.7,258.3,Yarloo Shale,RCDD10VUD005,2010-07-22
+258885,258.3,498.6,Simmens Quartzite Member,RCDD10VUD005,2010-07-22
+258885,498.6,528.3,Corraberra Sandstone Member,RCDD10VUD005,2010-07-22
+258885,528.3,771.8,Tregolana Shale Member,RCDD10VUD005,2010-07-22
+258885,771.8,778.8,Nuccaleena Formation,RCDD10VUD005,2010-07-22
+258885,778.8,837.56,Tapley Hill Formation,RCDD10VUD005,2010-07-22
+258885,837.56,1413.5,Pandurra Formation,RCDD10VUD005,2010-07-22
+259026,0.0,107.8,Andamooka Limestone,AS08D02,2008-02-20
+259026,107.8,268.6,Corraberra Sandstone Member,AS08D02,2008-02-20
+259026,268.6,491.0,Tregolana Shale Member,AS08D02,2008-02-20
+259026,491.0,709.6,Tapley Hill Formation,AS08D02,2008-02-20
+259026,709.6,1312.0,Pandurra Formation,AS08D02,2008-02-20
+259026,1312.0,1487.1,Gawler Range Volcanics,AS08D02,2008-02-20
+259027,0.0,4.5,Tertiary-Pleistocene rocks,AS10D04,2010-10-29
+259027,4.5,299.0,Andamooka Limestone,AS10D04,2010-10-29
+259027,299.0,509.0,Tregolana Shale Member,AS10D04,2010-10-29
+259027,509.0,535.7,Seacliff Sandstone,AS10D04,2010-10-29
+259027,535.7,538.5,Nuccaleena Formation,AS10D04,2010-10-29
+259027,538.5,540.15,Whyalla Sandstone,AS10D04,2010-10-29
+259027,540.15,655.55,Tapley Hill Formation,AS10D04,2010-10-29
+259027,655.55,658.0,Donington Suite,AS10D04,2010-10-29
+259027,658.0,664.4,Tournefort Metadolerite,AS10D04,2010-10-29
+259027,664.4,707.7,Donington Suite,AS10D04,2010-10-29
+259027,707.7,720.6,Tournefort Metadolerite,AS10D04,2010-10-29
+259027,720.6,828.8,Donington Suite,AS10D04,2010-10-29
+262009,0.0,2.0,Quaternary rocks,ACD 12,1984-07-18
+262009,2.0,36.0,Andamooka Limestone,ACD 12,1984-07-18
+262009,36.0,194.0,Simmens Quartzite Member,ACD 12,1984-07-18
+262009,194.0,214.0,Corraberra Sandstone Member,ACD 12,1984-07-18
+262009,214.0,428.87,Tregolana Shale Member,ACD 12,1984-07-18
+262009,428.87,452.32,Neoproterozoic rocks,ACD 12,1984-07-18
+262009,452.32,813.53,Pandurra Formation,ACD 12,1984-07-18
+262009,813.53,855.0,Palaeoproterozoic-Mesoproterozoic rocks,ACD 12,1984-07-18
+262010,0.0,2.0,Quaternary rocks,ACD 6,1982-02-12
+262010,2.0,38.0,Andamooka Limestone,ACD 6,1982-02-12
+262010,38.0,208.0,Simmens Quartzite Member,ACD 6,1982-02-12
+262010,208.0,228.0,Corraberra Sandstone Member,ACD 6,1982-02-12
+262010,228.0,475.7,Tregolana Shale Member,ACD 6,1982-02-12
+262010,475.7,482.9,Tapley Hill Formation,ACD 6,1982-02-12
+262010,482.9,607.0,Pandurra Formation,ACD 6,1982-02-12
+262010,607.0,793.3,Palaeoproterozoic-Mesoproterozoic rocks,ACD 6,1982-02-12
+262011,0.0,7.0,Andamooka Limestone,WRD16,1984-06-19
+262011,7.0,180.0,Simmens Quartzite Member,WRD16,1984-06-19
+262011,180.0,200.0,Corraberra Sandstone Member,WRD16,1984-06-19
+262011,200.0,437.35,Tregolana Shale Member,WRD16,1984-06-19
+262011,437.35,443.65,Pandurra Formation,WRD16,1984-06-19
+262011,443.65,500.0,Palaeoproterozoic-Mesoproterozoic rocks,WRD16,1984-06-19
+262842,0.0,50.0,Tertiary-Pleistocene rocks,MDD01,2007-08-29
+262842,50.0,180.0,Andamooka Limestone,MDD01,2007-08-29
+262842,180.0,341.0,Corraberra Sandstone Member,MDD01,2007-08-29
+262842,341.0,552.77,Tregolana Shale Member,MDD01,2007-08-29
+262842,552.77,553.75,Nuccaleena Formation,MDD01,2007-08-29
+262842,553.75,787.7,Pandurra Formation,MDD01,2007-08-29
+262842,787.7,912.8,Wallaroo Group,MDD01,2007-08-29
+262977,0.0,12.0,Quaternary rocks,RCDD11VUD007,2011-03-01
+262977,12.0,34.0,Bulldog Shale,RCDD11VUD007,2011-03-01
+262977,34.0,74.0,Yarrawurta Shale,RCDD11VUD007,2011-03-01
+262977,74.0,217.0,Andamooka Limestone,RCDD11VUD007,2011-03-01
+262977,217.0,245.4,Yarloo Shale,RCDD11VUD007,2011-03-01
+262977,245.4,509.0,Simmens Quartzite Member,RCDD11VUD007,2011-03-01
+262977,509.0,518.7,Corraberra Sandstone Member,RCDD11VUD007,2011-03-01
+262977,518.7,799.8,Tregolana Shale Member,RCDD11VUD007,2011-03-01
+262977,799.8,809.3,Nuccaleena Formation,RCDD11VUD007,2011-03-01
+262977,809.3,848.15,Tapley Hill Formation,RCDD11VUD007,2011-03-01
+262977,848.15,1227.8,breccia,RCDD11VUD007,2011-03-01
+262978,0.0,8.0,Quaternary rocks,RCDD11VUD008,2011-03-18
+262978,8.0,30.0,Bulldog Shale,RCDD11VUD008,2011-03-18
+262978,30.0,68.0,Yarrawurta Shale,RCDD11VUD008,2011-03-18
+262978,68.0,260.0,Andamooka Limestone,RCDD11VUD008,2011-03-18
+262978,260.0,293.2,Yarloo Shale,RCDD11VUD008,2011-03-18
+262978,293.2,600.0,Simmens Quartzite Member,RCDD11VUD008,2011-03-18
+262978,600.0,842.7,Tregolana Shale Member,RCDD11VUD008,2011-03-18
+262978,842.7,849.3,Nuccaleena Formation,RCDD11VUD008,2011-03-18
+262978,849.3,899.75,Tapley Hill Formation,RCDD11VUD008,2011-03-18
+262978,899.75,1079.5,breccia,RCDD11VUD008,2011-03-18
+271708,0.0,56.0,Simmens Quartzite Member,AD1,1976-12-09
+271708,56.0,151.15,Tregolana Shale Member,AD1,1976-12-09
+271708,151.15,485.02,Pandurra Formation,AD1,1976-12-09
+271708,485.02,510.05,Mesoproterozoic rocks,AD1,1976-12-09
+271728,0.0,134.87,Andamooka Limestone,TOD 1,1977-06-22
+271728,134.87,522.0,Tregolana Shale Member,TOD 1,1977-06-22
+271728,522.0,630.0,Nuccaleena Formation,TOD 1,1977-06-22
+277548,0.0,56.0,Simmens Quartzite Member,AD1,1980-08-31
+277548,56.0,151.15,Tregolana Shale Member,AD1,1980-08-31
+277548,151.15,485.02,Pandurra Formation,AD1,1980-08-31
+277548,485.02,715.0,Mesoproterozoic rocks,AD1,1980-08-31
+277548,715.0,823.8,Donington Suite,AD1,1980-08-31
+277549,0.0,2.0,Quaternary rocks,AD3,1981-10-19
+277549,2.0,30.0,Simmens Quartzite Member,AD3,1981-10-19
+277549,30.0,46.0,Corraberra Sandstone Member,AD3,1981-10-19
+277549,46.0,132.0,Tregolana Shale Member,AD3,1981-10-19
+277549,132.0,946.2,Pandurra Formation,AD3,1981-10-19
+277549,946.2,947.0,Pandurra Formation unit 1,AD3,1981-10-19
+277549,947.0,1004.5,Donington Suite,AD3,1981-10-19
+277550,0.0,2.0,Quaternary rocks,AD4,1983-03-21
+277550,2.0,62.0,Simmens Quartzite Member,AD4,1983-03-21
+277550,62.0,72.0,Corraberra Sandstone Member,AD4,1983-03-21
+277550,72.0,208.0,Tregolana Shale Member,AD4,1983-03-21
+277550,208.0,727.0,Pandurra Formation,AD4,1983-03-21
+277550,727.0,1256.2,Mesoproterozoic rocks,AD4,1983-03-21
+277551,0.0,4.0,Quaternary rocks,AD6,1983-06-29
+277551,4.0,42.0,Simmens Quartzite Member,AD6,1983-06-29
+277551,42.0,159.0,Tregolana Shale Member,AD6,1983-06-29
+277551,159.0,558.08,Pandurra Formation,AD6,1983-06-29
+277551,558.08,677.88,Mesoproterozoic rocks,AD6,1983-06-29
+277551,677.88,735.8,Donington Suite,AD6,1983-06-29
+277552,0.0,57.0,Simmens Quartzite Member,AD7,1984-11-20
+277552,57.0,79.0,Corraberra Sandstone Member,AD7,1984-11-20
+277552,79.0,210.0,Tregolana Shale Member,AD7,1984-11-20
+277552,210.0,854.0,Pandurra Formation,AD7,1984-11-20
+277552,854.0,876.51,Mesoproterozoic rocks,AD7,1984-11-20
+277552,876.51,881.0,Gawler Range Volcanics,AD7,1984-11-20
+277552,881.0,896.46,Gawler Range Volcanics,AD7,1984-11-20
+277552,896.46,954.58,Donington Suite,AD7,1984-11-20
+285006,0.0,44.0,Simmens Quartzite Member,AD17,1997-09-25
+285006,44.0,170.0,Tregolana Shale Member,AD17,1997-09-25
+285006,170.0,817.01,Pandurra Formation,AD17,1997-09-25
+285006,817.01,824.0,Mesoproterozoic rocks,AD17,1997-09-25
+285006,824.0,888.0,Donington Suite,AD17,1997-09-25
+285007,0.0,2.0,Quaternary rocks,AD9,1987-01-19
+285007,2.0,40.0,Simmens Quartzite Member,AD9,1987-01-19
+285007,40.0,48.0,Corraberra Sandstone Member,AD9,1987-01-19
+285007,48.0,154.0,Tregolana Shale Member,AD9,1987-01-19
+285007,154.0,533.14,Pandurra Formation,AD9,1987-01-19
+285007,533.14,544.28,Mesoproterozoic rocks,AD9,1987-01-19
+285007,544.28,600.65,Mesoproterozoic rocks,AD9,1987-01-19
+285007,600.65,754.23,Donington Suite,AD9,1987-01-19
+312444,0.0,149.5,no description,VUD009,2012-09-07
+312444,149.5,219.5,Andamooka Limestone,VUD009,2012-09-07
+312444,219.5,235.5,Yarloo Shale,VUD009,2012-09-07
+312444,235.5,489.5,Simmens Quartzite Member,VUD009,2012-09-07
+312444,489.5,497.3,Corraberra Sandstone Member,VUD009,2012-09-07
+312444,497.3,752.3,Tregolana Shale Member,VUD009,2012-09-07
+312444,752.3,773.34,Nuccaleena Formation,VUD009,2012-09-07
+312444,773.34,778.86,Tapley Hill Formation,VUD009,2012-09-07
+312444,778.86,1110.8,breccia,VUD009,2012-09-07
+312445,0.0,95.9,no description,VUD010,2012-10-11
+312445,95.9,226.58,Andamooka Limestone,VUD010,2012-10-11
+312445,226.58,257.75,Yarloo Shale,VUD010,2012-10-11
+312445,257.75,521.76,Simmens Quartzite Member,VUD010,2012-10-11
+312445,521.76,544.81,Corraberra Sandstone Member,VUD010,2012-10-11
+312445,544.81,812.6,Tregolana Shale Member,VUD010,2012-10-11
+312445,812.6,839.5,Nuccaleena Formation,VUD010,2012-10-11
+312445,839.5,858.3,Tapley Hill Formation,VUD010,2012-10-11
+312445,858.3,858.6,Serle Conglomerate,VUD010,2012-10-11
+312445,858.6,1256.9,breccia,VUD010,2012-10-11
+312446,0.0,108.0,no description,VUD011,2012-11-11
+312446,108.0,233.7,Andamooka Limestone,VUD011,2012-11-11
+312446,233.7,255.8,Yarloo Shale,VUD011,2012-11-11
+312446,255.8,519.35,Simmens Quartzite Member,VUD011,2012-11-11
+312446,519.35,543.5,Corraberra Sandstone Member,VUD011,2012-11-11
+312446,543.5,806.8,Tregolana Shale Member,VUD011,2012-11-11
+312446,806.8,830.27,Nuccaleena Formation,VUD011,2012-11-11
+312446,830.27,835.46,Tapley Hill Formation,VUD011,2012-11-11
+312446,835.46,835.66,Serle Conglomerate,VUD011,2012-11-11
+312446,835.66,1466.7,breccia,VUD011,2012-11-11
+312447,0.0,143.5,Bulldog Shale,VUD012,2012-12-01
+312447,143.5,215.5,Andamooka Limestone,VUD012,2012-12-01
+312447,215.5,245.7,Yarloo Shale,VUD012,2012-12-01
+312447,245.7,498.6,Simmens Quartzite Member,VUD012,2012-12-01
+312447,498.6,520.3,Corraberra Sandstone Member,VUD012,2012-12-01
+312447,520.3,775.8,Tregolana Shale Member,VUD012,2012-12-01
+312447,775.8,801.5,Nuccaleena Formation,VUD012,2012-12-01
+312447,801.5,819.7,Tapley Hill Formation,VUD012,2012-12-01
+312447,819.7,1337.4,breccia,VUD012,2012-12-01
+312448,0.0,18.0,Bulldog Shale,VUD013,2013-04-13
+312448,18.0,100.0,Yarrawurta Shale,VUD013,2013-04-13
+312448,100.0,240.7,Andamooka Limestone,VUD013,2013-04-13
+312448,240.7,264.2,Yarloo Shale,VUD013,2013-04-13
+312448,264.2,527.8,Simmens Quartzite Member,VUD013,2013-04-13
+312448,527.8,548.8,Corraberra Sandstone Member,VUD013,2013-04-13
+312448,548.8,839.3,Tregolana Shale Member,VUD013,2013-04-13
+312448,839.3,852.55,Tapley Hill Formation,VUD013,2013-04-13
+312448,852.55,855.1,Serle Conglomerate,VUD013,2013-04-13
+312448,855.1,1524.2,breccia,VUD013,2013-04-13
+312449,0.0,1.0,Quaternary rocks,VUD014,2013-05-13
+312449,1.0,30.0,Bulldog Shale,VUD014,2013-05-13
+312449,30.0,88.0,Yarrawurta Shale,VUD014,2013-05-13
+312449,88.0,246.4,Andamooka Limestone,VUD014,2013-05-13
+312449,246.4,286.28,Yarloo Shale,VUD014,2013-05-13
+312449,286.28,568.2,Simmens Quartzite Member,VUD014,2013-05-13
+312449,568.2,589.8,Corraberra Sandstone Member,VUD014,2013-05-13
+312449,589.8,871.7,Tregolana Shale Member,VUD014,2013-05-13
+312449,871.7,887.4,Nuccaleena Formation,VUD014,2013-05-13
+312449,887.4,915.24,Tapley Hill Formation,VUD014,2013-05-13
+312449,915.24,1488.2,breccia,VUD014,2013-05-13
+312450,0.0,107.7,no description,VUD015,2013-06-20
+312450,107.7,117.0,Yarrawurta Shale,VUD015,2013-06-20
+312450,117.0,269.65,Andamooka Limestone,VUD015,2013-06-20
+312450,269.65,298.5,Yarloo Shale,VUD015,2013-06-20
+312450,298.5,552.95,Simmens Quartzite Member,VUD015,2013-06-20
+312450,552.95,579.9,Corraberra Sandstone Member,VUD015,2013-06-20
+312450,579.9,855.0,Tregolana Shale Member,VUD015,2013-06-20
+312450,855.0,863.2,Nuccaleena Formation,VUD015,2013-06-20
+312450,863.2,905.14,Tapley Hill Formation,VUD015,2013-06-20
+312450,905.14,1378.0,breccia,VUD015,2013-06-20
+312451,0.0,1.0,Quaternary rocks,VUD016,2013-10-27
+312451,1.0,16.0,Bulldog Shale,VUD016,2013-10-27
+312451,16.0,90.0,Yarrawurta Shale,VUD016,2013-10-27
+312451,90.0,250.9,Andamooka Limestone,VUD016,2013-10-27
+312451,250.9,274.5,Yarloo Shale,VUD016,2013-10-27
+312451,274.5,555.35,Simmens Quartzite Member,VUD016,2013-10-27
+312451,555.35,576.5,Corraberra Sandstone Member,VUD016,2013-10-27
+312451,576.5,873.25,Tregolana Shale Member,VUD016,2013-10-27
+312451,873.25,1503.7,breccia,VUD016,2013-10-27
+312452,0.0,6.0,Quaternary rocks,VUD017,2013-11-19
+312452,6.0,16.0,Bulldog Shale,VUD017,2013-11-19
+312452,16.0,70.0,Yarrawurta Shale,VUD017,2013-11-19
+312452,70.0,216.0,Andamooka Limestone,VUD017,2013-11-19
+312452,216.0,258.6,Yarloo Shale,VUD017,2013-11-19
+312452,258.6,520.6,Simmens Quartzite Member,VUD017,2013-11-19
+312452,520.6,532.6,Corraberra Sandstone Member,VUD017,2013-11-19
+312452,532.6,814.0,Tregolana Shale Member,VUD017,2013-11-19
+312452,814.0,821.6,Nuccaleena Formation,VUD017,2013-11-19
+312452,821.6,886.56,Tapley Hill Formation,VUD017,2013-11-19
+312452,886.56,1277.0,breccia,VUD017,2013-11-19
+312683,0.0,18.0,Quaternary rocks,RCDD11VUD006,2011-01-18
+312683,18.0,28.0,Bulldog Shale,RCDD11VUD006,2011-01-18
+312683,28.0,108.0,Yarrawurta Shale,RCDD11VUD006,2011-01-18
+312683,108.0,251.2,Andamooka Limestone,RCDD11VUD006,2011-01-18
+312683,251.2,271.8,Yarloo Shale,RCDD11VUD006,2011-01-18
+312683,271.8,514.0,Simmens Quartzite Member,RCDD11VUD006,2011-01-18
+312683,514.0,543.0,Corraberra Sandstone Member,RCDD11VUD006,2011-01-18
+312683,543.0,792.7,Tregolana Shale Member,RCDD11VUD006,2011-01-18
+312683,792.7,798.9,Nuccaleena Formation,RCDD11VUD006,2011-01-18
+312683,798.9,854.8,Tapley Hill Formation,RCDD11VUD006,2011-01-18
+312683,854.8,1083.9,breccia,RCDD11VUD006,2011-01-18
+312948,0.0,8.0,Quaternary rocks,TWN1,1981-07-08
+312948,8.0,34.0,Andamooka Limestone,TWN1,1981-07-08
+312948,34.0,198.0,Corraberra Sandstone Member,TWN1,1981-07-08
+312948,198.0,414.3,Tregolana Shale Member,TWN1,1981-07-08
+312948,414.3,700.8,Wirrda Subsuite,TWN1,1981-07-08
+312949,0.0,2.0,Quaternary rocks,TWN3,1981-06-02
+312949,2.0,16.0,Andamooka Limestone,TWN3,1981-06-02
+312949,16.0,148.0,Corraberra Sandstone Member,TWN3,1981-06-02
+312949,148.0,288.0,Tregolana Shale Member,TWN3,1981-06-02
+312949,288.0,641.1,Wirrda Subsuite,TWN3,1981-06-02
+313205,0.0,34.0,Simmens Quartzite Member,AD21,2010-07-16
+313205,34.0,48.0,Corraberra Sandstone Member,AD21,2010-07-16
+313205,48.0,178.0,Tregolana Shale Member,AD21,2010-07-16
+313205,178.0,714.5,Pandurra Formation,AD21,2010-07-16
+313205,714.5,972.9,Donington Suite,AD21,2010-07-16
+349230,0.0,4.0,Quaternary regolith/colluvial sediments,AD5,1983-02-15
+349230,4.0,42.0,Simmens Quartzite Member,AD5,1983-02-15
+349230,42.0,159.0,Tregolana Shale Member,AD5,1983-02-15
+349230,159.0,284.0,Pandurra Formation,AD5,1983-02-15
+349231,261.9,426.0,Pandurra Formation,AD5W1,1983-05-05
+349233,0.0,40.0,Simmens Quartzite Member,AD11,1987-04-03
+349233,40.0,138.0,Tregolana Shale Member,AD11,1987-04-03
+349233,138.0,558.24,Pandurra Formation,AD11,1987-04-03
+349233,558.24,563.5,Mesoproterozoic rocks,AD11,1987-04-03
+349233,563.5,650.5,Donington Suite,AD11,1987-04-03
+349234,0.0,54.0,Simmens Quartzite Member,AD12,1987-05-09
+349234,54.0,168.0,Tregolana Shale Member,AD12,1987-05-09
+349234,168.0,586.79,Pandurra Formation,AD12,1987-05-09
+349234,586.79,695.44,Mesoproterozoic rocks,AD12,1987-05-09
+349234,695.44,741.0,Donington Suite,AD12,1987-05-09
+349235,0.0,54.0,Simmens Quartzite Member,AD13,1987-06-10
+349235,54.0,159.0,Tregolana Shale Member,AD13,1987-06-10
+349235,159.0,852.0,Pandurra Formation,AD13,1987-06-10
+349236,0.0,44.0,Simmens Quartzite Member,AD14,1987-06-10
+349236,44.0,140.0,Tregolana Shale Member,AD14,1987-06-10
+349236,140.0,518.96,Pandurra Formation,AD14,1987-06-10
+349236,518.96,542.22,Mesoproterozoic rocks,AD14,1987-06-10
+349236,542.22,746.4,Donington Suite,AD14,1987-06-10
+349238,0.0,36.0,Simmens Quartzite Member,AD16,1987-09-23
+349238,36.0,154.0,Tregolana Shale Member,AD16,1987-09-23
+349238,154.0,842.53,Pandurra Formation,AD16,1987-09-23
+349238,842.53,887.93,Mesoproterozoic rocks,AD16,1987-09-23
+349238,887.93,904.67,Donington Suite,AD16,1987-09-23
+349239,0.0,56.0,Simmens Quartzite Member,AD18,1987-05-11
+349239,56.0,192.0,Tregolana Shale Member,AD18,1987-05-11
+349239,192.0,270.0,Pandurra Formation,AD18,1987-05-11
+354397,0.0,1.0,Quaternary aeolian sediments,PLD0001,2019-11-08
+354397,1.0,6.0,Tertiary rocks,PLD0001,2019-11-08
+354397,6.0,28.0,Bulldog Shale,PLD0001,2019-11-08
+354397,28.0,152.0,Andamooka Limestone,PLD0001,2019-11-08
+354397,152.0,427.5,Tregolana Shale Member,PLD0001,2019-11-08
+354397,427.5,779.75,Pandurra Formation,PLD0001,2019-11-08
+354397,779.75,1167.5,Hutchison Group,PLD0001,2019-11-08

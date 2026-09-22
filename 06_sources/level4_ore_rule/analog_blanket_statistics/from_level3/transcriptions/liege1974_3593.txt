@@ -1,0 +1,780 @@
+===== page 1
+CENTENAIRE DE LA SOCIETE GEOLOGIQUE DE BELGIQUE
+GISEMENTS STRATIFORMES ET PROVINCES CUPRIFERES, LIEGE, 1974, 383-393
+
+PERMIAN COPPER SHALES
+OF SOUTHWESTERN UNITED STATES
+
+Kenneth S. JOHNSON (*)
+
+ABSTRACT
+
+Many stratiform copper deposits are known in Permian shales and sandstones of Texas,
+Oklahoma, and Kansas, but the most important of these are six copper-shale ore bodies
+exposed in the Flowerpot Shale and San Angelo Sandstone along a total distance of some
+200 km in Oklahoma and Texas. Individual ore bodies range from 15 to 45 cm thick and
+cover about 30 km?. Chalcocite is the primary ore mineral, and malachite is the main
+oxidation product. The average grade of different deposits is 1 to 2 % copper: other metals are
+present only in small amounts, generally less than 500 ppm.
+
+The flat-lying ore beds are medium-gray laminated silty shales that are interbedded with
+red-bed clastics and evaporites. One ore body is being strip mined, another is being
+developed, and the other four are being prospected.
+
+The host shales apparently were deposited in a brackish-water or shallow-marine environ-
+ment, and syngenetic or early diagenetic copper mineralization might have occurred by
+replacement of pyrite.
+
+INTRODUCTION
+
+Permian sedimentary rocks crop out over a substantial part of the south-
+western United States, with some 2000 meters of red beds and evaporites being
+the major constituents in north Texas, Oklahoma, and Kansas. Reddish-brown
+shales, siltstones, and sandstones are interbedded with gypsums and thin dolomites
+on the outcrop, whereas thick sequences of salt (halite) are interbedded with red
+beds and gypsum in the subsurface.
+
+Copper minerals have been noted in these red beds since the middle of the
+19th century (Marcy, 1854; Fath, 1915; Richard, 1915; Fischer, 1937; Merritt,
+1940). Chalcocite and malachite are the most common minerals, occurring in
+sandstone and shale as encrustations, impregnations, veinlets, small nodules, and
+mineralized wood. The few early attempts at mining resulted in failure, owing to
+the lean grade of ore and the small size of deposits, but a new concept of copper
+mineralization was introduced in 1962 with discovery of malachite disseminated in
+a persistent 18-cm-thick shale bed along an outcrop distance of 5 km at Creta in
+
+ 
+
+(*) Oklahoma Geological Survey, The University of Oklahoma, Norman, Oklahoma,
+U.S.A.
+
+===== page 2
+384 KENNETH S. JOHNSON
+
+southwestern Oklahoma (Ham and Johnson, 1964). Initially called the “lower
+copper bed,” with a copper content of 2.6 to 4.5 % at the outcrop, it was the first
+United States report of a bedded copper shale in Permian strata.
+
+Eagle-Picher Industries began mining and milling operations at Creta in 1965,
+and this set off a wave of prospecting in Permian beds throughout Oklahoma and
+adjoining parts of Texas and Kansas. To date, the Creta deposit is the only copper
+shale being mined in the region, but several other significant discoveries in the three
+States attest the likelihood that other stratiform copper deposits will be brought
+into production.
+
+PALEOGEOGRAPHY AND STRUCTURAL SETTING
+
+The study area is on the east side of the Permian basin, a broad epicontinental
+sea that covered much of the southwestern United States during the middle of
+Permian time (fig. 1). The sea was approximately 650 km wide and 1 100 km long,
+and was connected with the open ocean to the south via the Delaware and Midland
+basins of west Texas and adjacent New Mexico. Surrounding the sea were semiarid
+or arid lands of low relief from which clay, silt, and sand were eroded. Epeirogenic
+movements caused slow but continual sinking of the crust beneath the inland sea
+and permitted accumulation of thick sequences of reddish-brown shales and inter-
+bedded evaporites. The Wichita uplift, part of which is now exposed as the Wichita
+Mountains in southwestern Oklahoma, was a more stable crustal block, extending
+westward beneath the sea.
+
+The copper-bearing Flowerpot Shale, as well as the underlying San Angelo
+(Duncan) Sandstone and overlying Blaine Formation, was deposited in and ad‘acent
+to a transgressing sea whose shoreline retreated to the east and southeast. Lateral
+
+LOCATION MAP
+
+ 
+
+Fic. 1. — Paleogeography and principal facies in Permian basin of southwestern United
+States during evaporite deposition in middle Permian time.
+
+===== page 3
+PERMIAN COPPER SHALES OF S.W. U.S. 385
+
+ 
+   
+   
+
+DOG CREEK SHALE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WoNBLAINE FORMATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+XXKXAXK
+
+FLOWERPOT SHALE
+XXXXX
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+FLO. = DUNCAT
+XRXXK HENNESSEY SHALE
+
+Rss Gypsum and shale Cy Shale, mainly red brown
+
+Sandstone, mudstone
+conglomerate and shale
+
+ 
+
+jetta Salt (halite) and shale
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+XXX Copper mineralization
+
+ 
+
+LOCATION MAP
+
+Fic. 2. — Stratigraphic cross section showing copper mineralization in Permian strata of
+southwestern Oklahoma and north Texas.
+
+facies changes from east to west (from land to sea) are: (1) deltaic and alluvial
+sandstones and mudstone conglomerates interbedded with shale; (2) brackish-water
+and marine reddish-brown shale with thin beds of gray shale, gypsum, and siltstone;
+and (3) an evaporite facies of interbedded gypsum, shale, salt, and dolomite.
+Outcrops of the San Angelo (Duncan) Sandstone comprise a deltaic-alluvial facies,
+those of the Flowerpot Shale comprise a brackish-water and marine facies, and the
+Blaine Formation represents an evaporite facies (fig. 2). Each of these formations is
+commonly 30 to 60 m thick. Clays and sands in the Flowerpot and associated
+formations were derived from the largely concealed Ouachita Mountain system
+of Texas and southeastern Oklahoma: the nearby Wichita Mountains were suf-
+ficiently buried by earlier Hennessey time that they contributed little or no detritus
+to the Flowerpot.
+
+Outcropping rocks on the east side of the Permian basin are essentially flat
+lying. They have been disturbed only by small-scale block faulting (throws of 3 to
+30 m) and gentle folding, and dips are typically less than one-half degree: no
+evidence of mineralization has been found associated with faults or folds. Beneath
+the copper-shale outcrops are 1000 to 4000 m of Paleozoic sedimentary rocks
+resting unconformably upon a basement complex of Cambrian and Precambrian
+igneous and metasedimentary rocks. The full section of Paleozoic strata has been
+penetrated in oil and gas tests at many places, and evidence of magmatic or hydro-
+thermal activity following Middle Cambrian time in any part of the region is
+lacking. The Wichita Mountains comprise granites, rhyolites, and gabbros emplaced
+in Middle Cambrian time, 525 to 535 million years ago (Ham, Denison, and Merritt,
+1964).
+
+===== page 4
+386 KENNETH S. JOHNSON
+
+STRATIGRAPHY
+
+The principal formations related to copper-shale occurrences in the region are,
+in ascending order, San Angelo (Duncan) Sandstone, Flowerpot Shale, and Blaine
+Formation (fig. 2). They have an aggregate thickness of 150 m and are of late
+Leonardian or early Guadalupean age.
+
+The San Angelo consists of light-gray and reddish-brown sandstones, silt-
+stones, and mudstone conglomerates interbedded with reddish-brown and greenish-
+gray shales. It has an interfingering contact with the overlying Flowerpot Shale
+and is a deltaic and alluvial deposit that grades laterally to shale westward into the
+Permian basin. The name “San Angelo” is applied to the unit in north Texas and
+in Oklahoma south of the Wichita Mountains, whereas equivalent and similar
+strata north of the Wichitas are called “Duncan.” The outcrop thickness of both
+the San Angelo and the Duncan is generally 20 to 50 m.
+
+The Flowerpot Shale, which contains the main copper shales, consists mainly
+of reddish-brown shale with thin interbeds of gypsum, dolomite, siltstone, sand-
+stone, and greenish-gray shale. It crops out in southern Kansas, western Oklahoma,
+and north-central Texas (fig. 3). In the subsurface to the west, about 50 m of rock
+salt and salty shale are interbedded in the upper part of the formation. The total
+thickness of the formation is typically 30 to 60 m in outcrops throughout the
+region.
+
+| Permian (post-Blaine)
+
+Blaine-Flowerpot-
+
+  
+  
+
+San Angelo (Duncan)
+Permian (pre-San
+
+— a j ZY Yd ZB nnaeio)
+
+Copper-shale deposits:
+
+  
+ 
+
+St
+x
+x|
+nw
+3}
+
+t
+
+o
+
+a
+«
+
+1. Mangum
+t 2. Creta
+| Amarillo ‘ 3. Medicine Mounds
+e '
+4. Crowell
+i | 5. Buzzard Peak
+| 1 6 Old Glory
+1
+I ss
+|
+\
+t 1
+| '
+\ LOCATION MAP
+300 KM \
+Fic. 3. — Areal extent of Permian outcrops in southern Kansas, western Oklahoma, and
+
+north-central Texas.
+
+===== page 5
+PERMIAN COPPER SHALES OF S.W. U.S. 387
+
+Most Flowerpot strata apparently were deposited in marine or brackish water.
+Evaporite beds, each 1 to 100 cm thick, aggregate about 15 % of the top half of
+the formation in most outcrops: gypsum makes up 80 to 90% of these thin
+evaporites, and the remainder is light-gray microgranular dolomite. In north Texas,
+gypsum beds 1 to 5 m thick made up much of the Flowerpot. Flowerpot strata
+grade southeastward into deltaic and alluvial deposits, which are now eroded at
+most places.
+
+Shales of the Flowerpot are typically reddish brown, blocky, slightly silty,
+gypsiferous, and lacking in fossils. About 85 % of the shale is red brown, and the
+remaining 15 % is light gray, green gray, and medium gray: red-brown beds are
+commonly 0.3 to 2 m thick, whereas gray beds are mostly 0.1 to 0.5 m thick and
+generally underlie thin evaporites.
+
+The Blaine Formation consists chiefly of thick beds of pure gypsum inter-
+stratified with reddish-brown shale; thin beds of dolomite and greenish-gray shale
+typically underlie each of the separate gypsum layers. Evaporites in the Blaine
+were deposited during the maximum transgression of the sea before its regression
+in later Dog Creek time. The thickness of the Blaine Formation ranges from 20 m
+in the north (Kansas) to 60 m in southwestern Oklahoma and Texas.
+
+COPPER MINERALIZATION
+
+Copper is known in Permian shales and sandstones at more than 100 separate
+localities in Texas, Oklahoma, and Kansas. Although the number of occurrences
+of mineralization in sandstone is by far more abundant, the sites of shale mineraliza-
+tion are of greater economic significance (Ham and Johnson, 1964; Stroud and
+others, 1970; Lockwood, 1972; Johnson and Brockie, 1973; Dingess, in preparation;
+and Smith, in preparation). The first copper-shale discovery was the Creta deposit
+in southwestern Oklahoma, and it alone is now being mined (by Eagle-Picher
+Industries, Inc.): the Creta deposit also has been investigated most thoroughly.
+A second find by Lobaris Copper Company south of Mangum in Oklahoma is being
+investigated, and so also are four other significant copper shales in Texas at sites
+near Medicine Mounds, Crowell, Buzzard Peak, and Old Glory (fig. 3).
+
+Creta District
+
+Preliminary outcrop study of the Creta deposit established that an 18-cm-thick
+Copper-bearing shale in the upper part of the Flowerpot Formation extended 5 km
+along the outcrop, and that the grade ranged from 2.6 to 4.5 % copper (Ham and
+Johnson, 1964). Subsequent core drilling and exploration by Eagle-Picher estab-
+lished that chalcocite is the primary ore mineral under moderate overburden, and
+that an ore body averaging 2.3 % copper (undiluted) could be strip mined (Johnson
+and Brockie, 1973; Dingess, in preparation).
+
+The ore bed, called the Prewitt copper shale, is a medium-gray silty shale and
+mudstone containing chalcocite as the primary ore mineral and malachite and other
+oxidized copper minerals at and near the outcrop. It ranges in thickness from 8 to
+30 cm and averages about 18 cm. The Prewitt bed is about 12 m below the top
+
+===== page 6
+ 
+
+388 KENNETH S. JOHNSON
+
+of the Flowerpot Shale and is about 2.5 m below the thin but persistent Marty
+Dolomite (fig. 4).
+
+The ore bed consists of two basic lithologies: the upper 10 to 13 cm is
+laminated, thereby differing petrologically from other gray shales in the Flowerpot,
+whereas the lower 8 to 10 cm is blocky shale, generally resembling other shales in
+the Flowerpot. Silt laminae in the upper part of the bed commonly are 0.1 to
+0.2 mm thick and constitute 10 to 20 % of the unit. Thin-section study reveals that
+the ore bed consists mostly of microcrystalline clay minerals. Quartz grains, chiefly
+10 to 40 y in diameter, make up 10 to 20 % of most of the samples. Much of the
+quartz floats in a clay matrix. According to Lockwood (1972, appendix 5), the
+laminated and blocky parts of the ore contain an average of the following mineral
+components: quartz (17 % in laminated shale and 26 % in blocky shale), gypsum
+(28 and 3 %), illite (45 and 63 %), chlorite (5 and 6 %), and chalcocite (4 and
+2%). Other analyses indicate that the ore bed also contains 0.1 to 3 % carbonate
+minerals, chiefly dolomite and some calcite: the organic carbon content ranges
+from 0.09 to 0.56 % and averages 0.3 %, or about twice as much as in non-
+cupriferous shales of the region.
+
+Principal copper minerals in the Creta deposit are chalcocite (Cu2S) and
+malachite [CuCO3 . Cu(OH).]. Chalcocite, the primary ore mineral, occurs mainly
+as small grains (commonly 2 to 20 4) disseminated in the shale. Grains are also
+concentrated in some silt laminae in the upper part of the bed, and they also are
+concentrated in thin veins and fill small vugs in the blocky part of the bed. As seen
+in thin section, many of the grains have a cubiform outline and presumably are
+
+   
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Composite COPPER-SHALE CORRELATIONS, CRETA AND MANGUM DISTRICTS
+Strotigraphic
+Section South North
+4 Creta District Mongum District
+2 *A *8 *d wE
+4 <3 KM >| ph <- 5KM
+w Haystack
+2 Sypsum °
+a Bed =
+a m
+L =
+a ©. oS
+' 1 —
+> =
+3-
+4
+5 2
+Meters
+3
+a|é&
+=| 8
+& -
+3 3 ~
+5 5 Meters pei
+eis
+gs EXPLANATION
+3 El
+Sis .
+z Shale, greenish-gray Copper Mineralization:
+: EEA Dolomite to medium-gray
+Major occurrence
+- , K °y
+KX Rock Gypsum Shale or siltstone, (I-3 % copper)
+i Fa] SyPsiferous shale CA retin “brown Minor occurrence
+Choney or siltstone (<0.6 % copper)
+L-* Srom
+
+RST oped
+
+Fic. 4. — Stratigraphy of the upper Flowerpot copper shales in southwestern Oklahoma.
+
+===== page 7
+PERMIAN COPPER SHALES OF S.W. U.S. 389
+
+pseudomorphs after pyrite. Malachite and brochantite [CuSO,.3 Cu(OH),] are
+oxidation products found on the outcrop where the overburden is less than 3 m:
+malachite occurs as films and granules, and brochantite occurs with malachite in
+nodules locally present on the outcrop.
+
+The grade of the Prewitt bed in the mined sulfide zone averages about 2.0 %
+copper and ranges from about 0.5 % to as much as 4.5 % copper. Other metals,
+Present only in low concentrations (Lockwood, 1972, appendix 6), include lead
+(10-50 ppm), silver (10-50 ppm), cobalt (10-50 ppm), nickel (30-60 ppm), uranium
+(50-100 ppm), vanadium (75-150 ppm), and zinc (150-400 ppm). Further examination
+of Lockwood’s data indicates that lead values are a little higher in the ore bed
+than in the overlying or underlying “barren” shales that contain only 0.1 to 0.3 %
+copper, and, conversely, that the silver, zinc, cobalt, nickel, and vanadium con-
+centrations are somewhat lower in the ore bed than in the adjacent “barren” shales:
+these observations apply in both the Creta and the Mangum deposits.
+
+Only copper is recovered in the mining and milling process, but a small amount
+of silver is recovered from the concentrates at the smelter. Another copper shale,
+
+SCHEMATIC CROSS SECTION
+PA THROUGH COPPER MINE
+
+   
+
+Original land surface
+
+   
+
+500 Meters
+
+   
+ 
+  
+
+ 
+
+ 
+
+COLUMNAR SECTION
+
+     
+ 
+
+EAGLE-PICHER
+8! COPPER MILL-
+
+ 
+
+FLOWERPOT
+SHALE
+
+ 
+
+  
+
+2.
+
+Cry sci
+
+WILE
+
+Fic. 5. — Schematic map, cross section, and columnar section showing principal features of
+
+Prewitt copper shale and overlying rock units at Eagle-Picher Industries mine at Creta. Map
+
+shows areas where ore bed has shale and gypsum overburden of 0-16 m (dense stippling) and
+greater than 16 m (light stippling).
+
+===== page 8
+390 KENNETH S. JOHNSON
+
+ 
+
+Fic. 6. — Oblique aerial photograph of Eagle-Picher Industries copper-shale strip mine at
+Creta. Highwall here is 13 m high.
+
+just 1.5 m above the Prewitt bed, is thinner (2 to 10 cm thick) and is lower in
+grade; it appears to be economically minable only in the extreme northern part
+of the reserve area.
+
+Eagle-Picher began mining and milling operations in 1965 (fig. 5). The present
+reserve area extends about 5 km north-south and 2.5-3.0 km east-west, although
+mineralized shale with some economic: potential underlies a total area of some
+30 km?. Increasing depth of overburden becomes a limiting factor along the
+western edge of the reserve area. As much as 20 m of overburden has been
+removed in places. Strip mining is favored by the gentle westward dip of 2 to 4m
+per km and the lack of faults or folds in the area (fig. 6). The company’s 1 000-ton-
+per day mill is designed to recover sulfide minerals and a portion of the nonsulfide
+minerals by flo‘ation.
+
+Mangum District
+
+The second major copper-shale discovery in Oklahoma was made in 1965 about
+25 km north of Creta, near the town of Mangum, by Lobaris Copper Company.
+The Mangum deposit is similar to the Creta deposit, but it occurs in a slightly
+higher bed of the Flowerpot Formation.
+
+The ore bed, called the Meadows copper shale, is a medium-gray laminated
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+===== page 9
+ 
+
+PERMIAN COPPER SHALES OF S.W. U.S. 391
+
+silty copper-bearing shale and mudstone. It is 9 to 11 m below the top of the
+Flowerpot and about 2 m below the thin Marty Dolomite (fig. 4). The thickness
+of the Meadows bed ranges from 10 to 45 cm, averaging about 30 cm, and it is
+the middle part of a green-gray shale which at the top and bottom is blocky and
+without significant copper. Mineralization in the Meadows bed extends about
+10 km north-south and as much as 5 km east-west.
+
+Petrographically, the Meadows bed is somewhat similar to the Prewitt bed at
+Creta. Lockwood (1972, appendix 2) determined the following average mineral
+components: quartz (27 %), gypsum (11%), illite (49 %), chlorite (5%), and
+malachite (3 %). More recent data show that organic carbon comprises an average
+0.17 % of the ore bed and that dolomite and some calcite commonly make up
+about 5 to 10 % of the bed.
+
+Malachite is the dominant copper mineral known so far, because nearly all
+the testing done to date has been at the outcrop or under only several meters of
+overburden. Chalcocite has been identified at several test localities under 3 to
+5 m of overburden, and it seems likely that it is the dominant primary ore mineral
+throughout most of the deposit.
+
+The grade of the Meadows bed at the outcrop and in shallow test pits averages
+about 1 % copper and ranges from 0.5 to more than 2 %, copper. Lockwood (1972,
+appendix 3) found other metals commonly in the following low concentrations:
+lead (20-90 ppm), silver (25-45 ppm), cobalt (15-40 ppm), nickel (35-65 ppm),
+uranium (70-100 ppm), vanadium (100-140 ppm), and zinc (300-400 ppm).
+
+Strata in the Mangum district dip westward gently at 2 to 4 m per kilometer and
+are not disturbed by faults or folds. It is possible that the deposit could be strip
+mined in the same manner as the Creta deposit.
+
+Copper Shales in North Texas
+
+The several copper-shale deposits in north Texas have undergone initial stages
+of exploration, but only a small amount of information has been released to date.
+Deposits explored include those referred to as the Medicine Mounds, Crowell,
+Buzzard Peak, and Old Glory prospects. They extend a total of 150 km along the
+outcrop of Flowerpot and San Angelo strata in Texas (fig. 3).
+
+Ore beds are typically 15 to 45 cm thick, and different beds average 20 to
+25 cm. Individual deposits are traceable for 3 to 10 km along the outcrop (generally
+north-south or northeast-southwest) and appear to be 1 to 4 km wide (east-west).
+Ore beds are shales and mudstones associated with gypsum and dolomite; they
+appear similar in most respects to the deposits at Creta and Mangum.
+
+Chalcocite is the primary ore mineral, and oxidation products at and near the
+outcrop are malachite and azurite. The copper content of individual deposits
+averages between 1 and 2%, although at various locations the copper content
+ranges from 0.5 to about 6 %. There is no indication of significant concentrations
+of other metals with these deposits.
+
+Ore bodies are flat lying or dip gently to the west, and there is no indication
+of faulting, folding, or hydrothermal activity associated with any of the deposits.
+
+Copper mineralization in Texas occurs at several stratigraphic levels. Some
+copper shales are in the upper part of the Flowerpot Formation (as they are in
+Oklahoma), but other mineralized shales occur in the lower part of the Flowerpot
+and in the underlying San Angelo Sandstone. Precise correlation between the
+
+===== page 10
+392 KENNETH S. JOHNSON
+
+Oklahoma and Texas ore bodies must await further field study and detailed
+stratigraphic analysis.
+
+Copper in Sandstones
+
+In addition to the important mineralization in shales, there are many known
+copper occurrences in alluvial and deltaic sandstones in the Permian of Texas,
+Oklahoma, and Kansas (Merritt, 1940; Hill, 1967; Stroud and others, 1970).
+Copper minerals are commonly associated with carbonized fossil wood and pyrite
+in the standstone channels.
+
+Copper occurs not only in the San Angelo and Duncan Sandstones but also
+in the older Permian (Leonardian) standstones of the Wichita and Clear Fork
+Groups in Texas and equivalent sandstones in Oklahoma and Kansas. Sandstone
+bodies are commonly lenticular or channelized, and mineralization is difficult to
+trace laterally because of rapid facies changes. Although the grade of cupriferous
+sandstones might range up to 10 or 15% copper in some samples, the erratic
+distribution of copper has prevented profitable mining of these deposits.
+
+SUMMARY AND CONCLUSIONS
+
+Six known copper-shale ore bodies crop out over a distance of some 200 km
+in the Permian of Oklahoma and Texas. Ore deposits are typically about 20 cm
+thick, are elongated north-south or northeast-southwest (subparallel to the inferred
+Permian shoreline), have dimensions of about 10 km by 3 km, and cover about
+30 km2. At all sites copper alone is present in significant quantities, with chalcocite
+being the primary ore mineral and malachite being the main oxidation product.
+Outcropping strata dip gently to the west into the Permian basin, and there are no
+structural features believed to be related to the ore bodies. Furthermore, there is no
+evidence of hydrothermal activity anywhere in the region during or following
+deposition of the Permian sediments.
+
+The higher concentration of sulfide minerals, the medium-gray color of the
+shales, and the preservation of laminations suggests that the copper shales were
+deposited in a reducing environment devoid of scavenging or burrowing animals:
+perhaps they were laid down in a lagoon or a shallow sea-floor depression where
+exchange of water was restricted by subtle features on the sea floor.
+
+Sulfur-isotope ratios reported by Lockwood (1972) show a wide range in values
+of sulfides from the Creta deposit; he concluded that the sulfide ions were produced
+by bacterial reduction of sulfate ions in the sea water, and that the reduction could
+have been either syngenetic or diagenetic. The presence of chalcocite pseudomorphs
+after pyrite suggests that copper minerals might have replaced iron sulfide minerals
+that had been deposited earlier. The continuous lateral distribution of high con-
+centrations of copper sulfide in thin beds with low permeability supports the idea
+that copper was emplaced in the host shales syngenetically or at an early stage of
+diagenesis.
+
+===== page 11
+PERMIAN COPPER SHALES OF S.W. U.S. 393
+
+References
+
+Dincess, P. R. (in preparation). — Geology and ore deposits of the Creta copper operations
+of Eagle-Picher Industries, Inc.
+
+Fatu, A. E. (1915). — Copper deposits in the “red beds” of southwestern Oklahoma. Econ.
+Geology, Vol. 10, p. 140-150.
+
+Fiscuer, R. P. (1937). — Sedimentary deposits of copper, vanadium-uranium, and silver in
+southwestern United States. Econ. Geology, Vol. 32, p. 906-951.
+
+Ham, W. E., DeNtson, R. E. and Merritt, C. A. (1964). — Basement rocks and structural
+evolution of southern Oklahoma. Oklahoma Geol. Survey Bull., 95, 302 p.
+
+Ham, W. E. and Jounson, K. S. (1964). — Copper in the Flowerpot Shale (Permian) of the
+Creta area, Jackson County, Oklahoma. Oklahoma Geol. Survey Circ., 64, 32 p.
+
+Hit, W. E., Jr. (1967). — Copper in redbeds of south-central Kansas. In : Short papers on
+research in 1966, Kansas Geol. Survey Bull., 187, Part 1, p. 13-14.
+
+Jounson, K. S. and Brocxi, D. C. (1973). — Eagle-Picher Industries, Inc’s copper mine at
+Creta. Stop 10 in : Johnson, K. S. and Denison, R. E., Igneous geology of the Wichita
+Mountains and economic geology of Permian rocks in southwest Oklahoma. Oklahoma
+Geol. Survey, Guidebook for field trip No. 6 of Geol. Soc. America annual meeting in
+Dallas, Nov. 1973, p. 29-32.
+
+Lockwoon, R. P. (1972). — Geochemistry and petrology of some Oklahoma redbed copper
+occurrences. Oklahoma Univ. unpub. Ph.D. dissertation, 125 p.
+
+Marcy, R. B. (1854). — Exploration of the Red River of Louisiana in 1852. Executive
+Document, 33rd U.S. Congress, 1st Session, p. 391-393.
+
+Merritt, C. A. (1940). — Copper deposits in the “red beds” of Oklahoma. Oklahoma Geol.
+Survey Mineral Report, 8, 19 p. (unnumbered).
+
+Ricuarp, L. M. (1915). — Copper deposits in the “red beds” of Texas. Econ. Geology, Vol. 10,
+p. 634-650.
+
+Situ, G. E. (in preparation). — Sabkha and tidal-flat facies control of red-bed copper deposits
+in North Texas.
+
+Stroup, R. B., MCMauHan, A. B., Stroup, R. K. and Hippsuman, M. H. (1970). — Production
+potential of copper deposits associated with Permian red bed formations in Texas,
+Oklahoma, and Kansas. U.S. Bur. Mines Report Inv., 7422, 103 p.
+
+===== page 12
+

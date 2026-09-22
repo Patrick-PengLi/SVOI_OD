@@ -1,0 +1,8 @@
+hole,location_as_stated,total_depth_ft,woocalla_from_ft,woocalla_to_ft,woocalla_thickness_m,woocalla_present,note,source
+LD1,near Oakden Hills H.S.,308,260,298.5,11.7,True,black dolomitic shale on red Pandurra quartzite,"RB 72/00189 pp. 15-18 (Johns, 4 Oct 1972); drilled Mar-Jun 1971"
+LD2,north of Lake Dutton,608,179.5,601.83,128.7,True,much thicker than anticipated,"RB 72/00189 pp. 15-18 (Johns, 4 Oct 1972); drilled Mar-Jun 1971"
+LD3,east of Lake Blyth,631.92,324.08,629,92.9,True,mineralised dolomitic shale,"RB 72/00189 pp. 15-18 (Johns, 4 Oct 1972); drilled Mar-Jun 1971"
+LD4,west of Windy Valley Well,445.33,200,443.75,74.3,True,Woocalla shale,"RB 72/00189 pp. 15-18 (Johns, 4 Oct 1972); drilled Mar-Jun 1971"
+LD5,south of Lake Dutton,274.25,204.5,271,20.3,True,"dolomitic shale predominant, 5 ft basal dolomite","RB 72/00189 pp. 15-18 (Johns, 4 Oct 1972); drilled Mar-Jun 1971"
+LD6,east of Lake Dutton,222.33,150,215.67,20.0,True,weakly mineralised,"RB 72/00189 pp. 15-18 (Johns, 4 Oct 1972); drilled Mar-Jun 1971"
+LD7,south east of Trevenna Well,247,,,0.0,False,no shale: Whyalla (120 ft) directly on Pandurra,"RB 72/00189 pp. 15-18 (Johns, 4 Oct 1972); drilled Mar-Jun 1971"

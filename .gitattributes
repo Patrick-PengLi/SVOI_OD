@@ -1,0 +1,16 @@
+# line endings: text files stored with LF, checked out with the platform default; binaries untouched
+* text=auto
+*.csv text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.txt text eol=lf
+*.ipynb text eol=lf
+*.pdf binary
+*.PDF binary
+*.png binary
+*.jpg binary
+*.nc binary
+*.npz binary
+*.xlsx binary
+*.docx binary
+*.zip binary

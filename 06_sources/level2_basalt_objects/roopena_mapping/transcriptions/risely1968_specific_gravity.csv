@@ -1,0 +1,27 @@
+station,sample_position,rock,specific_gravity_gcc,group_mean_printed,report_page,pdf_page,note
+400B,400 ft E,Roopena Volcanic (weathered),2.42,,11,14,weathered surface sample
+600N,100 ft W,Roopena Volcanic,2.73,2.68,11,14,northern group (Traverse N)
+600N,,Roopena Volcanic,2.74,2.68,11,14,northern group
+1400N,,Roopena Volcanic,2.61,2.68,11,14,northern group
+1800N,,Roopena Volcanic,2.63,2.68,11,14,northern group
+2000N,,Roopena Volcanic,2.71,2.68,11,14,northern group
+200S,,Roopena Volcanic,2.75,2.82,11,14,southern group (Traverse S)
+1600S,,Roopena Volcanic,2.88,2.82,11,14,southern group
+3600S,,Roopena Volcanic,2.85,2.82,11,14,southern group
+3800S,600 ft NW,Dolerite (?),2.75,2.82,11,14,query-dolerite in the southern group
+4400S,,Roopena Volcanic,2.99,2.87,11,14,southern group
+4750S,,Roopena Volcanic,3.35,2.87,11,14,southern group
+4800S,,Roopena Volcanic,2.80,2.87,11,14,southern group
+4980S,,Roopena Volcanic,2.89,2.87,11,14,southern group
+6930S,,Roopena Volcanic,2.83,2.87,11,14,southern group
+8000S,,Dolerite (?),2.80,,11,14,query-dolerite
+8000S,,Roopena Volcanic,2.82,,11,14,
+9000S,,Roopena Volcanic,2.78,,11,14,
+2000E,1000 ft N,Moonabie Formation quartzite,2.63,2.645,11,14,host / basement
+3200E,1000 ft N,Moonabie Formation quartzite,2.66,2.645,11,14,
+14300S,,Moonabie Formation quartzite,2.64,2.63,11,14,
+25000S,,Moonabie Formation quartzite,2.62,2.63,11,14,
+4950N,,Pandurra Formation quartzite,2.44,,11,14,cover red bed
+2500S,,Gabbro,3.07,,11,14,
+6800B,1000 ft E,Gawler Range granophyre,2.57,2.60,11,14,
+8000B,300 ft SW,Gawler Range porphyry,2.62,2.60,11,14,

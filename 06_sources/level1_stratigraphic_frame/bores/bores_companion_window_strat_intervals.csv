@@ -1,0 +1,1471 @@
+drillhole_no,depth_from_m,depth_to_m,strat_unit,hole_name,drill_date
+18057,0.0,3.9,Tertiary-Pleistocene rocks,WOOMERA 1,1958-05-30
+18057,3.9,42.06,Bulldog Shale,WOOMERA 1,1958-05-30
+18057,42.06,80.16,Corraberra Sandstone Member,WOOMERA 1,1958-05-30
+18057,80.16,239.12,Tregolana Shale Member,WOOMERA 1,1958-05-30
+18057,239.12,340.61,Whyalla Sandstone,WOOMERA 1,1958-05-30
+18057,340.61,454.15,Tapley Hill Formation,WOOMERA 1,1958-05-30
+18057,454.15,611.12,Pandurra Formation,WOOMERA 1,1958-05-30
+18092,0.0,1.0,Quaternary rocks,VANGUARD 1,1982-11-20
+18092,1.0,110.44,Tregolana Shale Member,VANGUARD 1,1982-11-20
+18092,110.44,110.94,Nuccaleena Formation,VANGUARD 1,1982-11-20
+18092,110.94,219.94,Whyalla Sandstone,VANGUARD 1,1982-11-20
+18092,219.94,374.37,Tapley Hill Formation,VANGUARD 1,1982-11-20
+18092,374.37,1067.47,Pandurra Formation,VANGUARD 1,1982-11-20
+18092,1067.47,1096.0,Gawler Range Volcanics,VANGUARD 1,1982-11-20
+18093,0.0,158.0,Simmens Quartzite Member,WJP1/WJD1,1980-05-28
+18093,158.0,188.0,Corraberra Sandstone Member,WJP1/WJD1,1980-05-28
+18093,188.0,342.3,Tregolana Shale Member,WJP1/WJD1,1980-05-28
+18093,342.3,507.65,Whyalla Sandstone,WJP1/WJD1,1980-05-28
+18093,507.65,755.95,Tapley Hill Formation,WJP1/WJD1,1980-05-28
+18093,755.95,827.2,Pandurra Formation,WJP1/WJD1,1980-05-28
+18093,827.2,861.6,Gawler Range Volcanics,WJP1/WJD1,1980-05-28
+18093,861.6,1015.1,Palaeoproterozoic rocks,WJP1/WJD1,1980-05-28
+20607,0.0,18.0,Tertiary-Pleistocene rocks,PRL 10 / SAR 5,1976-12-17
+20607,18.0,50.0,Tregolana Shale Member,PRL 10 / SAR 5,1976-12-17
+20607,50.0,84.0,Whyalla Sandstone,PRL 10 / SAR 5,1976-12-17
+20607,84.0,96.0,Umberatana Group unit 2,PRL 10 / SAR 5,1976-12-17
+20607,96.0,190.0,Tapley Hill Formation,PRL 10 / SAR 5,1976-12-17
+20607,190.0,199.8,Pandurra Formation,PRL 10 / SAR 5,1976-12-17
+20608,0.0,28.0,Tertiary-Pleistocene rocks,PRL 11 / SAR 6,1977-02-11
+20608,28.0,60.0,Tregolana Shale Member,PRL 11 / SAR 6,1977-02-11
+20608,60.0,106.0,Whyalla Sandstone,PRL 11 / SAR 6,1977-02-11
+20608,106.0,216.4,Tapley Hill Formation,PRL 11 / SAR 6,1977-02-11
+20608,216.4,243.2,Pandurra Formation,PRL 11 / SAR 6,1977-02-11
+20611,0.0,16.0,Tertiary-Pleistocene rocks,PRL 23 / SAR 9,1982-03-01
+20611,16.0,104.0,Tregolana Shale Member,PRL 23 / SAR 9,1982-03-01
+20611,104.0,156.0,Umberatana Group unit 2,PRL 23 / SAR 9,1982-03-01
+20611,156.0,329.0,Tapley Hill Formation,PRL 23 / SAR 9,1982-03-01
+20611,329.0,393.5,Pandurra Formation,PRL 23 / SAR 9,1982-03-01
+20611,393.5,858.1,Gawler Range Volcanics,PRL 23 / SAR 9,1982-03-01
+20611,858.1,1246.0,Wandearah Formation,PRL 23 / SAR 9,1982-03-01
+20680,0.0,8.0,Quaternary rocks,PEB 7,1975-12-31
+20680,8.0,108.0,Tregolana Shale Member,PEB 7,1975-12-31
+20680,108.0,118.0,Pandurra Formation,PEB 7,1975-12-31
+20681,0.0,4.0,Quaternary rocks,PEB 8,1975-12-31
+20681,4.0,94.0,Tregolana Shale Member,PEB 8,1975-12-31
+20681,94.0,106.0,Pandurra Formation,PEB 8,1975-12-31
+20682,0.0,4.0,Quaternary rocks,PEB 9,1975-12-31
+20682,4.0,68.0,Tregolana Shale Member,PEB 9,1975-12-31
+20682,68.0,118.0,Pandurra Formation,PEB 9,1975-12-31
+20683,0.0,4.0,Quaternary rocks,PEB 14,1975-12-31
+20683,4.0,64.0,Tregolana Shale Member,PEB 14,1975-12-31
+20683,64.0,76.0,Pandurra Formation,PEB 14,1975-12-31
+20684,0.0,70.0,Tregolana Shale Member,PEB 15,1975-12-31
+20684,70.0,80.0,Pandurra Formation,PEB 15,1975-12-31
+20685,0.0,4.0,Quaternary rocks,PEB 16,1975-12-31
+20685,4.0,158.0,Tregolana Shale Member,PEB 16,1975-12-31
+20685,158.0,166.0,Pandurra Formation,PEB 16,1975-12-31
+20686,0.0,4.0,Quaternary rocks,PEB 17,1975-12-31
+20686,4.0,112.0,Tregolana Shale Member,PEB 17,1975-12-31
+20687,0.0,22.0,Holocene aeolian sediments,PEB 19,1975-12-31
+20687,22.0,166.0,Tregolana Shale Member,PEB 19,1975-12-31
+20704,0.0,10.0,Quaternary rocks,EC 43,1981-10-09
+20704,10.0,129.0,Tregolana Shale Member,EC 43,1981-10-09
+20704,129.0,132.0,Whyalla Sandstone,EC 43,1981-10-09
+20704,132.0,146.0,Pandurra Formation,EC 43,1981-10-09
+20704,146.0,159.0,Palaeoproterozoic-Mesoproterozoic rocks,EC 43,1981-10-09
+20705,0.0,2.0,Quaternary rocks,EC 40,1981-12-04
+20705,2.0,173.0,Tregolana Shale Member,EC 40,1981-12-04
+20705,173.0,180.0,Whyalla Sandstone,EC 40,1981-12-04
+20705,180.0,192.0,Thora Dolomite,EC 40,1981-12-04
+20705,192.0,206.0,Tapley Hill Formation,EC 40,1981-12-04
+20705,206.0,214.0,Thora Dolomite,EC 40,1981-12-04
+20705,214.0,282.0,Tapley Hill Formation,EC 40,1981-12-04
+20705,282.0,309.0,Woocalla Dolomite Member,EC 40,1981-12-04
+20705,309.0,324.0,Tapley Hill Formation,EC 40,1981-12-04
+20705,324.0,334.0,Pandurra Formation,EC 40,1981-12-04
+20705,334.0,362.0,Pandurra Formation,EC 40,1981-12-04
+20705,362.0,386.0,Gawler Range Volcanics,EC 40,1981-12-04
+20705,386.0,400.5,Gawler Range Volcanics,EC 40,1981-12-04
+20705,400.5,596.0,Gawler Range Volcanics,EC 40,1981-12-04
+20707,0.0,4.0,Quaternary rocks,EC 48,1981-10-27
+20707,4.0,154.0,Tregolana Shale Member,EC 48,1981-10-27
+20707,154.0,174.0,Whyalla Sandstone,EC 48,1981-10-27
+20707,174.0,198.0,Tapley Hill Formation,EC 48,1981-10-27
+20707,198.0,256.0,Pandurra Formation,EC 48,1981-10-27
+20707,256.0,272.0,Palaeoproterozoic-Mesoproterozoic rocks,EC 48,1981-10-27
+20708,0.0,4.0,Quaternary rocks,EC 49,1981-10-18
+20708,4.0,214.0,Tregolana Shale Member,EC 49,1981-10-18
+20708,214.0,224.0,Pandurra Formation,EC 49,1981-10-18
+20708,224.0,240.0,Palaeoproterozoic-Mesoproterozoic rocks,EC 49,1981-10-18
+20709,0.0,14.0,Quaternary rocks,EC 51,1981-10-31
+20709,14.0,22.0,Tertiary rocks,EC 51,1981-10-31
+20709,22.0,166.0,Tregolana Shale Member,EC 51,1981-10-31
+20709,166.0,174.0,Whyalla Sandstone,EC 51,1981-10-31
+20709,174.0,176.0,Umberatana Group unit 2,EC 51,1981-10-31
+20709,176.0,263.0,Tapley Hill Formation,EC 51,1981-10-31
+20709,263.0,285.0,Pandurra Formation,EC 51,1981-10-31
+20709,285.0,292.0,Gawler Range Volcanics,EC 51,1981-10-31
+20710,0.0,11.0,Tertiary-Pleistocene rocks,EC 35,1980-10-01
+20710,11.0,122.5,Tregolana Shale Member,EC 35,1980-10-01
+20710,122.5,126.0,Whyalla Sandstone,EC 35,1980-10-01
+20710,126.0,200.0,Pandurra Formation,EC 35,1980-10-01
+20711,0.0,314.0,Pandurra Formation,EC 21,1980-03-23
+20711,314.0,415.54,Pandurra Formation,EC 21,1980-03-23
+20711,415.54,442.49,Pandurra Formation,EC 21,1980-03-23
+20711,442.49,467.74,Pandurra Formation,EC 21,1980-03-23
+20711,467.74,521.19,Pandurra Formation,EC 21,1980-03-23
+20711,521.19,610.0,Gawler Range Volcanics,EC 21,1980-03-23
+20711,610.0,792.28,Gawler Range Volcanics,EC 21,1980-03-23
+20711,792.28,992.25,Wandearah Formation,EC 21,1980-03-23
+20711,992.75,1002.0,Lincoln Complex,EC 21,1980-03-23
+20712,0.0,3.9,Quaternary rocks,PY 1,1981-03-20
+20712,3.9,39.8,Woocalla Dolomite Member,PY 1,1981-03-20
+20712,39.8,679.65,Pandurra Formation,PY 1,1981-03-20
+20712,679.65,1293.3,Gawler Range Volcanics,PY 1,1981-03-20
+20713,0.0,3.0,no description,PY 2,1981-06-07
+20713,3.0,565.43,Pandurra Formation,PY 2,1981-06-07
+20713,565.43,926.6,Gawler Range Volcanics,PY 2,1981-06-07
+20714,0.0,663.6,Pandurra Formation,PY 3,1981-10-03
+20714,663.6,1288.3,Gawler Range Volcanics,PY 3,1981-10-03
+20715,0.0,9.0,Quaternary rocks,PY 4,1983-01-17
+20715,9.0,34.45,Tregolana Shale Member,PY 4,1983-01-17
+20715,34.45,37.02,Whyalla Sandstone,PY 4,1983-01-17
+20715,37.02,46.5,Woocalla Dolomite Member,PY 4,1983-01-17
+20715,46.5,562.58,Pandurra Formation,PY 4,1983-01-17
+20715,562.58,1015.0,Gawler Range Volcanics,PY 4,1983-01-17
+20718,0.0,12.0,Tertiary-Pleistocene rocks,PRL 5 / SAR 4,1976-12-09
+20718,12.0,197.5,Tregolana Shale Member,PRL 5 / SAR 4,1976-12-09
+20718,197.5,219.4,Whyalla Sandstone,PRL 5 / SAR 4,1976-12-09
+20718,219.4,295.7,Tapley Hill Formation,PRL 5 / SAR 4,1976-12-09
+20718,295.7,333.4,Pandurra Formation,PRL 5 / SAR 4,1976-12-09
+20719,0.0,4.0,Eocene-Quaternary silcrete,PRL 22,1979-07-23
+20719,4.0,108.0,Tregolana Shale Member,PRL 22,1979-07-23
+20719,108.0,140.0,Umberatana Group,PRL 22,1979-07-23
+20719,140.0,252.0,Tapley Hill Formation,PRL 22,1979-07-23
+20719,252.0,276.0,Gawler Range Volcanics,PRL 22,1979-07-23
+20721,0.0,3.0,Quaternary rocks,HUD 1,1982-07-27
+20721,3.0,40.0,Simmens Quartzite Member,HUD 1,1982-07-27
+20721,40.0,64.0,Corraberra Sandstone Member,HUD 1,1982-07-27
+20721,64.0,354.25,Tregolana Shale Member,HUD 1,1982-07-27
+20721,354.25,375.6,Whyalla Sandstone,HUD 1,1982-07-27
+20721,375.6,483.0,Gawler Range Volcanics,HUD 1,1982-07-27
+20722,0.0,128.0,Simmens Quartzite Member,ASD 1,1981-07-07
+20722,128.0,282.8,Tregolana Shale Member,ASD 1,1981-07-07
+20722,282.8,283.68,Nuccaleena Formation,ASD 1,1981-07-07
+20722,283.68,502.85,Whyalla Sandstone,ASD 1,1981-07-07
+20722,502.85,506.46,Umberatana Group unit 2,ASD 1,1981-07-07
+20722,506.46,522.84,Tapley Hill Formation,ASD 1,1981-07-07
+20722,522.84,946.56,Pandurra Formation,ASD 1,1981-07-07
+20722,946.56,1118.0,Palaeoproterozoic rocks,ASD 1,1981-07-07
+20723,0.0,173.0,Simmens Quartzite Member,ASD 2,1984-03-04
+20723,173.0,204.0,Corraberra Sandstone Member,ASD 2,1984-03-04
+20723,204.0,395.7,Tregolana Shale Member,ASD 2,1984-03-04
+20723,395.7,567.32,Whyalla Sandstone,ASD 2,1984-03-04
+20723,567.32,802.32,Tapley Hill Formation,ASD 2,1984-03-04
+20723,802.32,1023.87,Pandurra Formation,ASD 2,1984-03-04
+20723,1023.87,1097.85,Palaeoproterozoic rocks,ASD 2,1984-03-04
+20723,1097.85,1140.6,Mesoproterozoic rocks,ASD 2,1984-03-04
+20723,1140.6,1148.4,Palaeoproterozoic rocks,ASD 2,1984-03-04
+20724,0.0,64.0,Simmens Quartzite Member,AD8,1985-10-14
+20724,64.0,80.0,Corraberra Sandstone Member,AD8,1985-10-14
+20724,80.0,248.0,Tregolana Shale Member,AD8,1985-10-14
+20724,248.0,362.0,Whyalla Sandstone,AD8,1985-10-14
+20724,362.0,825.5,Pandurra Formation,AD8,1985-10-14
+20724,825.5,837.07,Palaeoproterozoic rocks,AD8,1985-10-14
+20724,837.07,842.12,Palaeoproterozoic rocks,AD8,1985-10-14
+20724,842.12,897.0,Palaeoproterozoic rocks,AD8,1985-10-14
+20724,897.0,903.35,Palaeoproterozoic rocks,AD8,1985-10-14
+20724,903.35,1000.2,Palaeoproterozoic rocks,AD8,1985-10-14
+20725,0.0,1.0,Quaternary rocks,HUD 2,1982-04-21
+20725,1.0,70.0,Simmens Quartzite Member,HUD 2,1982-04-21
+20725,70.0,96.0,Corraberra Sandstone Member,HUD 2,1982-04-21
+20725,96.0,352.4,Tregolana Shale Member,HUD 2,1982-04-21
+20725,352.4,368.0,Whyalla Sandstone,HUD 2,1982-04-21
+20725,368.0,396.3,Gawler Range Volcanics,HUD 2,1982-04-21
+20726,0.0,66.0,Simmens Quartzite Member,AD 2,1977-07-18
+20726,66.0,213.0,Tregolana Shale Member,AD 2,1977-07-18
+20726,213.0,213.49,Nuccaleena Formation,AD 2,1977-07-18
+20726,213.49,341.58,Whyalla Sandstone,AD 2,1977-07-18
+20726,341.58,812.52,Pandurra Formation,AD 2,1977-07-18
+20726,812.52,829.0,Palaeoproterozoic rocks,AD 2,1977-07-18
+139533,0.0,7.0,Tertiary-Pleistocene rocks,LY 4B,1983-12-07
+139533,7.0,8.0,Whyalla Sandstone,LY 4B,1983-12-07
+139533,8.0,13.0,Umberatana Group unit 2,LY 4B,1983-12-07
+139533,13.0,150.0,Pandurra Formation,LY 4B,1983-12-07
+139534,0.0,4.9,Tertiary-Pleistocene rocks,LY 5,1983-12-04
+139534,4.9,6.6,Whyalla Sandstone,LY 5,1983-12-04
+139534,6.6,12.0,Umberatana Group unit 2,LY 5,1983-12-04
+139534,12.0,150.0,Pandurra Formation,LY 5,1983-12-04
+139535,0.0,2.0,Tertiary-Pleistocene rocks,LY 6,1983-12-07
+139535,2.0,12.0,Whyalla Sandstone,LY 6,1983-12-07
+139535,12.0,18.5,Umberatana Group unit 2,LY 6,1983-12-07
+139535,18.5,50.0,Pandurra Formation,LY 6,1983-12-07
+139560,0.0,7.5,Tertiary-Pleistocene rocks,OEP 1,1975-05-16
+139560,7.5,48.0,Whyalla Sandstone,OEP 1,1975-05-16
+139597,0.0,12.0,Tertiary-Pleistocene rocks,PRL 6,1976-08-19
+139597,12.0,76.0,Whyalla Sandstone,PRL 6,1976-08-19
+139597,76.0,80.0,Umberatana Group unit 2,PRL 6,1976-08-19
+139597,80.0,142.0,Tapley Hill Formation,PRL 6,1976-08-19
+139597,142.0,160.0,Beda Basalt,PRL 6,1976-08-19
+139598,0.0,18.0,Tertiary-Pleistocene rocks,PRL 7,1976-08-23
+139598,18.0,50.0,Tregolana Shale Member,PRL 7,1976-08-23
+139598,50.0,84.0,Whyalla Sandstone,PRL 7,1976-08-23
+139598,84.0,96.0,Umberatana Group unit 2,PRL 7,1976-08-23
+139598,96.0,190.0,Tapley Hill Formation,PRL 7,1976-08-23
+139598,190.0,192.0,Backy Point Formation,PRL 7,1976-08-23
+139598,192.0,198.0,Pandurra Formation,PRL 7,1976-08-23
+139600,0.0,30.0,Tertiary-Pleistocene rocks,PRL 12A,1977-07-10
+139600,30.0,47.0,Tregolana Shale Member,PRL 12A,1977-07-10
+139600,47.0,86.0,Whyalla Sandstone,PRL 12A,1977-07-10
+139600,86.0,94.0,Umberatana Group unit 2,PRL 12A,1977-07-10
+139600,94.0,184.0,Tapley Hill Formation,PRL 12A,1977-07-10
+139600,184.0,188.0,Backy Point Formation,PRL 12A,1977-07-10
+139600,188.0,197.0,Beda Basalt,PRL 12A,1977-07-10
+139603,0.0,26.0,Tertiary-Pleistocene rocks,PRL 14,1977-07-05
+139603,26.0,46.0,Tregolana Shale Member,PRL 14,1977-07-05
+139603,46.0,80.0,Whyalla Sandstone,PRL 14,1977-07-05
+139603,80.0,96.0,Umberatana Group unit 2,PRL 14,1977-07-05
+139603,96.0,186.0,Tapley Hill Formation,PRL 14,1977-07-05
+139603,186.0,200.0,Backy Point Formation,PRL 14,1977-07-05
+139603,200.0,240.0,Beda Basalt,PRL 14,1977-07-05
+139603,240.0,257.0,Pandurra Formation,PRL 14,1977-07-05
+139604,0.0,24.0,Tertiary-Pleistocene rocks,PRL 15,1977-07-08
+139604,24.0,46.0,Tregolana Shale Member,PRL 15,1977-07-08
+139604,46.0,78.0,Whyalla Sandstone,PRL 15,1977-07-08
+139604,78.0,90.0,Umberatana Group unit 2,PRL 15,1977-07-08
+139604,90.0,177.0,Tapley Hill Formation,PRL 15,1977-07-08
+139604,177.0,197.0,Pandurra Formation,PRL 15,1977-07-08
+139605,0.0,36.0,Tertiary-Pleistocene rocks,PRL 16,1978-06-09
+139605,36.0,52.0,Tregolana Shale Member,PRL 16,1978-06-09
+139605,52.0,101.0,Umberatana Group,PRL 16,1978-06-09
+139605,101.0,190.0,Tapley Hill Formation,PRL 16,1978-06-09
+139605,190.0,276.0,Beda Basalt,PRL 16,1978-06-09
+139605,276.0,356.0,Pandurra Formation,PRL 16,1978-06-09
+139606,0.0,26.0,Tertiary-Pleistocene rocks,PRL 17,1978-06-12
+139606,26.0,50.0,Tregolana Shale Member,PRL 17,1978-06-12
+139606,50.0,98.0,Umberatana Group,PRL 17,1978-06-12
+139606,98.0,192.0,Tapley Hill Formation,PRL 17,1978-06-12
+139606,192.0,268.0,Beda Basalt,PRL 17,1978-06-12
+139607,0.0,14.0,Tertiary-Pleistocene rocks,PRL 18,1978-06-23
+139607,14.0,120.0,Tregolana Shale Member,PRL 18,1978-06-23
+139607,120.0,164.0,Umberatana Group,PRL 18,1978-06-23
+139607,164.0,212.0,Tapley Hill Formation,PRL 18,1978-06-23
+139671,0.0,2.13,Tertiary-Pleistocene rocks,LD 1,1971-03-27
+139671,2.13,70.1,Whyalla Sandstone,LD 1,1971-03-27
+139671,70.1,90.98,Tapley Hill Formation,LD 1,1971-03-27
+139671,90.98,92.66,Pandurra Formation,LD 1,1971-03-27
+139693,0.0,2.0,Tertiary-Pleistocene rocks,6334M 3,1975-10-02
+139693,2.0,10.5,Woocalla Dolomite Member,6334M 3,1975-10-02
+139693,10.5,15.0,Pandurra Formation,6334M 3,1975-10-02
+139694,0.0,9.0,Tertiary-Pleistocene rocks,6334M 4,1975-10-04
+139694,9.0,17.0,Tregolana Shale Member,6334M 4,1975-10-04
+139694,17.0,24.0,Pandurra Formation,6334M 4,1975-10-04
+139701,0.0,9.0,Tertiary-Pleistocene rocks,OK 57,1975-08-25
+139701,9.0,33.0,Tregolana Shale Member,OK 57,1975-08-25
+139701,33.0,43.0,Whyalla Sandstone,OK 57,1975-08-25
+139701,43.0,69.0,Pandurra Formation,OK 57,1975-08-25
+139702,0.0,4.5,Tertiary-Pleistocene rocks,OK 58,1975-08-25
+139702,4.5,16.5,Tregolana Shale Member,OK 58,1975-08-25
+139702,16.5,36.0,Tregolana Shale Member,OK 58,1975-08-25
+139702,36.0,49.5,Whyalla Sandstone,OK 58,1975-08-25
+139702,49.5,61.5,Pandurra Formation,OK 58,1975-08-25
+139703,0.0,6.0,Tertiary-Pleistocene rocks,OK 59,1975-08-26
+139703,6.0,15.0,Tregolana Shale Member,OK 59,1975-08-26
+139703,15.0,22.5,Whyalla Sandstone,OK 59,1975-08-26
+139703,22.5,30.0,Pandurra Formation,OK 59,1975-08-26
+139704,0.0,6.0,Tertiary-Pleistocene rocks,OK 60,1975-08-26
+139704,6.0,25.0,Whyalla Sandstone,OK 60,1975-08-26
+139704,25.0,30.0,Pandurra Formation,OK 60,1975-08-26
+139705,0.0,1.0,Tertiary-Pleistocene rocks,OK 61,1975-08-26
+139705,1.0,7.0,Whyalla Sandstone,OK 61,1975-08-26
+139705,7.0,11.3,Whyalla Sandstone,OK 61,1975-08-26
+139706,0.0,11.0,Tertiary-Pleistocene rocks,OK 62,1975-08-26
+139706,11.0,44.0,Whyalla Sandstone,OK 62,1975-08-26
+139706,44.0,55.5,Pandurra Formation,OK 62,1975-08-26
+139706,55.5,63.0,Pandurra Formation,OK 62,1975-08-26
+139707,0.0,13.5,Tertiary-Pleistocene rocks,OK 63,1975-08-27
+139707,13.5,23.0,Tregolana Shale Member,OK 63,1975-08-27
+139707,23.0,36.0,Whyalla Sandstone,OK 63,1975-08-27
+139707,36.0,45.0,Whyalla Sandstone,OK 63,1975-08-27
+139707,45.0,59.0,Woocalla Dolomite Member,OK 63,1975-08-27
+139707,59.0,72.0,Umberatana Group,OK 63,1975-08-27
+139708,0.0,11.0,Tertiary-Pleistocene rocks,OK 64,1975-08-31
+139708,11.0,22.0,Whyalla Sandstone,OK 64,1975-08-31
+139708,22.0,23.0,Woocalla Dolomite Member,OK 64,1975-08-31
+139708,23.0,64.0,Umberatana Group,OK 64,1975-08-31
+139709,0.0,12.0,Tertiary-Pleistocene rocks,OK 65,1975-09-01
+139709,12.0,49.0,Tregolana Shale Member,OK 65,1975-09-01
+139709,49.0,84.0,Umberatana Group,OK 65,1975-09-01
+139710,0.0,6.0,Tertiary-Pleistocene rocks,OK 66,1975-09-03
+139710,6.0,12.0,Tregolana Shale Member,OK 66,1975-09-03
+139710,12.0,27.3,Tregolana Shale Member,OK 66,1975-09-03
+139710,27.3,64.0,Whyalla Sandstone,OK 66,1975-09-03
+139710,64.0,80.0,Woocalla Dolomite Member,OK 66,1975-09-03
+139710,80.0,82.0,Umberatana Group,OK 66,1975-09-03
+139710,82.0,87.0,Pandurra Formation,OK 66,1975-09-03
+139711,0.0,10.5,Tertiary-Pleistocene rocks,OK 67,1975-09-03
+139711,10.5,19.0,Tregolana Shale Member,OK 67,1975-09-03
+139711,19.0,40.0,Whyalla Sandstone,OK 67,1975-09-03
+139711,40.0,46.0,Woocalla Dolomite Member,OK 67,1975-09-03
+139711,46.0,51.0,Umberatana Group,OK 67,1975-09-03
+139711,51.0,57.0,Pandurra Formation,OK 67,1975-09-03
+139712,0.0,6.0,Tertiary-Pleistocene rocks,OK 68,1975-09-08
+139712,6.0,23.0,Whyalla Sandstone,OK 68,1975-09-08
+139712,23.0,25.0,Woocalla Dolomite Member,OK 68,1975-09-08
+139712,25.0,73.5,Gairdner Dolerite,OK 68,1975-09-08
+139713,0.0,7.0,Tertiary-Pleistocene rocks,OK 69,1975-09-09
+139713,7.0,40.5,Umberatana Group,OK 69,1975-09-09
+139713,40.5,45.0,Pandurra Formation,OK 69,1975-09-09
+139714,0.0,3.0,Tertiary-Pleistocene rocks,OK 70,1975-09-12
+139714,3.0,7.0,Eocene-Quaternary silcrete,OK 70,1975-09-12
+139714,7.0,39.0,Whyalla Sandstone,OK 70,1975-09-12
+139714,39.0,55.5,Umberatana Group unit 2,OK 70,1975-09-12
+139714,55.5,90.0,Woocalla Dolomite Member,OK 70,1975-09-12
+139715,0.0,6.0,Tertiary-Pleistocene rocks,OK 71,1975-09-13
+139715,6.0,18.0,Tregolana Shale Member,OK 71,1975-09-13
+139715,18.0,63.0,Whyalla Sandstone,OK 71,1975-09-13
+139715,63.0,72.0,Umberatana Group unit 2,OK 71,1975-09-13
+139716,0.0,6.0,Tertiary-Pleistocene rocks,OK 72,1975-09-14
+139716,6.0,24.0,Tregolana Shale Member,OK 72,1975-09-14
+139716,24.0,54.0,Whyalla Sandstone,OK 72,1975-09-14
+139716,54.0,66.0,Umberatana Group unit 2,OK 72,1975-09-14
+139717,0.0,3.0,Tertiary-Pleistocene rocks,OK 73,1975-09-14
+139717,3.0,15.0,Whyalla Sandstone,OK 73,1975-09-14
+139717,15.0,21.0,Pandurra Formation,OK 73,1975-09-14
+139718,0.0,9.0,Tertiary-Pleistocene rocks,OK 74,1975-09-14
+139718,9.0,18.0,Tregolana Shale Member,OK 74,1975-09-14
+139718,18.0,24.0,Pandurra Formation,OK 74,1975-09-14
+139719,0.0,1.5,Tertiary-Pleistocene rocks,OK 75,1975-09-15
+139719,1.5,13.5,Tregolana Shale Member,OK 75,1975-09-15
+139719,13.5,37.5,Umberatana Group,OK 75,1975-09-15
+139720,0.0,4.5,Tertiary-Pleistocene rocks,OK 76,1975-09-15
+139720,4.5,15.0,Tregolana Shale Member,OK 76,1975-09-15
+139720,15.0,43.0,Whyalla Sandstone,OK 76,1975-09-15
+139720,43.0,64.5,Woocalla Dolomite Member,OK 76,1975-09-15
+139720,64.5,67.5,Pandurra Formation,OK 76,1975-09-15
+139721,0.0,9.0,Tertiary-Pleistocene rocks,OEP 2,1975-01-01
+139721,9.0,48.0,Whyalla Sandstone,OEP 2,1975-01-01
+139722,0.0,12.0,Tertiary-Pleistocene rocks,OEP 3,1975-01-01
+139722,12.0,48.0,Whyalla Sandstone,OEP 3,1975-01-01
+139723,0.0,7.5,Tertiary-Pleistocene rocks,OEP 4,1975-01-01
+139723,7.5,42.0,Tertiary-Pleistocene rocks,OEP 4,1975-01-01
+139724,0.0,33.0,Tertiary-Pleistocene rocks,OEP 5,1975-01-01
+139724,33.0,48.0,Tregolana Shale Member,OEP 5,1975-01-01
+139725,0.0,9.0,Tertiary-Pleistocene rocks,OEP 6,1975-01-01
+139725,9.0,48.0,Tregolana Shale Member,OEP 6,1975-01-01
+139726,0.0,10.5,Tertiary-Pleistocene rocks,OEP 7,1975-01-01
+139726,10.5,42.0,Tregolana Shale Member,OEP 7,1975-01-01
+139727,0.0,9.0,Tertiary-Pleistocene rocks,OEP 8,1975-01-01
+139727,9.0,48.0,Tregolana Shale Member,OEP 8,1975-01-01
+139728,0.0,9.0,Tertiary-Pleistocene rocks,OEP 9,1975-01-01
+139728,9.0,30.0,Tregolana Shale Member,OEP 9,1975-01-01
+139729,0.0,9.0,Tertiary-Pleistocene rocks,OEP 10,1975-01-01
+139729,9.0,36.0,Tregolana Shale Member,OEP 10,1975-01-01
+139732,0.0,3.0,Quaternary rocks,MG 82,1975-08-16
+139732,3.0,8.0,Whyalla Sandstone,MG 82,1975-08-16
+139732,8.0,36.0,Pandurra Formation,MG 82,1975-08-16
+139733,0.0,3.0,Quaternary rocks,MG 83,1975-08-16
+139733,3.0,16.0,Whyalla Sandstone,MG 83,1975-08-16
+139733,16.0,17.0,Woocalla Dolomite Member,MG 83,1975-08-16
+139733,17.0,30.0,Pandurra Formation,MG 83,1975-08-16
+139734,0.0,6.0,Tertiary-Pleistocene rocks,MG 84,1975-08-16
+139734,6.0,15.0,Whyalla Sandstone,MG 84,1975-08-16
+139734,15.0,24.0,Pandurra Formation,MG 84,1975-08-16
+139735,0.0,5.0,Tertiary-Pleistocene rocks,MG 85,1975-08-17
+139735,5.0,19.0,Whyalla Sandstone,MG 85,1975-08-17
+139735,19.0,30.0,Pandurra Formation,MG 85,1975-08-17
+139736,0.0,4.0,Tertiary-Pleistocene rocks,MG 86,1975-08-17
+139736,4.0,29.0,Whyalla Sandstone,MG 86,1975-08-17
+139736,29.0,39.0,Pandurra Formation,MG 86,1975-08-17
+139737,0.0,3.0,Tertiary-Pleistocene rocks,MG 87,1975-08-18
+139737,3.0,21.0,Whyalla Sandstone,MG 87,1975-08-18
+139737,21.0,30.0,Pandurra Formation,MG 87,1975-08-18
+139738,0.0,2.0,Tertiary-Pleistocene rocks,MG 88,1975-08-18
+139738,2.0,32.0,Whyalla Sandstone,MG 88,1975-08-18
+139738,32.0,42.0,Pandurra Formation,MG 88,1975-08-18
+139739,0.0,6.0,Tertiary-Pleistocene rocks,MG 89,1975-08-19
+139739,6.0,18.0,Whyalla Sandstone,MG 89,1975-08-19
+139739,18.0,30.0,Pandurra Formation,MG 89,1975-08-19
+139740,0.0,23.0,Tertiary-Pleistocene rocks,MG 90,1975-09-18
+139740,23.0,33.0,Whyalla Sandstone,MG 90,1975-09-18
+139740,33.0,42.0,Pandurra Formation,MG 90,1975-09-18
+139741,0.0,10.0,Tertiary-Pleistocene rocks,MG 91,1975-09-18
+139741,10.0,27.0,Pandurra Formation,MG 91,1975-09-18
+139742,0.0,19.0,Tertiary-Pleistocene rocks,MG 92,1975-09-19
+139742,19.0,25.5,Pandurra Formation,MG 92,1975-09-19
+139743,0.0,30.3,Whyalla Sandstone,MG 501,1983-11-15
+139743,30.3,35.35,Tapley Hill Formation,MG 501,1983-11-15
+139743,35.35,37.1,Pandurra Formation,MG 501,1983-11-15
+139744,0.0,24.0,no description,MG 502,1983-11-17
+139744,24.0,28.3,Whyalla Sandstone,MG 502,1983-11-17
+139744,28.3,36.7,Tapley Hill Formation,MG 502,1983-11-17
+139745,0.0,21.2,no description,MG 503,1983-11-18
+139745,21.2,22.4,Whyalla Sandstone,MG 503,1983-11-18
+139745,22.4,29.0,Tapley Hill Formation,MG 503,1983-11-18
+139746,0.0,20.0,no description,MG 504,1983-11-18
+139746,20.0,28.3,Tapley Hill Formation,MG 504,1983-11-18
+139747,0.0,23.0,no description,MG 505,1983-11-19
+139747,23.0,23.9,Whyalla Sandstone,MG 505,1983-11-19
+139747,23.9,30.5,Tapley Hill Formation,MG 505,1983-11-19
+139748,0.0,23.0,no description,MG 506,1983-11-20
+139748,23.0,26.9,Whyalla Sandstone,MG 506,1983-11-20
+139748,26.9,32.6,Tapley Hill Formation,MG 506,1983-11-20
+139748,32.6,42.5,Pandurra Formation,MG 506,1983-11-20
+139749,0.0,26.0,no description,MG 507,1983-11-21
+139749,26.0,32.5,Tapley Hill Formation,MG 507,1983-11-21
+139749,32.5,33.4,Pandurra Formation,MG 507,1983-11-21
+139750,0.0,24.0,no description,MG 508,1983-11-22
+139750,24.0,26.6,Whyalla Sandstone,MG 508,1983-11-22
+139750,26.6,34.9,Tapley Hill Formation,MG 508,1983-11-22
+139750,34.9,36.4,Pandurra Formation,MG 508,1983-11-22
+139751,0.0,25.0,no description,MG 509,1983-11-23
+139751,25.0,27.1,Whyalla Sandstone,MG 509,1983-11-23
+139751,27.1,34.75,Tapley Hill Formation,MG 509,1983-11-23
+139751,34.75,34.9,Pandurra Formation,MG 509,1983-11-23
+139752,0.0,28.25,Whyalla Sandstone,MG 510,1983-11-24
+139752,28.25,34.9,Tapley Hill Formation,MG 510,1983-11-24
+139752,34.9,36.1,Pandurra Formation,MG 510,1983-11-24
+139753,0.0,26.0,no description,MG 511,1983-11-25
+139753,26.0,28.8,Whyalla Sandstone,MG 511,1983-11-25
+139753,28.8,36.4,Tapley Hill Formation,MG 511,1983-11-25
+139756,0.0,15.0,Tertiary-Pleistocene rocks,PL 15,1976-11-01
+139756,15.0,48.0,Whyalla Sandstone,PL 15,1976-11-01
+139756,48.0,54.0,Pandurra Formation,PL 15,1976-11-01
+139757,0.0,9.0,Tertiary-Pleistocene rocks,PL 16,1976-11-02
+139757,9.0,48.0,Whyalla Sandstone,PL 16,1976-11-02
+139758,0.0,27.0,Tertiary-Pleistocene rocks,PL 17,1976-11-04
+139758,27.0,69.0,Whyalla Sandstone,PL 17,1976-11-04
+139758,69.0,71.0,Pandurra Formation,PL 17,1976-11-04
+139759,0.0,12.0,Tertiary-Pleistocene rocks,PL 18,1976-11-05
+139759,12.0,78.0,Whyalla Sandstone,PL 18,1976-11-05
+139760,0.0,25.0,Tertiary-Pleistocene rocks,PL 19,1976-11-06
+139760,25.0,88.7,Whyalla Sandstone,PL 19,1976-11-06
+139760,88.7,93.3,Pandurra Formation,PL 19,1976-11-06
+139761,0.0,27.0,Tertiary-Pleistocene rocks,PL 20,1976-11-08
+139761,27.0,61.0,Whyalla Sandstone,PL 20,1976-11-08
+139762,0.0,18.0,Tertiary-Pleistocene rocks,PL 21,1976-11-08
+139762,18.0,51.0,Whyalla Sandstone,PL 21,1976-11-08
+139763,0.0,12.0,Tertiary-Pleistocene rocks,PL 22,1976-11-20
+139763,12.0,68.0,Whyalla Sandstone,PL 22,1976-11-20
+139763,68.0,73.0,Pandurra Formation,PL 22,1976-11-20
+139764,0.0,25.0,Tertiary-Pleistocene rocks,PL 24,1976-11-23
+139764,25.0,59.0,Whyalla Sandstone,PL 24,1976-11-23
+139764,59.0,60.6,Pandurra Formation,PL 24,1976-11-23
+139765,0.0,18.0,Tertiary-Pleistocene rocks,PL 25,1976-11-24
+139765,18.0,88.5,Whyalla Sandstone,PL 25,1976-11-24
+139765,88.5,95.5,Pandurra Formation,PL 25,1976-11-24
+139766,0.0,27.0,Tertiary-Pleistocene rocks,PL 26,1976-11-27
+139766,27.0,39.0,Whyalla Sandstone,PL 26,1976-11-27
+139767,0.0,24.0,Tertiary-Pleistocene rocks,PL 27,1976-11-27
+139767,24.0,44.0,Whyalla Sandstone,PL 27,1976-11-27
+139779,0.0,28.0,Quaternary rocks,MF 13,1974-09-23
+139779,28.0,95.0,Whyalla Sandstone,MF 13,1974-09-23
+139779,95.0,96.0,Woocalla Dolomite Member,MF 13,1974-09-23
+139780,0.0,4.0,Tertiary-Pleistocene rocks,W 10,1975-09-22
+139780,4.0,45.3,Tregolana Shale Member,W 10,1975-09-22
+139780,45.3,54.0,Pandurra Formation,W 10,1975-09-22
+139781,0.0,7.0,Tertiary-Pleistocene rocks,W 11,1975-09-23
+139781,7.0,58.0,Tregolana Shale Member,W 11,1975-09-23
+139781,58.0,61.0,Woocalla Dolomite Member,W 11,1975-09-23
+139781,61.0,72.0,Pandurra Formation,W 11,1975-09-23
+139782,0.0,7.0,Tertiary-Pleistocene rocks,W 12,1975-09-24
+139782,7.0,19.5,Pandurra Formation,W 12,1975-09-24
+139783,0.0,1.0,Tertiary-Pleistocene rocks,W 13,1975-09-24
+139783,1.0,24.0,Tregolana Shale Member,W 13,1975-09-24
+139783,24.0,81.0,Tregolana Shale Member,W 13,1975-09-24
+139784,0.0,4.5,Tertiary-Pleistocene rocks,W 14,1975-09-26
+139784,4.5,11.0,Tertiary-Pleistocene rocks,W 14,1975-09-26
+139784,11.0,42.0,Tregolana Shale Member,W 14,1975-09-26
+139785,0.0,6.0,Tertiary-Pleistocene rocks,W 15,1975-09-26
+139785,6.0,22.5,Tregolana Shale Member,W 15,1975-09-26
+139785,22.5,28.0,Whyalla Sandstone,W 15,1975-09-26
+139785,28.0,36.0,Pandurra Formation,W 15,1975-09-26
+139786,0.0,12.0,Tertiary-Pleistocene rocks,W 16,1975-09-27
+139786,12.0,21.0,Tregolana Shale Member,W 16,1975-09-27
+139786,21.0,33.0,Pandurra Formation,W 16,1975-09-27
+139787,0.0,11.0,Tertiary-Pleistocene rocks,W 17,1975-09-29
+139787,11.0,60.0,Tregolana Shale Member,W 17,1975-09-29
+139788,0.0,19.0,Tertiary-Pleistocene rocks,EC 23,1980-09-22
+139788,19.0,65.5,Whyalla Sandstone,EC 23,1980-09-22
+139788,65.5,88.0,Pandurra Formation,EC 23,1980-09-22
+139789,0.0,16.5,Tertiary-Pleistocene rocks,EC 24,1980-09-23
+139789,16.5,36.5,Tregolana Shale Member,EC 24,1980-09-23
+139789,36.5,73.5,Whyalla Sandstone,EC 24,1980-09-23
+139789,73.5,84.0,Pandurra Formation,EC 24,1980-09-23
+139790,0.0,15.0,Tertiary-Pleistocene rocks,EC 25,1980-09-23
+139790,15.0,23.0,Tregolana Shale Member,EC 25,1980-09-23
+139790,23.0,40.5,Whyalla Sandstone,EC 25,1980-09-23
+139790,40.5,62.0,Pandurra Formation,EC 25,1980-09-23
+139791,0.0,4.5,Tertiary-Pleistocene rocks,EC 26,1980-09-24
+139791,4.5,33.0,Tregolana Shale Member,EC 26,1980-09-24
+139791,33.0,44.5,Whyalla Sandstone,EC 26,1980-09-24
+139791,44.5,60.0,Pandurra Formation,EC 26,1980-09-24
+139792,0.0,17.0,Tertiary-Pleistocene rocks,EC 27,1980-09-25
+139792,17.0,47.0,Tregolana Shale Member,EC 27,1980-09-25
+139792,47.0,81.0,Tregolana Shale Member,EC 27,1980-09-25
+139792,81.0,95.5,Whyalla Sandstone,EC 27,1980-09-25
+139792,95.5,108.0,Pandurra Formation,EC 27,1980-09-25
+139793,0.0,5.0,Tertiary-Pleistocene rocks,EC 28,1980-09-26
+139793,5.0,53.5,Tregolana Shale Member,EC 28,1980-09-26
+139793,53.5,80.5,Whyalla Sandstone,EC 28,1980-09-26
+139793,80.5,105.0,Tapley Hill Formation,EC 28,1980-09-26
+139793,105.0,116.0,Pandurra Formation,EC 28,1980-09-26
+139794,0.0,7.0,Tertiary-Pleistocene rocks,EC 29,1980-09-26
+139794,7.0,46.0,Tregolana Shale Member,EC 29,1980-09-26
+139794,46.0,89.5,Tregolana Shale Member,EC 29,1980-09-26
+139794,89.5,92.5,Whyalla Sandstone,EC 29,1980-09-26
+139794,92.5,102.0,Pandurra Formation,EC 29,1980-09-26
+139795,0.0,43.0,Tertiary-Pleistocene rocks,EC 30,1980-09-27
+139795,43.0,67.0,Tregolana Shale Member,EC 30,1980-09-27
+139795,67.0,76.0,Pandurra Formation,EC 30,1980-09-27
+139796,0.0,24.0,Tertiary-Pleistocene rocks,EC 31,1980-09-27
+139796,24.0,41.5,Tregolana Shale Member,EC 31,1980-09-27
+139796,41.5,44.0,Nuccaleena Formation,EC 31,1980-09-27
+139796,44.0,53.0,Whyalla Sandstone,EC 31,1980-09-27
+139796,53.0,64.0,Pandurra Formation,EC 31,1980-09-27
+139797,0.0,27.0,Tertiary-Pleistocene rocks,EC 32,1980-09-29
+139797,27.0,103.0,Tregolana Shale Member,EC 32,1980-09-29
+139797,103.0,114.0,Pandurra Formation,EC 32,1980-09-29
+139798,0.0,27.0,Tertiary-Pleistocene rocks,EC 33,1980-09-30
+139798,27.0,93.0,Tregolana Shale Member,EC 33,1980-09-30
+139798,93.0,104.0,Pandurra Formation,EC 33,1980-09-30
+139799,0.0,24.0,Tertiary-Pleistocene rocks,EC 34,1980-09-30
+139799,24.0,116.5,Tregolana Shale Member,EC 34,1980-09-30
+139799,116.5,136.0,Pandurra Formation,EC 34,1980-09-30
+139800,0.0,6.5,Tertiary-Pleistocene rocks,EC 36,1980-10-02
+139800,6.5,18.0,Tregolana Shale Member,EC 36,1980-10-02
+139800,18.0,49.0,Tregolana Shale Member,EC 36,1980-10-02
+139800,49.0,62.0,Pandurra Formation,EC 36,1980-10-02
+139801,0.0,2.0,Tertiary-Pleistocene rocks,EC 37,1980-10-02
+139801,2.0,45.5,Tregolana Shale Member,EC 37,1980-10-02
+139801,45.5,48.5,Nuccaleena Formation,EC 37,1980-10-02
+139801,48.5,62.0,Pandurra Formation,EC 37,1980-10-02
+139802,0.0,20.0,Tregolana Shale Member,EC 38,1980-10-03
+139802,20.0,78.5,Tregolana Shale Member,EC 38,1980-10-03
+139802,78.5,81.0,Nuccaleena Formation,EC 38,1980-10-03
+139802,81.0,82.0,Whyalla Sandstone,EC 38,1980-10-03
+139802,82.0,92.0,Pandurra Formation,EC 38,1980-10-03
+139803,0.0,4.0,Tertiary-Pleistocene rocks,EC 39,1980-10-03
+139803,4.0,24.0,Tregolana Shale Member,EC 39,1980-10-03
+139803,24.0,60.0,Tregolana Shale Member,EC 39,1980-10-03
+139803,60.0,61.0,Nuccaleena Formation,EC 39,1980-10-03
+139803,61.0,70.0,Whyalla Sandstone,EC 39,1980-10-03
+139803,70.0,82.0,Pandurra Formation,EC 39,1980-10-03
+139804,0.0,18.0,Tertiary-Pleistocene rocks,RP 1,1991-05-21
+139804,18.0,56.0,Whyalla Sandstone,RP 1,1991-05-21
+139804,56.0,124.0,Tapley Hill Formation,RP 1,1991-05-21
+139804,124.0,132.0,Pandurra Formation,RP 1,1991-05-21
+139805,0.0,18.0,Tertiary-Pleistocene rocks,RP 2,1991-05-22
+139805,18.0,68.0,Whyalla Sandstone,RP 2,1991-05-22
+139805,68.0,130.0,Tapley Hill Formation,RP 2,1991-05-22
+139805,130.0,147.0,Pandurra Formation,RP 2,1991-05-22
+139806,0.0,22.0,Tertiary-Pleistocene rocks,RP 3,1991-05-23
+139806,22.0,66.0,Whyalla Sandstone,RP 3,1991-05-23
+139806,66.0,120.0,Tapley Hill Formation,RP 3,1991-05-23
+139806,120.0,126.0,Pandurra Formation,RP 3,1991-05-23
+139814,0.0,48.6,Tregolana Shale Member,LH 12,1983-02-20
+139814,48.6,49.85,Nuccaleena Formation,LH 12,1983-02-20
+139814,49.85,109.0,Whyalla Sandstone,LH 12,1983-02-20
+139815,0.0,37.55,Tregolana Shale Member,LH 13,1983-02-22
+139815,37.55,37.96,Nuccaleena Formation,LH 13,1983-02-22
+139815,37.96,99.75,Whyalla Sandstone,LH 13,1983-02-22
+139816,0.0,56.25,Tregolana Shale Member,LH 14,1983-02-23
+139816,56.25,57.65,Nuccaleena Formation,LH 14,1983-02-23
+139816,57.65,76.0,Whyalla Sandstone,LH 14,1983-02-23
+139817,0.0,41.8,Tregolana Shale Member,LH 15,1983-02-25
+139817,41.8,42.55,Nuccaleena Formation,LH 15,1983-02-25
+139817,42.55,119.2,Whyalla Sandstone,LH 15,1983-02-25
+139818,0.0,25.5,Tregolana Shale Member,LH 16,1983-02-26
+139818,25.5,69.8,Whyalla Sandstone,LH 16,1983-02-26
+139818,69.8,75.8,Pandurra Formation,LH 16,1983-02-26
+139819,0.0,24.6,Tregolana Shale Member,LH 17,1983-03-01
+139819,24.6,75.9,Whyalla Sandstone,LH 17,1983-03-01
+139819,75.9,85.0,Pandurra Formation,LH 17,1983-03-01
+139820,0.0,18.0,Whyalla Sandstone,LH 18,1983-03-02
+139820,18.0,31.0,Pandurra Formation,LH 18,1983-03-02
+139821,0.0,13.25,Whyalla Sandstone,LH 19,1983-03-02
+139821,13.25,22.0,Pandurra Formation,LH 19,1983-03-02
+139822,0.0,18.8,Tregolana Shale Member,LH 20,1983-03-03
+139822,18.8,19.1,Nuccaleena Formation,LH 20,1983-03-03
+139822,19.1,22.4,Whyalla Sandstone,LH 20,1983-03-03
+139823,0.0,52.0,Tregolana Shale Member,LH 21,1983-03-19
+139823,52.0,53.6,Nuccaleena Formation,LH 21,1983-03-19
+139823,53.6,197.64,Whyalla Sandstone,LH 21,1983-03-19
+139823,197.64,211.0,Tapley Hill Formation,LH 21,1983-03-19
+139824,0.0,39.0,Tregolana Shale Member,LH 22,1983-03-20
+139824,39.0,40.2,Nuccaleena Formation,LH 22,1983-03-20
+139824,40.2,52.0,Whyalla Sandstone,LH 22,1983-03-20
+139825,0.0,33.75,Tregolana Shale Member,LH 23,1983-03-22
+139825,33.75,35.12,Nuccaleena Formation,LH 23,1983-03-22
+139825,35.12,100.6,Whyalla Sandstone,LH 23,1983-03-22
+139825,100.6,105.0,Pandurra Formation,LH 23,1983-03-22
+139826,0.0,37.2,Tregolana Shale Member,LH 24,1983-03-23
+139826,37.2,58.0,Whyalla Sandstone,LH 24,1983-03-23
+139827,0.0,13.7,Tregolana Shale Member,LH 25,1983-03-25
+139827,13.7,82.12,Whyalla Sandstone,LH 25,1983-03-25
+139827,82.12,89.1,Pandurra Formation,LH 25,1983-03-25
+139828,0.0,9.5,Tertiary-Pleistocene rocks,LH 26,1983-05-27
+139828,9.5,106.8,Whyalla Sandstone,LH 26,1983-05-27
+139828,106.8,111.5,Pandurra Formation,LH 26,1983-05-27
+139829,0.0,12.8,Tertiary-Pleistocene rocks,LH 27,1983-05-28
+139829,12.8,36.0,Whyalla Sandstone,LH 27,1983-05-28
+139829,36.0,41.0,Pandurra Formation,LH 27,1983-05-28
+139830,0.0,13.0,Tregolana Shale Member,LH 28,1983-05-28
+139830,13.0,41.5,Whyalla Sandstone,LH 28,1983-05-28
+139830,41.5,50.8,Pandurra Formation,LH 28,1983-05-28
+139831,0.0,15.7,Tregolana Shale Member,LH 29,1983-05-29
+139831,15.7,26.8,Whyalla Sandstone,LH 29,1983-05-29
+139832,0.0,7.35,Tertiary-Pleistocene rocks,LH 30,1983-05-30
+139832,7.35,20.6,Tregolana Shale Member,LH 30,1983-05-30
+139832,20.6,31.0,Whyalla Sandstone,LH 30,1983-05-30
+139832,31.0,36.3,Pandurra Formation,LH 30,1983-05-30
+139833,0.0,34.0,Tregolana Shale Member,LH 31,1983-05-31
+139833,34.0,35.0,Nuccaleena Formation,LH 31,1983-05-31
+139833,35.0,42.0,Whyalla Sandstone,LH 31,1983-05-31
+139834,0.0,12.8,Tregolana Shale Member,LH 32,1983-06-01
+139834,12.8,101.5,Whyalla Sandstone,LH 32,1983-06-01
+139834,101.5,104.1,Pandurra Formation,LH 32,1983-06-01
+139835,0.0,21.2,Tregolana Shale Member,LH 33,1983-06-03
+139835,21.2,22.35,Nuccaleena Formation,LH 33,1983-06-03
+139835,22.35,77.3,Whyalla Sandstone,LH 33,1983-06-03
+139835,77.3,84.0,Pandurra Formation,LH 33,1983-06-03
+139836,0.0,31.67,Tregolana Shale Member,LH 34,1983-06-04
+139836,31.67,99.0,Whyalla Sandstone,LH 34,1983-06-04
+139837,0.0,15.2,Tregolana Shale Member,LH 35,1983-06-05
+139837,15.2,35.9,Whyalla Sandstone,LH 35,1983-06-05
+139837,35.9,45.0,Pandurra Formation,LH 35,1983-06-05
+139838,0.0,25.95,Tregolana Shale Member,LH 36,1983-06-07
+139838,25.95,27.4,Nuccaleena Formation,LH 36,1983-06-07
+139838,27.4,87.0,Whyalla Sandstone,LH 36,1983-06-07
+139839,0.0,16.2,Tregolana Shale Member,LH 37,1983-06-07
+139839,16.2,16.4,Nuccaleena Formation,LH 37,1983-06-07
+139839,16.4,55.5,Whyalla Sandstone,LH 37,1983-06-07
+139839,55.5,60.0,Pandurra Formation,LH 37,1983-06-07
+139840,0.0,38.8,Tregolana Shale Member,LH 38,1983-06-09
+139840,38.8,40.77,Nuccaleena Formation,LH 38,1983-06-09
+139840,40.77,55.45,Whyalla Sandstone,LH 38,1983-06-09
+139840,55.45,57.0,Woocalla Dolomite Member,LH 38,1983-06-09
+139841,0.0,61.5,Tregolana Shale Member,LH 39,1983-06-10
+139841,61.5,64.0,Nuccaleena Formation,LH 39,1983-06-10
+139841,64.0,80.4,Whyalla Sandstone,LH 39,1983-06-10
+139841,80.4,92.4,Woocalla Dolomite Member,LH 39,1983-06-10
+139841,92.4,99.0,Tapley Hill Formation,LH 39,1983-06-10
+139842,0.0,4.5,Tertiary-Pleistocene rocks,LH 40,1984-03-31
+139842,4.5,77.5,Tregolana Shale Member,LH 40,1984-03-31
+139842,77.5,150.0,Whyalla Sandstone,LH 40,1984-03-31
+139842,150.0,314.0,Umberatana Group unit 2,LH 40,1984-03-31
+139842,314.0,328.0,Pandurra Formation,LH 40,1984-03-31
+139843,0.0,4.5,Tertiary-Pleistocene rocks,LH 41,1984-04-02
+139843,4.5,99.0,Tregolana Shale Member,LH 41,1984-04-02
+139843,99.0,103.5,Nuccaleena Formation,LH 41,1984-04-02
+139843,103.5,208.0,Whyalla Sandstone,LH 41,1984-04-02
+139843,208.0,216.0,Tapley Hill Formation,LH 41,1984-04-02
+139843,216.0,228.0,Pandurra Formation,LH 41,1984-04-02
+139844,0.0,10.0,Tertiary-Pleistocene rocks,LH 42,1984-04-03
+139844,10.0,36.0,Tregolana Shale Member,LH 42,1984-04-03
+139844,36.0,114.0,Whyalla Sandstone,LH 42,1984-04-03
+139844,114.0,123.5,Umberatana Group unit 2,LH 42,1984-04-03
+139844,123.5,136.0,Pandurra Formation,LH 42,1984-04-03
+139845,0.0,4.5,Tertiary-Pleistocene rocks,LH 43,1984-04-03
+139845,4.5,36.0,Tregolana Shale Member,LH 43,1984-04-03
+139845,36.0,91.5,Whyalla Sandstone,LH 43,1984-04-03
+139845,91.5,123.0,Umberatana Group unit 2,LH 43,1984-04-03
+139845,123.0,136.0,Pandurra Formation,LH 43,1984-04-03
+139846,0.0,2.0,Tertiary-Pleistocene rocks,LH 44,1984-04-04
+139846,2.0,18.5,Tregolana Shale Member,LH 44,1984-04-04
+139846,18.5,70.0,Whyalla Sandstone,LH 44,1984-04-04
+139846,70.0,109.0,Umberatana Group unit 2,LH 44,1984-04-04
+139846,109.0,120.0,Pandurra Formation,LH 44,1984-04-04
+139847,0.0,4.0,Tertiary-Pleistocene rocks,LH 45,1984-04-06
+139847,4.0,100.5,Tregolana Shale Member,LH 45,1984-04-06
+139847,100.5,142.0,Whyalla Sandstone,LH 45,1984-04-06
+139847,142.0,307.5,Umberatana Group unit 2,LH 45,1984-04-06
+139847,307.5,356.5,Tapley Hill Formation,LH 45,1984-04-06
+139847,356.5,368.0,Pandurra Formation,LH 45,1984-04-06
+139848,0.0,3.0,Tertiary-Pleistocene rocks,LH 46,1984-04-06
+139848,3.0,18.0,Tregolana Shale Member,LH 46,1984-04-06
+139848,18.0,19.5,Nuccaleena Formation,LH 46,1984-04-06
+139848,19.5,76.0,Whyalla Sandstone,LH 46,1984-04-06
+139848,76.0,96.5,Umberatana Group unit 2,LH 46,1984-04-06
+139848,96.5,108.0,Pandurra Formation,LH 46,1984-04-06
+139849,0.0,12.0,Tertiary-Pleistocene rocks,LH 47,1984-04-07
+139849,12.0,31.5,Tregolana Shale Member,LH 47,1984-04-07
+139849,31.5,66.0,Whyalla Sandstone,LH 47,1984-04-07
+139849,66.0,102.0,Umberatana Group unit 2,LH 47,1984-04-07
+139849,102.0,112.0,Pandurra Formation,LH 47,1984-04-07
+139850,0.0,14.0,Tertiary-Pleistocene rocks,LH 48,1984-04-09
+139850,14.0,28.0,Tregolana Shale Member,LH 48,1984-04-09
+139850,28.0,30.0,Nuccaleena Formation,LH 48,1984-04-09
+139850,30.0,42.0,Whyalla Sandstone,LH 48,1984-04-09
+139850,42.0,151.0,Umberatana Group unit 2,LH 48,1984-04-09
+139850,151.0,169.0,Tapley Hill Formation,LH 48,1984-04-09
+139850,169.0,180.0,Pandurra Formation,LH 48,1984-04-09
+139851,0.0,10.0,Tertiary-Pleistocene rocks,LH 49,1984-04-11
+139851,10.0,119.0,Tregolana Shale Member,LH 49,1984-04-11
+139851,119.0,121.5,Nuccaleena Formation,LH 49,1984-04-11
+139851,121.5,224.0,Whyalla Sandstone,LH 49,1984-04-11
+139851,224.0,343.5,Umberatana Group unit 2,LH 49,1984-04-11
+139851,343.5,372.5,Tapley Hill Formation,LH 49,1984-04-11
+139851,372.5,388.0,Pandurra Formation,LH 49,1984-04-11
+139852,0.0,20.5,Tertiary-Pleistocene rocks,LW 76,1984-03-19
+139852,20.5,37.0,Tregolana Shale Member,LW 76,1984-03-19
+139852,37.0,67.0,Whyalla Sandstone,LW 76,1984-03-19
+139852,67.0,72.5,Tapley Hill Formation,LW 76,1984-03-19
+139852,72.5,88.0,Pandurra Formation,LW 76,1984-03-19
+139853,0.0,16.0,Tertiary-Pleistocene rocks,LW 77,1984-03-19
+139853,16.0,26.0,Tregolana Shale Member,LW 77,1984-03-19
+139853,26.0,68.0,Whyalla Sandstone,LW 77,1984-03-19
+139853,68.0,74.5,Umberatana Group unit 2,LW 77,1984-03-19
+139853,74.5,88.0,Pandurra Formation,LW 77,1984-03-19
+139854,0.0,4.5,Tertiary-Pleistocene rocks,LW 78,1984-03-20
+139854,4.5,11.5,Tregolana Shale Member,LW 78,1984-03-20
+139854,11.5,56.0,Whyalla Sandstone,LW 78,1984-03-20
+139854,56.0,72.0,Pandurra Formation,LW 78,1984-03-20
+139855,0.0,12.0,Tertiary-Pleistocene rocks,LW 79,1984-03-20
+139855,12.0,19.0,Tregolana Shale Member,LW 79,1984-03-20
+139855,19.0,29.0,Whyalla Sandstone,LW 79,1984-03-20
+139855,29.0,40.0,Pandurra Formation,LW 79,1984-03-20
+139856,0.0,11.0,Tertiary-Pleistocene rocks,LW 80,1984-03-21
+139856,11.0,29.0,Tregolana Shale Member,LW 80,1984-03-21
+139856,29.0,40.0,Whyalla Sandstone,LW 80,1984-03-21
+139856,40.0,56.0,Pandurra Formation,LW 80,1984-03-21
+139857,0.0,9.0,Tertiary-Pleistocene rocks,LW 81,1984-03-21
+139857,9.0,34.5,Tregolana Shale Member,LW 81,1984-03-21
+139857,34.5,80.0,Whyalla Sandstone,LW 81,1984-03-21
+139858,0.0,16.5,Tertiary-Pleistocene rocks,LW 82,1984-03-22
+139858,16.5,43.5,Tregolana Shale Member,LW 82,1984-03-22
+139858,43.5,84.0,Whyalla Sandstone,LW 82,1984-03-22
+139858,84.0,96.0,Pandurra Formation,LW 82,1984-03-22
+139859,0.0,4.0,Tertiary-Pleistocene rocks,LW 83,1984-03-22
+139859,4.0,28.5,Tregolana Shale Member,LW 83,1984-03-22
+139859,28.5,51.0,Whyalla Sandstone,LW 83,1984-03-22
+139860,0.0,4.5,Tertiary-Pleistocene rocks,LW 83A,1984-03-22
+139860,4.5,28.5,Tregolana Shale Member,LW 83A,1984-03-22
+139860,28.5,99.5,Whyalla Sandstone,LW 83A,1984-03-22
+139860,99.5,112.0,Pandurra Formation,LW 83A,1984-03-22
+139861,0.0,4.0,Tertiary-Pleistocene rocks,LW 84,1984-03-23
+139861,4.0,32.0,Tregolana Shale Member,LW 84,1984-03-23
+139861,32.0,34.0,Nuccaleena Formation,LW 84,1984-03-23
+139861,34.0,56.0,Whyalla Sandstone,LW 84,1984-03-23
+139861,56.0,57.0,Tapley Hill Formation,LW 84,1984-03-23
+139861,57.0,72.0,Pandurra Formation,LW 84,1984-03-23
+139862,0.0,12.0,Tertiary-Pleistocene rocks,LW 85,1984-03-23
+139862,12.0,50.5,Tregolana Shale Member,LW 85,1984-03-23
+139862,50.5,54.5,Nuccaleena Formation,LW 85,1984-03-23
+139862,54.5,76.5,Whyalla Sandstone,LW 85,1984-03-23
+139862,76.5,79.0,Tapley Hill Formation,LW 85,1984-03-23
+139862,79.0,96.0,Pandurra Formation,LW 85,1984-03-23
+139863,0.0,10.5,Tertiary-Pleistocene rocks,LW 86,1984-03-24
+139863,10.5,67.0,Tregolana Shale Member,LW 86,1984-03-24
+139863,67.0,69.0,Nuccaleena Formation,LW 86,1984-03-24
+139863,69.0,87.0,Whyalla Sandstone,LW 86,1984-03-24
+139863,87.0,93.0,Tapley Hill Formation,LW 86,1984-03-24
+139863,93.0,104.0,Pandurra Formation,LW 86,1984-03-24
+139864,0.0,4.5,Tertiary-Pleistocene rocks,LW 87,1984-03-24
+139864,4.5,42.0,Tregolana Shale Member,LW 87,1984-03-24
+139864,42.0,56.0,Whyalla Sandstone,LW 87,1984-03-24
+139864,56.0,68.0,Pandurra Formation,LW 87,1984-03-24
+139865,0.0,4.0,Tertiary-Pleistocene rocks,LW 88,1984-03-26
+139865,4.0,61.0,Tregolana Shale Member,LW 88,1984-03-26
+139865,61.0,68.0,Whyalla Sandstone,LW 88,1984-03-26
+139865,68.0,80.0,Pandurra Formation,LW 88,1984-03-26
+139866,0.0,6.5,Tertiary-Pleistocene rocks,LW 89,1984-03-29
+139866,6.5,62.5,Tregolana Shale Member,LW 89,1984-03-29
+139866,62.5,80.0,Pandurra Formation,LW 89,1984-03-29
+139867,0.0,9.0,Tertiary-Pleistocene rocks,LW 90,1984-03-28
+139867,9.0,118.5,Tregolana Shale Member,LW 90,1984-03-28
+139867,118.5,128.0,Pandurra Formation,LW 90,1984-03-28
+139868,0.0,6.0,Tertiary-Pleistocene rocks,LW 91,1984-03-26
+139868,6.0,99.0,Tregolana Shale Member,LW 91,1984-03-26
+139868,99.0,100.5,Nuccaleena Formation,LW 91,1984-03-26
+139868,100.5,105.5,Whyalla Sandstone,LW 91,1984-03-26
+139868,105.5,112.0,Pandurra Formation,LW 91,1984-03-26
+139869,0.0,6.5,Tertiary-Pleistocene rocks,LW 92,1984-03-27
+139869,6.5,69.0,Tregolana Shale Member,LW 92,1984-03-27
+139869,69.0,70.0,Nuccaleena Formation,LW 92,1984-03-27
+139869,70.0,72.0,Whyalla Sandstone,LW 92,1984-03-27
+139869,72.0,84.0,Pandurra Formation,LW 92,1984-03-27
+139870,0.0,6.0,Tertiary-Pleistocene rocks,LW 93,1984-03-27
+139870,6.0,66.5,Tregolana Shale Member,LW 93,1984-03-27
+139870,66.5,67.5,Nuccaleena Formation,LW 93,1984-03-27
+139870,67.5,74.0,Whyalla Sandstone,LW 93,1984-03-27
+139870,74.0,96.0,Pandurra Formation,LW 93,1984-03-27
+139871,0.0,11.5,Tertiary-Pleistocene rocks,LW 94,1984-04-12
+139871,11.5,24.0,Tregolana Shale Member,LW 94,1984-04-12
+139871,24.0,42.0,Whyalla Sandstone,LW 94,1984-04-12
+139871,42.0,50.0,Umberatana Group unit 2,LW 94,1984-04-12
+139871,50.0,70.5,Tapley Hill Formation,LW 94,1984-04-12
+139871,70.5,80.0,Pandurra Formation,LW 94,1984-04-12
+139872,0.0,9.5,Tertiary-Pleistocene rocks,LW 95,1984-04-13
+139872,9.5,21.5,Whyalla Sandstone,LW 95,1984-04-13
+139872,21.5,42.0,Umberatana Group unit 2,LW 95,1984-04-13
+139872,42.0,56.5,Tapley Hill Formation,LW 95,1984-04-13
+139872,56.5,68.0,Pandurra Formation,LW 95,1984-04-13
+139873,0.0,6.5,Tertiary-Pleistocene rocks,LW 96,1984-04-13
+139873,6.5,10.5,Tregolana Shale Member,LW 96,1984-04-13
+139873,10.5,36.0,Umberatana Group unit 2,LW 96,1984-04-13
+139873,36.0,60.5,Tapley Hill Formation,LW 96,1984-04-13
+139873,60.5,72.0,Pandurra Formation,LW 96,1984-04-13
+139874,0.0,8.5,Tertiary-Pleistocene rocks,LW 97,1984-04-14
+139874,8.5,32.5,Tregolana Shale Member,LW 97,1984-04-14
+139874,32.5,33.0,Nuccaleena Formation,LW 97,1984-04-14
+139874,33.0,50.5,Whyalla Sandstone,LW 97,1984-04-14
+139874,50.5,127.0,Tapley Hill Formation,LW 97,1984-04-14
+139874,127.0,140.0,Pandurra Formation,LW 97,1984-04-14
+139875,0.0,2.0,Tertiary-Pleistocene rocks,LY 7,1983-12-09
+139875,2.0,17.3,Whyalla Sandstone,LY 7,1983-12-09
+139875,17.3,21.7,Umberatana Group unit 2,LY 7,1983-12-09
+139875,21.7,33.4,Pandurra Formation,LY 7,1983-12-09
+142045,0.0,21.2,Whyalla Sandstone,LY 8,1983-12-11
+142045,21.2,25.4,Umberatana Group unit 2,LY 8,1983-12-11
+142045,25.4,41.1,Pandurra Formation,LY 8,1983-12-11
+165046,0.0,22.0,Simmens Quartzite Member,SAE 7,1990-04-23
+165046,22.0,148.0,Tregolana Shale Member,SAE 7,1990-04-23
+165046,148.0,898.2,Pandurra Formation,SAE 7,1990-04-23
+165046,898.2,1134.0,Gawler Range Volcanics,SAE 7,1990-04-23
+165046,1134.0,1221.7,Palaeoproterozoic-Mesoproterozoic rocks,SAE 7,1990-04-23
+165047,0.0,2.0,Quaternary rocks,SAE 8,1990-05-08
+165047,2.0,14.0,Tregolana Shale Member,SAE 8,1990-05-08
+165047,14.0,832.9,Pandurra Formation,SAE 8,1990-05-08
+165047,832.9,1177.2,Gawler Range Volcanics,SAE 8,1990-05-08
+165070,0.0,30.0,Simmens Quartzite Member,SAE 9,1990-05-19
+165070,30.0,60.0,Corraberra Sandstone Member,SAE 9,1990-05-19
+165070,60.0,240.0,Tregolana Shale Member,SAE 9,1990-05-19
+165070,240.0,590.0,Pandurra Formation,SAE 9,1990-05-19
+165070,590.0,1199.7,Gawler Range Volcanics,SAE 9,1990-05-19
+165071,0.0,17.0,Simmens Quartzite Member,SAE 10,1990-06-30
+165071,17.0,158.0,Tregolana Shale Member,SAE 10,1990-06-30
+165071,158.0,162.0,Nuccaleena Formation,SAE 10,1990-06-30
+165071,162.0,1100.8,Gawler Range Volcanics,SAE 10,1990-06-30
+165125,0.0,138.0,Simmens Quartzite Member,SAE 11,1990-06-30
+165125,138.0,152.0,Corraberra Sandstone Member,SAE 11,1990-06-30
+165125,152.0,319.0,Tregolana Shale Member,SAE 11,1990-06-30
+165125,319.0,471.32,Whyalla Sandstone,SAE 11,1990-06-30
+165125,471.32,624.29,Tapley Hill Formation,SAE 11,1990-06-30
+165125,624.29,936.0,Pandurra Formation,SAE 11,1990-06-30
+165125,936.0,1004.8,Gawler Range Volcanics,SAE 11,1990-06-30
+165125,1004.8,1098.95,Wandearah Formation,SAE 11,1990-06-30
+165125,1098.95,1122.7,Gawler Range Volcanics,SAE 11,1990-06-30
+165125,1122.7,1167.4,Wandearah Formation,SAE 11,1990-06-30
+165125,1167.4,1187.7,Gawler Range Volcanics,SAE 11,1990-06-30
+165125,1187.7,1267.3,Wandearah Formation,SAE 11,1990-06-30
+165155,0.0,12.0,Quaternary rocks,PEB 56,1990-05-30
+165155,12.0,452.0,Pandurra Formation,PEB 56,1990-05-30
+165156,0.0,62.0,Simmens Quartzite Member,PEB 57,1990-06-06
+165156,62.0,96.0,Corraberra Sandstone Member,PEB 57,1990-06-06
+165156,96.0,264.0,Tregolana Shale Member,PEB 57,1990-06-06
+165156,264.0,268.0,Nuccaleena Formation,PEB 57,1990-06-06
+165156,268.0,426.0,Pandurra Formation,PEB 57,1990-06-06
+165157,0.0,4.0,Holocene regolith/colluvial sediments,SAE 12,1991-07-31
+165157,4.0,52.0,Simmens Quartzite Member,SAE 12,1991-07-31
+165157,52.0,84.0,Corraberra Sandstone Member,SAE 12,1991-07-31
+165157,84.0,250.0,Tregolana Shale Member,SAE 12,1991-07-31
+165157,250.0,258.0,Nuccaleena Formation,SAE 12,1991-07-31
+165157,258.0,401.1,Whyalla Sandstone,SAE 12,1991-07-31
+165157,401.1,434.65,Tapley Hill Formation,SAE 12,1991-07-31
+165157,434.65,446.3,Pandurra Formation,SAE 12,1991-07-31
+165368,0.0,2.0,Holocene regolith/colluvial sediments,SAE 13,1991-08-31
+165368,2.0,78.0,Simmens Quartzite Member,SAE 13,1991-08-31
+165368,78.0,104.0,Corraberra Sandstone Member,SAE 13,1991-08-31
+165368,104.0,270.0,Tregolana Shale Member,SAE 13,1991-08-31
+165368,270.0,276.0,Nuccaleena Formation,SAE 13,1991-08-31
+165368,276.0,473.1,Whyalla Sandstone,SAE 13,1991-08-31
+165368,473.1,477.6,Pandurra Formation,SAE 13,1991-08-31
+165370,0.0,2.0,Holocene regolith/colluvial sediments,SAE 14,1991-09-30
+165370,2.0,84.0,Simmens Quartzite Member,SAE 14,1991-09-30
+165370,84.0,100.0,Corraberra Sandstone Member,SAE 14,1991-09-30
+165370,100.0,272.0,Tregolana Shale Member,SAE 14,1991-09-30
+165370,272.0,408.7,Whyalla Sandstone,SAE 14,1991-09-30
+165370,408.7,498.44,Pandurra Formation,SAE 14,1991-09-30
+165372,0.0,58.0,Simmens Quartzite Member,SAE 15,1991-09-30
+165372,58.0,80.0,Corraberra Sandstone Member,SAE 15,1991-09-30
+165372,80.0,238.0,Tregolana Shale Member,SAE 15,1991-09-30
+165372,238.0,240.0,Nuccaleena Formation,SAE 15,1991-09-30
+165372,240.0,363.9,Whyalla Sandstone,SAE 15,1991-09-30
+165372,363.9,388.25,Tapley Hill Formation,SAE 15,1991-09-30
+165372,388.25,400.81,Pandurra Formation,SAE 15,1991-09-30
+165444,0.0,70.0,Simmens Quartzite Member,PEB 64,1992-11-22
+165444,70.0,94.0,Corraberra Sandstone Member,PEB 64,1992-11-22
+165444,94.0,256.0,Tregolana Shale Member,PEB 64,1992-11-22
+165444,256.0,356.0,Whyalla Sandstone,PEB 64,1992-11-22
+165444,356.0,401.0,Pandurra Formation,PEB 64,1992-11-22
+165447,0.0,51.0,Simmens Quartzite Member,SAE 16,1992-11-27
+165447,51.0,86.0,Corraberra Sandstone Member,SAE 16,1992-11-27
+165447,86.0,264.0,Tregolana Shale Member,SAE 16,1992-11-27
+165447,264.0,353.4,Whyalla Sandstone,SAE 16,1992-11-27
+165447,353.4,357.8,Pandurra Formation,SAE 16,1992-11-27
+165448,0.0,58.0,Simmens Quartzite Member,SAE 17,1992-12-03
+165448,58.0,92.0,Corraberra Sandstone Member,SAE 17,1992-12-03
+165448,92.0,280.0,Tregolana Shale Member,SAE 17,1992-12-03
+165448,280.0,411.1,Whyalla Sandstone,SAE 17,1992-12-03
+165448,411.1,415.25,Tapley Hill Formation,SAE 17,1992-12-03
+165448,415.25,435.2,Pandurra Formation,SAE 17,1992-12-03
+165487,0.0,2.0,Holocene regolith/colluvial sediments,SAE 18,1993-08-31
+165487,2.0,60.0,Simmens Quartzite Member,SAE 18,1993-08-31
+165487,60.0,86.0,Corraberra Sandstone Member,SAE 18,1993-08-31
+165487,86.0,272.0,Tregolana Shale Member,SAE 18,1993-08-31
+165487,272.0,409.0,Whyalla Sandstone,SAE 18,1993-08-31
+165487,409.0,416.85,Tapley Hill Formation,SAE 18,1993-08-31
+165487,416.85,426.7,Pandurra Formation,SAE 18,1993-08-31
+165488,0.0,4.0,Holocene regolith/colluvial sediments,SAE 19,1993-08-31
+165488,4.0,56.0,Simmens Quartzite Member,SAE 19,1993-08-31
+165488,56.0,88.0,Corraberra Sandstone Member,SAE 19,1993-08-31
+165488,88.0,290.0,Tregolana Shale Member,SAE 19,1993-08-31
+165488,290.0,416.85,Whyalla Sandstone,SAE 19,1993-08-31
+165488,416.85,420.5,Tapley Hill Formation,SAE 19,1993-08-31
+165488,420.5,429.7,Pandurra Formation,SAE 19,1993-08-31
+165489,0.0,52.0,Simmens Quartzite Member,SAE 20,1993-08-31
+165489,52.0,100.0,Corraberra Sandstone Member,SAE 20,1993-08-31
+165489,100.0,275.0,Tregolana Shale Member,SAE 20,1993-08-31
+165489,275.0,403.65,Whyalla Sandstone,SAE 20,1993-08-31
+165489,403.65,407.0,Tapley Hill Formation,SAE 20,1993-08-31
+165489,407.0,417.85,Pandurra Formation,SAE 20,1993-08-31
+165529,0.0,1.0,Holocene regolith/colluvial sediments,SAE 21,1995-05-31
+165529,1.0,24.0,Simmens Quartzite Member,SAE 21,1995-05-31
+165529,24.0,84.0,Corraberra Sandstone Member,SAE 21,1995-05-31
+165529,84.0,248.5,Tregolana Shale Member,SAE 21,1995-05-31
+165529,248.5,393.1,Whyalla Sandstone,SAE 21,1995-05-31
+165529,393.1,432.0,Tapley Hill Formation,SAE 21,1995-05-31
+165529,432.0,452.3,Pandurra Formation,SAE 21,1995-05-31
+165530,0.0,3.5,Holocene regolith/colluvial sediments,SAE 22,1995-05-31
+165530,3.5,20.0,Simmens Quartzite Member,SAE 22,1995-05-31
+165530,20.0,80.0,Corraberra Sandstone Member,SAE 22,1995-05-31
+165530,80.0,234.0,Tregolana Shale Member,SAE 22,1995-05-31
+165530,234.0,388.6,Whyalla Sandstone,SAE 22,1995-05-31
+165530,388.6,392.58,Brighton Limestone,SAE 22,1995-05-31
+165530,392.58,424.61,Tapley Hill Formation,SAE 22,1995-05-31
+165530,424.61,435.6,Pandurra Formation,SAE 22,1995-05-31
+165557,0.0,4.0,Quaternary rocks,PEB 1,1975-12-31
+165557,4.0,18.0,Tregolana Shale Member,PEB 1,1975-12-31
+165557,18.0,150.0,Pandurra Formation,PEB 1,1975-12-31
+165561,0.0,1.0,Tregolana Shale Member,PEB 2,1975-12-31
+165561,1.0,9.0,Pandurra Formation,PEB 2,1975-12-31
+165562,0.0,4.0,Quaternary rocks,PEB 3,1975-12-31
+165562,4.0,94.0,Tregolana Shale Member,PEB 3,1975-12-31
+165562,94.0,106.0,Pandurra Formation,PEB 3,1975-12-31
+165563,0.0,2.0,Quaternary rocks,PEB 4,1975-12-31
+165563,2.0,60.0,Tregolana Shale Member,PEB 4,1975-12-31
+165563,60.0,78.0,Pandurra Formation,PEB 4,1975-12-31
+165564,0.0,70.0,Tregolana Shale Member,PEB 5,1975-12-31
+165564,70.0,82.0,Pandurra Formation,PEB 5,1975-12-31
+165565,0.0,2.0,Quaternary rocks,PEB 6,1975-12-31
+165565,2.0,86.0,Tregolana Shale Member,PEB 6,1975-12-31
+165565,86.0,94.0,Pandurra Formation,PEB 6,1975-12-31
+165566,0.0,4.0,Quaternary rocks,PEB 10,1975-12-31
+165566,4.0,16.0,Tregolana Shale Member,PEB 10,1975-12-31
+165566,16.0,70.0,Pandurra Formation,PEB 10,1975-12-31
+165567,0.0,4.0,Quaternary rocks,PEB 11,1975-12-31
+165567,4.0,16.0,Tregolana Shale Member,PEB 11,1975-12-31
+165567,16.0,28.0,Pandurra Formation,PEB 11,1975-12-31
+165568,0.0,2.0,Quaternary rocks,PEB 12,1975-12-31
+165568,2.0,40.0,Tregolana Shale Member,PEB 12,1975-12-31
+165568,40.0,46.0,Pandurra Formation,PEB 12,1975-12-31
+165569,0.0,4.0,Holocene alluvial/fluvial sediments,PEB 13,1975-12-31
+165569,4.0,74.0,Tregolana Shale Member,PEB 13,1975-12-31
+165569,74.0,76.0,Nuccaleena Formation,PEB 13,1975-12-31
+165569,76.0,94.0,Pandurra Formation,PEB 13,1975-12-31
+165570,0.0,24.0,Holocene aeolian sediments,PEB 18,1975-12-31
+165571,0.0,4.0,Holocene regolith/colluvial sediments,PEB 21,1976-09-10
+165571,4.0,110.0,Tregolana Shale Member,PEB 21,1976-09-10
+165571,110.0,124.0,Pandurra Formation,PEB 21,1976-09-10
+165572,0.0,4.0,Holocene alluvial/fluvial sediments,PEB 22,1976-09-10
+165572,4.0,34.0,Tregolana Shale Member,PEB 22,1976-09-10
+165572,34.0,40.0,Pandurra Formation,PEB 22,1976-09-10
+165578,0.0,2.0,Holocene regolith/colluvial sediments,PEB 23,1976-09-11
+165578,2.0,118.0,Tregolana Shale Member,PEB 23,1976-09-11
+165578,118.0,124.0,Pandurra Formation,PEB 23,1976-09-11
+165579,0.0,4.0,Holocene regolith/colluvial sediments,PEB 24,1976-09-11
+165579,4.0,70.0,Tregolana Shale Member,PEB 24,1976-09-11
+165579,70.0,76.0,Pandurra Formation,PEB 24,1976-09-11
+165580,0.0,4.0,Holocene regolith/colluvial sediments,PEB 25,1976-09-11
+165580,4.0,50.0,Tregolana Shale Member,PEB 25,1976-09-11
+165580,50.0,54.0,Pandurra Formation,PEB 25,1976-09-11
+165581,0.0,0.5,Holocene aeolian sediments,PEB 26,1976-09-12
+165581,0.5,26.0,Tregolana Shale Member,PEB 26,1976-09-12
+165582,0.0,2.0,Holocene alluvial/fluvial sediments,PEB 27,1976-09-12
+165582,2.0,78.0,Tregolana Shale Member,PEB 27,1976-09-12
+165582,78.0,80.0,Pandurra Formation,PEB 27,1976-09-12
+165583,0.0,4.0,Holocene regolith/colluvial sediments,PEB 28,1976-09-13
+165583,4.0,150.0,Tregolana Shale Member,PEB 28,1976-09-13
+165583,150.0,160.0,Pandurra Formation,PEB 28,1976-09-13
+165584,0.0,2.0,Holocene alluvial/fluvial sediments,PEB 29,1976-09-14
+165584,2.0,28.0,Tregolana Shale Member,PEB 29,1976-09-14
+165584,28.0,40.0,Pandurra Formation,PEB 29,1976-09-14
+165585,0.0,4.0,Holocene regolith/colluvial sediments,PEB 30,1976-09-14
+165585,4.0,118.0,Tregolana Shale Member,PEB 30,1976-09-14
+165585,118.0,124.0,Pandurra Formation,PEB 30,1976-09-14
+165586,0.0,2.0,Holocene regolith/colluvial sediments,PEB 31,1976-09-15
+165586,2.0,96.0,Tregolana Shale Member,PEB 31,1976-09-15
+165586,96.0,104.0,Pandurra Formation,PEB 31,1976-09-15
+165587,0.0,8.0,Quaternary rocks,PEB 32,1976-09-16
+165588,0.0,4.0,Holocene regolith/colluvial sediments,PEB 33,1976-09-16
+165588,4.0,22.0,Quaternary rocks,PEB 33,1976-09-16
+165589,0.0,4.0,Holocene alluvial/fluvial sediments,PEB 34,1976-09-17
+165589,4.0,8.0,Tertiary silcrete,PEB 34,1976-09-17
+165589,8.0,42.0,Tregolana Shale Member,PEB 34,1976-09-17
+165590,0.0,38.0,Simmens Quartzite Member,PEB 35,1976-09-18
+165590,38.0,80.0,Corraberra Sandstone Member,PEB 35,1976-09-18
+165590,80.0,198.0,Tregolana Shale Member,PEB 35,1976-09-18
+165591,0.0,3.0,Quaternary rocks,PEB 36,1976-09-19
+165591,3.0,62.0,Tregolana Shale Member,PEB 36,1976-09-19
+165591,62.0,70.0,Pandurra Formation,PEB 36,1976-09-19
+165592,0.0,2.0,Holocene regolith/colluvial sediments,PEB 37,1976-09-20
+165592,2.0,124.0,Tregolana Shale Member,PEB 37,1976-09-20
+165592,124.0,130.0,Whyalla Sandstone,PEB 37,1976-09-20
+165592,130.0,142.0,Pandurra Formation,PEB 37,1976-09-20
+165593,0.0,4.0,Holocene alluvial/fluvial sediments,PEB 38,1976-09-20
+165593,4.0,94.0,Tregolana Shale Member,PEB 38,1976-09-20
+165593,94.0,106.0,Pandurra Formation,PEB 38,1976-09-20
+165594,0.0,7.0,Quaternary rocks,PEB 40,1979-04-20
+165594,7.0,80.0,Tregolana Shale Member,PEB 40,1979-04-20
+165594,80.0,81.0,Nuccaleena Formation,PEB 40,1979-04-20
+165594,81.0,120.0,Pandurra Formation,PEB 40,1979-04-20
+165595,0.0,4.0,Holocene regolith/colluvial sediments,PEB 44,1979-04-27
+165595,4.0,28.0,Cretaceous rocks,PEB 44,1979-04-27
+165595,28.0,254.0,Tregolana Shale Member,PEB 44,1979-04-27
+165595,254.0,256.0,Whyalla Sandstone,PEB 44,1979-04-27
+165596,0.0,10.0,Quaternary rocks,PEB 46,1981-02-16
+165596,10.0,22.0,Corraberra Sandstone Member,PEB 46,1981-02-16
+165596,22.0,238.0,Tregolana Shale Member,PEB 46,1981-02-16
+165596,238.0,240.0,Pandurra Formation,PEB 46,1981-02-16
+165597,0.0,121.0,Tregolana Shale Member,PEB 47,1981-02-28
+165597,121.0,121.5,Nuccaleena Formation,PEB 47,1981-02-28
+165597,121.5,352.0,Pandurra Formation,PEB 47,1981-02-28
+165598,0.0,20.0,Corraberra Sandstone Member,PEB 48,1981-03-06
+165598,20.0,144.0,Tregolana Shale Member,PEB 48,1981-03-06
+165598,144.0,154.0,Whyalla Sandstone,PEB 48,1981-03-06
+165598,154.0,352.0,Pandurra Formation,PEB 48,1981-03-06
+165603,0.0,18.0,Corraberra Sandstone Member,SAE 1,1978-07-29
+165603,18.0,138.0,Tregolana Shale Member,SAE 1,1978-07-29
+165603,138.0,818.0,Pandurra Formation,SAE 1,1978-07-29
+165604,538.7,648.85,Pandurra Formation,SAE 1X,1978-08-05
+165605,0.0,7.0,Holocene regolith/colluvial sediments,SAE 2,1979-06-29
+165605,7.0,159.0,Tregolana Shale Member,SAE 2,1979-06-29
+165605,159.0,163.0,Nuccaleena Formation,SAE 2,1979-06-29
+165605,163.0,213.0,Gawler Range Volcanics,SAE 2,1979-06-29
+165606,0.0,2.0,Holocene regolith/colluvial sediments,SAE 3,1984-07-20
+165606,2.0,48.0,Simmens Quartzite Member,SAE 3,1984-07-20
+165606,48.0,74.0,Corraberra Sandstone Member,SAE 3,1984-07-20
+165606,74.0,246.0,Tregolana Shale Member,SAE 3,1984-07-20
+165606,246.0,744.0,Pandurra Formation,SAE 3,1984-07-20
+165606,744.0,752.0,Pandurra Formation,SAE 3,1984-07-20
+165606,752.0,1221.0,Palaeoproterozoic-Mesoproterozoic rocks,SAE 3,1984-07-20
+165607,0.0,2.0,Holocene regolith/colluvial sediments,SAE 4,1987-12-07
+165607,2.0,54.0,Simmens Quartzite Member,SAE 4,1987-12-07
+165607,54.0,74.0,Corraberra Sandstone Member,SAE 4,1987-12-07
+165607,74.0,228.0,Tregolana Shale Member,SAE 4,1987-12-07
+165607,228.0,241.7,no sample,SAE 4,1987-12-07
+165607,241.7,784.5,Pandurra Formation,SAE 4,1987-12-07
+165607,784.5,1139.5,Palaeoproterozoic-Mesoproterozoic rocks,SAE 4,1987-12-07
+165607,1139.5,1172.5,Hiltaba Suite,SAE 4,1987-12-07
+165608,0.0,2.0,Holocene regolith/colluvial sediments,SAE 5,1988-07-21
+165608,2.0,22.0,Simmens Quartzite Member,SAE 5,1988-07-21
+165608,22.0,406.3,Corraberra Sandstone Member,SAE 5,1988-07-21
+165608,406.3,415.16,Tregolana Shale Member,SAE 5,1988-07-21
+165608,415.16,662.5,Pandurra Formation,SAE 5,1988-07-21
+165608,662.5,703.1,Gairdner Dolerite,SAE 5,1988-07-21
+165608,703.1,708.58,Pandurra Formation,SAE 5,1988-07-21
+165608,708.58,710.2,Gairdner Dolerite,SAE 5,1988-07-21
+165608,710.2,716.9,Pandurra Formation,SAE 5,1988-07-21
+165608,716.9,734.5,Gairdner Dolerite,SAE 5,1988-07-21
+165608,734.5,775.75,Pandurra Formation,SAE 5,1988-07-21
+165608,775.75,914.4,Gairdner Dolerite,SAE 5,1988-07-21
+165609,0.0,2.0,Holocene regolith/colluvial sediments,SAE 6,1989-08-31
+165609,2.0,62.0,Simmens Quartzite Member,SAE 6,1989-08-31
+165609,62.0,86.0,Corraberra Sandstone Member,SAE 6,1989-08-31
+165609,86.0,262.0,Tregolana Shale Member,SAE 6,1989-08-31
+165609,262.0,384.75,Whyalla Sandstone,SAE 6,1989-08-31
+165609,384.75,403.0,Tapley Hill Formation,SAE 6,1989-08-31
+165609,403.0,841.5,Pandurra Formation,SAE 6,1989-08-31
+165609,841.5,922.6,Donington Suite,SAE 6,1989-08-31
+165609,922.6,937.1,Gawler Range Volcanics,SAE 6,1989-08-31
+165609,937.1,1200.0,Wallaroo Group,SAE 6,1989-08-31
+184730,0.0,3.0,Holocene aeolian sediments,GY 1,1975-02-26
+184730,3.0,16.3,Whyalla Sandstone,GY 1,1975-02-26
+184730,16.3,28.2,Woocalla Dolomite Member,GY 1,1975-02-26
+184730,28.2,32.7,Neoproterozoic rocks,GY 1,1975-02-26
+184730,32.7,37.7,Pandurra Formation,GY 1,1975-02-26
+184731,0.0,6.0,Holocene aeolian sediments,GY 13,1975-03-08
+184731,6.0,29.8,Brighton Limestone,GY 13,1975-03-08
+184731,29.8,34.4,Tapley Hill Formation,GY 13,1975-03-08
+184731,34.4,53.0,Appila Tillite,GY 13,1975-03-08
+193680,0.0,37.0,Quaternary rocks,PY 10,1992-05-27
+193680,37.0,50.0,Whyalla Sandstone,PY 10,1992-05-27
+193680,50.0,992.0,Pandurra Formation,PY 10,1992-05-27
+201415,0.0,32.0,Simmens Quartzite Member,MGD 32,2004-06-23
+201415,32.0,76.0,Corraberra Sandstone Member,MGD 32,2004-06-23
+201415,76.0,231.72,Tregolana Shale Member,MGD 32,2004-06-23
+201415,231.72,348.2,Whyalla Sandstone,MGD 32,2004-06-23
+201415,348.2,452.95,Angepena Formation,MGD 32,2004-06-23
+201415,452.95,488.47,Tapley Hill Formation,MGD 32,2004-06-23
+201416,0.0,6.0,Quaternary rocks,MGD 33,2004-06-01
+201416,6.0,24.0,Tregolana Shale Member,MGD 33,2004-06-01
+201416,24.0,75.24,Whyalla Sandstone,MGD 33,2004-06-01
+201416,75.24,207.5,Tapley Hill Formation,MGD 33,2004-06-01
+201416,207.5,252.14,Pandurra Formation,MGD 33,2004-06-01
+207057,0.0,5.0,Quaternary rocks,MWRC 3,2003-03-15
+207057,5.0,16.0,Woocalla Dolomite Member,MWRC 3,2003-03-15
+207057,16.0,20.0,Pandurra Formation,MWRC 3,2003-03-15
+207058,0.0,5.0,Quaternary rocks,MWRC 1,2003-03-12
+207058,5.0,10.0,Woocalla Dolomite Member,MWRC 1,2003-03-12
+207058,10.0,19.0,Pandurra Formation,MWRC 1,2003-03-12
+207059,0.0,5.0,Quaternary rocks,MWRC 2,2003-03-13
+207059,5.0,13.0,Woocalla Dolomite Member,MWRC 2,2003-03-13
+207059,13.0,30.0,Pandurra Formation,MWRC 2,2003-03-13
+207060,0.0,1.0,Quaternary rocks,MWRC 4,2003-03-20
+207060,1.0,12.0,Woocalla Dolomite Member,MWRC 4,2003-03-20
+207060,12.0,20.0,Pandurra Formation,MWRC 4,2003-03-20
+207061,0.0,10.0,Woocalla Dolomite Member,MWRC 5,2003-04-13
+207061,10.0,20.0,Pandurra Formation,MWRC 5,2003-04-13
+212208,0.0,10.0,Quaternary rocks,MGD34,2006-01-07
+212208,10.0,159.78,Tregolana Shale Member,MGD34,2006-01-07
+212208,159.78,450.78,Pandurra Formation,MGD34,2006-01-07
+212208,450.78,471.65,Donington Suite,MGD34,2006-01-07
+212208,471.65,488.4,Donington Suite,MGD34,2006-01-07
+212208,488.4,576.02,Donington Suite,MGD34,2006-01-07
+212208,576.02,600.5,Donington Suite,MGD34,2006-01-07
+212209,0.0,9.4,Quaternary rocks,MGD35,2006-01-16
+212209,9.4,183.73,Tregolana Shale Member,MGD35,2006-01-16
+212209,183.73,336.9,Pandurra Formation,MGD35,2006-01-16
+212209,336.9,403.44,Donington Suite,MGD35,2006-01-16
+212209,403.44,423.8,Donington Suite,MGD35,2006-01-16
+212209,560.6,560.6,Donington Suite,MGD35,2006-01-16
+212210,0.0,4.0,Quaternary rocks,MGD 40,2006-02-06
+212210,4.0,6.0,Tregolana Shale Member,MGD 40,2006-02-06
+212210,6.0,40.1,Whyalla Sandstone,MGD 40,2006-02-06
+212210,40.1,86.5,Tapley Hill Formation,MGD 40,2006-02-06
+212210,86.5,92.9,Pandurra Formation,MGD 40,2006-02-06
+212211,0.0,7.0,Quaternary rocks,MGD 41,2006-02-03
+212211,7.0,32.0,Tregolana Shale Member,MGD 41,2006-02-03
+212211,32.0,88.9,Whyalla Sandstone,MGD 41,2006-02-03
+212211,88.9,135.0,Tapley Hill Formation,MGD 41,2006-02-03
+218994,0.0,16.0,Quaternary rocks,MGC 36,2006-01-07
+218994,16.0,56.0,Tregolana Shale Member,MGC 36,2006-01-07
+218994,56.0,116.0,Whyalla Sandstone,MGC 36,2006-01-07
+218994,116.0,118.0,Tapley Hill Formation,MGC 36,2006-01-07
+218995,0.0,9.0,Quaternary rocks,MGC 37,2006-01-10
+218995,9.0,52.0,Tregolana Shale Member,MGC 37,2006-01-10
+218995,52.0,110.0,Whyalla Sandstone,MGC 37,2006-01-10
+218995,110.0,130.0,Tapley Hill Formation,MGC 37,2006-01-10
+218996,0.0,7.0,Quaternary rocks,MGC 38,2006-01-15
+218996,7.0,17.0,Tregolana Shale Member,MGC 38,2006-01-15
+218996,17.0,58.0,Whyalla Sandstone,MGC 38,2006-01-15
+218996,58.0,100.0,Tapley Hill Formation,MGC 38,2006-01-15
+218997,0.0,4.0,Quaternary rocks,MGC 39,2006-01-16
+218997,4.0,42.0,Whyalla Sandstone,MGC 39,2006-01-16
+218997,42.0,52.0,Pandurra Formation,MGC 39,2006-01-16
+220554,0.0,15.5,Quaternary aeolian sediments,PN-06-03,2006-06-18
+220554,15.5,99.0,Tregolana Shale Member,PN-06-03,2006-06-18
+220554,99.0,135.5,Whyalla Sandstone,PN-06-03,2006-06-18
+220554,135.5,270.0,Tapley Hill Formation,PN-06-03,2006-06-18
+220554,270.0,571.9,Mesoproterozoic rocks,PN-06-03,2006-06-18
+229978,0.0,191.26,Tregolana Shale Member,MGD44,2007-03-29
+229978,191.26,204.9,Whyalla Sandstone,MGD44,2007-03-29
+229978,204.9,291.03,Pandurra Formation,MGD44,2007-03-29
+229978,291.03,394.0,Gawler Range Volcanics,MGD44,2007-03-29
+229978,394.0,451.29,Gawler Range Volcanics,MGD44,2007-03-29
+229978,451.29,505.85,White Dam Subsuite,MGD44,2007-03-29
+229978,505.85,516.96,Donington Suite,MGD44,2007-03-29
+229978,516.96,543.19,Gawler Range Volcanics,MGD44,2007-03-29
+229978,543.19,571.46,Donington Suite,MGD44,2007-03-29
+229978,571.46,592.0,Gawler Range Volcanics,MGD44,2007-03-29
+229978,592.0,607.32,Donington Suite,MGD44,2007-03-29
+229979,0.0,166.0,Tregolana Shale Member,MGD45,2007-04-12
+229979,166.0,532.71,Pandurra Formation,MGD45,2007-04-12
+229979,532.71,720.87,Hiltaba Suite,MGD45,2007-04-12
+229979,720.87,724.18,Gairdner Dolerite,MGD45,2007-04-12
+229979,724.18,748.26,Hiltaba Suite,MGD45,2007-04-12
+229979,748.26,787.35,Gairdner Dolerite,MGD45,2007-04-12
+229979,787.35,801.17,Hiltaba Suite,MGD45,2007-04-12
+229980,0.0,112.0,Simmens Quartzite Member,MGD 42,2007-03-19
+229980,112.0,154.0,Corraberra Sandstone Member,MGD 42,2007-03-19
+229980,154.0,408.45,Tregolana Shale Member,MGD 42,2007-03-19
+229980,408.45,449.19,Whyalla Sandstone,MGD 42,2007-03-19
+229980,449.19,457.8,Heysen Supergroup,MGD 42,2007-03-19
+229980,457.8,939.64,Pandurra Formation,MGD 42,2007-03-19
+229980,939.64,1023.3,Gawler Range Volcanics,MGD 42,2007-03-19
+229981,0.0,22.0,Quaternary rocks,MGD 46,2007-04-27
+229981,22.0,172.0,Tregolana Shale Member,MGD 46,2007-04-27
+229981,172.0,555.29,Pandurra Formation,MGD 46,2007-04-27
+229981,555.29,593.0,Hiltaba Suite,MGD 46,2007-04-27
+229981,593.0,611.6,White Dam Subsuite,MGD 46,2007-04-27
+229981,611.6,673.3,Hiltaba Suite,MGD 46,2007-04-27
+229981,673.3,730.96,Hiltaba Suite,MGD 46,2007-04-27
+229981,730.96,770.18,White Dam Subsuite,MGD 46,2007-04-27
+229981,770.18,795.13,Hiltaba Suite,MGD 46,2007-04-27
+236031,0.0,3.0,Quaternary rocks,LUCAS HILL LH 1,1978-04-10
+236031,3.0,26.0,Simmens Quartzite Member,LUCAS HILL LH 1,1978-04-10
+236031,26.0,116.0,Corraberra Sandstone Member,LUCAS HILL LH 1,1978-04-10
+236031,116.0,277.0,Tregolana Shale Member,LUCAS HILL LH 1,1978-04-10
+236031,277.0,407.0,Whyalla Sandstone,LUCAS HILL LH 1,1978-04-10
+236031,407.0,524.2,Umberatana Group,LUCAS HILL LH 1,1978-04-10
+236031,524.2,698.38,Tapley Hill Formation,LUCAS HILL LH 1,1978-04-10
+236031,698.38,787.8,Pandurra Formation,LUCAS HILL LH 1,1978-04-10
+237078,0.0,4.0,Quaternary rocks,07WJ01,2008-02-20
+237078,4.0,128.0,Simmens Quartzite Member,07WJ01,2008-02-20
+237078,128.0,164.0,Corraberra Sandstone Member,07WJ01,2008-02-20
+237078,164.0,326.0,Tregolana Shale Member,07WJ01,2008-02-20
+237078,326.0,489.0,Whyalla Sandstone,07WJ01,2008-02-20
+237078,489.0,666.0,Tapley Hill Formation,07WJ01,2008-02-20
+237078,666.0,779.0,Pandurra Formation,07WJ01,2008-02-20
+237078,779.0,836.0,Wandearah Formation,07WJ01,2008-02-20
+237078,836.0,843.0,Gawler Range Volcanics,07WJ01,2008-02-20
+237078,843.0,1206.0,Wandearah Formation,07WJ01,2008-02-20
+237079,0.0,90.0,Simmens Quartzite Member,08WJ02,2008-03-01
+237079,90.0,117.0,Corraberra Sandstone Member,08WJ02,2008-03-01
+237079,117.0,288.0,Tregolana Shale Member,08WJ02,2008-03-01
+237079,288.0,435.0,Whyalla Sandstone,08WJ02,2008-03-01
+237079,435.0,519.0,Tapley Hill Formation,08WJ02,2008-03-01
+237079,519.0,1079.0,Pandurra Formation,08WJ02,2008-03-01
+237079,1079.0,1375.0,Gawler Range Volcanics,08WJ02,2008-03-01
+237134,0.0,82.0,Simmens Quartzite Member,MGC 43,2007-02-14
+240505,6.0,44.8,Tregolana Shale Member,PDD2,2008-02-22
+240505,44.8,168.3,Tregolana Shale Member,PDD2,2008-02-22
+240505,168.3,176.9,Nuccaleena Formation,PDD2,2008-02-22
+240505,176.9,204.2,Whyalla Sandstone,PDD2,2008-02-22
+240505,204.2,217.1,Brighton Limestone,PDD2,2008-02-22
+240505,217.1,351.46,Tapley Hill Formation,PDD2,2008-02-22
+240505,351.46,386.3,Pandurra Formation,PDD2,2008-02-22
+240505,386.3,500.2,Donington Suite,PDD2,2008-02-22
+240505,500.2,600.0,Donington Suite,PDD2,2008-02-22
+252717,0.0,30.4,Tertiary-Pleistocene rocks,PDD3,2008-03-09
+252717,30.4,197.1,Tregolana Shale Member,PDD3,2008-03-09
+252717,197.1,220.0,Whyalla Sandstone,PDD3,2008-03-09
+252717,220.0,226.6,Brighton Limestone,PDD3,2008-03-09
+252717,226.6,357.7,Tapley Hill Formation,PDD3,2008-03-09
+252717,357.7,407.6,Pandurra Formation,PDD3,2008-03-09
+252717,407.6,493.0,Donington Suite,PDD3,2008-03-09
+252718,0.0,6.0,Tertiary-Pleistocene rocks,PDD4,2008-04-07
+252718,6.0,34.0,Tregolana Shale Member,PDD4,2008-04-07
+252718,34.0,166.8,Tregolana Shale Member,PDD4,2008-04-07
+252718,166.8,179.6,Whyalla Sandstone,PDD4,2008-04-07
+252718,179.6,197.7,Brighton Limestone,PDD4,2008-04-07
+252718,197.7,289.67,Tapley Hill Formation,PDD4,2008-04-07
+252718,289.67,314.4,Tapley Hill Formation,PDD4,2008-04-07
+252718,314.4,324.25,Pandurra Formation,PDD4,2008-04-07
+252718,324.25,624.6,Donington Suite,PDD4,2008-04-07
+252718,624.6,663.9,Donington Suite,PDD4,2008-04-07
+254454,0.0,48.7,Simmens Quartzite Member,MGD55,2009-07-31
+254454,48.7,70.88,Corraberra Sandstone Member,MGD55,2009-07-31
+254454,70.88,240.96,Tregolana Shale Member,MGD55,2009-07-31
+254454,240.96,735.66,Pandurra Formation,MGD55,2009-07-31
+254454,735.66,1015.42,Wandearah Formation unit 2,MGD55,2009-07-31
+254454,1015.42,1107.32,Wandearah Formation,MGD55,2009-07-31
+254455,0.0,37.05,Simmens Quartzite Member,MGD56,2009-08-31
+254455,37.05,68.07,Corraberra Sandstone Member,MGD56,2009-08-31
+254455,68.07,176.11,Tregolana Shale Member,MGD56,2009-08-31
+254455,176.11,752.69,Pandurra Formation,MGD56,2009-08-31
+254455,752.69,759.42,Gawler Range Volcanics,MGD56,2009-08-31
+254455,759.42,1107.55,Gawler Range Volcanics,MGD56,2009-08-31
+254455,1107.55,1149.05,Gawler Range Volcanics,MGD56,2009-08-31
+254455,1149.05,1181.1,Hiltaba Suite,MGD56,2009-08-31
+256313,0.0,23.8,Quaternary rocks,LY 2,1974-03-01
+256313,23.8,29.4,Whyalla Sandstone,LY 2,1974-03-01
+256313,29.4,667.4,Pandurra Formation,LY 2,1974-03-01
+256314,0.0,24.75,Quaternary rocks,LY 3,1974-03-07
+256314,24.75,29.5,Woocalla Dolomite Member,LY 3,1974-03-07
+256314,29.5,60.45,Pandurra Formation,LY 3,1974-03-07
+256314,60.45,222.85,Gairdner Dolerite,LY 3,1974-03-07
+256314,222.85,225.55,Pandurra Formation,LY 3,1974-03-07
+256314,225.55,246.4,Gairdner Dolerite,LY 3,1974-03-07
+262013,0.0,12.0,Quaternary rocks,BM 1,1981-11-26
+262013,12.0,78.0,Tregolana Shale Member,BM 1,1981-11-26
+262013,78.0,130.0,Whyalla Sandstone,BM 1,1981-11-26
+262013,130.0,256.0,Tapley Hill Formation,BM 1,1981-11-26
+262013,256.0,700.0,Pandurra Formation,BM 1,1981-11-26
+262014,0.0,8.0,Quaternary rocks,LW 67,1981-08-01
+262014,8.0,35.0,Tent Hill Formation,LW 67,1981-08-01
+262014,35.0,54.0,Whyalla Sandstone,LW 67,1981-08-01
+262014,54.0,136.0,Tapley Hill Formation,LW 67,1981-08-01
+262014,136.0,148.0,Pandurra Formation,LW 67,1981-08-01
+262015,0.0,1.0,Quaternary rocks,EC 5,1981-08-01
+262015,1.0,124.0,Tent Hill Formation,EC 5,1981-08-01
+262015,124.0,129.0,Umberatana Group,EC 5,1981-08-01
+262015,129.0,215.0,Tapley Hill Formation,EC 5,1981-08-01
+262015,215.0,220.0,Beda Basalt,EC 5,1981-08-01
+262015,220.0,240.0,Pandurra Formation,EC 5,1981-08-01
+262016,0.0,29.0,Quaternary rocks,EC 53,1981-11-02
+262016,29.0,74.0,Tregolana Shale Member,EC 53,1981-11-02
+262016,74.0,84.0,Whyalla Sandstone,EC 53,1981-11-02
+262016,84.0,200.0,Pandurra Formation,EC 53,1981-11-02
+262017,0.0,8.0,Quaternary rocks,EC 44,1981-10-10
+262017,8.0,136.0,Tregolana Shale Member,EC 44,1981-10-10
+262017,136.0,146.0,Pandurra Formation,EC 44,1981-10-10
+262018,0.0,4.0,Quaternary rocks,EC 22,1980-01-20
+262018,4.0,138.0,Tregolana Shale Member,EC 22,1980-01-20
+262018,138.0,152.0,Pandurra Formation,EC 22,1980-01-20
+262019,0.0,10.0,Quaternary rocks,EC 46,1981-10-15
+262019,10.0,150.0,Tregolana Shale Member,EC 46,1981-10-15
+262019,150.0,248.0,Pandurra Formation,EC 46,1981-10-15
+262025,0.0,3.6,Tertiary-Pleistocene rocks,IHAD3,2007-09-05
+262025,3.6,87.6,Simmens Quartzite Member,IHAD3,2007-09-05
+262025,87.6,249.63,Tregolana Shale Member,IHAD3,2007-09-05
+262025,249.63,370.2,Whyalla Sandstone,IHAD3,2007-09-05
+262025,370.2,393.74,Tapley Hill Formation,IHAD3,2007-09-05
+262025,393.74,760.2,Pandurra Formation,IHAD3,2007-09-05
+262025,760.2,817.55,Wallaroo Group,IHAD3,2007-09-05
+262025,817.55,1016.4,Wallaroo Group,IHAD3,2007-09-05
+262025,1016.4,1027.5,Wallaroo Group,IHAD3,2007-09-05
+262026,0.0,60.0,Simmens Quartzite Member,IHAD4,2007-09-27
+262026,60.0,220.0,Tregolana Shale Member,IHAD4,2007-09-27
+262026,220.0,797.7,Pandurra Formation,IHAD4,2007-09-27
+262026,797.7,901.2,Pandurra Formation,IHAD4,2007-09-27
+262026,901.2,916.55,Pandurra Formation,IHAD4,2007-09-27
+262026,916.55,1051.45,Donington Suite,IHAD4,2007-09-27
+262026,1051.45,1056.85,Donington Suite,IHAD4,2007-09-27
+262026,1056.85,1128.7,Donington Suite,IHAD4,2007-09-27
+262076,0.0,21.0,Tertiary-Pleistocene regolith/colluvial sediments,FTDD01,2006-11-28
+262076,21.0,123.0,Tregolana Shale Member,FTDD01,2006-11-28
+262076,123.0,126.0,Nuccaleena Formation,FTDD01,2006-11-28
+262076,126.0,169.0,Whyalla Sandstone,FTDD01,2006-11-28
+262076,169.0,199.0,Woocalla Dolomite Member,FTDD01,2006-11-28
+262076,199.0,329.3,Tindelpina Shale Member,FTDD01,2006-11-28
+262076,329.3,357.4,Pandurra Formation,FTDD01,2006-11-28
+262076,357.4,388.75,Donington Suite,FTDD01,2006-11-28
+262076,388.75,398.25,Gairdner Dolerite,FTDD01,2006-11-28
+262076,398.25,427.9,Donington Suite,FTDD01,2006-11-28
+262076,427.9,449.6,Gairdner Dolerite,FTDD01,2006-11-28
+262076,449.6,461.9,Donington Suite,FTDD01,2006-11-28
+262487,0.0,52.0,Simmens Quartzite Member,MGD57,2010-05-01
+262487,52.0,79.0,Corraberra Sandstone Member,MGD57,2010-05-01
+262487,79.0,236.0,Tregolana Shale Member,MGD57,2010-05-01
+262487,236.0,391.47,Whyalla Sandstone,MGD57,2010-05-01
+262487,391.47,432.35,Tapley Hill Formation,MGD57,2010-05-01
+262487,432.35,960.69,Pandurra Formation,MGD57,2010-05-01
+262487,960.69,1074.68,Donington Suite,MGD57,2010-05-01
+262487,1074.68,1104.34,Donington Suite,MGD57,2010-05-01
+262487,1104.34,1158.0,Donington Suite,MGD57,2010-05-01
+262487,1158.0,1198.0,Wandearah Formation unit 2,MGD57,2010-05-01
+262487,1198.0,1206.0,Donington Suite,MGD57,2010-05-01
+262487,1206.0,1242.87,Wandearah Formation unit 2,MGD57,2010-05-01
+262894,0.0,877.2,Pandurra Formation,MGDD001,2007-12-09
+262894,877.2,1072.9,Gawler Range Volcanics,MGDD001,2007-12-09
+263694,0.0,1.0,Quaternary rocks,SN 1,1994-12-01
+263694,1.0,6.0,Woocalla Dolomite Member,SN 1,1994-12-01
+263694,6.0,14.0,Pandurra Formation,SN 1,1994-12-01
+263695,0.0,1.0,Quaternary rocks,SN 2,1994-12-01
+263695,1.0,7.5,Woocalla Dolomite Member,SN 2,1994-12-01
+263695,7.5,14.0,Pandurra Formation,SN 2,1994-12-01
+263696,0.0,1.0,Quaternary rocks,SN 3,1994-12-01
+263696,1.0,8.5,Woocalla Dolomite Member,SN 3,1994-12-01
+263696,8.5,14.0,Pandurra Formation,SN 3,1994-12-01
+263697,0.0,1.0,Quaternary rocks,SN 4,1994-12-01
+263697,1.0,9.5,Woocalla Dolomite Member,SN 4,1994-12-01
+263697,9.5,14.0,Pandurra Formation,SN 4,1994-12-01
+263698,0.0,1.0,Quaternary rocks,SN 5,1994-12-01
+263698,1.0,10.5,Woocalla Dolomite Member,SN 5,1994-12-01
+263698,10.5,14.0,Pandurra Formation,SN 5,1994-12-01
+263699,0.0,1.0,Quaternary rocks,SN 6,1994-12-01
+263699,1.0,10.5,Woocalla Dolomite Member,SN 6,1994-12-01
+263699,10.5,14.0,Pandurra Formation,SN 6,1994-12-01
+263700,0.0,1.0,Quaternary rocks,SN 7,1994-12-01
+263700,1.0,11.5,Woocalla Dolomite Member,SN 7,1994-12-01
+263700,11.5,14.0,Pandurra Formation,SN 7,1994-12-01
+263701,0.0,1.0,Quaternary rocks,SN 8,1994-12-01
+263701,1.0,10.0,Woocalla Dolomite Member,SN 8,1994-12-01
+263701,10.0,14.0,Pandurra Formation,SN 8,1994-12-01
+263702,0.0,1.0,Quaternary rocks,SN 9,1994-12-01
+263702,1.0,11.0,Woocalla Dolomite Member,SN 9,1994-12-01
+263702,11.0,14.0,Pandurra Formation,SN 9,1994-12-01
+263703,0.0,1.0,Quaternary rocks,SN 10,1994-12-01
+263703,1.0,9.0,Woocalla Dolomite Member,SN 10,1994-12-01
+263703,9.0,14.0,Pandurra Formation,SN 10,1994-12-01
+263704,0.0,1.0,Quaternary rocks,SN 11,1994-12-01
+263704,1.0,9.5,Woocalla Dolomite Member,SN 11,1994-12-01
+263704,9.5,14.0,Pandurra Formation,SN 11,1994-12-01
+263705,0.0,1.0,Quaternary rocks,SN 12,1994-12-01
+263705,1.0,6.0,Woocalla Dolomite Member,SN 12,1994-12-01
+263705,6.0,9.5,Pandurra Formation,SN 12,1994-12-01
+263706,0.0,7.5,Woocalla Dolomite Member,SN 13,1994-12-01
+263706,7.5,14.0,Pandurra Formation,SN 13,1994-12-01
+263707,0.0,1.0,Quaternary rocks,SN 14,1995-03-01
+263707,1.0,10.0,Woocalla Dolomite Member,SN 14,1995-03-01
+263707,10.0,14.0,Pandurra Formation,SN 14,1995-03-01
+263708,0.0,1.0,Quaternary rocks,SN 15,1995-03-01
+263708,1.0,7.5,Woocalla Dolomite Member,SN 15,1995-03-01
+263708,7.5,14.0,Pandurra Formation,SN 15,1995-03-01
+263709,0.0,1.0,Quaternary rocks,SN 16,1995-03-01
+263709,1.0,6.0,Woocalla Dolomite Member,SN 16,1995-03-01
+263709,6.0,12.0,Pandurra Formation,SN 16,1995-03-01
+264089,0.0,125.0,Corraberra Sandstone Member,ODS001,2011-06-13
+264089,125.0,423.27,Tregolana Shale Member,ODS001,2011-06-13
+264089,423.27,802.75,Pandurra Formation,ODS001,2011-06-13
+264089,802.75,986.5,Donington Suite,ODS001,2011-06-13
+272697,0.0,6.0,Quaternary rocks,BHDD01,2011-11-24
+272697,6.0,237.7,Tregolana Shale Member,BHDD01,2011-11-24
+272697,237.7,248.53,Whyalla Sandstone,BHDD01,2011-11-24
+272697,248.53,251.17,Woocalla Dolomite Member,BHDD01,2011-11-24
+272697,251.17,312.3,Tindelpina Shale Member,BHDD01,2011-11-24
+272697,312.3,546.9,Pandurra Formation,BHDD01,2011-11-24
+272697,546.9,766.5,Donington Suite,BHDD01,2011-11-24
+279637,0.0,24.5,Simmens Quartzite Member,LHD001,2012-02-08
+279637,24.5,98.0,Corraberra Sandstone Member,LHD001,2012-02-08
+279637,98.0,257.7,Tregolana Shale Member,LHD001,2012-02-08
+279637,257.7,405.5,Whyalla Sandstone,LHD001,2012-02-08
+279637,405.5,477.8,Yudnamutana Subgroup,LHD001,2012-02-08
+279637,477.8,613.22,Tapley Hill Formation,LHD001,2012-02-08
+279637,613.22,1064.75,Pandurra Formation,LHD001,2012-02-08
+279637,1064.75,1128.4,Pandurra Formation unit 1,LHD001,2012-02-08
+279637,1128.4,1275.6,Wallaroo Group,LHD001,2012-02-08
+279638,0.0,24.99,Simmens Quartzite Member,LHD002,2012-03-06
+279638,24.99,100.99,Corraberra Sandstone Member,LHD002,2012-03-06
+279638,100.99,268.0,Tregolana Shale Member,LHD002,2012-03-06
+279638,268.0,417.99,Whyalla Sandstone,LHD002,2012-03-06
+279638,417.99,482.6,Yudnamutana Subgroup,LHD002,2012-03-06
+279638,482.6,629.99,Tapley Hill Formation,LHD002,2012-03-06
+279638,629.99,680.0,Gairdner Dolerite,LHD002,2012-03-06
+279638,680.0,687.0,Gairdner Dolerite,LHD002,2012-03-06
+279638,687.0,1105.5,Pandurra Formation,LHD002,2012-03-06
+279638,1105.5,1152.05,Pandurra Formation unit 1,LHD002,2012-03-06
+279638,1152.05,1395.3,Wallaroo Group,LHD002,2012-03-06
+280415,0.0,5.4,Tertiary-Pleistocene rocks,WJE001,2011-07-14
+280415,5.4,148.0,Corraberra Sandstone Member,WJE001,2011-07-14
+280415,148.0,299.3,Tregolana Shale Member,WJE001,2011-07-14
+280415,299.3,486.8,Whyalla Sandstone,WJE001,2011-07-14
+280415,486.8,696.9,Tapley Hill Formation,WJE001,2011-07-14
+280415,696.9,1053.6,Wandearah Formation,WJE001,2011-07-14
+280416,0.0,157.0,Simmens Quartzite Member,WJE002,2012-05-31
+280416,157.0,312.6,Tregolana Shale Member,WJE002,2012-05-31
+280416,312.6,549.2,Whyalla Sandstone,WJE002,2012-05-31
+280416,549.2,804.0,Tapley Hill Formation,WJE002,2012-05-31
+280416,804.0,1006.0,Wandearah Formation,WJE002,2012-05-31
+280417,0.0,157.8,Simmens Quartzite Member,WJE003,2012-07-01
+280417,157.8,335.0,Tregolana Shale Member,WJE003,2012-07-01
+280417,335.0,578.1,Whyalla Sandstone,WJE003,2012-07-01
+280417,578.1,883.6,Tapley Hill Formation,WJE003,2012-07-01
+288241,0.0,398.0,Neoproterozoic rocks,PN-07-09,2007-05-19
+288241,398.0,510.0,Beda Basalt,PN-07-09,2007-05-19
+288241,510.0,530.0,Pandurra Formation,PN-07-09,2007-05-19
+288241,530.0,542.7,Gairdner Dolerite,PN-07-09,2007-05-19
+288241,542.7,621.2,Gawler Range Volcanics,PN-07-09,2007-05-19
+288241,621.2,631.2,Gawler Range Volcanics,PN-07-09,2007-05-19
+288241,631.2,667.0,Gawler Range Volcanics,PN-07-09,2007-05-19
+288241,667.0,743.2,Gawler Range Volcanics,PN-07-09,2007-05-19
+288241,743.2,753.8,Gawler Range Volcanics,PN-07-09,2007-05-19
+288241,753.8,774.5,Gawler Range Volcanics,PN-07-09,2007-05-19
+288241,774.5,801.2,Wallaroo Group,PN-07-09,2007-05-19
+288241,801.2,842.0,Wallaroo Group,PN-07-09,2007-05-19
+288241,842.0,852.9,Wallaroo Group,PN-07-09,2007-05-19
+288241,852.9,899.7,Wallaroo Group,PN-07-09,2007-05-19
+288241,899.7,903.2,Wallaroo Group,PN-07-09,2007-05-19
+288241,903.2,912.0,Wallaroo Group,PN-07-09,2007-05-19
+288241,912.0,916.62,Wallaroo Group,PN-07-09,2007-05-19
+288241,916.62,1257.0,Wallaroo Group,PN-07-09,2007-05-19
+288241,1257.0,1656.0,Hiltaba Suite,PN-07-09,2007-05-19
+288241,1656.0,1836.0,Wallaroo Group,PN-07-09,2007-05-19
+290582,0.0,30.9,Simmens Quartzite Member,15RTDD-BS1,2015-11-07
+290582,30.9,180.6,Tregolana Shale Member,15RTDD-BS1,2015-11-07
+290582,180.6,181.2,Nuccaleena Formation,15RTDD-BS1,2015-11-07
+290582,181.2,345.5,Whyalla Sandstone,15RTDD-BS1,2015-11-07
+290582,345.5,942.4,Pandurra Formation,15RTDD-BS1,2015-11-07
+290582,942.4,1076.2,Donington Suite,15RTDD-BS1,2015-11-07
+290582,1076.2,1098.0,Donington Suite,15RTDD-BS1,2015-11-07
+340223,0.0,64.0,Corraberra Sandstone Member,MGD68,2011-09-02
+340223,64.0,206.0,Tregolana Shale Member,MGD68,2011-09-02
+340223,206.0,533.0,Pandurra Formation,MGD68,2011-09-02
+340223,533.0,613.0,Pandurra Formation,MGD68,2011-09-02
+340223,613.0,877.6,Pandurra Formation,MGD68,2011-09-02
+340223,877.6,909.0,Gawler Range Volcanics,MGD68,2011-09-02
+340223,909.0,915.0,Gawler Range Volcanics,MGD68,2011-09-02
+340223,915.0,1043.6,Donington Suite,MGD68,2011-09-02
+340224,0.0,68.0,Corraberra Sandstone Member,MGD69,2011-10-03
+340224,68.0,238.7,Tregolana Shale Member,MGD69,2011-10-03
+340224,238.7,900.7,Pandurra Formation,MGD69,2011-10-03
+340224,900.7,908.4,Pandurra Formation,MGD69,2011-10-03
+340224,908.4,957.0,Wandearah Formation unit 2,MGD69,2011-10-03
+340224,957.0,985.0,Wandearah Formation,MGD69,2011-10-03
+340224,985.0,1022.0,Wandearah Formation,MGD69,2011-10-03
+340224,1022.0,1076.1,Wandearah Formation,MGD69,2011-10-03
+352397,0.0,120.0,Tregolana Shale Member,RS1,2010-05-19

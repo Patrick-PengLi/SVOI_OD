@@ -1,0 +1,3 @@
+window,lon_min,lon_max,lat_min,lat_max,status,source
+regional,136.3,137.45,-30.98,-29.92,PROVISIONAL,wp1_harvester.py REGIONAL_BBOX (line 276)
+companion,136.7,137.35,-31.7,-31.0,PROVISIONAL,wp1_harvester.py COMPANION_BBOX (line 277)

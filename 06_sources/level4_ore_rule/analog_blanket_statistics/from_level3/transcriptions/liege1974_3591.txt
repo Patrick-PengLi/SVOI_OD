@@ -1,0 +1,1357 @@
+===== page 1
+CENTENAIRE DE LA SOCIETE GEOLOGIQUE DE BELGIQUE
+GISEMENTS STRATIFORMES ET PROVINCES CUPRIFERES, LIEGE, 1974, 367-382
+
+ 
+
+A SYNOPSIS
+OF CANADIAN STRATIFORM COPPER DEPOSITS
+IN SEDIMENTARY SEQUENCES
+
+R. V. KirKHAM (*)
+
+ABSTRACT
+
+Stratiform (1) copper deposits in sedimentary sequences have not made significant con-
+tributions to Canadian copper production. Nevertheless, sufficient occurrences are known of
+this very important geological type of deposit to suggest that some potential exists. Occur-
+rences are widely distributed in rocks of many ages but the main ones are found in Carbon-
+iferous rocks of the Canadian Appalachians and Proterozoic rocks of the Canadian Shield and
+
+ordillera.
+
+__, Analogous to similar deposits in other parts of the world, Canadian occurrences character-
+istically are found in sediments deposited in continental or marginal marine, low latitude,
+arid or semi-arid areas. A number of the occurrences, such as those in Mississippian rocks of
+the Canadian Appalachians, and Proterozoic rocks of the Seal Lake area Labrador, Copper-
+mine River and Redstone River areas, Northwest Territories, and in the Gateway Formation
+of the Clark Range of Alberta and British Columbia, have formed in the basal rocks of a
+marine transgression following a long period of continental sedimentation.
+
+All deposits and occurrences are found in rocks that postdate oxygenation of the earth’s
+atmosphere (about 2 300 m.yr.). Because no bonafide example of this type of deposit has been
+found in the extensive, well explored Archean terranes of Canada, a relatively highly evolved
+atmosphere seems to have been essential for their formation.
+
+The detailed nature, distribution and significance in Canada of this important geological
+
+type of deposit will not be known until further exploration and studies have been carried
+out.
+
+INTRODUCTION
+
+Despite the country’s large size and diverse geology, stratiform copper deposits
+in sedimentary sequences have not accounted for significant amounts of Canada’s
+copper production. Nevertheless, because this type of deposit is very important
+in other parts of the world and favourable geological indications exist in Canada,
+an attempt has been made to examine and compile available information on such
+stratiform deposits and occurrences throughout the country. This paper is a résumé
+of information and impressions gathered to date. It is based on available published
+
+(*) Commission géologique du Canada, Ottawa, Canada.
+
+(1) In this paper “stratiform” is used informally and includes deposits that more accurately
+could be termed “concordant” or “penconcordant.” It also refers to some concordant deposits
+in metamorphic rocks with layering of questionable origin.
+
+===== page 2
+368 R. V. KIRKHAM
+
+and unpublished reports and on many personal cursory examinations of these
+deposits and occurrences as part of a broad geological study of Canadian copper
+leposits.
+
+There has been only limited exploitation of these deposits and this has been
+mainly on metamorphosed ones of questionable origin (e.g. Anglo-Rouyn and
+Harvey Hill Mines). In total, only a few million tons of 2 to 3 percent copper ore
+have been extracted from such deposits. Even though the immediate future for
+exploitation of such deposits is not much brighter, it is hoped that over the long
+term major ore bodies of this type will be found in Canada. For example, the
+Redstone deposit in the Northwest Territories is large and has good grade sections;
+however, its highly faulted nature and very remote location limit its economic
+potential.
+
+In Canada, exploration for stratiform copper deposits in sedimentary sequences
+has been sporadic and only now are some long term exploration programs being
+initiated. Some occurrences have been known for decades but many, even in areas
+where the geology is well documented, have been discovered only within the last
+fifteen years. This pattern of discovery and the very subtle nature of much of
+this mineralization suggest that important deposits could have been missed in
+previous investigations.
+
+REGIONAL DISTRIBUTION
+
+Figure 1 shows the distribution of the main deposits and occurrences in
+relation to the major geological regions of Canada. It can be noted that deposits
+and occurrences are widely distributed in rocks of variable age. Even though
+deposits of this type are located in rocks ranging from lower Aphebian age
+(about 2 300 m.yr.) to Triassic, most are found in Helikian (about 1 400-1 000 m.yr.)
+and Carboniferous rocks. The deposits with Helikian host rocks are localities
+numbers 5, 12(?), 14, 15, 16 and 18 (fig. 1) and the ones with Carboniferous host
+rocks are localities numbers 1 and 2 (fig. 1).
+
+Most, if not all of the major geological regions shown on figure 1, except those
+comprised essentially of Archean rocks (older than about 2500 m.yr.), such as
+the Slave and Superior Provinces, probably contain at least a few deposits or
+occurrences of this type. Areas such as the eastern part of the Churchill Province
+(between the Superior and Nain Provinces on figure 1), which includes the
+important Labrador Trough, may contain numerous occurrences of this type even
+though no well documented examples have been reported. An area such as
+the Labrador Trough contains favourable geological strata that are possibly the
+same general age as the iron- and copper-bearing beds in the Marquette region
+of the United States. Similarly the lack of occurrences in Arctic areas of Canada
+is probably also simply a function of insufficient exploration rather than a real
+lack of deposits. Both Proterozoic and Phanerozoic sedimentary sequences in
+the Canadian Arctic include numerous units with environments favourable for
+the occurrence of stratiform copper deposits.
+
+Nevertheless, the apparent lack of such deposits in Archean areas (older than
+about 2 500 m.yr.) is probably real rather than apparent. In these areas the rock
+sequences appear to be too old. The older age limit for this type of deposit is in
+
+===== page 3
+CANADIAN STRATIFORM DEPOSITS 369
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+ins] Arctic Coastai Plain Cordilleran Orogen
+
+ 
+
+ 
+
+ 
+
+Pacific Coastal Plain Appalachian Orogen
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Innuitian Orogen
+
+ 
+
+ 
+
+Arctic Platform
+
+ 
+
+ 
+
+ 
+
+ott) totenior Plastorm Bear Province
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“fe] Hudson Plattorm Stave Province
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+St. Lawrence Platform [4% A) Churchill Province
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+> n] Superior Province
+
+ 
+
+Southern Province
+
+ 
+
+ 
+
+34] Grenvite Province
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5d Nain Province
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+SLOT
+
+       
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EX yi HUDSON
+gh Oo by SV
+at . M0 Kn BAY
+oN Ve YY kIT
+xt
+oy
+Ht
+M
+jj
+Fa / “S
+“ Pacific’
+Continental u, .
+Slope Mire
+/ Sh
+e/ ATES
+g
+Regional boundary, on land. under water. . ~~."
+° Miles 509
+et
+aaa Rana
+° Kilometres 80°
+GSC
+Fic. 1. — Geological regions of Canada (after Douglas, 1970) and location of stratiform
+
+copper deposits and occurrences; circle indicates deposits in Proterozoic rocks; square indicates
+
+deposits in Paleozoic rocks; triangle indicates metamorphosed deposits of questionable origin.
+
+1, Windsor-Horton Groups; 2, Canso-Pictou Groups; 3, Harvey Hill Mine; 4, Ottawa Area;
+
+3, Seal Lake Area; 6, Richmond Gulf Area; 7, Parry Sound Area; 8, Sault Ste. Marie-Flack
+
+Lake Area; 9, Anglo-Rouyn Mine; 10, Wollaston Lake Fold Belt; 11, Hurwitz Group;
+
+12, Coppermine River Area; 13, Hottah Lake Area; 14, Cap Mountain Area; 15, Redstone
+Area; 16, Keele River Area; 17, Minto Area; 18, Clark Range.
+
+rocks about 2 300 m.yr. old, which seems to coincide with oxygenation of the earth’s
+atmosphere or “oxyatmoversion” (Roscoe, 1973).
+
+The other major limitation on the distribution of these deposits is the existence
+of suitable environments of formation in the host sedimentary sequence. Stratiform
+copper deposits in sedimentary sequences, in Canada and elsewhere, characteris-
+tically have formed in sediments deposited in low latitude, arid or semi-arid,
+continental or marginal marine areas (e.g. Strakhov, 1962; Lombard and Nicolini,
+1962; Kirkham, 1973, Renfro, 1974). Areas that do not contain sediments deposited
+in such environments seem to be devoid of such deposits.
+
+Many of the major geological regions shown in figure 1 contain large areas of
+poorly documented metamorphic rocks. At least a few of these areas probably
+contain significant metamorphosed deposits of this type, but at present it is difficult
+to anticipate where these deposits might be located.
+
+===== page 4
+370 R. V. KIRKHAM
+
+CANADIAN APPALACHIANS
+
+Stratiform copper deposits in sedimentary sequences occur in two main areas
+in the Canadian Appalachians—Cambrian and/or possibly uppermost Precambrian
+rocks of southeastern Quebec and Carboniferous basins of Nova Scotia, New
+Brunswick and possibly Newfoundland.
+
+The Harvey Hill Mine (No. 3, figure 1) which produced minor amounts of
+copper and silver in the past and is presently being reopened on a small scale, is
+perhaps the best example of this type of mineralization in south-eastern Quebec.
+The intensely deformed, recumbently folded, schistose nature of the host rocks
+make it very difficult to unravel the geology of this deposit. The main mineralized
+zones consist of disseminated chalcopyrite, bornite, chalcocite(?) and minor
+amounts of pyrite and molybdenite, conformable with the schistosity, in chloritoid-
+muscovite schists. These zones are cut by metamorphic gash veins some of which
+contain copper sulphides for as much as 80 feet from the conformable zones.
+Similar occurrences are present in a narrow belt that extends more than 150 miles
+to the southwest (G. Harron, personal communication).
+
+The numerous occurrences in Carboniferous rocks of Nova Scotia and New
+Brunswick (fig. 2) can be divided into two main groups: those which occur in
+
+Figure 2
+CARBONIFEROUS GEOLOGY (modified from Howie &
+Cumming , 1963) AND COPPER DEPOSITS
+NOVA SCOTIA AND, NEW BRUNSWICK
+
+GULF OF ST LAWRENCE
+
+f
+fcare BRETON
+// 1s.ano,
+
+Chk
+efi
+ee
+
+TRIASSIC. FUNDY GRP.-clestic segiments and basalt
+
+PENNSLVANIAN - PICTOU, CUMBERLAND GI
+ELATIVES: clastic sediments an
+
+PENNSYLVANIAN / MISSISSIPPIAN -
+GRPS. & CORRELATIVES: clastic
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fic. 2
+
+(2) “Chalcocite” is used in this paper as a field term.
+
+===== page 5
+CANADIAN STRATIFORM DEPOSITS 371
+
+Figure 3. Schematic Section Through A Typical
+Lower Mississippian Copper Occurrence
+
+gypsum, anhydrite,and salt
+
+red shale and siltstone, minor sandstone
+
+gypsum
+red or grey conglomerate
+
+pale grey to buff fossiliferous limestone
+medium to dark grey, fine-grained, laminated limestone, with
+
+}oopper MINERALS some stromatolites
+Green-grey conglomerate, minor sandstone
+
+red conglomerate / fanglomerate
+
+Pre-Carboniferous basement
+
+ 
+
+Fic, 3
+
+lower Mississippian rocks, especially at the contact between the Windsor and
+Horton Groups or their stratigraphic correlatives (Binney and Kirkham, 1974),
+and those which occur in upper Mississippian and Pennsylvanian rocks (Papenfus,
+1931 and Brummer, 1958). The latter group may include deposits in lower Permian
+rocks, since the age of the host rocks has not been well established at some
+localities. The deposits found at the Windsor-Horton contact are typical of ones
+formed in sediments deposited in paralic or marginal environments (ie. the
+
+ 
+
+Fic. 4. — (4a) (left) Typical red conglomerate that occurs about 80 feet stratigraphically below
+the lower Mississippian copper beds at East Bay on Cape Breton Island, Nova Scotia (GSC,
+Photo 9-3-73). (4b) (right) Typical dark grey, fine-grained, stromatolitic, laminated basal
+Windsor limestone overlying green-grey conglomerate at East Bay, Nova Scotia. Copper
+minerals occur in the conglomerate and lowest limestone beds (GSC, Photo 202516-B).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+===== page 6
+372 R. V. KIRKHAM
+
+“Kupferschiefer-type” deposits of Kirkham, 1973); whereas, most of those formed
+in the upper Mississippian and Pennsylvanian rocks are typical “Red-Bed” copper
+deposits that occur in sediments deposited in continental environments.
+
+Figure 3 is a typical schematic section through one of the lower Mississippian
+copper occurrences. The stratigraphic sequence at most of these copper occurrences
+is remarkably similar from one locality to another and consists of a variable
+thickness of red conglomerate or fanglomerate (fig. 4a) overlain by a few inches
+to a few feet of green conglomerate, in turn overlain by a few inches to a few feet
+of dark, fine-grained, laminated, sandy limestone (fig. 4b) which grades upwards
+to paler fossiliferous limestone. Evaporites, other clastic rocks and limestones occur
+higher in the sequence. Pyrite, chalcopyrite, and, at a few localities, bornite and
+chalcocite, are disseminated in the upper part of the green conglomerate and
+lower part of the dark, laminated limestone (Binney and Kirkham, 1974). Malachite
+is a common weathering product in the upper part of the green conglomerate.
+
+This mineralization has many similarities to the Kupferschiefer and is an
+ideal candidate for Renfro’s coastal sabkha model (1974). Schenk (1967), drawing
+an analogy to the Persian Gulf, proposed a sabkha, strandline model for these
+copper-bearing beds. The base metal mineralization, although characteristically
+very sparse, has wide areal extent similar to that of the Kupferschiefer and Marl
+Slate. The main differences between this and Kupferschiefer mineralization are
+age (Mississippian versus Permian) and the fact that the Carboniferous basins of
+eastern Canada were far more irregular and had much more local, paleogeographic
+relief than did the Zechstein basin of Europe.
+
+The Walton, Gays River, Smithfield and Salmon River deposits (fig. 2) are
+the largest base metal deposits found to date in the Carboniferous basins. The
+Walton deposit is a fault-controlled, base metal-barite-silver deposit near the
+Horton-Windsor contact (Boyle and Jambor, 1966 and Boyle, 1972). The Gays
+River and Smithfield deposits are “Mississippi Valley-type” or carbonate hosted
+zinc-lead deposits in the Windsor Group and the Salmon River deposit is a dissem-
+inated galena and pyrite deposit in Pennsylvanian sandstones adjacent to a Devo-
+nian sialic basement.
+
+Most of the “Red-Bed” copper occurrences in upper Mississippian and Penn-
+sylvanian rocks (fig. 2) tend to be erratic and have proved to be of minor import-
+ance. They have been described by Papenfus (1931), Brummer (1958) and others.
+As in many “Red-Bed” copper deposits chalcocite occurs as a replacement of
+woody material, pyrite or carbonate cement in green-grey patches or beds within
+a red bed sequence. In only a few of these deposits, such as the Dorchester deposit
+in New Brunswick, has the mineralization been demonstrated to have significant
+lateral continuity.
+
+CANADIAN SHIELD
+
+Stratiform deposits in sedimentary sequences are widely distributed in Pro-
+terozoic rocks of the Canadian Shield (fig. 1). Disseminated pyrite and chalcopyrite
+occur in pink and grey quartzites in the Lorrain Formation of the Huronian
+Supergroup in the Sault Ste. Marie and Flack Lake areas of Ontario (No. 8, fig. 1).
+In the Flack Lake area some gypsum and anhydrite nodules have been noted in
+the overlying Gordon Lake Formation. The Lorrain Formation, which contains
+
+===== page 7
+ 
+
+CANADIAN STRATIFORM DEPOSITS 373
+
+the oldest red beds (about 2 300 m.yr. or Paleoaphebian age) known in Canada,
+is also the oldest host rock known to contain this type of copper mineralization.
+
+The occurrences at Parry Sound (No. 7, fig. 1) in the Grenville Province consist
+of conformable zones of disseminated chalcocite and bornite in amphibolitic
+gneisses of uncertain origin. Conceivably these occurrences could have been early
+stratiform deposits in highly metamorphosed Huronian or other Proterozoic strata.
+
+Other deposits in rocks of younger Aphebian age (about 1800-1900 m.yr.)
+occur along Richmond Gulf on the east side of Hudson Bay (No. 6, fig. .1) and
+in highly metamorphosed sediments in the central part of the Churchill Province
+(Nos. 9, 10 and 11, fig. 1). The deposits in the Richmond Gulf area are reported
+to comprise disseminated chalcopyrite and pyrite in arkosic sandstones near the
+base of Proterozoic strata that unconformably overlie Archean rocks of the
+Superior Province.
+
+Numerous occurrences of disseminated copper, lead and zinc minerals have
+been found in the highly deformed and metamorphosed Aphebian rocks of the
+Wollaston Lake fold belt in Saskatchewan (Pyke and Partridge, 1967; Rath and
+Morton, 1969, Sangster and Kirkham, 1974). Similar mineralization has also been
+reported to occur in correlative rocks of Manitoba and in rocks of the Hurwitz
+Group of the Northwest Territories (No. 11, fig. 1). Host rocks for the disseminated
+base metal mineralization are typically highly metamorphosed arkosic sandstones
+and conglomerates. Pyrite, sphalerite, galena, chalcopyrite, bornite, chalcocite and
+native copper have all been found but in most areas the copper minerals occur
+separately from the lead and zinc minerals, though at one locality galena and
+chalcopyrite are present together in large boulders. At a number of localities the
+sulphide mineralization appears to occur near older basement areas.
+
+The Anglo-Rouyn Mine (No. 9, fig. 1) also occurs in highly metamorphosed
+rocks of the central Churchill Province (fig. 1). The preproduction reserves were
+2 million tons of ore grading 2.4 percent copper (Forsythe, 1972) and about 0.03
+to 0.05 ounces per ton gold (J. Randall, personal communication). The deposit
+consists primarily of boudinaged, concordant zones of disseminated chalcopyrite,
+pyrite and pyrrhotite in calc-silicate gneisses and meta-arkoses. Forsythe (1972)
+suggested that it is an epigenetic, fault-controlled deposit; however, the writer
+suggests that it was initially a disseminated stratiform deposit that has been sub-
+jected to intense deformation and metamorphism resulting in significant local
+redistribution and recrystallization of sulphides. Even if a pre-metamorphic origin
+can be demonstrated the genetic affinities are still much in doubt. The significant
+gold content is not typical of stratiform copper deposits in sedimentary sequences
+and the deposit could conceivably have had volcanic rather than sedimentary
+affiliations.
+
+The deposits in the Seal Lake area of Labrador (No. 5, fig. 1) are Helikian
+in age (about 1 250 m.yr.) and those in the Coppermine River area (No. 12, fig. 1)
+are either Helikian or Hadrynian in age (1 200-600 m.yr.). In both areas the deposits
+are remarkably similar to the important White Pine deposit in the Keweenaw
+Peninsula (Ensign et al., 1968; White, 1971; Brown, 1971).
+
+The deposits in the Seal Lake area have been described by Brummer and
+Mann (1961) and Gandhi and Brown (1974); some of the comparable occurrences
+in the Coppermine River area have been described briefly by Kirkham (1970).
+In both areas the copper occurs in the first green-grey marine beds that overlie
+a thick sequence of flood basalts and red beds (figs. 5, 6 and 7). The underlying
+flood basalts are noted for their numerous minor copper occurrences. Although
+
+===== page 8
+ 
+
+374
+
+ 
+   
+ 
+
+ted quartzite
+
+red and green
+
+ 
+ 
+
+cupriferous beds
+
+  
+   
+ 
+    
+  
+ 
+
+ 
+
+basaltic lavas
+
+and interlayered
+
+diabase sills in
+red and grey
+quartzites and
+shales
+
+basaitic lavas
+
+  
+  
+ 
+
+ 
+
+with
+
+  
+  
+    
+
+interlayered
+
+R. V. KIRKHAM
+
+shales and quartzite
+
+red beds
+
+about 5,000 feet
+
+quartzite and conglomerate
+
+ 
+
+ 
+  
+   
+
+about 1,000 metres
+
+ 
+
+ 
+     
+
+Fic. 5. — Generalized section through the
+
+Seal Lake Group in Labrador showing posi-
+
+tion of cupriferous beds (adapted from
+Gandhi and Brown, 1974).
+
+ 
+
+ 
+
+ 
+
+Fic. 6. — Generalized geological map of the Coppermine River area, Northwest Territories
+(adapted from Baragar and Donaldson, 1973), showing the location of copper occurrences in
+the Rae Group.
+
+===== page 9
+CANADIAN STRATIFORM DEPOSITS 375
+
+ 
+
+ 
+
+   
+     
+   
+ 
+    
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Thick
+Era |Group  |ness Lithology
+grey-green
+ec sandstone,
+s Rae 1,200 siltstone,
+£ | Group | feet shale
+® eypriferous
+| = beds
+t nconformity~
+!
+| red
+Sandstone,
+| 4,000] siltstone
+feet and
+| terlayered
+It
+| § | Copper- ese
+| mine |
+' = | River
+2 Group
+©
+® t
+2 mm Pasaltic
+10,000] lava
+feet flows
+I
+r
+| Figure 7.Columnar Section Showing
+Position of Cupriferous
+Beds in Coppermine River Area
+
+Fic. 7
+
+only subeconomic concentrations of chalcopyrite, bornite, and chalcocite have been
+found in the sedimentary rocks at both localities, the regional geology, tectonic
+setting, stratigraphy, age and the position of the cupriferous sediments are all
+remarkably similar to those of the Keweenaw Peninsula.
+
+INTERIOR AND ARCTIC PLATFORMS AND INNUITIAN BELT
+
+Only minor amounts of copper mineralization have been discovered to date
+in the Interior and Arctic Platforms and the Innuitian belt (fig. 1). At Hottah Lake
+(No. 13, fig. 1) disseminated chalcocite occurs in lower Paleozoic grey shale inter-
+layered with red and green shales, bituminous dolomite with minor chalcopyrite,
+and sandstone (Thorpe, 1971). Minor occurrences of copper mineralization have
+also been reported in Proterozoic, Silurian, Devonian and Permo-Carboniferous
+strata at remote localities in Arctic Platform and Innuitian belt, but few data are
+available on these occurrences.
+
+The interior Paleozoic basins of Canada were probably not major sites for
+copper deposition, although on first inspection they seem to contain many sedi-
+mentary units favourable for stratiform copper deposits. The carbonate units and
+multicycle, clean quartz sands that characterize these basins were, for the most
+
+===== page 10
+376 R. V. KIRKHAM
+
+part, deposited far from any immature terrigenous area that might have provided
+suitable geochemical sources for copper. The Hottah Lake and Ottawa localities
+occur along the margins of the basins where copper could have been derived,
+directly or indirectly, from adjacent basement areas. On the other hand the
+diverse geology and tectonic history of Arctic areas with more varied possible
+sources and depositional sites for copper indicate a significantly higher potential.
+
+CANADIAN CORDILLERA
+
+Although there is some indication of stratiform copper mineralization in
+Paleozoic and Mesozoic strata of the Canadian Cordilleran region, most of the
+known mineralization occurs in Proterozoic rocks of Helikian age (about 1 000 to
+1400 m.yr.).
+
+In the northern Cordillera stratiform copper mineralization occurs at Cap
+Mountain (Aitken et al., 1973) and in the Redstone River (Coates, 1964; Watson
+and Mustard, 1973), Keele River and Minto areas (fig. 1). At present little is
+known about the mineralization at Cap Mountain or the Keele River area but
+important deposits are known in the Redstone River and Minto areas.
+
+In the Minto area, chalcopyrite, bornite, secondary copper minerals, minor
+pyrite and magnetite with significant amounts of precious metals occur in layered
+biotitic gneisses of a migmatite complex. The origin of these deposits is very much
+
+Figure 8. GEOLOGY OF THE REDSTONE AREA
+(modified after Gabrielse et al.,1973)
+
+ 
+
+LEGEND
+
+Drift covered area
+
+Paleozoic
+Undivided, mainly Devonian
+
+ 
+
+ 
+
+Haydrynian
+Rapitan Grp.- purple and green
+mudstone, conglomerate, and
+minor iron formation
+
+Matic intrusion
+
+ 
+
+ 
+
+Helikian (2)
+Coppercap Fm.- dark grey to
+buff limestone and calcareous
+siltstone
+
+Redstone River Fm.- red
+siltstone
+
+ 
+
+Pre-Redstone River Formations
+
+Copper occurrence
+
+Fault —+— Anticline
+
+Thrust —+— Syncline
+Fault
+
+Bedding
+
+5 Miles”
+
+ 
+
+ 
+
+Kilometres
+
+Fic. 8
+
+===== page 11
+ 
+
+CANADIAN STRATIFORM DEPOSITS 377
+
+RAPITAN FM. 2000- purple and green muds tone
+7000+ conglomerate and minor iron formation
+feet
+
+unconformity
+
+   
+   
+ 
+ 
+  
+  
+  
+ 
+
+COPPERCAP FM. ooo limestone and calcareous siltstone
+feet
+
+Co —$— —$— $ $5 $a i —__
+REDSTONE Xe
+
+RIVER FM. 0- red siltstone, minor anhydrite
+
+1500 and gypsum
+
+feet
+
+ 
+ 
+
+LITTLE DAL FM. 300+ dolomite, minor siltstone, slate
+feet and conglomerate
+
+ 
+
+Fic. 9. — Schematic section through copper-bearing strata in the Redstone River area,
+Northwest Territories (adapted from Gabrielse et al., 1973).
+
+in doubt but, despite the very potassic nature of the host rocks and the relatively
+high gold content, there is a possibility that these are highly metamorphosed,
+remobilized stratiform deposits in metasedimentary rocks. Clarification of the origin
+and nature of these deposits must await further studies.
+
+Figures 8 and 9 show the general geology and stratigraphy in the vicinity of
+the Redstone deposit. Copper mineralization of variable grade and thickness has
+been traced continuously for more than four miles along the face of Coppercap
+Mountain (fig. 10a) and has been found 20 miles to the north where the copper
+
+ 
+
+cote
+
+Fic. 10. — (10a) (left) View from the south of the Coppercap Formation (light) overlying
+
+the Redstone River Formation (dark) on the south end of Coppercap Mountain, Northwest
+
+Territories. The copper-bearing beds occur at the top of the Redstone River Formation
+
+(GSC, Photo 202516-A). (10b) (right) Typical specimen of pale, fine-grained, silty, carbonate
+
+grainstone copper bed showing delicate climbing ripples and a calcite concretion, Redstone
+
+River area, Northwest Territories. The dark spots are disseminated chalcopyrite. Note that
+the bed is not carbonaceous (GSC, Photo 201963-B).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+===== page 12
+378 R. V, KIRKHAM
+
+beds are exposed again. Pyrite, chalcopyrite, bornite and chalcocite occur dis-
+seminated in four to six pale, green-grey, silty carbonate grainstones and calcareous
+siltstone beds at the top of a thick sequence of red siltstones of the Redstone River
+Formation (fig. 10a). The red beds are characterized by small channel structures
+with suncracked mudstone partings. The copper-bearing beds, which are not notice-
+ably carbonaceous (fig. 10b) are overlain by laminated and massive shaly and
+sandy, pyritic, dark, fetid limestones of the Coppercap Formation. Some dessic-
+cation cracks and algal laminations are present in the lower limestone beds. The
+Coppercap Formation is unconformably overlain by the Rapitan Group that is
+thought to be of Haydrynian age (Gabrielse et al., 1973). On a regional scale,
+Gabrielse et al. (1973) have suggested that most of the underlying Coppercap and
+Redstone River Formations have been eroded beneath the sub-Rapitan uncon-
+formity. Minor copper mineralization occurs at the base of the Rapitan Group
+at many localities.
+
+The structure in the vicinity of the Redstone deposit is extremely complex.
+Numerous minor and major low-angle and high-angle faults of late Mesozoic age
+cut the copper-bearing strata; and Proterozoic faulting probably also took place
+in the district between the times of deposition of the Coppercap Formation and
+the overlying Rapitan Group.
+
+Copper deposition evidently occurred in basal marine sediments that trans-
+gressed a very broad alluvial plain. Although the actual copper-bearing beds are
+not carbonaceous, the fetid conditions in the overlying carbonates probably pro-
+vided suitable anoxic, sulphurous conditions necessary for copper deposition.
+
+The last main area to be discussed is the Clark Range in southern Alberta
+and British Columbia (figs. 11 and 12). Analogous to equivalent Belt rocks in
+the United States (Harrison, 1972; Clark, 1971), numerous stratiform copper
+occurrences are known in various units of the Purcell sequence (Morton et al.,
+1973).
+
+Most work done to date has been concentrated on copper sulphide occurrences
+in the Grinnell Formation which is the stratigraphic equivalent of the Revett
+Formation in Montana (Price, 1964; Harrison, 1972) that contains the important
+Spar Lake deposit. Copper occurrences in the Grinnell Formation typically consist
+of erratically disseminated chalcocite or other copper sulphides in the pure white
+quartzite members of an otherwise red clastic sequence. The copper shows a
+marked preference for beds that were probably the most permeable ones in the
+formation. Sand-filled mudcracks, analogous to those described by Garlick (1967)
+at Mufulira and by Glennie (1970) in modern inland sabkhas, are common features
+associated with the white quartzite beds. Quite possibly these were aeolian or
+reworked aeolian sands that came to rest in sabkhas. At some time soon after
+sedimentation these permeable sands could conceivably have become saturated
+with copper-bearing brines. The erratic nature of the mineralization could have
+been caused by fluxuations of the water table and the resulting variations in Eh-pH
+conditions. At a few localities copper has also been remobilized into the contact
+zones of diabase dykes.
+
+In the Gateway Formation copper sulphide mineralization, more characteristic
+of paralic marine sediments, occurs in thin but extensive green-grey and buff silt-
+stone beds with mudcracks and salt casts that occur near the top of a red bed
+sequence. Unlike the mineralization in the Grinnell Formation this mineralization
+is persistent over large areas.
+
+===== page 13
+CANADIAN STRATIFORM DEPOSITS 379
+
+  
+  
+ 
+
+ 
+ 
+
+senfa
+
+  
+ 
+ 
+
+Riri OUT Mg
+ip?
+12 >
+
+ 
+ 
+ 
+
+ 
+
+Ly
+
+    
+ 
+ 
+
+6
+
+   
+
+flathead ®
+
+ 
+     
+
+1430 —
+
+ 
+      
+
+*
+
+  
+
+4 6
+SCALE CIS MILES
+
+cA Missoulo Group @ Stratabound Cu (Ag)
+
+{Purcell—Roosville Fms) \@ Stratobound Zn-Pb (Cu) + International boundory
+
+Wm Middle Belt Carbonate Trace of fold oxis = Provincial boundary
+
+(Syeh Fm)
+
+Rovalli Group *
+ppekunny-Grinnell Fm) ag ©
+
+_
+-
+
+eT Normal Foult 7 National Park boundary
+<~ Theust Foult 2 Dip and Strike of bedding
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fic. 11. — Geological sketch map of the Clark Range, southern Alberta and British Columbia,
+showing locations of principal stratabound Cu (Ag) and Zn{Pb (Cu) occurrences (after Morton
+et al., 1973).
+
+===== page 14
+380 R. V. KIRKHAM
+
+Base Metal Occurences
+
+CulAg) Soge Creek, SE. BC. Sst
+
+  
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+  
+   
+ 
+
+MISSOULA
+
+GROUP Cu Forum|ake, B.C. calc siltstones
+
+Cu_N.Koot-N. Lost Creek, Alta - dol. Sst. Table Mt, Alta-silty dol, Woll-Forum Lk, BC. sst
+Zn Pb (Cu) N Koot-NLost Ck, Alo dal Sit (Table & Gladstone Mins Alta -silty do
+altered basolt (?) Spionkop Ridge, Alta- silty dol.)
+
+Cu (Kennco} Alta- pebbles in block shales , Storvotion Creek, B.C.
+MIDDLE
+BELT
+Carbonate
+
+ 
+
+Cu Starvation Creek B.C., Kennco- Yorrow- Spion. black shole on pebbles
+
+Zn Pb (Ag) Blind Canyon Creek, Alta- dolomite (2)
+
+ula Yorrow- Smith Creeks, Alta- sandstones , Commerce Peak ,8.C: - Se Story. Ck. Ssh
+CulAg] Kishenena Ck, 8.C- Sst. Kishenena Ck- Sst)
+RAVALLI Co Yarrow - Smith Cks, Alto - Sst, Commerce Peak,BC.- Sst
+
+Cu (Zn, Ag) Yarrow Ck.,Alto - sandstone
+
+GROUP
+
+ 
+ 
+ 
+ 
+ 
+     
+ 
+
+LOWER
+BELT or
+Pre-RAVALLI
+
+GROUP
+Fort Steele Fm.
+
+Fic. 12. — Generalized stratigraphic section of Precambrian rocks and stratabound base
+metal occurrences in the Clark Range (after Morton et al., 1973).
+
+CONCLUSIONS
+
+Stratiform copper mineralization in sedimentary sequences is widely distributed
+in Canada but it has not yet been of major economic importance. It occurs in rocks
+of diverse nature ranging in age from Paleoaphebian to Triassic. The most signifi-
+cant mineralization discovered to date, as in other parts of the world, occurs in
+the basal rocks of a marine transgression following a long period of continental
+sedimentation. These and other paralic marine sediments, as well as some conti-
+nental sediments, seem to offer the most immediate potential for major copper
+deposits of this type. Exploration and studies of these deposits in Canada are still
+in their infancy and it is apparent that much further work is necessary before a
+reasonable idea of their distribution and importance can be ascertained.
+
+ACKNOWLEDGEMENTS
+
+The writer gratefully acknowledges G. Harron and J. Carriére for drafting the
+diagrams and his colleagues at the Geological Survey of Canada and many other
+individuals for numerous, open, fruitful discussions about these deposits.
+D. F. Sangster and G. B. Leech kindly read the manuscript and made many useful
+suggestions.
+
+===== page 15
+CANADIAN STRATIFORM DEPOSITS 381
+
+References
+
+AITKEN, J. D., MACQUEEN, R. W. and Foscotos, A. E. (1973). — A Proterozoic sedimentary
+succession with traces of copper mineralization, Cap Mountain, Southern Franklin
+Mountains, District of Mackenzie. Report of Activities, Part A, April to October, 1972.
+Geol. Surv. Can., Paper 73-1, Part A, p. 243-246.
+
+Baracar, W. R. A. (1969). — The geochemistry of Coppermine River basalts. Geol. Surv. Can.,
+Paper 69-44,
+
+Baracar, W. R. A. and Donatpson, J. A. (1973). — Coppermine and Dismal Lakes map-
+areas 86 O and 86 N. Geol. Surv. Can., Paper 73-39. Lo.
+
+Binney, W, P. and KirKHaM, R. V. (1974). — A study of copper mineralization in Missis-
+sippian rocks of Nova Scotia. Geol. Surv. Can., Paper 74-1, Part A, p. 129-130.
+
+Boye, R. W. (1972). — The geology, geochemistry, and origin of the barite, manganese, and
+lead-zinc-copper-silver deposits of the Walton-Cheverie area, Nova Scotia. Geol. Surv.
+Can., Bull. 166, 181 p.
+
+BoyLe, R. W. and Jamsor, J. L. (1966). — Mineralogy, geochemistry, and origin of the
+Magnet rove barite-sulphide deposit, Walton, N.S. Can. Min. and Met. Bull., Vol. LXIX,
+p. 394-413.
+
+Brown, A, C. (1971). — Zoning in the White Pine copper deposit, Ontanagon County,
+Michigan. Econ. Geol., Vol. 66, p. 543-573. .
+
+Brummer, J. J. (1958). — Supergene copper-uranium deposits in northern Nova Scotia. Econ.
+Geol., Vol. 53, p. 309-324. :
+
+BRUMMer, J. J. and Mann, E. L. (1961). — Geology of the Seal Lake area, Labrador. Geol.
+Soc. Amer. Bull., 72, p. 1361-1382.
+
+Ciark, A. L. (1971). — Strata-bound copper sulfides in the Precambrian Belt Supergroup,
+northern Idaho and northwestern Montana. Soc. Mining Geol. Japan, Spec. Issue 3,
+p. -267.
+
+Coates, J. A. (1964), — The Redstone Bedded Copper deposit and a discussion of the origin
+of red bed copper deposits, unpublished M. Sc. thesis, Univ. B.C., 75 p.
+
+Douctas, R. J. W. (1970). — Introduction. Geology and economic minerals of Canada.
+Geol. Surv. Can., Econ. Geol. Rept., 1, p. 1-8. .
+Epen, J. G. VAN (1974). — Depositional and diagenetic environment related to sulphide
+
+mineralization, Mufulira, Zambia. Econ. Geol., Vol. 69, p. 59-79.
+
+Ensicn, C. Q., Jr., et al. (1968). — Copper deposits in the Nonesuch Shale, White Pine,
+Michigan, Ore deposits of the United States, 1933-1967, Ed. J. D. Ridge, Vol. 1,
+P. 460-488.
+
+ForsytuE, L. H. (1972). — Anglo-Rouyn Copper Mine, Ore Bay, Lac La Ronge, Saskatchewan.
+Geol. Soc. Amer. Bull., Vol. 83, p. 3405-3414.
+
+GaprIELseE, H., Roppicx, J. A. and Biusson, S. L. (1973). — Flat River, Glacier Lake, and
+Wrigley Lake map areas (95E, L, M), District of Mackenzie and Yukon Territory.
+Geol. Surv. Can., Mem. 366, 153 p.
+
+Ganpui, S. S. and Brown, A. C. (in preparation). — Cupriferous shales of the Adeline Island
+Formation, Seal Lake Group, Labrador. Econ. Geol.
+
+Garuick, W. G. (1969). — Special features and sedimentary facies of stratiform sulphide
+deposits in arenites, Sedimentary ores, ancient and modern. Pro. 15th Inter.-Univ. Geol.
+Con., Special Pub. No. 1, p. 107-170.
+
+GLENNIE, K. W. (1970). — Desert Sedimentary Environments. Amer. Elsevier Pub. Co. Inc.,
+New York, 222 p.
+
+Harrison, J. E. (1972). — Precambrian Belt basin of northwestern United States: its geometry,
+sedimentation, and copper occurrences. Geol. Soc. Amer. Bull., Vol. 83, p. 1215-1240.
+
+Howir, R. D. and Cumminc, L. M. (1963). — Basement features of the Canadian
+Appalachians. Geol. Surv. Can., Bull. 89, 18 p.
+
+KirkuaM, R. V. (1970). — Some copper occurrences in younger sedimentary rocks of the
+Coppermine River area, Northwest Territories, Report of Activities, Part B. Geol. Surv.
+Can., Paper 70-1, p. 57-63.
+
+KirkuaM, R. V. (1973). — Environments of formation of concordant and penecordant copper
+deposits in sedimentary sequences (abstract). Can. Mineralogist, Vol. 12, Part 2, p. 145-146.
+
+Lomparp, J. and NicoLint, P. (1962). — Search for the characteristics that are most frequently
+associated with copper stratiform mineralizations in Africa. Stratiform copper deposits in
+Africa. Sym. Ass. of African Geol. Surv., p. 205-212.
+
+===== page 16
+ 
+
+382 R. V. KIRKHAM
+
+Morton, R., Gostr, E. and Gosxe, R. J. (1973). — Sulfide deposits associated with Pre-
+cambrian Belt-Purcell strata in Alberta and British Columbia, Canada. Belt Symposium,
+Vol. 1, p. 159-179.
+
+Parenrus, E. B. (1931). — “Red bed” copper deposits in Nova Scotia and New Brunswick.
+Econ. Geol., Vol. 26, p. 314-330.
+
+Price, R. A. (1964). — The Precambrian Purcell System in the Rocky Mountains of southern
+Alberta and British Columbia. Bull. Can. Pet. Geol., Vol. 12, p. 399-426.
+
+Pyke, M. W. and Partripce, E. F. (1967). — Occurrences of base metal mineralization along
+the Wollaston-Sandfly Lakes trend, northern Saskatchewan. Min. Sym. sect., Saskatchewan
+Ind. Expo. and Min. Sym., Regina, 14 p.
+
+Ratu, U. and Morton, R. D. (1969). — Base metal occurrence in the Wollaston Lake belt
+of northern Saskatchewan. Can. Inst. Mining Met. Buil., Sept. 1969, p. 961-966.
+
+REnFro, A. R. (1974). — Genesis of evaporite-associated stratiform metalliferous deposits—a
+sabkha process. Econ. Geol., Vol. 69, p. 33-45.
+
+Roscoz, S. M. (1973). — The Huronian Supergroup, a Paleoaphebian succession showing
+evidence of atmospheric evolution. Huronian Stratigraphy and Sedimentation, Geol.
+Assoc. Can., Spec. Paper 12, p. 31-47.
+
+SancstTer, D. F. and Kirxuam, R. V. (1974). — Disseminated base metal mineralization along
+the Wollaston Lake fold belt, Saskatchewan. Geol. Surv. Can., Paper 74-1, A, p. 143-144.
+
+ScuENK, P. E. (1967). — The significance of algal stromatolites to paleoenvironmental and
+chronostratigraphic interpretations of the Windsonian Stage (Mississippian), Maritime
+Provinces. Gol. Assoc. Can., Spec. Paper 4, p. 229-243.
+
+StrakHov, N. M. (1962, trans. 1970). — Accumulations of Cu-Pb-Zn; their origin and distribu-
+tion in arid regions. Principles of Lithogenesis, Vol. 3, New York, Plenum Press, p. 22-81.
+
+Tuorre, R. I. (1971). — Mineral exploration and mining activities, mainland Northwest
+Territories, 1966-1968. Geol. Surv. Can., Paper 70-70, p. 57.
+
+watson, I. M. and Mustarp, D. K. (1973). — The Redstone bedded copper deposit (abstract).
+Sym. Sed. Geol. and Min. Dep. of the Can. Cordillera, Geol. Ass. Can., p. 20-22.
+
+Wuite, W. S. (1971). — A paleohydrologic model for mineralization of the White Pine copper
+deposit, northern Michigan. Econ. Geol., Vol. 66. p. 1-13.
+

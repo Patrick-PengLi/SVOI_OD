@@ -1,0 +1,1264 @@
+drillhole_no,hole_name,lon_dd,lat_dd,max_depth_m,drill_date,purpose,hole_class,strat_units_top_to_base,deepest_logged_base_m,unit_at_deepest_base,has_strat_log,in_state_t0_1973,in_state_prerd1_1975,window_status
+20784,YARRA WURTA BORE,137.2361417,-30.1330884,65.23,1925-06-26,Water,N,,,,False,True,True,PROVISIONAL
+16665,,136.3999698,-30.4153214,25.91,1927-04-21,Water,N,,,,False,True,True,PROVISIONAL
+16664,,136.4477188,-30.3966764,32.08,1927-04-29,Water,N,Curdlawidny Siltstone Member,32.08,Curdlawidny Siltstone Member,True,True,True,PROVISIONAL
+16659,,136.3196558,-30.3777314,35.71,1927-05-07,Water,N,,,,False,True,True,PROVISIONAL
+16658,,136.3120618,-30.3754614,31.7,1927-05-09,Water,N,,,,False,True,True,PROVISIONAL
+16652,,136.3320498,-30.1930494,48.77,1929-07-04,Water,N,,,,False,True,True,PROVISIONAL
+16569,,136.3359158,-30.8927804,47.85,1934-03-01,Water,N,,,,False,True,True,PROVISIONAL
+20793,FOUR CORNERS HUT,137.1634957,-30.4470654,12.8,1935-07-29,Water,N,,,,False,True,True,PROVISIONAL
+20733,WIRRDA WELL 2,137.0751987,-30.6779394,51.82,1935-07-30,Water,N,,,,False,True,True,PROVISIONAL
+20734,WIRRDA WELL,137.0722407,-30.6791934,36.58,1935-07-30,Water,N,,,,False,True,True,PROVISIONAL
+16567,,136.4147058,-30.8701624,43.28,1935-10-09,Water,N,,,,False,True,True,PROVISIONAL
+16612,,136.3223588,-30.5801484,55.17,1940-11-01,Water,N,,,,False,True,True,PROVISIONAL
+16663,,136.4069688,-30.4061804,36.88,1940-12-01,Water,N,,,,False,True,True,PROVISIONAL
+20760,,137.0308607,-30.8746544,4.88,1947-01-01,Water,N,,,,False,True,True,PROVISIONAL
+18106,PHILLIPS RIDGE,136.9742847,-30.5525664,15.24,1947-08-22,Water,N,,,,False,True,True,PROVISIONAL
+20736,YARLOO WELL,137.2565957,-30.6223884,31.7,1947-08-22,Water,N,,,,False,True,True,PROVISIONAL
+20738,CENTENARY WELL,137.3061697,-30.7145684,20.73,1947-08-22,Water,N,,,,False,True,True,PROVISIONAL
+20775,NORTH SWAMP WELL,137.1237257,-30.3669634,54.86,1947-08-22,Water,N,,,,False,True,True,PROVISIONAL
+20790,STATION WELL,137.1626407,-30.4484424,15.24,1947-08-23,Water,N,,,,False,True,True,PROVISIONAL
+20791,STATION WELL,137.1650197,-30.4477084,19.51,1947-08-23,Water,N,,,,False,True,True,PROVISIONAL
+20744,WHIP WELL,137.1767037,-30.7559624,30.48,1947-08-25,Water,N,,,,False,True,True,PROVISIONAL
+20758,OLD WHIP WELL,137.0954607,-30.9049894,30.48,1947-08-25,Water,N,,,,False,True,True,PROVISIONAL
+20796,,137.1864797,-30.4407644,12.5,1948-02-27,Water,N,,,,False,True,True,PROVISIONAL
+20797,BARNES NO2 BORE,137.1939607,-30.4336284,18.29,1948-03-10,Water,N,,,,False,True,True,PROVISIONAL
+20795,GOUGERS NO2 WELL,137.1711107,-30.4491134,22.86,1948-04-24,Water,N,,,,False,True,True,PROVISIONAL
+20794,GOUGERS NO1 WELL,137.1665057,-30.4476024,18.29,1948-05-26,Water,N,,,,False,True,True,PROVISIONAL
+18115,,136.8270307,-30.8082114,65.53,1949-04-18,Water,N,,,,False,True,True,PROVISIONAL
+18117,,136.8094317,-30.8345114,10.97,1949-04-22,Water,N,,,,False,True,True,PROVISIONAL
+20739,MYALL WELL,137.3144467,-30.7376394,35.04,1949-06-07,Water,N,,,,False,True,True,PROVISIONAL
+18133,,136.5615168,-30.9432844,48.16,1949-08-31,Water,N,,,,False,True,True,PROVISIONAL
+18134,COORLAY LAKE B.,136.9151737,-30.7045374,38.1,1949-10-26,Water,N,,,,False,True,True,PROVISIONAL
+20813,,137.2002967,-30.4283724,6.4,1953-06-01,Water,N,,,,False,True,True,PROVISIONAL
+20819,,137.1911937,-30.4374364,7.01,1957-01-01,Water,N,,,,False,True,True,PROVISIONAL
+20731,,137.1136447,-30.5472044,49.38,1958-01-25,Water,N,,,,False,True,True,PROVISIONAL
+20787,,137.1186737,-30.4643904,51.82,1958-02-14,Water,N,,,,False,True,True,PROVISIONAL
+20729,PIMBA RIDGE DAM,137.1166707,-30.5013014,33.53,1958-02-27,Water,N,,,,False,True,True,PROVISIONAL
+20730,,137.3411497,-30.5154824,13.41,1958-03-06,Water,N,,,,False,True,True,PROVISIONAL
+20746,TODD RIDGE BORE,137.1689437,-30.7625354,25.3,1958-03-21,Water,N,,,,False,True,True,PROVISIONAL
+16613,,136.4130578,-30.8668624,46.02,1958-03-23,Water,N,,,,False,True,True,PROVISIONAL
+20752,,137.4158946,-30.8166254,77.11,1958-05-15,Water,N,,,,False,True,True,PROVISIONAL
+20753,,137.4469776,-30.8208764,16.15,1958-05-20,Water,N,,,,False,True,True,PROVISIONAL
+20755,,137.2747617,-30.9611294,117.04,1958-08-04,Water,N,,,,False,True,True,PROVISIONAL
+20820,STATION WELL,137.1885517,-30.4389514,3.64,1959-01-01,Water,N,,,,False,True,True,PROVISIONAL
+20821,STATION WELL,137.1869377,-30.4407734,30.5,1959-01-01,Water,N,,,,False,True,True,PROVISIONAL
+20756,,137.2142597,-30.9631634,75.59,1959-03-19,Water,N,,,,False,True,True,PROVISIONAL
+18158,,136.8415117,-30.8184244,40.0,1959-04-03,,N,,,,False,True,True,PROVISIONAL
+16669,,136.4026828,-30.3954244,29.26,1959-04-04,Water,N,,,,False,True,True,PROVISIONAL
+18126,,136.7853687,-30.8707674,12.19,1959-04-07,Water,N,,,,False,True,True,PROVISIONAL
+16670,SOUTHERN CROSS B,136.4075188,-30.3965384,38.71,1959-04-24,Water,N,Quaternary rocks > Curdlawidny Siltstone Member > Andamooka Limestone,38.71,Andamooka Limestone,True,True,True,PROVISIONAL
+18116,,136.7912567,-30.8365584,38.1,1959-05-01,Water,N,,,,False,True,True,PROVISIONAL
+18114,,136.8200147,-30.8002724,20.12,1959-05-02,Water,N,,,,False,True,True,PROVISIONAL
+18113,,136.8537447,-30.7912854,20.73,1959-06-12,Water,N,,,,False,True,True,PROVISIONAL
+16574,NOBLES BORE,136.3272718,-30.5082394,53.95,1959-07-06,Water,N,Quaternary rocks > Watchie Sandstone > Andamooka Limestone,53.95,Andamooka Limestone,True,True,True,PROVISIONAL
+16674,RED LAKE BORE,136.4508218,-30.4384694,34.14,1959-07-14,Water,N,Quaternary rocks > Curdlawidny Siltstone Member > Andamooka Limestone,34.14,Andamooka Limestone,True,True,True,PROVISIONAL
+16675,HUMPS BORE,136.4442148,-30.3439574,36.58,1959-07-24,Water,N,Quaternary rocks > Curdlawidny Siltstone Member > Andamooka Limestone,36.58,Andamooka Limestone,True,True,True,PROVISIONAL
+16575,MARSHALL SWAMP BORE,136.3292358,-30.7313934,23.16,1959-08-13,Water,N,Quaternary rocks > Simmens Quartzite Member > Corraberra Sandstone Member,23.16,Corraberra Sandstone Member,True,True,True,PROVISIONAL
+16576,KNOLL BORE,136.4146528,-30.8130544,42.67,1959-09-01,Water,N,Quaternary rocks > Simmens Quartzite Member > Corraberra Sandstone Member,42.67,Corraberra Sandstone Member,True,True,True,PROVISIONAL
+18193,,136.6278178,-29.9919064,32.92,1962-08-17,Water,N,,,,False,True,True,PROVISIONAL
+18194,,136.6321618,-29.9919514,28.96,1962-08-17,Water,N,,,,False,True,True,PROVISIONAL
+20779,,137.0824877,-30.4356184,30.48,1962-11-07,Water,N,,,,False,True,True,PROVISIONAL
+20778,,137.0824897,-30.4356824,30.48,1962-11-14,Water,N,,,,False,True,True,PROVISIONAL
+20780,,137.0824877,-30.4356184,70.1,1962-12-05,Water,N,,,,False,True,True,PROVISIONAL
+20823,NORTH WELL,137.0824877,-30.4356184,45.72,1962-12-18,Water,N,,,,False,True,True,PROVISIONAL
+18131,,136.6727557,-30.9198444,15.24,1963-02-18,Water,N,,,,False,True,True,PROVISIONAL
+20761,,137.0220227,-30.9209704,15.24,1963-02-18,Water,N,,,,False,True,True,PROVISIONAL
+20762,,137.0251367,-30.9206514,15.24,1963-02-18,Water,N,,,,False,True,True,PROVISIONAL
+16587,,136.3580368,-30.8724134,40.84,1965-04-30,Water,N,,,,False,True,True,PROVISIONAL
+20774,,137.1055317,-30.3786514,36.58,1965-04-30,Water,N,,,,False,True,True,PROVISIONAL
+20781,,137.1756607,-30.3895894,27.43,1965-04-30,Water,N,,,,False,True,True,PROVISIONAL
+20782,,137.2672427,-30.4387914,4.57,1965-04-30,Water,N,,,,False,True,True,PROVISIONAL
+20783,,137.2403857,-30.4839514,35.05,1965-04-30,Water,N,,,,False,True,True,PROVISIONAL
+16586,,136.3526508,-30.8752944,47.24,1965-05-27,Water,N,,,,False,True,True,PROVISIONAL
+16588,MACS TANK NO.3 B,136.3605538,-30.8720614,47.24,1965-05-27,Water,N,Tertiary-Pleistocene rocks > Simmens Quartzite Member > Corraberra Sandstone Member > no sample,47.24,no sample,True,True,True,PROVISIONAL
+16589,,136.3624928,-30.8738914,36.27,1965-07-09,Water,N,,,,False,True,True,PROVISIONAL
+16590,MACS TANK NO.5 B,136.3511708,-30.8801524,46.33,1965-07-09,Water,N,Quaternary rocks > Simmens Quartzite Member > Corraberra Sandstone Member,46.33,Corraberra Sandstone Member,True,True,True,PROVISIONAL
+20802,,137.2566637,-30.4464164,63.4,1967-04-07,Water,N,,,,False,True,True,PROVISIONAL
+20826,,137.1756607,-30.3895894,61.26,1967-04-15,Water,N,,,,False,True,True,PROVISIONAL
+20803,,137.0641927,-30.4690814,79.25,1967-05-08,Water,N,,,,False,True,True,PROVISIONAL
+20824,,137.1946587,-30.3615504,60.05,1967-05-16,Water,N,,,,False,True,True,PROVISIONAL
+20805,,137.1611487,-30.3675304,61.26,1967-05-23,Water,N,,,,False,True,True,PROVISIONAL
+20804,,137.1908897,-30.3651414,32.31,1967-05-30,Water,N,,,,False,True,True,PROVISIONAL
+20825,,137.2023897,-30.3588404,45.42,1967-06-09,Water,N,,,,False,True,True,PROVISIONAL
+153715,LTA 1,137.3222067,-30.4300214,92.35,1968-08-22,"Copper, Lead, Zinc",Y,Andamooka Limestone > Yarloo Shale,92.35,Yarloo Shale,True,True,True,PROVISIONAL
+153716,LTA 2,137.3242457,-30.4281794,59.13,1968-09-07,"Copper, Lead, Zinc",Y,Andamooka Limestone > Yarloo Shale,59.13,Yarloo Shale,True,True,True,PROVISIONAL
+153717,LTA 3,137.3231627,-30.4263964,44.2,1968-09-09,"Copper, Lead, Zinc",Y,Andamooka Limestone > Yarloo Shale,44.2,Yarloo Shale,True,True,True,PROVISIONAL
+20811,,137.4162687,-30.0916674,20.12,1970-01-01,Water,N,,,,False,True,True,PROVISIONAL
+20812,,137.4243387,-30.0933494,31.7,1970-01-01,Water,N,,,,False,True,True,PROVISIONAL
+20851,,137.3929357,-29.9893054,23.77,1970-01-01,Water,N,,,,False,True,True,PROVISIONAL
+20852,,137.3711177,-29.9929834,34.44,1970-01-01,Water,N,,,,False,True,True,PROVISIONAL
+169969,AND/RP 1,137.3403917,-30.3850454,27.43,1970-11-26,"Copper, Lead, Zinc",Y,Andamooka Limestone,27.43,Andamooka Limestone,True,True,True,PROVISIONAL
+169970,AND/RP 2,137.3397967,-30.3818994,64.01,1970-11-27,"Copper, Lead, Zinc",Y,Andamooka Limestone,64.01,Andamooka Limestone,True,True,True,PROVISIONAL
+169971,AND/RP 3,137.3397107,-30.3782924,32.92,1970-11-28,"Copper, Lead, Zinc",Y,Holocene lacustrine/playa sediments > Andamooka Limestone,32.92,Andamooka Limestone,True,True,True,PROVISIONAL
+169972,AND/RP 4,137.3362637,-30.3864724,64.92,1970-11-30,"Copper, Lead, Zinc",Y,Holocene lacustrine/playa sediments > Andamooka Limestone,64.92,Andamooka Limestone,True,True,True,PROVISIONAL
+169973,AND/RP 5,137.3361887,-30.3833164,60.96,1970-12-01,"Copper, Lead, Zinc",Y,Andamooka Limestone,60.96,Andamooka Limestone,True,True,True,PROVISIONAL
+169974,AND/RP 6,137.3361137,-30.3801614,79.25,1970-12-01,"Copper, Lead, Zinc",Y,Andamooka Limestone,79.25,Andamooka Limestone,True,True,True,PROVISIONAL
+169975,AND/RP 7,137.3360487,-30.3774564,39.62,1970-12-02,"Copper, Lead, Zinc",Y,Andamooka Limestone,39.62,Andamooka Limestone,True,True,True,PROVISIONAL
+169976,AND/RP 8,137.3428727,-30.3800404,33.53,1970-12-02,"Copper, Lead, Zinc",Y,Andamooka Limestone,33.53,Andamooka Limestone,True,True,True,PROVISIONAL
+169977,AND/RP 9,137.3329937,-30.3802164,67.06,1970-12-03,"Copper, Lead, Zinc",Y,Holocene lacustrine/playa sediments > Andamooka Limestone,67.06,Andamooka Limestone,True,True,True,PROVISIONAL
+169978,AND/RP 10,137.3293967,-30.3820854,64.01,1970-12-04,"Copper, Lead, Zinc",Y,Holocene lacustrine/playa sediments > Andamooka Limestone,64.01,Andamooka Limestone,True,True,True,PROVISIONAL
+169979,AND/RP 11,137.3330687,-30.3833724,60.96,1970-12-04,"Copper, Lead, Zinc",Y,Holocene lacustrine/playa sediments > Andamooka Limestone,60.96,Andamooka Limestone,True,True,True,PROVISIONAL
+169980,AND/RP 12,137.3289517,-30.3852504,43.59,1970-12-12,"Copper, Lead, Zinc",Y,Holocene lacustrine/playa sediments > Andamooka Limestone,43.59,Andamooka Limestone,True,True,True,PROVISIONAL
+18181,OLYMPIC BORE NO1,136.8821097,-30.4542334,80.0,1975-08-01,Water,N,,,,False,False,False,PROVISIONAL
+16626,P-1,136.4023638,-30.5808974,15.0,1976-01-01,Phosphate,Y,Quaternary rocks > Watchie Sandstone,15.0,Watchie Sandstone,True,False,False,PROVISIONAL
+16627,P-2,136.3732848,-30.5005284,43.0,1976-01-01,Phosphate,Y,Quaternary rocks > Millers Creek Dolomite Member > Watchie Sandstone > Curdlawidny Siltstone Member > Andamooka Limestone,43.0,Andamooka Limestone,True,False,False,PROVISIONAL
+16628,P-3,136.3855128,-30.5347924,34.0,1976-01-01,Phosphate,Y,Millers Creek Dolomite Member > Watchie Sandstone > Curdlawidny Siltstone Member > Andamooka Limestone,34.0,Andamooka Limestone,True,False,False,PROVISIONAL
+16629,P-4,136.4226668,-30.6343064,99.0,1976-01-01,Phosphate,Y,Quaternary rocks > Watchie Sandstone > Andamooka Limestone > Simmens Quartzite Member,99.0,Simmens Quartzite Member,True,False,False,PROVISIONAL
+16630,P-5,136.4377698,-30.6755454,50.0,1976-01-01,Phosphate,Y,Quaternary rocks > Watchie Sandstone > Andamooka Limestone,50.0,Andamooka Limestone,True,False,False,PROVISIONAL
+16631,P-6,136.4479038,-30.7021474,50.0,1976-01-01,Phosphate,Y,Watchie Sandstone > Andamooka Limestone > Simmens Quartzite Member,50.0,Simmens Quartzite Member,True,False,False,PROVISIONAL
+277527,BD1,136.8422878,-30.1512344,647.0,1976-10-31,Copper,Y,,,,False,False,False,PROVISIONAL
+271708,AD1,137.2460164,-30.9797535,824.0,1976-12-09,Base Metals,Y,Simmens Quartzite Member > Tregolana Shale Member > Pandurra Formation > Mesoproterozoic rocks,510.05,Mesoproterozoic rocks,True,False,False,PROVISIONAL
+162278,RD 12,136.8752897,-30.4477834,575.0,1977-02-22,Water,N,,,,False,False,False,PROVISIONAL
+271737,PD1A,136.9807217,-30.5437744,414.0,1977-05-23,Base Metals,Y,,,,False,False,False,PROVISIONAL
+277566,TOD1,136.7634338,-30.3399794,84.0,1977-05-23,Copper,Y,,,,False,False,False,PROVISIONAL
+16746,MAYNARDS BORE,136.3237988,-29.9439514,79.0,1977-06-12,Water,N,,,,False,False,False,PROVISIONAL
+271728,TOD 1,136.7558178,-30.3372594,630.0,1977-06-22,Base Metals,Y,Andamooka Limestone > Tregolana Shale Member > Nuccaleena Formation,630.0,Nuccaleena Formation,True,False,False,PROVISIONAL
+176158,SCC 1,137.2574117,-30.0940964,11.18,1977-09-15,Opal,Y,Quaternary rocks > Marree Subgroup,11.18,Marree Subgroup,True,False,False,PROVISIONAL
+176159,SCC 2,137.2568477,-30.0944214,11.7,1977-09-15,Opal,Y,Quaternary rocks > Marree Subgroup,11.7,Marree Subgroup,True,False,False,PROVISIONAL
+176160,SCC 8,137.2569417,-30.0939694,11.2,1977-09-15,Opal,Y,Quaternary rocks > Marree Subgroup,11.2,Marree Subgroup,True,False,False,PROVISIONAL
+176161,SCC 9,137.2569347,-30.0936534,11.7,1977-09-15,Opal,Y,Quaternary rocks > Marree Subgroup,11.7,Marree Subgroup,True,False,False,PROVISIONAL
+176162,SCC 10,137.2589277,-30.0923564,6.4,1977-09-15,Opal,Y,Quaternary rocks > Marree Subgroup,6.4,Marree Subgroup,True,False,False,PROVISIONAL
+176163,SCC 11,137.2586077,-30.0919554,5.9,1977-09-15,Opal,Y,Quaternary rocks > Marree Subgroup,5.9,Marree Subgroup,True,False,False,PROVISIONAL
+136949,SCC 16,137.2604687,-30.0962264,15.6,1977-09-16,Opal,Y,Quaternary rocks > Marree Subgroup > Algebuckina Sandstone > Pound Subgroup,15.6,Pound Subgroup,True,False,False,PROVISIONAL
+176164,SCC 12,137.2593847,-30.0918974,6.1,1977-09-16,Opal,Y,Quaternary rocks > Marree Subgroup,6.1,Marree Subgroup,True,False,False,PROVISIONAL
+176165,SCC 17,137.2573667,-30.0944124,10.9,1977-09-16,Opal,Y,Quaternary rocks > Marree Subgroup,10.9,Marree Subgroup,True,False,False,PROVISIONAL
+136951,SCC 25,137.2755717,-30.0875584,6.2,1977-09-21,Opal,Y,Quaternary rocks > Mount Sarah Sandstone > Marree Subgroup > ABC Range Quartzite,6.2,ABC Range Quartzite,True,False,False,PROVISIONAL
+176168,SCC 26,137.2495067,-30.1046514,12.9,1977-09-21,Opal,Y,Quaternary rocks > Marree Subgroup,12.9,Marree Subgroup,True,False,False,PROVISIONAL
+176169,SCC 27,137.2491117,-30.0941034,14.9,1977-09-21,Opal,Y,Quaternary rocks > Marree Subgroup,14.9,Marree Subgroup,True,False,False,PROVISIONAL
+136950,SCC 19,137.2613667,-30.0901224,20.9,1977-09-22,Opal,Y,Quaternary rocks > Mount Sarah Sandstone > Marree Subgroup,20.9,Marree Subgroup,True,False,False,PROVISIONAL
+176166,SCC 20,137.2587337,-30.0929464,4.9,1977-09-22,Opal,Y,Quaternary rocks > Marree Subgroup,4.9,Marree Subgroup,True,False,False,PROVISIONAL
+176167,SCC 24,137.2592587,-30.0932074,6.3,1977-09-22,Opal,Y,Quaternary rocks > Marree Subgroup,6.3,Marree Subgroup,True,False,False,PROVISIONAL
+162280,RD 18,136.8741477,-30.4322284,453.0,1977-10-12,Water,N,,,,False,False,False,PROVISIONAL
+18191,RD16,136.8874477,-30.4442534,1318.9,1978-01-01,,Y,,,,False,False,False,PROVISIONAL
+281146,RD16,136.8860257,-30.4441724,480.0,1978-07-03,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+327316,RD20,136.8984423,-30.4424251,465.95,1978-08-19,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+138317,PPR 4,136.6197328,-30.5696504,58.0,1978-09-12,"Base Metals, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+138318,PPR 4A,136.6197328,-30.5696504,28.0,1978-09-15,"Base Metals, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+138319,PPR 4B,136.6197328,-30.5696504,400.0,1978-09-17,"Base Metals, Copper, Uranium",Y,Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Tregolana Shale Member,400.0,Tregolana Shale Member,True,False,False,PROVISIONAL
+16700,PRE-1,136.3591718,-30.3258494,200.0,1978-09-23,"Gold, Copper, Uranium",Y,Quaternary rocks > Boorthanna Formation > Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member,200.0,Tregolana Shale Member,True,False,False,PROVISIONAL
+138320,PPR 6,136.5081868,-30.5033204,194.0,1978-09-27,"Base Metals, Copper, Uranium",Y,Quaternary rocks > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Tregolana Shale Member,194.0,Tregolana Shale Member,True,False,False,PROVISIONAL
+16577,,136.4130578,-30.8668874,45.11,1978-11-04,Water,N,,,,False,False,False,PROVISIONAL
+16597,,136.3674018,-30.9447804,37.16,1978-11-04,Water,N,,,,False,False,False,PROVISIONAL
+16622,,136.4166968,-30.8661984,43.85,1978-11-04,Water,N,,,,False,False,False,PROVISIONAL
+16625,,136.5001598,-30.8381674,27.75,1978-11-04,Water,N,,,,False,False,False,PROVISIONAL
+16558,,136.3292358,-30.7313934,10.1,1978-11-05,Water,N,,,,False,False,False,PROVISIONAL
+16560,,136.3292358,-30.7313934,6.76,1978-11-05,Water,N,,,,False,False,False,PROVISIONAL
+16561,,136.4146528,-30.8130544,34.61,1978-11-05,Water,N,,,,False,False,False,PROVISIONAL
+16562,,136.4146528,-30.8130544,32.63,1978-11-05,Water,N,,,,False,False,False,PROVISIONAL
+16624,,136.3510668,-30.8190294,41.18,1978-11-05,Water,N,,,,False,False,False,PROVISIONAL
+327317,RD20W1,136.8984423,-30.4424251,830.85,1978-11-08,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+16699,PLAYFORD 1,136.4560408,-30.1563064,586.0,1978-11-11,"Gold, Copper, Uranium",Y,Boorthanna Formation > Andamooka Limestone > Tregolana Shale Member > Nuccaleena Formation > Mesoproterozoic-Neoproterozoic rocks > Pandurra Formation,586.0,Pandurra Formation,True,False,False,PROVISIONAL
+162279,RD16W1,136.8766347,-30.4391834,1318.9,1978-12-18,Water,N,,,,False,False,False,PROVISIONAL
+281147,RD16W1,136.8860257,-30.4441724,1318.9,1978-12-18,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+138294,WC 1,137.3327577,-30.0401444,20.0,1979-01-01,Uranium,Y,Amberoona Formation,20.0,Amberoona Formation,True,False,False,PROVISIONAL
+138298,WC 2,137.3152247,-30.0440614,7.0,1979-01-01,Uranium,Y,Amberoona Formation,7.0,Amberoona Formation,True,False,False,PROVISIONAL
+138299,WC 4,137.3272377,-30.0258084,25.0,1979-01-01,Uranium,Y,Amberoona Formation,25.0,Amberoona Formation,True,False,False,PROVISIONAL
+16637,WB-01,136.4136168,-30.8650514,72.0,1979-02-17,Water,Y,Bulldog Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member,72.0,Tregolana Shale Member,True,False,False,PROVISIONAL
+348598,RD21,136.8660106,-30.448792,714.0,1979-04-26,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+20830,BLD1,137.2157177,-30.3802114,768.0,1979-05-01,"Gold, Copper, Uranium",Y,Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Umberatana Group unit 2 > Mesoproterozoic rocks,768.0,Mesoproterozoic rocks,True,False,False,PROVISIONAL
+18110,PURPLE WELL,136.8873967,-30.7894464,11.23,1979-06-05,Water,N,,,,False,False,False,PROVISIONAL
+18136,PURPLE DOWNS HS.,136.8874097,-30.7906274,11.03,1979-06-05,Water,N,,,,False,False,False,PROVISIONAL
+18140,,136.8473227,-30.7680834,1.54,1979-06-05,Water,N,,,,False,False,False,PROVISIONAL
+18141,,136.8570497,-30.7931314,18.62,1979-06-05,Water,N,,,,False,False,False,PROVISIONAL
+20747,MULGA WELL,137.0594387,-30.7736374,3.7,1979-06-05,Water,N,,,,False,False,False,PROVISIONAL
+20768,GYPSUM WELL,137.0611667,-30.7635784,14.46,1979-06-05,Water,N,,,,False,False,False,PROVISIONAL
+20749,PINES WELL,137.0616677,-30.7659884,9.01,1979-06-06,Water,N,,,,False,False,False,PROVISIONAL
+18137,ROXBY DOWNS HS.,136.7635487,-30.7074164,33.6,1979-06-09,Water,N,,,,False,False,False,PROVISIONAL
+18138,SISTERS WELL,136.5788108,-30.7045184,27.35,1979-06-09,Water,N,,,,False,False,False,PROVISIONAL
+18142,BAMBRIDGE WELL,136.5979568,-30.6848954,16.25,1979-06-09,Water,N,,,,False,False,False,PROVISIONAL
+20764,HORSE WELL,137.0431927,-30.9402544,19.0,1979-06-09,Water,N,,,,False,False,False,PROVISIONAL
+20765,GILES WELL,137.0430977,-30.9407064,27.3,1979-06-09,Water,N,,,,False,False,False,PROVISIONAL
+20814,,137.1001737,-30.3708534,42.82,1979-06-11,Water,N,,,,False,False,False,PROVISIONAL
+20817,,137.1677727,-30.4479064,5.54,1979-06-11,Water,N,,,,False,False,False,PROVISIONAL
+20818,,137.1688517,-30.4481854,7.49,1979-06-11,Water,N,,,,False,False,False,PROVISIONAL
+20822,SPENCERS NO3,137.1823607,-30.4437724,18.44,1979-06-11,Water,N,,,,False,False,False,PROVISIONAL
+277533,CSD1,136.8442877,-30.9464594,216.0,1979-07-01,Copper,Y,,,,False,False,False,PROVISIONAL
+20745,TODD RIDGE WELL,137.1806237,-30.7667754,28.75,1979-07-06,Water,N,,,,False,False,False,PROVISIONAL
+20751,NICK O TIME WELL,137.3026787,-30.8034604,29.79,1979-07-07,Water,N,,,,False,False,False,PROVISIONAL
+138321,PPR 7,136.6636588,-30.6385644,334.0,1979-08-16,"Base Metals, Copper, Uranium",Y,Quaternary rocks > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member,334.0,Tregolana Shale Member,True,False,False,PROVISIONAL
+20831,BLD2,137.2667686,-30.4183673,860.25,1979-09-01,"Gold, Copper, Uranium",Y,Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Umberatana Group unit 2 > Backy Point Formation > Hiltaba Suite,860.2,Hiltaba Suite,True,False,False,PROVISIONAL
+138300,SCYW-79 1,137.1566027,-30.1249104,286.5,1979-09-22,"Copper, Uranium",Y,Yarrawurta Shale > Andamooka Limestone > Yarloo Shale,286.5,Yarloo Shale,True,False,False,PROVISIONAL
+277575,WRD1,136.9456857,-30.6445724,230.0,1979-11-07,Copper,Y,,,,False,False,False,PROVISIONAL
+138322,PPR 5 SAP 1,136.6762548,-30.5824674,1369.3,1979-12-01,"Base Metals, Copper, Uranium",Y,Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Umberatana Group > Tapley Hill Formation > Umberatana Group > Pandurra Formation,1369.3,Pandurra Formation,True,False,False,PROVISIONAL
+162286,RD 26,136.8813477,-30.4270364,680.1,1979-12-01,Water,N,,,,False,False,False,PROVISIONAL
+327318,RD24,136.902221,-30.4560869,1150.07,1979-12-13,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162277,RD 7,136.8771317,-30.4427584,707.6,1980-01-01,Water,N,,,,False,False,False,PROVISIONAL
+162283,RD 19,136.8754867,-30.4356914,865.0,1980-01-01,Water,N,,,,False,False,False,PROVISIONAL
+18166,ACD 1,136.7488907,-30.6206314,1097.6,1980-01-24,,Y,Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Pandurra Formation > Palaeoproterozoic-Mesoproterozoic rocks,1097.6,Palaeoproterozoic-Mesoproterozoic rocks,True,False,False,PROVISIONAL
+315991,RD29,136.8882442,-30.4366994,1246.3,1980-02-04,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162291,RD30,136.8734727,-30.4295664,687.0,1980-02-07,Water,N,,,,False,False,False,PROVISIONAL
+314586,RD19,136.8901366,-30.4434761,864.8,1980-02-14,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+281140,RD33,136.8892757,-30.4402224,697.4,1980-02-15,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+162289,RD 28,136.8851977,-30.4410804,998.1,1980-03-12,Water,N,,,,False,False,False,PROVISIONAL
+315990,RD28,136.8801887,-30.4384234,998.1,1980-03-12,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+333098,RD38,136.8721117,-30.4400805,1001.1,1980-03-13,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+333097,RD32,136.89219,-30.4507566,1007.5,1980-04-01,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162293,RD 39,136.8952227,-30.4463944,979.0,1980-04-02,Water,N,,,,False,False,False,PROVISIONAL
+162288,RD 27,136.8590257,-30.4390764,998.0,1980-04-04,Water,N,,,,False,False,False,PROVISIONAL
+327320,RD27,136.8941184,-30.4577237,998.0,1980-04-06,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162305,RD 59,136.8857977,-30.4353724,812.4,1980-04-12,Water,N,,,,False,False,False,PROVISIONAL
+316963,RD39W1,136.8701827,-30.4330879,979.0,1980-04-14,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162302,RD41,136.9103259,-30.4543769,1011.2,1980-05-11,"Gold, Base Metals, Copper, Water",Y,,,,False,False,False,PROVISIONAL
+162301,RD 40,136.8609207,-30.4461124,914.27,1980-05-25,Water,N,,,,False,False,False,PROVISIONAL
+335962,RD40,136.8860355,-30.4594516,914.27,1980-05-25,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162319,RD80,136.8631957,-30.4233814,902.0,1980-05-26,Water,N,,,,False,False,False,PROVISIONAL
+277540,HWD1,137.0505887,-30.9372164,284.0,1980-05-26,Copper,Y,,,,False,False,False,PROVISIONAL
+20769,DRD 1,137.1744907,-30.7843714,1192.0,1980-06-01,"Gold, Copper, Uranium",Y,Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Pandurra Formation > Palaeoproterozoic rocks,1192.0,Palaeoproterozoic rocks,True,False,False,PROVISIONAL
+162322,RD 82,136.8902257,-30.4437334,916.0,1980-06-01,,N,,,,False,False,False,PROVISIONAL
+162307,RD61,136.8827927,-30.4323034,630.8,1980-06-05,,N,,,,False,False,False,PROVISIONAL
+162309,RD64,136.8746617,-30.4339894,815.0,1980-06-05,,N,,,,False,False,False,PROVISIONAL
+162325,RD 86,136.9002727,-30.4490724,850.3,1980-06-05,,N,,,,False,False,False,PROVISIONAL
+277536,HHD1,136.7748227,-30.7836944,296.0,1980-06-07,Copper,Y,,,,False,False,False,PROVISIONAL
+162324,RD83,136.8892647,-30.4402194,981.0,1980-06-13,,N,,,,False,False,False,PROVISIONAL
+148003,RD 80,136.9097827,-30.5195444,981.0,1980-06-14,,Y,,,,False,False,False,PROVISIONAL
+333094,RD102W1,136.9064607,-30.4403698,1000.0,1980-06-15,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+333099,RD80,136.9083904,-30.4473901,981.0,1980-06-15,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+277587,HHW1,136.7624947,-30.7837724,108.0,1980-06-18,Copper,Y,,,,False,False,False,PROVISIONAL
+314587,RD45,136.8886922,-30.4458931,898.4,1980-06-19,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162321,RD81,136.8601144,-30.4277385,994.5,1980-06-22,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+327321,RD75,136.8842512,-30.4523926,853.2,1980-06-22,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162306,RD 60,136.8752617,-30.4282894,598.7,1980-06-30,Water,N,,,,False,False,False,PROVISIONAL
+18165,CRD 1,136.9332327,-30.7635924,118.0,1980-07-01,"Gold, Copper, Uranium",Y,Quaternary rocks > Simmens Quartzite Member,118.0,Simmens Quartzite Member,True,False,False,PROVISIONAL
+277576,WRD2,136.9374027,-30.6582284,300.0,1980-07-01,Copper,Y,,,,False,False,False,PROVISIONAL
+316964,RD57,136.8782568,-30.4313821,997.0,1980-07-07,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162308,RD 63,136.8862677,-30.4371224,863.8,1980-07-22,,N,,,,False,False,False,PROVISIONAL
+327319,RD26,136.8963791,-30.4350242,1000.0,1980-07-27,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162315,RD 68,136.8707457,-30.4274144,815.9,1980-07-30,,N,,,,False,False,False,PROVISIONAL
+277557,SHW1,137.0000387,-30.1840644,132.0,1980-08-03,Copper,Y,,,,False,False,False,PROVISIONAL
+162331,RD 97,136.8877227,-30.4423974,764.2,1980-08-15,,N,,,,False,False,False,PROVISIONAL
+18159,CSD 1,136.8437877,-30.9454544,994.2,1980-08-21,"Gold, Copper, Uranium",Y,Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Whyalla Sandstone > Woocalla Dolomite Member > Pandurra Formation > Palaeoproterozoic rocks,994.2,Palaeoproterozoic rocks,True,False,False,PROVISIONAL
+18174,WRD1,136.9513277,-30.6485204,982.2,1980-08-21,,Y,,,,False,False,False,PROVISIONAL
+277558,SGD1,137.0426267,-30.3512514,236.0,1980-08-29,Copper,Y,,,,False,False,False,PROVISIONAL
+277548,AD1,137.2460167,-30.9797534,823.8,1980-08-31,Copper,Y,Simmens Quartzite Member > Tregolana Shale Member > Pandurra Formation > Mesoproterozoic rocks > Donington Suite,823.8,Donington Suite,True,False,False,PROVISIONAL
+277559,SGW1,137.0634237,-30.3509244,212.0,1980-09-02,Copper,Y,,,,False,False,False,PROVISIONAL
+162328,RD 93,136.8897567,-30.4419804,789.0,1980-09-11,,N,,,,False,False,False,PROVISIONAL
+315992,RD31A,136.9002279,-30.4490483,990.3,1980-09-12,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+348599,RD103,136.8863697,-30.4297022,986.0,1980-09-12,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162332,RD 103,136.8913707,-30.4323584,986.0,1980-09-13,,N,,,,False,False,False,PROVISIONAL
+281141,RD76,136.8877337,-30.4424004,918.7,1980-09-15,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+162304,RD 54,136.8757317,-30.4300144,596.0,1980-09-18,Water,N,,,,False,False,False,PROVISIONAL
+277500,WRD3,137.0854477,-30.6036144,760.2,1980-09-22,Copper,Y,,,,False,False,False,PROVISIONAL
+162333,RD 109,136.8802787,-30.4309584,608.0,1980-09-25,,N,,,,False,False,False,PROVISIONAL
+277577,WRW2,137.0853437,-30.6036164,188.0,1980-09-25,Copper,Y,,,,False,False,False,PROVISIONAL
+316966,RD121,136.8717142,-30.4308775,797.2,1980-09-29,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+277556,PD2,136.9705447,-30.5222304,196.0,1980-10-01,Copper,Y,,,,False,False,False,PROVISIONAL
+162335,RD 110,136.8823007,-30.4305414,609.4,1980-10-04,,N,,,,False,False,False,PROVISIONAL
+162337,RD 111,136.8848147,-30.4318754,615.0,1980-10-04,Water,N,,,,False,False,False,PROVISIONAL
+148004,RD 87,136.7529317,-30.5552934,993.8,1980-10-05,,Y,,,,False,False,False,PROVISIONAL
+315987,RD120,136.8740654,-30.447174,1000.0,1980-10-05,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162326,RD87,136.9041768,-30.4631209,993.8,1980-10-06,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162330,RD 95,136.8922597,-30.4433054,794.0,1980-10-06,,N,,,,False,False,False,PROVISIONAL
+333095,RD144,136.86401,-30.4417626,991.7,1980-10-07,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162356,RD 151,136.8745207,-30.4488514,328.0,1980-10-21,,N,,,,False,False,False,PROVISIONAL
+277530,BHD1,137.3356287,-30.7599194,268.0,1980-10-23,Copper,Y,,,,False,False,False,PROVISIONAL
+162317,RD 79,136.8726707,-30.4343864,803.7,1980-10-29,,N,,,,False,False,False,PROVISIONAL
+335963,RD101,136.8760109,-30.4541223,1001.0,1980-10-31,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162340,RD 113,136.8883007,-30.4367144,712.0,1980-11-02,Water,N,,,,False,False,False,PROVISIONAL
+162358,RD 156,136.9048317,-30.4499534,560.0,1980-11-11,,N,,,,False,False,False,PROVISIONAL
+162347,RD 133,136.8972147,-30.4534304,993.7,1980-11-13,,N,,,,False,False,False,PROVISIONAL
+335964,RD126,136.8500751,-30.4224011,1002.7,1980-11-20,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+277529,BLW3,137.3158447,-30.3765524,12.0,1980-11-21,Copper,Y,,,,False,False,False,PROVISIONAL
+335965,RD133,136.862053,-30.4347445,993.7,1980-11-27,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+277560,SGD2,137.0878667,-30.3753444,268.0,1980-12-01,Copper,Y,,,,False,False,False,PROVISIONAL
+148005,WRD2,136.9371247,-30.6590094,934.5,1980-12-08,,Y,,,,False,False,False,PROVISIONAL
+316960,RD104,136.8683304,-30.4260682,1145.6,1980-12-10,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+277516,RD2,136.7738447,-30.5932624,120.0,1980-12-22,Copper,Y,,,,False,False,False,PROVISIONAL
+18160,HHD 1 (HHD 1 W1) 1,136.7691097,-30.7825924,1186.2,1981-01-13,"Gold, Copper, Uranium",Y,Quaternary rocks > Tertiary rocks > Yarrawurta Shale > Simmens Quartzite Member > Tregolana Shale Member > Pandurra Formation > Hutchison Group,1186.2,Hutchison Group,True,False,False,PROVISIONAL
+162352,RD 142,136.8894227,-30.4253144,990.7,1981-01-29,,N,,,,False,False,False,PROVISIONAL
+348601,RD142,136.8944992,-30.4280031,990.7,1981-01-30,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162342,RD 115,136.8912957,-30.4397754,663.6,1981-02-05,Water,N,,,,False,False,False,PROVISIONAL
+162371,RD 190,136.8733147,-30.4212614,643.8,1981-02-10,,N,,,,False,False,False,PROVISIONAL
+162372,RD 194,136.8708227,-30.4199614,200.0,1981-02-14,Water,N,,,,False,False,False,PROVISIONAL
+333096,RD161,136.9122965,-30.4614334,991.3,1981-02-17,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162373,RD 197,136.8631287,-30.4308064,552.0,1981-02-19,,N,,,,False,False,False,PROVISIONAL
+162366,RD 179,136.8782927,-30.4388004,468.0,1981-02-21,,N,,,,False,False,False,PROVISIONAL
+271600,RD 174,136.8606177,-30.4296114,797.5,1981-03-01,Water,N,,,,False,False,False,PROVISIONAL
+348600,RD141,136.9044333,-30.4332015,1001.0,1981-03-05,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162376,RD 210A,136.8757787,-30.4319784,721.0,1981-03-12,,N,,,,False,False,False,PROVISIONAL
+18190,BD 2,136.8150278,-30.1224114,829.4,1981-03-19,"Gold, Copper, Uranium",Y,Quaternary rocks > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Umberatana Group unit 2 > Hutchison Group,829.4,Hutchison Group,True,False,False,PROVISIONAL
+316961,RD155,136.868627,-30.4352327,784.5,1981-03-27,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162359,RD 166,136.8792727,-30.4311614,739.7,1981-04-01,,N,,,,False,False,False,PROVISIONAL
+271599,RD 89,136.8932177,-30.4468384,844.0,1981-04-01,Water,N,,,,False,False,False,PROVISIONAL
+277518,ACW1,136.7950787,-30.6408584,162.0,1981-04-01,Copper,Y,,,,False,False,False,PROVISIONAL
+162381,RD 230,136.8739007,-30.4350364,811.6,1981-04-02,,N,,,,False,False,False,PROVISIONAL
+162377,RD218,136.8763142,-30.4243764,1000.1,1981-04-04,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+18167,ACD 2,136.7951627,-30.6408574,915.0,1981-04-13,,Y,Quaternary rocks > Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Pandurra Formation > Palaeoproterozoic-Mesoproterozoic rocks,915.0,Palaeoproterozoic-Mesoproterozoic rocks,True,False,False,PROVISIONAL
+162353,RD 143,136.8831207,-30.4489254,917.2,1981-04-13,,N,,,,False,False,False,PROVISIONAL
+162370,RD 189,136.8737867,-30.4230304,741.5,1981-04-15,,N,,,,False,False,False,PROVISIONAL
+162383,RD 234,136.8911147,-30.4546724,223.0,1981-04-16,,N,,,,False,False,False,PROVISIONAL
+162386,RD 242,136.8729677,-30.4510124,342.0,1981-04-20,Water,N,,,,False,False,False,PROVISIONAL
+162387,RD 243,136.8770427,-30.4501834,333.0,1981-04-26,,N,,,,False,False,False,PROVISIONAL
+162375,RD 204,136.8729147,-30.4352414,946.7,1981-05-01,,N,,,,False,False,False,PROVISIONAL
+277561,SGD3,136.9901057,-30.4030324,244.0,1981-05-01,Copper,Y,,,,False,False,False,PROVISIONAL
+162380,RD 228,136.8709147,-30.4357034,943.0,1981-05-02,,N,,,,False,False,False,PROVISIONAL
+20828,SHD 1,137.0020987,-30.1857554,965.0,1981-05-12,"Gold, Copper, Uranium",Y,Quaternary rocks > Jurassic-Cretaceous rocks > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > Hutchison Group,965.0,Hutchison Group,True,False,False,PROVISIONAL
+316962,RD181,136.8581907,-30.4207055,995.7,1981-05-20,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+312949,TWN3,136.9001887,-30.5906474,641.1,1981-06-02,"Gold, Base Metals, Copper",Y,Quaternary rocks > Andamooka Limestone > Corraberra Sandstone Member > Tregolana Shale Member > Wirrda Subsuite,641.1,Wirrda Subsuite,True,False,False,PROVISIONAL
+162368,RD 183,136.8846617,-30.4467444,793.0,1981-06-05,,N,,,,False,False,False,PROVISIONAL
+18189,BD 1,136.8437028,-30.1486164,941.0,1981-06-08,"Gold, Copper, Uranium",Y,Yarrawurta Shale > Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Gawler Range Volcanics,941.0,Gawler Range Volcanics,True,False,False,PROVISIONAL
+162390,RD 266,136.8803817,-30.4309394,787.0,1981-06-09,,N,,,,False,False,False,PROVISIONAL
+18162,TWN 2,136.9066237,-30.5781234,545.6,1981-06-14,"Gold, Copper, Uranium",Y,Quaternary rocks > Andamooka Limestone > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Umberatana Group unit 2 > Wirrda Subsuite,545.6,Wirrda Subsuite,True,False,False,PROVISIONAL
+315988,RD160,136.8927889,-30.4413924,1000.8,1981-06-17,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+20773,WLD 1,137.3079157,-30.6572524,445.5,1981-06-22,"Gold, Copper, Uranium",Y,Simmens Quartzite Member > Tregolana Shale Member > Hiltaba Suite,445.5,Hiltaba Suite,True,False,False,PROVISIONAL
+162384,RD 239,136.8672597,-30.4225394,202.0,1981-06-22,,N,,,,False,False,False,PROVISIONAL
+162388,RD 251,136.8739567,-30.4276474,708.0,1981-06-22,,N,,,,False,False,False,PROVISIONAL
+162385,RD 241,136.8661287,-30.4264894,352.0,1981-06-29,Water,N,,,,False,False,False,PROVISIONAL
+277562,SGD4,136.9785387,-30.4023064,158.0,1981-07-05,Copper,Y,,,,False,False,False,PROVISIONAL
+20829,SCYW-79 1A,137.1566027,-30.1249104,1450.0,1981-07-07,"Copper, Uranium",Y,Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Whyalla Sandstone > Angepena Formation > Brighton Limestone > Tapley Hill Formation > Appila Tillite,1450.2,Appila Tillite,True,False,False,PROVISIONAL
+312948,TWN1,136.8793581,-30.5678373,700.8,1981-07-08,"Gold, Base Metals, Copper",Y,Quaternary rocks > Andamooka Limestone > Corraberra Sandstone Member > Tregolana Shale Member > Wirrda Subsuite,700.8,Wirrda Subsuite,True,False,False,PROVISIONAL
+315989,RD220,136.9164737,-30.4456919,1000.9,1981-07-11,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+335966,RD219,136.9145532,-30.4386526,1019.2,1981-07-21,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+148000,ACD 3,136.8235127,-30.6504054,1229.0,1981-07-23,,Y,Quaternary rocks > Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > Pandurra Formation > Palaeoproterozoic-Mesoproterozoic rocks,700.0,Palaeoproterozoic-Mesoproterozoic rocks,True,False,False,PROVISIONAL
+162369,RD 186,136.8831977,-30.4414894,795.6,1981-07-27,,N,,,,False,False,False,PROVISIONAL
+277565,SGW4,137.0988257,-30.3759984,120.0,1981-07-29,Copper,Y,,,,False,False,False,PROVISIONAL
+20832,BLD3,137.3200607,-30.3753144,1024.0,1981-07-31,"Gold, Copper, Uranium",Y,Quaternary rocks > Andamooka Limestone > Yarloo Shale > Bunyeroo Formation > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Umberatana Group unit 2 > Woocalla Dolomite Member > Tapley Hill Formation > Umberatana Group unit 1 > Mesoproterozoic rocks,1024.0,Mesoproterozoic rocks,True,False,False,PROVISIONAL
+277564,SGD6,137.0887147,-30.3663094,228.0,1981-08-01,Copper,Y,,,,False,False,False,PROVISIONAL
+277563,SGD5,137.0989107,-30.3760694,248.0,1981-08-04,Copper,Y,,,,False,False,False,PROVISIONAL
+162303,RD 46,136.8729727,-30.4278614,631.9,1981-08-14,Water,N,,,,False,False,False,PROVISIONAL
+18168,ACD 4,136.7829427,-30.5786054,848.0,1981-08-27,,Y,Quaternary rocks > Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > Pandurra Formation > Palaeoproterozoic-Mesoproterozoic rocks,848.0,Palaeoproterozoic-Mesoproterozoic rocks,True,False,False,PROVISIONAL
+162378,RD221A,136.9184565,-30.4526829,1012.0,1981-08-29,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162391,RD 268,136.8768597,-30.4340114,786.2,1981-09-02,,N,,,,False,False,False,PROVISIONAL
+162389,RD 262,136.8769727,-30.4307164,729.3,1981-09-04,,N,,,,False,False,False,PROVISIONAL
+348602,RD162A,136.852055,-30.429382,1007.5,1981-09-11,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+312939,RD222,136.9203637,-30.4597274,995.0,1981-09-19,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+277519,ACW2,136.7843367,-30.5796764,196.0,1981-09-30,Copper,Y,,,,False,False,False,PROVISIONAL
+162401,RD 301,136.8628647,-30.4531234,742.5,1981-10-06,,N,,,,False,False,False,PROVISIONAL
+170371,RD 235,136.9027887,-30.4503984,233.0,1981-10-13,,Y,,,,False,False,False,PROVISIONAL
+170372,RD 236,136.9032917,-30.4521414,224.0,1981-10-13,,Y,,,,False,False,False,PROVISIONAL
+162392,RD 276,136.8790367,-30.4302644,788.7,1981-10-15,,N,,,,False,False,False,PROVISIONAL
+281142,RD252,136.8885677,-30.4412534,889.0,1981-10-15,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+277549,AD3,137.2296797,-30.9795314,1004.5,1981-10-19,Copper,Y,Quaternary rocks > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Pandurra Formation > Pandurra Formation unit 1 > Donington Suite,1004.5,Donington Suite,True,False,False,PROVISIONAL
+271601,RD 315A,136.9005637,-30.4425094,859.4,1981-10-28,Water,N,,,,False,False,False,PROVISIONAL
+162409,RD 318,136.8709927,-30.4245334,314.0,1981-11-08,,N,,,,False,False,False,PROVISIONAL
+277579,WRD5,136.9581717,-30.6791164,628.2,1981-11-10,Copper,Y,,,,False,False,False,PROVISIONAL
+162404,RD 305,136.8768477,-30.4725064,148.0,1981-11-13,,N,,,,False,False,False,PROVISIONAL
+18182,,136.9082597,-30.0798924,54.0,1981-11-17,Water,N,,,,False,False,False,PROVISIONAL
+18183,,136.8672668,-30.1314744,32.0,1981-11-18,Water,N,,,,False,False,False,PROVISIONAL
+277537,HRD1,136.9777537,-30.4614084,330.0,1981-11-18,Copper,Y,,,,False,False,False,PROVISIONAL
+277578,WRD4,136.9995377,-30.6554824,584.8,1981-11-18,Copper,Y,,,,False,False,False,PROVISIONAL
+162395,RD 287,136.8729007,-30.4584734,993.0,1981-11-22,,N,,,,False,False,False,PROVISIONAL
+162396,RD 288,136.8772847,-30.4278694,791.1,1981-11-22,,N,,,,False,False,False,PROVISIONAL
+313499,RD287,136.8678747,-30.4557954,993.0,1981-11-22,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+170370,RD 188,136.9019117,-30.4395314,733.0,1981-11-30,,Y,,,,False,False,False,PROVISIONAL
+335967,RD286,136.8559114,-30.44345,997.0,1981-12-02,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+281135,RD49,136.8908157,-30.4380394,703.0,1981-12-04,,Y,,,,False,False,False,PROVISIONAL
+277531,BHD2,137.3323097,-30.7219144,580.0,1981-12-14,Copper,Y,,,,False,False,False,PROVISIONAL
+162393,RD 279,136.8735097,-30.4259034,811.0,1981-12-15,,N,,,,False,False,False,PROVISIONAL
+277520,ACW3,136.8180987,-30.6120484,192.0,1981-12-17,Copper,Y,,,,False,False,False,PROVISIONAL
+18169,ACD 5,136.8103387,-30.5756274,687.0,1981-12-18,,Y,,,,False,False,False,PROVISIONAL
+162402,RD 303,136.8748597,-30.4654734,990.0,1982-01-27,,N,,,,False,False,False,PROVISIONAL
+313501,RD303,136.8597867,-30.4574554,990.0,1982-01-28,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+277567,TOD2,136.7601938,-30.3797194,278.0,1982-02-01,Copper,Y,,,,False,False,False,PROVISIONAL
+277568,TOW2,136.7600558,-30.3796044,100.0,1982-02-03,Copper,Y,,,,False,False,False,PROVISIONAL
+312941,RD285,136.8539687,-30.4364334,845.8,1982-02-05,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162284,RD 21,136.8809597,-30.4567414,714.0,1982-02-06,Water,N,,,,False,False,False,PROVISIONAL
+18143,,136.9063117,-30.8492524,60.0,1982-02-09,Water,N,,,,False,False,False,PROVISIONAL
+313502,RD304,136.8578347,-30.4504574,923.6,1982-02-09,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+170373,RD 321,136.8816667,-30.4436494,916.0,1982-02-12,,Y,,,,False,False,False,PROVISIONAL
+262010,ACD 6,136.8180917,-30.6121544,793.3,1982-02-12,,Y,Quaternary rocks > Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Tapley Hill Formation > Pandurra Formation > Palaeoproterozoic-Mesoproterozoic rocks,793.3,Palaeoproterozoic-Mesoproterozoic rocks,True,False,False,PROVISIONAL
+313500,RD301,136.8779337,-30.4611224,742.5,1982-02-12,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+281157,RD302,136.8698507,-30.4628134,590.8,1982-02-13,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+18144,,136.9188467,-30.7904384,166.0,1982-02-20,Water,N,,,,False,False,False,PROVISIONAL
+162407,RD307A,136.8478267,-30.4451604,676.0,1982-02-23,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162413,RD 364,136.8766817,-30.4372894,283.0,1982-02-23,,N,,,,False,False,False,PROVISIONAL
+162411,RD 359,136.8803847,-30.4430004,858.1,1982-02-24,Water,N,,,,False,False,False,PROVISIONAL
+277501,WRD6,137.0582067,-30.6468984,748.9,1982-03-05,Copper,Y,,,,False,False,False,PROVISIONAL
+313503,RD306,136.8497367,-30.4521334,927.0,1982-03-20,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162408,RD308,136.8458747,-30.4381044,607.8,1982-04-05,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+18164,HHD 2,136.7929337,-30.7493724,364.0,1982-04-21,"Gold, Copper, Uranium",Y,Quaternary rocks > Tertiary-Pleistocene rocks > Simmens Quartzite Member > Tregolana Shale Member > Pandurra Formation,364.0,Pandurra Formation,True,False,False,PROVISIONAL
+162417,RD 376,136.8806507,-30.4438804,845.0,1982-04-27,,N,,,,False,False,False,PROVISIONAL
+162412,RD 360,136.8801367,-30.4421114,865.4,1982-05-01,,N,,,,False,False,False,PROVISIONAL
+20771,RED 1,137.3517007,-30.6013994,410.4,1982-05-06,"Gold, Copper, Uranium",Y,Quaternary rocks > Corraberra Sandstone Member > Tregolana Shale Member > Umberatana Group unit 2 > Gawler Range Volcanics,410.0,Gawler Range Volcanics,True,False,False,PROVISIONAL
+162399,RD 299,136.8716117,-30.4383284,492.0,1982-05-07,Water,N,,,,False,False,False,PROVISIONAL
+277521,ACW4,136.7810347,-30.6072384,188.0,1982-05-16,Copper,Y,,,,False,False,False,PROVISIONAL
+162421,RD 401,136.8851757,-30.4452944,575.0,1982-05-29,,N,,,,False,False,False,PROVISIONAL
+162414,RD 367A,136.8684007,-30.4344124,894.0,1982-05-30,,N,,,,False,False,False,PROVISIONAL
+162416,RD 374,136.8829287,-30.4443444,823.2,1982-06-02,,N,,,,False,False,False,PROVISIONAL
+162415,RD 372,136.8874867,-30.4415364,784.5,1982-06-09,,N,,,,False,False,False,PROVISIONAL
+162418,RD385W1,136.8747897,-30.4362614,817.0,1982-06-11,,N,,,,False,False,False,PROVISIONAL
+20770,HWD 1,137.0505887,-30.9372164,1097.15,1982-06-16,"Gold, Copper, Uranium",Y,Quaternary rocks > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Whyalla Sandstone > Brighton Limestone > Tapley Hill Formation > Pandurra Formation > Gawler Range Volcanics,1097.15,Gawler Range Volcanics,True,False,False,PROVISIONAL
+18170,ACD 7,136.7803897,-30.6067324,978.8,1982-06-22,,Y,Quaternary rocks > Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > Pandurra Formation > Palaeoproterozoic-Mesoproterozoic rocks,978.8,Palaeoproterozoic-Mesoproterozoic rocks,True,False,False,PROVISIONAL
+162420,RD 395,136.8835287,-30.4348894,811.8,1982-07-01,,N,,,,False,False,False,PROVISIONAL
+162423,RD 436,136.8373657,-30.4638234,512.0,1982-07-15,Water,N,,,,False,False,False,PROVISIONAL
+162422,RD 430,136.8872507,-30.4455084,603.4,1982-08-02,,N,,,,False,False,False,PROVISIONAL
+162419,RD 388,136.8740007,-30.4369394,772.0,1982-08-18,,N,,,,False,False,False,PROVISIONAL
+281158,RD451,136.8717647,-30.4698244,889.0,1982-08-19,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+277553,OFD1,137.1293777,-30.4854514,210.0,1982-09-03,Copper,Y,,,,False,False,False,PROVISIONAL
+313504,RD452,136.8798617,-30.4681494,1002.0,1982-09-16,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+277522,ACD 8,136.8222677,-30.6396854,910.2,1982-09-21,Copper,Y,,,,False,False,False,PROVISIONAL
+18171,ACD 9,136.7677177,-30.6176684,877.0,1982-10-06,,Y,Quaternary rocks > Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Pandurra Formation > Palaeoproterozoic-Mesoproterozoic rocks,877.0,Palaeoproterozoic-Mesoproterozoic rocks,True,False,False,PROVISIONAL
+313896,RD454W2,136.8960697,-30.4647794,792.0,1982-10-06,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+277523,ACW5,136.7685487,-30.6191904,196.0,1982-10-12,Copper,Y,,,,False,False,False,PROVISIONAL
+313895,RD453,136.8879654,-30.4664639,640.4,1982-10-17,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+277581,WRD10,136.9407837,-30.6446454,802.0,1982-10-20,Copper,Y,,,,False,False,False,PROVISIONAL
+162426,RD 478,136.8994697,-30.4306894,1003.3,1982-11-01,Water,N,,,,False,False,False,PROVISIONAL
+277580,WRD9,136.9539777,-30.6625804,667.0,1982-11-01,Copper,Y,,,,False,False,False,PROVISIONAL
+313897,RD478,136.8844087,-30.422682,1003.3,1982-11-02,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+16705,BKA01 DH9,136.3397538,-30.0365434,129.0,1982-11-03,Diamond,Y,Quaternary rocks > Boorthanna Formation,129.0,Boorthanna Formation,True,False,False,PROVISIONAL
+16706,BKA01 DH10,136.3423068,-30.0337654,138.5,1982-11-03,Diamond,Y,Quaternary rocks > Boorthanna Formation > Andamooka Limestone,138.5,Andamooka Limestone,True,False,False,PROVISIONAL
+16707,BKA01 DH11,136.3387428,-30.0393154,69.0,1982-11-05,Diamond,Y,Quaternary rocks > Boorthanna Formation,69.0,Boorthanna Formation,True,False,False,PROVISIONAL
+162425,RD 466,136.8830897,-30.4391804,544.0,1982-11-09,,N,,,,False,False,False,PROVISIONAL
+162427,RD 479,136.8975527,-30.4236894,998.5,1982-11-17,,N,,,,False,False,False,PROVISIONAL
+313898,RD479,136.8924759,-30.4209839,998.5,1982-11-17,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162428,RD 480,136.8874887,-30.4183224,976.1,1982-12-06,,N,,,,False,False,False,PROVISIONAL
+281159,RD480,136.9025527,-30.4263274,976.1,1982-12-08,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+277582,WRD11,136.9602327,-30.6519314,695.0,1982-12-10,Copper,Y,,,,False,False,False,PROVISIONAL
+16709,AUGER HOLE,136.3402898,-30.0341544,11.0,1983-01-01,Diamond,Y,no description,11.0,no description,True,False,False,PROVISIONAL
+162431,RD 504,136.8922177,-30.4470254,792.1,1983-01-07,,N,,,,False,False,False,PROVISIONAL
+162424,RD 461,136.8820847,-30.4393944,660.3,1983-01-28,,N,,,,False,False,False,PROVISIONAL
+162429,RD502,136.8439337,-30.4310874,1015.4,1983-01-28,,Y,,,,False,False,False,PROVISIONAL
+349230,AD5,137.2459562,-30.9744845,284.0,1983-02-15,,Y,Quaternary regolith/colluvial sediments > Simmens Quartzite Member > Tregolana Shale Member > Pandurra Formation,284.0,Pandurra Formation,True,False,False,PROVISIONAL
+312940,RD284,136.8662977,-30.4190234,988.4,1983-02-16,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162430,RD503,136.8419687,-30.4240714,957.4,1983-03-07,Water,Y,,,,False,False,False,PROVISIONAL
+314591,RD982,136.9053054,-30.4517403,1417.0,1983-03-07,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+277550,AD4,137.2069737,-30.9755014,1256.2,1983-03-21,Copper,Y,Quaternary rocks > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Pandurra Formation > Mesoproterozoic rocks,1256.2,Mesoproterozoic rocks,True,False,False,PROVISIONAL
+277583,WRD12,136.9500147,-30.6627304,989.0,1983-03-24,Copper,Y,,,,False,False,False,PROVISIONAL
+313899,RD516,136.8400553,-30.4170503,992.4,1983-04-12,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162432,RD 513,136.8934787,-30.4476914,747.5,1983-05-03,,N,,,,False,False,False,PROVISIONAL
+349231,AD5W1,137.2459562,-30.9744845,426.0,1983-05-05,,Y,Pandurra Formation,426.0,Pandurra Formation,True,False,False,PROVISIONAL
+277584,WRD13,136.9560777,-30.6528964,761.7,1983-05-19,Copper,Y,,,,False,False,False,PROVISIONAL
+314588,RD517,136.8481555,-30.4153704,1000.4,1983-05-19,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+16638,SSR-1001,136.3492648,-30.8397984,499.5,1983-05-23,"Gold, Copper, Uranium",Y,Quaternary rocks > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Seacliff Sandstone > Nuccaleena Formation > Whyalla Sandstone > Pandurra Formation > Pandurra Formation > Gairdner Dolerite > Pandurra Formation > Gairdner Dolerite > Pandurra Formation > Gairdner Dolerite > Pandurra Formation,499.5,Pandurra Formation,True,False,False,PROVISIONAL
+348603,RD305A,136.8516248,-30.4591311,997.1,1983-06-17,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+277551,AD6,137.2459417,-30.9743154,735.8,1983-06-29,Copper,Y,Quaternary rocks > Simmens Quartzite Member > Tregolana Shale Member > Pandurra Formation > Mesoproterozoic rocks > Donington Suite,735.8,Donington Suite,True,False,False,PROVISIONAL
+162434,RD 526,136.8665537,-30.4668734,994.0,1983-07-19,Water,N,,,,False,False,False,PROVISIONAL
+314589,RD526,136.8621082,-30.4645099,994.0,1983-07-20,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+162433,RD 522,136.8904847,-30.4446054,760.2,1983-09-02,,N,,,,False,False,False,PROVISIONAL
+162436,RD 553,136.8735207,-30.4374694,725.0,1983-09-05,,N,,,,False,False,False,PROVISIONAL
+18172,ACD 10,136.7641537,-30.6109494,807.5,1983-10-20,,Y,Quaternary rocks > Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Pandurra Formation > Palaeoproterozoic-Mesoproterozoic rocks,807.5,Palaeoproterozoic-Mesoproterozoic rocks,True,False,False,PROVISIONAL
+162362,RD 172,136.8669097,-30.4522874,184.0,1984-02-18,Water,N,,,,False,False,False,PROVISIONAL
+277585,WRD14,136.9539297,-30.6498614,920.0,1984-05-06,Copper,Y,,,,False,False,False,PROVISIONAL
+277524,ACD 11,136.8094967,-30.6542084,261.0,1984-05-11,Copper,Y,,,,False,False,False,PROVISIONAL
+277525,ACD 13,136.8277597,-30.6099274,307.0,1984-05-20,Copper,Y,,,,False,False,False,PROVISIONAL
+277586,WRD15,136.9539437,-30.6660994,1037.0,1984-05-28,Copper,Y,,,,False,False,False,PROVISIONAL
+262011,WRD16,136.9350427,-30.6659474,790.3,1984-06-19,,Y,Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Pandurra Formation > Palaeoproterozoic-Mesoproterozoic rocks,500.0,Palaeoproterozoic-Mesoproterozoic rocks,True,False,False,PROVISIONAL
+262009,ACD 12,136.8246187,-30.6542834,1001.8,1984-07-18,,Y,Quaternary rocks > Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Neoproterozoic rocks > Pandurra Formation > Palaeoproterozoic-Mesoproterozoic rocks,855.0,Palaeoproterozoic-Mesoproterozoic rocks,True,False,False,PROVISIONAL
+162437,RD 575,136.8582127,-30.4800454,660.0,1984-08-03,,N,,,,False,False,False,PROVISIONAL
+271602,RD 582,136.8929377,-30.4496764,615.0,1984-10-02,Water,N,,,,False,False,False,PROVISIONAL
+277554,OFD2,137.2010927,-30.5433454,300.0,1984-11-05,Copper,Y,,,,False,False,False,PROVISIONAL
+277502,OFD3,137.1801537,-30.5483884,300.0,1984-11-06,Copper,Y,,,,False,False,False,PROVISIONAL
+277552,AD7,137.2145127,-30.9755534,954.58,1984-11-20,Copper,Y,Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Pandurra Formation > Mesoproterozoic rocks > Gawler Range Volcanics > Gawler Range Volcanics > Donington Suite,954.58,Donington Suite,True,False,False,PROVISIONAL
+162400,RD 300,136.8695787,-30.4387454,370.0,1984-12-05,,N,,,,False,False,False,PROVISIONAL
+277538,HRD2,136.9832827,-30.4721494,300.0,1985-02-01,Copper,Y,,,,False,False,False,PROVISIONAL
+277539,HRD3,136.9927387,-30.4864394,344.0,1985-02-04,Copper,Y,,,,False,False,False,PROVISIONAL
+277570,TOW3,136.7619858,-30.3925974,95.0,1985-02-07,Copper,Y,,,,False,False,False,PROVISIONAL
+277569,TOD3,136.7620898,-30.3925954,300.0,1985-02-09,Copper,Y,,,,False,False,False,PROVISIONAL
+271604,RD 639,136.8865877,-30.4537694,528.0,1985-03-02,Water,N,,,,False,False,False,PROVISIONAL
+271605,RD 640,136.8825177,-30.4546134,528.0,1985-03-05,Water,N,,,,False,False,False,PROVISIONAL
+162439,RD591W1,136.8645927,-30.4360734,694.0,1985-04-15,Water,N,,,,False,False,False,PROVISIONAL
+162443,RD 644,136.8662097,-30.4411204,520.0,1985-04-29,,N,,,,False,False,False,PROVISIONAL
+162442,RD 636,136.8641227,-30.4306044,892.0,1985-05-10,,N,,,,False,False,False,PROVISIONAL
+162444,RD 645,136.8622537,-30.4346454,528.0,1985-05-11,,N,,,,False,False,False,PROVISIONAL
+162445,RD 650,136.8685287,-30.4426764,513.0,1985-05-12,,N,,,,False,False,False,PROVISIONAL
+162447,RD 655,136.8697617,-30.4407544,500.0,1985-06-02,,N,,,,False,False,False,PROVISIONAL
+162446,RD 651,136.8680477,-30.4409234,506.0,1985-06-15,,N,,,,False,False,False,PROVISIONAL
+20833,BLD4,137.2538417,-30.3058954,1037.0,1985-06-21,"Gold, Copper, Uranium",Y,Tertiary-Pleistocene rocks > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Reynella Siltstone Member > Umberatana Group unit 2 > Tapley Hill Formation > Appila Tillite > Burra Group,1037.0,Burra Group,True,False,False,PROVISIONAL
+162448,RD 660,136.8916927,-30.4489894,352.0,1985-07-04,,N,,,,False,False,False,PROVISIONAL
+20772,RED 2,137.3676497,-30.5755294,686.9,1985-12-10,"Gold, Copper, Uranium",Y,Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Umberatana Group unit 2 > Gawler Range Volcanics,686.9,Gawler Range Volcanics,True,False,False,PROVISIONAL
+16701,,136.3591718,-30.3258494,64.0,1986-01-01,Water,Y,Quaternary rocks > Boorthanna Formation > Andamooka Limestone,64.0,Andamooka Limestone,True,False,False,PROVISIONAL
+18145,ROXBY DOWNS WB5,136.9080807,-30.8436054,62.0,1986-03-22,Water,N,,,,False,False,False,PROVISIONAL
+18146,ROXBY DOWNS WB6 - HIGHWAYS DEPT,136.9100947,-30.8898164,199.0,1986-03-25,Water,N,,,,False,False,False,PROVISIONAL
+18147,ROXBY DOWNS WB4 - HIGHWAYS DEPT,136.9008327,-30.7500184,155.0,1986-04-03,Water,N,,,,False,False,False,PROVISIONAL
+18151,,136.8549527,-30.5628734,192.0,1986-05-01,Water,N,,,,False,False,False,PROVISIONAL
+271606,RD 707,136.9010677,-30.4442594,765.0,1986-05-01,Water,N,,,,False,False,False,PROVISIONAL
+18152,,136.8549527,-30.5628734,191.0,1986-06-01,Water,N,,,,False,False,False,PROVISIONAL
+18153,,136.8548777,-30.5628764,184.0,1986-06-01,Water,N,,,,False,False,False,PROVISIONAL
+18154,,136.8548777,-30.5628764,186.0,1986-06-01,Water,N,,,,False,False,False,PROVISIONAL
+162450,RD 754,136.8729977,-30.4259914,354.0,1986-10-20,Water,N,,,,False,False,False,PROVISIONAL
+138077,LT 6,137.4221957,-30.0211334,13.5,1986-11-25,Coal,Y,Cretaceous rocks > Wilpena Group,13.5,Wilpena Group,True,False,False,PROVISIONAL
+138257,LT 9,137.3721327,-30.1260354,15.0,1986-11-25,Coal,Y,Neoproterozoic rocks,15.0,Neoproterozoic rocks,True,False,False,PROVISIONAL
+138258,LT 10,137.4062077,-30.1191024,15.0,1986-11-25,Coal,Y,Neoproterozoic rocks,15.0,Neoproterozoic rocks,True,False,False,PROVISIONAL
+162451,RD763,136.8282427,-30.4530814,238.0,1986-11-25,,N,,,,False,False,False,PROVISIONAL
+162452,RD764,136.8134997,-30.4394294,246.0,1986-11-25,,N,,,,False,False,False,PROVISIONAL
+285007,AD9,137.2458807,-30.9770864,754.23,1987-01-19,"Base Metals, Uranium",Y,Quaternary rocks > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Pandurra Formation > Mesoproterozoic rocks > Mesoproterozoic rocks > Donington Suite,754.23,Donington Suite,True,False,False,PROVISIONAL
+349233,AD11,137.2439341,-30.9797783,650.5,1987-04-03,,Y,Simmens Quartzite Member > Tregolana Shale Member > Pandurra Formation > Mesoproterozoic rocks > Donington Suite,650.5,Donington Suite,True,False,False,PROVISIONAL
+349234,AD12,137.2481199,-30.9797055,741.0,1987-05-09,,Y,Simmens Quartzite Member > Tregolana Shale Member > Pandurra Formation > Mesoproterozoic rocks > Donington Suite,741.0,Donington Suite,True,False,False,PROVISIONAL
+349239,AD18,137.2522303,-30.9741948,270.0,1987-05-11,,Y,Simmens Quartzite Member > Tregolana Shale Member > Pandurra Formation,270.0,Pandurra Formation,True,False,False,PROVISIONAL
+349235,AD13,137.1993147,-30.9697128,852.0,1987-06-10,,Y,Simmens Quartzite Member > Tregolana Shale Member > Pandurra Formation,852.0,Pandurra Formation,True,False,False,PROVISIONAL
+349236,AD14,137.2449594,-30.9788585,746.4,1987-06-10,,Y,Simmens Quartzite Member > Tregolana Shale Member > Pandurra Formation > Mesoproterozoic rocks > Donington Suite,746.4,Donington Suite,True,False,False,PROVISIONAL
+314590,RD781,136.8823981,-30.4462828,832.3,1987-07-22,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+18155,,136.8032887,-30.9256674,121.0,1987-09-17,Water,N,,,,False,False,False,PROVISIONAL
+18156,,136.8056027,-30.9340864,24.0,1987-09-17,Water,N,,,,False,False,False,PROVISIONAL
+18157,,136.8049687,-30.9160724,91.0,1987-09-22,Water,N,,,,False,False,False,PROVISIONAL
+349238,AD16,137.2393491,-30.9744188,904.67,1987-09-23,,Y,Simmens Quartzite Member > Tregolana Shale Member > Pandurra Formation > Mesoproterozoic rocks > Donington Suite,904.67,Donington Suite,True,False,False,PROVISIONAL
+162453,RD 782,136.8942397,-30.4466084,797.0,1987-12-03,Water,N,,,,False,False,False,PROVISIONAL
+162455,RD 787,136.8860097,-30.4707784,215.0,1988-05-05,,N,,,,False,False,False,PROVISIONAL
+162456,RD 788,136.8922067,-30.4695864,220.0,1988-05-11,,N,,,,False,False,False,PROVISIONAL
+340210,WRD18,136.9576986,-30.662839,831.7,1988-05-23,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+162463,RD 802,136.8708207,-30.4394484,293.0,1988-06-27,,N,,,,False,False,False,PROVISIONAL
+340199,WRD9W1,136.9536212,-30.662871,950.0,1988-07-02,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+340211,WRD17,136.9410134,-30.6379615,807.1,1988-07-02,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+340200,WRD8,136.9179916,-30.6448175,396.0,1988-07-03,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+340201,WRD7,136.94099,-30.6447758,150.0,1988-07-04,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+340202,WRD27,136.9379353,-30.6718401,801.6,1988-07-05,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+18188,RD 809,136.8883937,-30.4487464,134.0,1988-07-15,Water,N,,,,False,False,False,PROVISIONAL
+284733,WRD19,136.9541367,-30.6447744,723.3,1988-07-21,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+18187,RD 811,136.8954817,-30.4472554,206.0,1988-07-23,Water,N,,,,False,False,False,PROVISIONAL
+18186,RD 812,136.8906147,-30.4384414,130.0,1988-07-24,Water,N,,,,False,False,False,PROVISIONAL
+18185,RD 813,136.8886337,-30.4531274,200.0,1988-08-05,Water,N,,,,False,False,False,PROVISIONAL
+18184,RD 816,136.8971647,-30.4532294,200.0,1988-08-23,Water,N,,,,False,False,False,PROVISIONAL
+138123,DF 0,137.0542157,-30.1230244,36.0,1988-08-23,Coal,Y,Quaternary rocks > Bulldog Shale,36.0,Bulldog Shale,True,False,False,PROVISIONAL
+138277,ED 3,137.0641367,-29.9510074,54.0,1988-08-24,Coal,Y,Quaternary rocks > Bulldog Shale > Neoproterozoic rocks,54.0,Neoproterozoic rocks,True,False,False,PROVISIONAL
+138278,ED 4,137.0305657,-29.9813014,50.0,1988-08-24,Coal,Y,Quaternary rocks > Bulldog Shale > Neoproterozoic rocks,50.0,Neoproterozoic rocks,True,False,False,PROVISIONAL
+138279,ED 5,136.9950547,-30.0192844,40.0,1988-08-24,Coal,Y,Quaternary rocks > Bulldog Shale > Yarrawurta Shale,40.0,Yarrawurta Shale,True,False,False,PROVISIONAL
+138269,DF 1,137.1151347,-30.0841674,40.0,1988-08-25,Coal,Y,Quaternary rocks > Eocene-Quaternary silcrete > Bulldog Shale > Bulldog Shale,40.0,Bulldog Shale,True,False,False,PROVISIONAL
+138270,DF 2,137.1584237,-30.0473784,32.0,1988-08-25,Coal,Y,Bulldog Shale > Algebuckina Sandstone,32.0,Algebuckina Sandstone,True,False,False,PROVISIONAL
+138271,DF 3,137.2012907,-30.0164464,42.0,1988-08-25,Coal,Y,Quaternary rocks > Bulldog Shale,12.0,Bulldog Shale,True,False,False,PROVISIONAL
+138272,DF 4,137.2600557,-29.9793654,18.0,1988-08-25,Coal,Y,Quaternary rocks > Bulldog Shale,18.0,Bulldog Shale,True,False,False,PROVISIONAL
+138290,BF 1,137.1408597,-29.9538424,36.0,1988-08-25,Coal,Y,Quaternary rocks > Bulldog Shale > Neoproterozoic rocks,36.0,Neoproterozoic rocks,True,False,False,PROVISIONAL
+138273,DF 5,137.3558207,-29.9758824,24.0,1988-08-26,Coal,Y,Quaternary rocks > Bulldog Shale,24.0,Bulldog Shale,True,False,False,PROVISIONAL
+138274,DF 6,137.3835267,-29.9429084,60.0,1988-08-26,Coal,Y,Quaternary rocks > Bulldog Shale > Neoproterozoic rocks,60.0,Neoproterozoic rocks,True,False,False,PROVISIONAL
+138284,PH 2,137.4432327,-29.9278334,36.0,1988-08-27,Coal,Y,Bulldog Shale > Neoproterozoic rocks,36.0,Neoproterozoic rocks,True,False,False,PROVISIONAL
+340209,WRD20,136.9535503,-30.6700487,686.1,1988-08-27,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+340208,WRD21,136.9368371,-30.6718758,766.4,1988-10-28,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+340207,WRD22,136.9577122,-30.6740851,598.45,1988-12-09,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+18173,ACD 18,136.8120877,-30.6420824,851.0,1989-04-09,,Y,,,,False,False,False,PROVISIONAL
+162464,RD 848,136.9000397,-30.4481834,827.0,1989-09-06,Water,N,,,,False,False,False,PROVISIONAL
+340204,WRD25,136.9368428,-30.6736727,852.2,1989-09-19,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+162465,RD 849,136.9010457,-30.4479784,722.0,1989-10-04,,N,,,,False,False,False,PROVISIONAL
+340203,WRD26,136.9326574,-30.6722969,855.5,1989-10-27,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+162466,RD 865,136.9015367,-30.4497304,800.0,1989-12-07,,N,,,,False,False,False,PROVISIONAL
+162467,RD 866,136.9025537,-30.4495164,640.0,1989-12-11,,N,,,,False,False,False,PROVISIONAL
+340205,WRD24,136.9347405,-30.6718801,900.5,1990-01-01,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+340206,WRD23,136.9368317,-30.669153,900.4,1990-01-11,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+162474,RD 903,136.8311967,-30.4371844,238.0,1990-12-05,,N,,,,False,False,False,PROVISIONAL
+162473,RD 902,136.8320357,-30.4368104,76.0,1990-12-06,,N,,,,False,False,False,PROVISIONAL
+20827,,137.0544147,-30.4710844,180.0,1990-12-07,Water,N,,,,False,False,False,PROVISIONAL
+162468,RD 897,136.8472527,-30.4345324,230.0,1990-12-10,,N,,,,False,False,False,PROVISIONAL
+162469,RD 898,136.8462777,-30.4345954,75.0,1990-12-11,,N,,,,False,False,False,PROVISIONAL
+162470,RD 899,136.8441497,-30.4307494,72.0,1990-12-12,,N,,,,False,False,False,PROVISIONAL
+162471,RD 900,136.8310667,-30.4333144,73.0,1990-12-13,,N,,,,False,False,False,PROVISIONAL
+162472,RD 901,136.8304817,-30.4328244,207.0,1990-12-14,,N,,,,False,False,False,PROVISIONAL
+162489,LT 11,136.8459617,-30.4501794,66.0,1994-02-11,Water,N,,,,False,False,False,PROVISIONAL
+162488,LT 10,136.8328647,-30.4392654,66.0,1994-02-12,Water,N,,,,False,False,False,PROVISIONAL
+162492,LT 14,136.8440287,-30.4614904,62.5,1994-02-12,Water,N,,,,False,False,False,PROVISIONAL
+162479,LT 1,136.8203957,-30.4388904,84.0,1994-02-13,Water,N,,,,False,False,False,PROVISIONAL
+162498,LT 20,136.8476317,-30.4459874,66.0,1994-02-13,Water,N,,,,False,False,False,PROVISIONAL
+162480,LT 2,136.8382457,-30.4324064,84.0,1994-02-14,Water,N,,,,False,False,False,PROVISIONAL
+162491,LT 13,136.8396147,-30.4230374,77.2,1994-02-14,Water,N,,,,False,False,False,PROVISIONAL
+162486,LT 8,136.8468427,-30.4378594,77.2,1994-02-15,Water,N,,,,False,False,False,PROVISIONAL
+162490,LT 12,136.8544257,-30.4341904,66.0,1994-02-16,Water,N,,,,False,False,False,PROVISIONAL
+162481,LT 3,136.8384597,-30.4488594,70.0,1994-02-17,Water,N,,,,False,False,False,PROVISIONAL
+162482,LT 4,136.8444867,-30.4438014,57.0,1994-03-06,Water,N,,,,False,False,False,PROVISIONAL
+162516,LR 1,136.8280677,-30.3914094,68.5,1994-03-08,Water,N,,,,False,False,False,PROVISIONAL
+162517,LR 2,136.9335707,-30.3819254,70.0,1994-03-08,Water,N,,,,False,False,False,PROVISIONAL
+162526,QR 2,136.9333437,-30.3819804,184.0,1994-03-09,Water,N,,,,False,False,False,PROVISIONAL
+162484,LT 6,136.8364177,-30.4377014,61.0,1994-03-13,Water,N,,,,False,False,False,PROVISIONAL
+162487,LT 9,136.8485347,-30.4436814,54.0,1994-03-15,Water,N,,,,False,False,False,PROVISIONAL
+162485,LT 7,136.8421347,-30.4366174,67.0,1994-03-16,Water,N,,,,False,False,False,PROVISIONAL
+162518,LR 3,136.8889657,-30.5509904,58.0,1994-03-19,Water,N,,,,False,False,False,PROVISIONAL
+162527,QR 3,136.8890907,-30.5509704,169.0,1994-03-19,Water,N,,,,False,False,False,PROVISIONAL
+162512,QT 1,136.8203007,-30.4388814,184.0,1994-03-22,Water,N,,,,False,False,False,PROVISIONAL
+162483,LT 5,136.8402097,-30.4411294,61.0,1994-03-24,Water,N,,,,False,False,False,PROVISIONAL
+162513,QT 2,136.8381817,-30.4323154,184.0,1994-03-25,Water,N,,,,False,False,False,PROVISIONAL
+162514,QT 3,136.8384287,-30.4489314,184.0,1994-03-25,Water,N,,,,False,False,False,PROVISIONAL
+162525,QR 1,136.8280677,-30.3914094,184.0,1994-03-30,Water,N,,,,False,False,False,PROVISIONAL
+162475,RD 905,136.9044177,-30.4655664,12.0,1994-05-20,,N,,,,False,False,False,PROVISIONAL
+280904,HRD11,136.9754607,-30.4638784,352.0,1994-05-25,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+280897,HRD4,136.9667967,-30.4706674,352.0,1994-05-30,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+280898,HRD5,136.9621867,-30.4728934,338.0,1994-06-03,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+280899,HRD6,136.9716537,-30.4687804,344.0,1994-06-17,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+280902,HRD9,136.9541097,-30.4762894,334.0,1994-06-17,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+280900,HRD7,136.9472017,-30.4787834,348.0,1994-06-30,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+162493,LT 15,136.8495367,-30.4394624,55.0,1994-07-03,Water,N,,,,False,False,False,PROVISIONAL
+162495,LT 17,136.8557977,-30.4411984,50.0,1994-07-03,Water,N,,,,False,False,False,PROVISIONAL
+162515,QT 4,136.8558027,-30.4413844,213.0,1994-07-05,Water,N,,,,False,False,False,PROVISIONAL
+280901,HRD8,136.9421487,-30.4829364,349.0,1994-07-05,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+162497,LT 19,136.8015877,-30.4454764,67.0,1994-07-08,Water,N,,,,False,False,False,PROVISIONAL
+280905,HRD15,136.9974997,-30.4915634,341.0,1994-07-08,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+162494,LT 16,136.8507067,-30.4423344,60.0,1994-07-10,Water,N,,,,False,False,False,PROVISIONAL
+162496,LT 18,136.8637177,-30.4403984,60.0,1994-07-11,Water,N,,,,False,False,False,PROVISIONAL
+280903,HRD10,136.9712257,-30.4764554,529.5,1994-08-13,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+280906,HRD17,136.9680767,-30.4783884,342.0,1994-08-22,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+162501,LT 23,136.8531817,-30.4449424,60.0,1995-02-03,Water,N,,,,False,False,False,PROVISIONAL
+186062,LP 7,136.8487657,-30.4458954,66.0,1995-02-04,Water,N,,,,False,False,False,PROVISIONAL
+186061,LP 6,136.8496217,-30.4394064,68.0,1995-02-05,Water,N,,,,False,False,False,PROVISIONAL
+162500,LT 22,136.8553227,-30.4513344,71.0,1995-02-06,Water,N,,,,False,False,False,PROVISIONAL
+186063,LP 8,136.8467867,-30.4370374,73.0,1995-02-08,Water,N,,,,False,False,False,PROVISIONAL
+186060,LP 4,136.8479137,-30.4410364,60.0,1995-02-10,Water,N,,,,False,False,False,PROVISIONAL
+162503,LT 25,136.8391347,-30.4531874,72.0,1995-02-11,Water,N,,,,False,False,False,PROVISIONAL
+162499,LT 21,136.8483427,-30.4511014,69.0,1995-02-14,Water,N,,,,False,False,False,PROVISIONAL
+151317,GTR 1,136.8376457,-30.6804274,490.18,1995-05-07,Water,N,,,,False,False,False,PROVISIONAL
+151318,GTR 2,136.8476287,-30.6784804,552.0,1995-05-21,Water,N,,,,False,False,False,PROVISIONAL
+151319,GTR 3,136.8566317,-30.6744744,550.0,1995-05-31,Water,N,,,,False,False,False,PROVISIONAL
+162506,LT 28,136.8540457,-30.4476014,62.0,1995-08-29,Water,N,,,,False,False,False,PROVISIONAL
+162507,LT 29,136.8527227,-30.4514984,72.0,1995-08-29,Water,N,,,,False,False,False,PROVISIONAL
+162502,LT 24,136.8513397,-30.4488124,66.0,1995-08-30,Water,N,,,,False,False,False,PROVISIONAL
+162508,LT 30,136.8505097,-30.4511514,66.0,1995-08-30,Water,N,,,,False,False,False,PROVISIONAL
+162505,LT 27,136.8347567,-30.4451764,72.0,1995-08-31,Water,N,,,,False,False,False,PROVISIONAL
+162509,LT 31,136.8464977,-30.4488624,72.0,1995-08-31,Water,N,,,,False,False,False,PROVISIONAL
+162520,LR 5,136.9080077,-30.5544754,66.8,1996-06-24,Water,N,,,,False,False,False,PROVISIONAL
+162511,LT 33,136.8236787,-30.4324124,60.8,1996-06-25,Water,N,,,,False,False,False,PROVISIONAL
+162510,LT 32,136.8245147,-30.4471674,60.8,1996-06-26,Water,N,,,,False,False,False,PROVISIONAL
+162504,LT 26,136.8421647,-30.4492924,60.8,1996-06-28,Water,N,,,,False,False,False,PROVISIONAL
+159957,LR 4,136.9920637,-30.4564274,78.8,1996-06-30,Water,N,,,,False,False,False,PROVISIONAL
+159958,LR 7,136.8978657,-30.5598844,67.0,1996-06-30,Water,N,,,,False,False,False,PROVISIONAL
+159959,LR 6,136.8902107,-30.5651374,73.0,1996-06-30,Water,N,,,,False,False,False,PROVISIONAL
+159960,LR 8,136.8605717,-30.3426284,67.0,1996-06-30,Water,N,,,,False,False,False,PROVISIONAL
+159961,LR 9,136.7555727,-30.4964714,50.0,1996-06-30,Water,N,,,,False,False,False,PROVISIONAL
+159962,TRS 1,136.8239537,-30.4471764,61.0,1996-06-30,Water,N,,,,False,False,False,PROVISIONAL
+159963,TRS 2,136.8236787,-30.4324124,61.0,1996-06-30,Water,N,,,,False,False,False,PROVISIONAL
+159964,TRS 3,136.8421647,-30.4492924,61.0,1996-06-30,Water,N,,,,False,False,False,PROVISIONAL
+159965,,136.9080077,-30.5544754,67.0,1996-06-30,Water,N,,,,False,False,False,PROVISIONAL
+170020,BRD 1,137.3016807,-30.3980914,890.6,1996-10-26,"Silver, Gold, Copper, Rare Earths, Uranium",Y,Quaternary rocks > Andamooka Limestone > Hawker Group > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Reynella Siltstone Member > Tapley Hill Formation > Hiltaba Suite,890.6,Hiltaba Suite,True,False,False,PROVISIONAL
+285006,AD17,137.2458677,-30.9707274,888.0,1997-09-25,"Base Metals, Uranium",Y,Simmens Quartzite Member > Tregolana Shale Member > Pandurra Formation > Mesoproterozoic rocks > Donington Suite,888.0,Donington Suite,True,False,False,PROVISIONAL
+170058,BRD 2,137.2019117,-30.4126934,522.5,1997-11-25,"Silver, Gold, Copper, Rare Earths, Uranium",Y,Quaternary rocks > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Reynella Siltstone Member > Mesoproterozoic rocks,522.5,Mesoproterozoic rocks,True,False,False,PROVISIONAL
+186068,LT 41,136.8160717,-30.4344454,66.0,1998-02-09,Water,N,,,,False,False,False,PROVISIONAL
+186065,LT 35,136.8194207,-30.4477154,72.0,1998-02-12,Water,N,,,,False,False,False,PROVISIONAL
+186064,LT 34,136.8288367,-30.4523464,66.0,1998-02-14,Water,N,,,,False,False,False,PROVISIONAL
+186066,LT 39,136.8275077,-30.4553604,72.0,1998-02-15,Water,N,,,,False,False,False,PROVISIONAL
+186067,LT 40,136.8336657,-30.4555084,72.0,1998-02-16,Water,N,,,,False,False,False,PROVISIONAL
+189013,16SE,137.1203277,-30.5915214,102.0,1999-05-14,,Y,,,,False,False,False,PROVISIONAL
+189010,12SE,136.8293347,-30.8475254,107.0,1999-05-19,,Y,,,,False,False,False,PROVISIONAL
+189012,14NW,137.0683317,-30.8295224,116.0,1999-05-26,,Y,,,,False,False,False,PROVISIONAL
+189011,13SE,136.9423337,-30.9025244,95.0,1999-05-28,,Y,,,,False,False,False,PROVISIONAL
+189006,45NW,137.1753307,-30.8377214,100.0,1999-08-25,,Y,,,,False,False,False,PROVISIONAL
+189003,33S,136.5633388,-30.9171284,100.0,1999-08-31,,Y,,,,False,False,False,PROVISIONAL
+189007,51N,137.2133317,-30.9332214,174.0,1999-09-03,,Y,,,,False,False,False,PROVISIONAL
+280545,SGD10,136.9951297,-30.3942054,598.7,2000-11-19,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280544,SGD9,137.0006697,-30.4005254,600.7,2000-11-26,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280543,SGD8,136.9906257,-30.4030244,600.0,2000-12-04,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+189845,SFRC0002,137.2036287,-30.0902374,179.0,2002-03-29,"Gold, Copper",Y,,,,False,False,False,PROVISIONAL
+189844,SFRC0001,137.2010217,-30.0900564,251.0,2002-03-30,"Gold, Copper",Y,,,,False,False,False,PROVISIONAL
+189846,SFRC0003,137.1978707,-30.0901814,143.0,2002-03-30,"Gold, Copper",Y,,,,False,False,False,PROVISIONAL
+268479,SFRC0005A,137.2029247,-30.0902764,100.0,2002-03-30,"Gold, Copper",Y,,,,False,False,False,PROVISIONAL
+189847,SFRC0005,137.2037577,-30.0908854,167.0,2002-04-19,"Gold, Copper",Y,,,,False,False,False,PROVISIONAL
+195486,GW 2,136.8633517,-30.4832494,55.0,2002-04-29,Water,N,,,,False,False,False,PROVISIONAL
+195489,GW 1,136.8596497,-30.4844374,58.5,2002-04-29,Water,N,,,,False,False,False,PROVISIONAL
+195485,GW 3,136.8662877,-30.4804024,57.1,2002-04-30,Water,N,,,,False,False,False,PROVISIONAL
+195487,GW 4,136.8621517,-30.4836454,55.0,2002-04-30,Water,N,,,,False,False,False,PROVISIONAL
+195488,GW 5,136.8608487,-30.4840424,55.0,2002-05-01,Water,N,,,,False,False,False,PROVISIONAL
+195490,GW 6,136.8583897,-30.4849244,53.0,2002-05-01,Water,N,,,,False,False,False,PROVISIONAL
+191138,RCM 1,136.6825608,-30.2314404,601.0,2002-07-08,,Y,Tertiary-Pleistocene rocks > Andamooka Limestone > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Pandurra Formation,602.0,Pandurra Formation,True,False,False,PROVISIONAL
+218429,SFD001,137.2069437,-30.0941874,24.9,2002-11-01,"Gold, Copper",Y,,,,False,False,False,PROVISIONAL
+218430,SFD002,137.1986867,-30.0961304,167.5,2002-11-01,"Gold, Copper",Y,,,,False,False,False,PROVISIONAL
+218431,SFRC0004,137.2027417,-30.0900004,173.0,2002-11-01,"Gold, Copper",Y,,,,False,False,False,PROVISIONAL
+218474,RU39-5293,136.8873957,-30.4398164,266.0,2002-11-28,"Silver, Gold, Copper, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+206265,RC-DD03WP002,137.0735217,-30.2614814,161.8,2003-03-29,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206266,RC-DD03WP003,137.0742927,-30.2620734,148.3,2003-04-07,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206267,RC-DD03WP004,137.0719557,-30.2601524,129.5,2003-04-11,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+202341,RC-DD03WP005,137.0836417,-30.2485914,176.5,2003-04-15,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+202280,RC-DD03SH001,137.1046287,-30.2142994,462.5,2003-04-27,,Y,,,,False,False,False,PROVISIONAL
+202284,RC03SF007,137.2088827,-30.0941454,70.0,2003-05-18,,Y,,,,False,False,False,PROVISIONAL
+202334,RC03WP006,137.0823087,-30.2464654,179.0,2003-05-20,,Y,,,,False,False,False,PROVISIONAL
+202335,RC03WP007,137.0747097,-30.2571684,65.0,2003-05-21,,Y,,,,False,False,False,PROVISIONAL
+202285,RC-DD03TI001,136.8427768,-30.1523914,458.8,2003-06-13,,Y,,,,False,False,False,PROVISIONAL
+202286,RC-DD03TI002,136.8426758,-30.1525734,862.0,2003-06-13,,Y,,,,False,False,False,PROVISIONAL
+202336,RC03WP012,137.0735437,-30.2595504,124.0,2003-07-06,,Y,,,,False,False,False,PROVISIONAL
+202337,RC03WP013,137.0683957,-30.2648004,125.0,2003-07-07,,Y,,,,False,False,False,PROVISIONAL
+218473,RU39-5371,136.8867587,-30.4394974,300.0,2003-09-25,"Silver, Gold, Copper, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+206227,RC-DD03SF001,137.2069537,-30.0942054,153.14,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206228,RC-DD03SF003,137.2069567,-30.0943224,159.7,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206229,RC-DD03SF004,137.2069097,-30.0945394,98.7,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206230,RC03SF002,137.2069387,-30.0939894,173.0,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206231,RC03SF005,137.2088967,-30.0938574,70.0,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206232,RC03SF006,137.2089087,-30.0944074,70.0,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206261,RC-DD03TI003,136.8449318,-30.1566104,958.0,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206262,RC-DD03TI004,136.8455108,-30.1520644,871.5,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206263,RC-DD03TI005,136.8509658,-30.1422714,754.6,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206264,RC-DD03TI006,136.8433738,-30.1537904,865.0,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206269,RC03WP001,137.0665537,-30.2597324,48.0,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206270,RC03WP008,137.0745447,-30.2572154,60.0,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206271,RC03WP009,137.0749817,-30.2572624,47.0,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206272,RC03WP010,137.0748897,-30.2573364,40.0,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206273,RC03WP011,137.0747407,-30.2571584,39.0,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+206274,SHWB 1,137.1043617,-30.2144844,89.0,2003-12-17,"Gold, Base Metals",Y,,,,False,False,False,PROVISIONAL
+281149,RD1604,136.8813397,-30.4502194,800.0,2004-07-01,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+281150,RD1605,136.8823447,-30.4500024,800.0,2004-07-12,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+281137,RD1614,136.8915627,-30.4369574,785.4,2004-07-18,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+232277,PH-DD04TI007,136.8440568,-30.1542324,805.0,2004-10-10,,Y,,,,False,False,False,PROVISIONAL
+209917,RC-DD04TI008,136.8495328,-30.1522694,797.8,2004-11-20,"Gold, Copper",Y,Quaternary rocks > Yarrawurta Shale > Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Pandurra Formation,797.8,Pandurra Formation,True,False,False,PROVISIONAL
+209782,RC-DD04MS001,137.0565927,-30.2769404,830.8,2004-12-20,"Lead, Zinc",Y,Quaternary rocks > Bulldog Shale > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Olympic Dam Breccia Complex,830.8,Olympic Dam Breccia Complex,True,False,False,PROVISIONAL
+218333,BLANCHE 1,136.7987847,-30.4713684,100.0,2005-06-25,Water,N,,,,False,False,False,PROVISIONAL
+206609,LT 51,136.8423457,-30.4366884,84.0,2005-09-07,Water,N,,,,False,False,False,PROVISIONAL
+206600,LT 50,136.8408557,-30.4406924,78.0,2005-09-12,Water,N,,,,False,False,False,PROVISIONAL
+232640,PH-DD05MS002,137.0598307,-30.2777014,930.4,2005-09-17,"Gold, Copper",Y,Quaternary alluvial/fluvial sediments > Yarrawurta Shale > Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Pandurra Formation,930.4,Pandurra Formation,True,False,False,PROVISIONAL
+231063,PH-DD05MS003,137.0770417,-30.2474964,891.2,2005-09-21,"Gold, Copper",Y,Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Neoproterozoic rocks,891.2,Neoproterozoic rocks,True,False,False,PROVISIONAL
+206086,BLANCHE 1,136.797095,-30.4700925,1935.51,2005-10-03,,N,Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Tapley Hill Formation > Pandurra Formation > Hiltaba Suite,1936.6,Hiltaba Suite,True,False,False,PROVISIONAL
+206354,SAP 1,136.6815369,-30.5905347,2250.0,2005-10-13,,N,,,,False,False,False,PROVISIONAL
+231064,PH-DD05MS004,137.0792087,-30.2679674,759.0,2005-11-17,"Gold, Copper",Y,Quaternary alluvial/fluvial sediments > Bulldog Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Neoproterozoic rocks,759.0,Neoproterozoic rocks,True,False,False,PROVISIONAL
+281151,RD1606,136.8820997,-30.4491314,1000.0,2006-03-12,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+281155,RD2162,136.8828787,-30.4480794,999.0,2006-03-28,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+281154,RD2153,136.8806367,-30.4511964,886.3,2006-03-31,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+364291,PE-1,136.3304899,-30.2243545,140.0,2006-05-18,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+218948,,136.4026748,-30.4062644,39.0,2006-06-02,Water,N,,,,False,False,False,PROVISIONAL
+218946,,136.3640908,-30.4834034,57.0,2006-06-09,Water,N,,,,False,False,False,PROVISIONAL
+218954,MCDONALDS,136.3408248,-30.9644274,27.0,2006-06-27,Water,N,,,,False,False,False,PROVISIONAL
+281148,RD1603,136.8814927,-30.4512124,842.6,2006-06-30,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+281139,RD2751,136.8937027,-30.4485544,1390.8,2006-07-30,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+364462,AC06GT108,136.3482651,-29.9274716,34.0,2006-08-18,Diamond,Y,,,,False,False,False,PROVISIONAL
+281138,RD2715,136.8912057,-30.4376414,1011.8,2006-09-11,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+220474,,136.8971407,-30.4493694,250.0,2006-09-14,Water,N,,,,False,False,False,PROVISIONAL
+220477,,136.8965737,-30.4492694,250.0,2006-09-18,Water,N,,,,False,False,False,PROVISIONAL
+281143,RD2773,136.9130327,-30.4478944,2328.9,2006-10-10,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+281152,RD2137,136.8792587,-30.4543594,1295.4,2006-10-11,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+281156,RD2568,136.8799187,-30.4569594,829.9,2006-10-26,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+281153,RD2151,136.8805587,-30.4513074,844.3,2006-10-31,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+281163,RD2488,136.8484957,-30.4940654,800.0,2006-11-27,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+231054,SA0129-1_GW01,136.5442478,-30.9147274,40.0,2006-11-28,Water,N,,,,False,False,False,PROVISIONAL
+231055,SA0153_GW01,136.5314148,-30.9492714,46.0,2006-11-30,Water,N,,,,False,False,False,PROVISIONAL
+231056,SA0153_GW02,136.5308078,-30.9492964,46.0,2006-11-30,Water,N,,,,False,False,False,PROVISIONAL
+231057,SA0153_GW03,136.5312098,-30.9488594,45.5,2006-11-30,Water,N,,,,False,False,False,PROVISIONAL
+231058,SA0153_GW04,136.5314608,-30.9495324,46.0,2006-12-02,Water,N,,,,False,False,False,PROVISIONAL
+231059,SA0153_GW05,136.5310598,-30.9492934,46.0,2006-12-03,Water,N,,,,False,False,False,PROVISIONAL
+231060,SA0153_GW06,136.5319788,-30.9492014,46.5,2006-12-03,Water,N,,,,False,False,False,PROVISIONAL
+231061,SA0153_GW07,136.5324058,-30.9490254,47.0,2006-12-04,Water,N,,,,False,False,False,PROVISIONAL
+231062,SA0153_GW08,136.5321438,-30.9496504,46.5,2006-12-05,Water,N,,,,False,False,False,PROVISIONAL
+281164,RD2499,136.8658787,-30.4727294,840.5,2006-12-10,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+228105,PT-5A,136.8203097,-30.4666944,268.3,2006-12-12,Water,N,,,,False,False,False,PROVISIONAL
+228103,RT-3,137.0442337,-30.1177724,149.0,2006-12-16,Water,N,,,,False,False,False,PROVISIONAL
+312946,RD2785,136.8937567,-30.4447594,2323.4,2007-01-12,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+228107,PT-6,136.9463817,-30.4249084,208.0,2007-01-17,Water,N,,,,False,False,False,PROVISIONAL
+228106,PT-5D,136.8302127,-30.4950414,257.0,2007-01-29,Water,N,,,,False,False,False,PROVISIONAL
+231094,PT-9,136.8558557,-30.5613134,209.0,2007-02-05,Water,N,,,,False,False,False,PROVISIONAL
+231104,TPW-01,136.9460207,-30.4248714,216.0,2007-02-08,Water,N,,,,False,False,False,PROVISIONAL
+231100,PT-18,136.9511207,-30.4558554,214.0,2007-02-13,Water,N,,,,False,False,False,PROVISIONAL
+231099,PT-17,136.9208547,-30.4354634,220.0,2007-02-25,Water,N,,,,False,False,False,PROVISIONAL
+231105,TPW-02,136.8298937,-30.4950274,268.0,2007-03-03,Water,N,,,,False,False,False,PROVISIONAL
+231098,PT-16,136.9148537,-30.4693544,232.0,2007-03-08,Water,N,,,,False,False,False,PROVISIONAL
+231096,PT-14,136.8970607,-30.4830574,224.0,2007-03-11,Water,N,,,,False,False,False,PROVISIONAL
+231101,PT-24A,136.8418567,-30.4694234,118.0,2007-03-14,Water,N,,,,False,False,False,PROVISIONAL
+231106,TPW-03,136.8970317,-30.4832754,224.0,2007-03-20,Water,N,,,,False,False,False,PROVISIONAL
+231093,PT-7,136.9140697,-30.5874564,166.0,2007-03-27,Water,N,,,,False,False,False,PROVISIONAL
+231102,PT-24B,136.8417527,-30.4693234,239.5,2007-03-29,Water,N,,,,False,False,False,PROVISIONAL
+231091,PT-1,136.7866647,-30.5165994,237.0,2007-04-01,Water,N,,,,False,False,False,PROVISIONAL
+281144,RD2786A,136.8965257,-30.4587054,2364.9,2007-04-10,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+231090,PT-2,136.7899957,-30.5255114,208.0,2007-04-14,Water,N,,,,False,False,False,PROVISIONAL
+231092,PT-3/4B,136.8048437,-30.5011104,116.0,2007-04-15,Water,N,,,,False,False,False,PROVISIONAL
+281145,RD2923,136.8950967,-30.4515364,600.0,2007-04-18,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+231095,PT-12,136.8281467,-30.5564424,250.0,2007-04-23,Water,N,,,,False,False,False,PROVISIONAL
+231097,PT-15,136.8573577,-30.4729024,244.0,2007-05-02,Water,N,,,,False,False,False,PROVISIONAL
+231103,PT-31,137.0079287,-30.4997514,201.0,2007-05-08,Water,N,,,,False,False,False,PROVISIONAL
+241402,PADD1,137.1613007,-30.7509704,1101.4,2007-05-25,,Y,,,,False,False,False,PROVISIONAL
+280167,RT-16B,136.8517807,-30.4051774,252.0,2007-06-09,Water,N,,,,False,False,False,PROVISIONAL
+280166,RT-16A,136.8517227,-30.4050644,68.0,2007-06-10,Water,N,,,,False,False,False,PROVISIONAL
+234094,DD07CH02,137.0237667,-30.1230484,109.3,2007-06-17,,Y,Quaternary rocks > Yarrawurta Shale > Andamooka Limestone,109.0,Andamooka Limestone,True,False,False,PROVISIONAL
+234095,DD07CH03,137.0295757,-30.1198724,88.2,2007-06-18,,Y,Quaternary rocks > Yarrawurta Shale > Andamooka Limestone,88.0,Andamooka Limestone,True,False,False,PROVISIONAL
+280168,RT-17A,136.8402117,-30.4201294,84.0,2007-06-19,Water,N,,,,False,False,False,PROVISIONAL
+232337,RCM 2,136.6825898,-30.2313224,912.8,2007-06-22,,Y,,,,False,False,False,PROVISIONAL
+280156,RT-2A,136.9932807,-30.2051434,295.0,2007-06-28,Water,N,,,,False,False,False,PROVISIONAL
+234093,DD07CH01,137.0281267,-30.1205814,240.5,2007-07-03,,Y,Quaternary rocks > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale,240.5,Yarloo Shale,True,False,False,PROVISIONAL
+280157,RT-2B,136.9930707,-30.2052114,295.0,2007-07-12,Water,N,,,,False,False,False,PROVISIONAL
+234097,DD07CH05,137.0268537,-30.1212504,213.6,2007-07-17,,Y,Quaternary rocks > Yarrawurta Shale > Andamooka Limestone,213.6,Andamooka Limestone,True,False,False,PROVISIONAL
+280155,RT-1,137.1361957,-30.2454634,474.0,2007-07-23,Water,N,,,,False,False,False,PROVISIONAL
+234096,DD07CH04,137.0291967,-30.1226664,231.5,2007-07-30,,Y,Quaternary rocks > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale,231.5,Yarloo Shale,True,False,False,PROVISIONAL
+280161,RT-5B,137.2088297,-30.1626694,634.0,2007-08-07,Water,N,,,,False,False,False,PROVISIONAL
+280162,RT-5C,137.2088297,-30.1626694,634.0,2007-08-07,Water,N,,,,False,False,False,PROVISIONAL
+280160,RT-5A,137.2089477,-30.1625074,66.0,2007-08-10,Water,N,,,,False,False,False,PROVISIONAL
+313175,ACD 19,136.7909207,-30.5906264,939.7,2007-08-21,,Y,,,,False,False,False,PROVISIONAL
+280159,RT-4B,137.1946817,-30.0941754,522.0,2007-08-22,Water,N,,,,False,False,False,PROVISIONAL
+280158,RT-4A,137.1947167,-30.0942784,58.0,2007-08-23,Water,N,,,,False,False,False,PROVISIONAL
+262842,MDD01,136.6825898,-30.2313224,912.8,2007-08-29,,Y,Tertiary-Pleistocene rocks > Andamooka Limestone > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Pandurra Formation > Wallaroo Group,912.8,Wallaroo Group,True,False,False,PROVISIONAL
+280164,RT-7A,137.4152337,-30.1141294,198.0,2007-08-29,Water,N,,,,False,False,False,PROVISIONAL
+280165,RT-7B,137.4152337,-30.1141294,198.0,2007-08-29,Water,N,,,,False,False,False,PROVISIONAL
+313176,ACD 20,136.8015147,-30.6125654,834.8,2007-09-03,,Y,,,,False,False,False,PROVISIONAL
+253539,TI009,136.8391258,-30.1497634,1182.3,2007-09-04,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+313177,SSD1,137.1140847,-30.5776664,534.0,2007-09-12,,Y,,,,False,False,False,PROVISIONAL
+253540,TI010,136.8327918,-30.1553284,732.5,2007-09-17,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+235602,AS07D01,136.7029642,-30.6469671,1559.0,2007-09-19,"Gold, Copper, Uranium",Y,Andamooka Limestone > Corraberra Sandstone Member > Tregolana Shale Member > Pandurra Formation > Gawler Range Volcanics > breccia unit 1 > Gawler Range Volcanics,1525.6,Gawler Range Volcanics,True,False,False,PROVISIONAL
+253119,WSC-7,136.5608038,-30.4522484,91.0,2007-09-30,Water,N,,,,False,False,False,PROVISIONAL
+253541,TI011,136.8322238,-30.1358034,861.7,2007-09-30,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+262538,HD1,137.1140707,-30.9044664,301.0,2007-10-07,"Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+253542,TI012,136.8407838,-30.1535204,1035.6,2007-10-08,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+253543,TI013,136.8433038,-30.1483784,1123.3,2007-10-21,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+253544,TI014,136.8522178,-30.1353874,1026.8,2007-10-29,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280188,MAR-1_20,136.9349217,-30.3119484,120.0,2007-11-09,Water,N,,,,False,False,False,PROVISIONAL
+253545,MS005,137.0570237,-30.2731624,747.3,2007-11-10,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280187,MAR-1_10,136.9352637,-30.3119344,120.0,2007-11-12,Water,N,,,,False,False,False,PROVISIONAL
+269081,MAR-4_50A,136.9739877,-30.2585434,186.0,2007-11-18,Water,N,,,,False,False,False,PROVISIONAL
+280197,MAR-4_50B,136.9739877,-30.2585434,186.0,2007-11-18,Water,N,,,,False,False,False,PROVISIONAL
+253546,MS006,137.0545327,-30.2798054,876.4,2007-11-22,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+269080,MAR-4_20A,136.9747827,-30.2588024,186.0,2007-11-22,Water,N,,,,False,False,False,PROVISIONAL
+280196,MAR-4_20B,136.9747827,-30.2588024,186.0,2007-11-22,Water,N,,,,False,False,False,PROVISIONAL
+280190,MAR-2_10A,137.0166717,-30.1680564,198.0,2007-11-27,Water,N,,,,False,False,False,PROVISIONAL
+280191,MAR-2_10B,137.0166717,-30.1680564,198.0,2007-12-03,Water,N,,,,False,False,False,PROVISIONAL
+280192,MAR-2_50A,137.0170497,-30.1677524,198.0,2007-12-03,Water,N,,,,False,False,False,PROVISIONAL
+280193,MAR-2_50B,137.0170497,-30.1677524,198.0,2007-12-03,Water,N,,,,False,False,False,PROVISIONAL
+280189,MAR-2,137.0167327,-30.1679924,204.5,2007-12-07,Water,N,,,,False,False,False,PROVISIONAL
+264988,MAR-4,136.9745217,-30.2587604,186.0,2007-12-13,Water,N,,,,False,False,False,PROVISIONAL
+280225,PT-61,136.9066487,-30.2709844,138.0,2008-01-04,Water,N,,,,False,False,False,PROVISIONAL
+281165,RD2684,136.8938887,-30.4337004,850.0,2008-01-15,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+280195,MAR-3_20,136.9937027,-30.2050624,228.0,2008-01-20,Water,N,,,,False,False,False,PROVISIONAL
+280194,MAR-3,136.9933427,-30.2052484,228.0,2008-01-24,Water,N,,,,False,False,False,PROVISIONAL
+280226,PT-66,137.0442337,-30.1177724,312.0,2008-01-28,Water,N,,,,False,False,False,PROVISIONAL
+280198,PT-40,137.0706757,-30.0581394,264.0,2008-02-07,Water,N,,,,False,False,False,PROVISIONAL
+280201,PT-45,136.8905907,-30.2374324,168.0,2008-02-17,Water,N,,,,False,False,False,PROVISIONAL
+259026,AS08D02,136.6631639,-30.5930985,1487.1,2008-02-20,,Y,Andamooka Limestone > Corraberra Sandstone Member > Tregolana Shale Member > Tapley Hill Formation > Pandurra Formation > Gawler Range Volcanics,1487.1,Gawler Range Volcanics,True,False,False,PROVISIONAL
+280200,PT-44,136.9215167,-30.1997894,192.0,2008-02-23,Water,N,,,,False,False,False,PROVISIONAL
+280568,SSD4,137.4428456,-30.7481214,504.0,2008-02-25,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+262878,08PD04A,136.3345168,-30.1122284,185.4,2008-02-28,,Y,,,,False,False,False,PROVISIONAL
+280570,SSD6,137.2265417,-30.6576894,558.0,2008-02-29,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280574,SSDWB1,137.1855327,-30.4091084,160.0,2008-02-29,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280569,SSD5,137.1897337,-30.6717194,516.0,2008-03-04,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280202,PT-48,136.9241677,-30.0589054,270.0,2008-03-06,Water,N,,,,False,False,False,PROVISIONAL
+280224,PT-60,136.9823567,-30.0496494,204.0,2008-03-11,Water,N,,,,False,False,False,PROVISIONAL
+280223,PT-51,136.8597877,-30.1803714,192.0,2008-03-16,Water,N,,,,False,False,False,PROVISIONAL
+280571,SSD7,137.2954267,-30.5865564,576.0,2008-03-17,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280222,PT-50,136.8688798,-30.1268434,246.0,2008-03-20,Water,N,,,,False,False,False,PROVISIONAL
+280575,SSDWB11,137.3123927,-30.6485404,120.0,2008-03-23,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280562,SSD10,137.3677347,-30.6924364,534.5,2008-03-27,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280199,PT-42,136.9790537,-30.1409594,258.0,2008-03-28,Water,N,,,,False,False,False,PROVISIONAL
+237529,08PD04C,136.3345068,-30.1122554,1157.0,2008-03-30,,Y,Boorthanna Formation > Andamooka Limestone > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Gairdner Dolerite > Pandurra Formation > Gairdner Dolerite > Pandurra Formation > Gawler Range Volcanics > Wandearah Formation,1157.0,Wandearah Formation,True,False,False,PROVISIONAL
+272699,CSDDH02,136.8471237,-30.9463894,1233.0,2008-03-30,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+280301,RD3514P1,136.9025477,-30.4411354,256.0,2008-04-04,Water,N,,,,False,False,False,PROVISIONAL
+280563,SSD11,137.3116117,-30.6490234,539.3,2008-04-08,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280573,SSD9,137.1683387,-30.4095214,528.0,2008-04-12,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280572,SSD8,137.0481887,-30.3835414,675.0,2008-04-20,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+271626,RD 3515 P1,136.8912147,-30.4472484,192.0,2008-04-22,Water,N,,,,False,False,False,PROVISIONAL
+280564,SSD13,137.0336207,-30.3483244,684.0,2008-04-27,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+271627,RD 3516 P1,136.8842557,-30.4523954,216.0,2008-05-04,Water,N,,,,False,False,False,PROVISIONAL
+281160,RD2326,136.9142527,-30.4073454,747.8,2008-05-09,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+280309,RD3493,136.9045767,-30.4491164,228.0,2008-05-10,Water,N,,,,False,False,False,PROVISIONAL
+280576,WRD28,136.9300817,-30.6700104,921.52,2008-05-11,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+237081,08GL01,137.2735687,-30.9447584,999.6,2008-05-14,"Copper, Iron, Uranium",Y,Quaternary rocks > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Pandurra Formation > Gawler Range Volcanics,999.6,Gawler Range Volcanics,True,False,False,PROVISIONAL
+312944,RD2286,136.9267127,-30.4614934,413.7,2008-05-15,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+280308,RD3499,136.9171927,-30.4505014,240.0,2008-05-16,Water,N,,,,False,False,False,PROVISIONAL
+280311,RD3492,136.9028657,-30.4527054,232.0,2008-05-20,Water,N,,,,False,False,False,PROVISIONAL
+280567,SSD16,137.2730517,-30.6436784,178.0,2008-05-22,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280566,SSD15,137.3314247,-30.5097134,354.0,2008-05-25,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+281161,RD2336,136.9181657,-30.4011704,465.3,2008-05-25,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+280299,RD3548,136.8986407,-30.4528204,234.0,2008-05-26,Water,N,,,,False,False,False,PROVISIONAL
+280558,ACD 21,136.8041987,-30.6442504,822.4,2008-05-26,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280306,RD5304,136.8986817,-30.4587024,222.0,2008-05-30,Water,N,,,,False,False,False,PROVISIONAL
+312942,RD2274,136.9505167,-30.4781204,421.0,2008-05-30,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+281162,RD2347,136.9251977,-30.3841924,535.0,2008-06-04,"Gold, Base Metals, Uranium Oxide",Y,,,,False,False,False,PROVISIONAL
+280298,RD3549,136.8986587,-30.4586214,164.0,2008-06-05,Water,N,,,,False,False,False,PROVISIONAL
+280297,RD3549A,136.8986587,-30.4586214,228.0,2008-06-10,Water,N,,,,False,False,False,PROVISIONAL
+238539,,136.8798097,-30.5481694,45.0,2008-06-14,Water,N,,,,False,False,False,PROVISIONAL
+280577,WRD29,136.9545937,-30.6620934,1138.0,2008-06-30,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280317,RD3487,136.8877737,-30.4530504,600.0,2008-07-01,Water,N,,,,False,False,False,PROVISIONAL
+280303,RD3513A P1,136.9054307,-30.4405784,270.0,2008-07-11,Water,N,,,,False,False,False,PROVISIONAL
+280565,SSD14,137.2902147,-30.4418174,817.0,2008-07-13,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+280318,RD3551,136.8876837,-30.4532594,250.0,2008-07-19,Water,N,,,,False,False,False,PROVISIONAL
+280252,RD3486,136.8913937,-30.4533954,546.0,2008-08-09,Water,N,,,,False,False,False,PROVISIONAL
+280172,PT-62,137.0585877,-29.9572014,66.0,2008-08-15,Water,N,,,,False,False,False,PROVISIONAL
+280578,WRD30,136.9570047,-30.6673164,1338.4,2008-08-22,"Silver, Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+312945,RD2306,136.9125917,-30.4316644,477.6,2008-09-20,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+280227,MXTB-05,136.3233268,-30.2061554,126.0,2008-10-02,Water,N,,,,False,False,False,PROVISIONAL
+280241,MXTB-14A,136.7892008,-30.2438314,210.0,2008-10-12,Water,N,,,,False,False,False,PROVISIONAL
+312943,RD2280,136.9366897,-30.4683944,480.7,2008-10-18,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+280239,MXTB-13A,136.6715778,-30.1201084,192.0,2008-10-21,Water,N,,,,False,False,False,PROVISIONAL
+280240,MXTB-13B,136.6715778,-30.1201084,192.0,2008-10-21,Water,N,,,,False,False,False,PROVISIONAL
+280242,MXTB-14B,136.7892008,-30.2438314,210.0,2008-10-21,Water,N,,,,False,False,False,PROVISIONAL
+280233,MXTB-10A,136.6027158,-30.0306764,264.0,2008-10-27,Water,N,,,,False,False,False,PROVISIONAL
+280228,MXTB-07A,136.4853338,-30.1411874,186.0,2008-11-09,Water,N,,,,False,False,False,PROVISIONAL
+280229,MXTB-07B,136.4853338,-30.1411874,186.0,2008-11-09,Water,N,,,,False,False,False,PROVISIONAL
+280231,MXTB-09A,136.4623908,-30.3243744,144.0,2008-11-17,Water,N,,,,False,False,False,PROVISIONAL
+280232,MXTB-09B,136.4623908,-30.3243744,144.0,2008-11-17,Water,N,,,,False,False,False,PROVISIONAL
+280237,MXTB-12A,136.6288768,-30.3266654,162.0,2008-11-25,Water,N,,,,False,False,False,PROVISIONAL
+280238,MXTB-12B,136.6288768,-30.3266654,162.0,2008-11-25,Water,N,,,,False,False,False,PROVISIONAL
+280234,MXTB-10B,136.6027158,-30.0306764,264.0,2008-11-27,Water,N,,,,False,False,False,PROVISIONAL
+280235,MXTB-11A,136.5968518,-30.1839624,174.0,2008-12-03,Water,N,,,,False,False,False,PROVISIONAL
+280236,MXTB-11B,136.5968518,-30.1839624,174.0,2008-12-03,Water,N,,,,False,False,False,PROVISIONAL
+280230,MXTB-08,136.4930588,-30.2176944,168.0,2008-12-08,Water,N,,,,False,False,False,PROVISIONAL
+241857,AS09D03,137.0521647,-30.7257624,804.5,2009-01-31,,Y,Quaternary rocks > Andamooka Limestone > Tregolana Shale Member > Seacliff Sandstone > Nuccaleena Formation > Whyalla Sandstone > Tapley Hill Formation > Donington Suite > Tournefort Metadolerite > Donington Suite > Tournefort Metadolerite > Donington Suite,804.53,Donington Suite,True,False,False,PROVISIONAL
+262976,RCDD09VUD001,137.0133657,-30.1749814,1113.3,2009-11-11,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+313201,BGD1,136.9245597,-30.5707934,602.6,2010-02-11,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+313208,WRD31,136.9368897,-30.6716934,1301.6,2010-03-04,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+313202,NED1,136.9594297,-30.4262104,618.0,2010-03-29,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+258882,RCDD10VUD002,137.0133947,-30.1749094,1119.3,2010-04-23,"Gold, Copper, Uranium",Y,Quaternary spring sediments > Bulldog Shale > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > breccia > Hutchison Group > breccia > Hutchison Group > breccia > Hutchison Group > breccia > Hutchison Group > breccia > Hutchison Group > breccia > Hutchison Group > breccia > Hutchison Group > breccia > Hutchison Group > breccia > Hutchison Group > breccia > Hutchison Group,1119.3,Hutchison Group,True,False,False,PROVISIONAL
+313203,NED2,136.9572417,-30.4151204,645.3,2010-04-28,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+313206,PD4,137.0108117,-30.5243834,768.32,2010-06-04,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+258883,RCDD10VUD003,137.0194887,-30.1748514,1119.8,2010-06-06,"Gold, Copper, Uranium",Y,Quaternary spring sediments > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > breccia > Hutchison Group > breccia > Hutchison Group > breccia > Hutchison Group > breccia > Hutchison Group > breccia > Hutchison Group,1119.8,Hutchison Group,True,False,False,PROVISIONAL
+258884,RCDD10VUD004,137.0213577,-30.1748584,990.7,2010-06-21,"Gold, Copper, Uranium",Y,Quaternary spring sediments > Bulldog Shale > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > Hutchison Group > breccia > Hutchison Group > breccia > Hutchison Group,990.7,Hutchison Group,True,False,False,PROVISIONAL
+313205,AD21,137.2507747,-30.9768364,972.9,2010-07-16,"Gold, Copper, Uranium",Y,Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Pandurra Formation > Donington Suite,972.9,Donington Suite,True,False,False,PROVISIONAL
+258885,RCDD10VUD005,137.0192397,-30.1896054,1413.5,2010-07-22,"Gold, Copper, Uranium",Y,Quaternary spring sediments > Quaternary coastal sediments > Bulldog Shale > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > Pandurra Formation,1413.5,Pandurra Formation,True,False,False,PROVISIONAL
+313204,NED3,136.9253567,-30.4181924,662.5,2010-07-30,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+313207,TTD1,137.1633477,-30.4149074,687.6,2010-08-14,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+313210,WRD35,136.9476987,-30.6476344,1053.9,2010-09-11,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+313209,WRD34,136.9425837,-30.6464574,1180.67,2010-10-04,"Gold, Copper, Uranium",Y,,,,False,False,False,PROVISIONAL
+259027,AS10D04,137.0497797,-30.7314834,828.8,2010-10-29,"Gold, Copper, Uranium",Y,Tertiary-Pleistocene rocks > Andamooka Limestone > Tregolana Shale Member > Seacliff Sandstone > Nuccaleena Formation > Whyalla Sandstone > Tapley Hill Formation > Donington Suite > Tournefort Metadolerite > Donington Suite > Tournefort Metadolerite > Donington Suite,828.8,Donington Suite,True,False,False,PROVISIONAL
+284734,WRD33,136.9437557,-30.6393934,2064.6,2010-11-23,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+340187,WRD32,136.9398148,-30.6410953,270.0,2010-12-12,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+312683,RCDD11VUD006,137.0175647,-30.1828564,1083.9,2011-01-18,"Gold, Copper, Iron, Uranium",Y,Quaternary rocks > Bulldog Shale > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > breccia,1083.9,breccia,True,False,False,PROVISIONAL
+340188,WRD32A,136.939817,-30.6412485,1632.55,2011-02-19,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+262977,RCDD11VUD007,137.0488647,-30.1909594,1227.8,2011-03-01,"Gold, Copper, Uranium",Y,Quaternary rocks > Bulldog Shale > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > breccia,1227.8,breccia,True,False,False,PROVISIONAL
+340189,WRD37,136.96906,-30.6498475,120.0,2011-03-13,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+280286,LT 68,136.8398267,-30.4166964,86.0,2011-03-14,Water,N,,,,False,False,False,PROVISIONAL
+280284,LT 67,136.8418977,-30.4107114,82.0,2011-03-16,Water,N,,,,False,False,False,PROVISIONAL
+280287,LT 66,136.8383677,-30.4048534,82.0,2011-03-17,Water,N,,,,False,False,False,PROVISIONAL
+262978,RCDD11VUD008,137.0171987,-30.1684724,1079.5,2011-03-18,"Gold, Copper, Uranium",Y,Quaternary rocks > Bulldog Shale > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > breccia,1079.5,breccia,True,False,False,PROVISIONAL
+280285,LT 64,136.8207247,-30.4062284,84.0,2011-03-19,Water,N,,,,False,False,False,PROVISIONAL
+280288,LT 65,136.8277127,-30.4058634,77.0,2011-03-19,Water,N,,,,False,False,False,PROVISIONAL
+262667,DW01,136.9071967,-30.4505394,234.0,2011-03-20,Water,N,,,,False,False,False,PROVISIONAL
+280289,LT 69,136.8247557,-30.4202204,87.0,2011-03-20,Water,N,,,,False,False,False,PROVISIONAL
+284735,WRD36,136.9622957,-30.6498244,1224.54,2011-03-20,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+280326,LT 70,136.8271427,-30.4108394,83.0,2011-03-22,Water,N,,,,False,False,False,PROVISIONAL
+280290,LT 71,136.8028517,-30.4182894,91.0,2011-03-23,Water,N,,,,False,False,False,PROVISIONAL
+262961,DW12,136.9012607,-30.4488584,240.0,2011-05-25,Water,N,,,,False,False,False,PROVISIONAL
+284736,WRD37A,136.9691337,-30.6498554,1333.2,2011-05-30,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+262962,DW03,136.8912017,-30.4472274,235.0,2011-05-31,Water,N,,,,False,False,False,PROVISIONAL
+340190,WRD38,136.9332059,-30.6701514,1689.51,2011-05-31,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+340192,WRD40,136.9335829,-30.6702178,90.0,2011-06-05,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+280064,DW06,136.8929557,-30.4496644,246.0,2011-07-11,Water,N,,,,False,False,False,PROVISIONAL
+340191,WRD39,136.9279095,-30.669364,1432.97,2011-07-21,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+340193,WRD40A,136.933563,-30.6702634,1422.0,2011-07-22,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+263871,MAR 12_51,136.9632317,-30.2632514,248.0,2011-08-07,Water,N,,,,False,False,False,PROVISIONAL
+340194,WRD41,136.9345895,-30.6453133,408.0,2011-08-09,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+263870,MAR 12_21,136.9627207,-30.2637014,184.0,2011-08-12,Water,N,,,,False,False,False,PROVISIONAL
+340195,WRD41A,136.9345888,-30.6452772,24.0,2011-08-13,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+263858,MAR 12,136.9629377,-30.2636174,146.0,2011-08-20,Water,N,,,,False,False,False,PROVISIONAL
+264547,MAR 13_20,136.9583567,-30.2700284,108.0,2011-08-31,Water,N,,,,False,False,False,PROVISIONAL
+264548,MAR 13_50,136.9587417,-30.2694994,116.0,2011-09-06,Water,N,,,,False,False,False,PROVISIONAL
+264546,MAR 13,136.9584787,-30.2698914,97.0,2011-09-13,Water,N,,,,False,False,False,PROVISIONAL
+340196,WRD42,136.9351825,-30.6635545,1116.8,2011-09-19,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+264545,DW11,136.9077217,-30.4561074,374.0,2011-09-23,Water,N,,,,False,False,False,PROVISIONAL
+267133,DW05,136.9059117,-30.4460114,253.0,2011-09-30,Water,N,,,,False,False,False,PROVISIONAL
+267132,DW07,136.8993257,-30.4565004,366.0,2011-10-07,Water,N,,,,False,False,False,PROVISIONAL
+267134,DW08,136.8924917,-30.4579714,235.0,2011-10-13,Water,N,,,,False,False,False,PROVISIONAL
+267135,DW10,136.9006637,-30.4545774,235.0,2011-10-18,Water,N,,,,False,False,False,PROVISIONAL
+267136,DW15,136.9040397,-30.4547084,364.0,2011-10-26,Water,N,,,,False,False,False,PROVISIONAL
+340197,WRD43,136.9425538,-30.6428761,1422.8,2011-10-29,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+267137,DW12B,136.9091147,-30.4500694,235.0,2011-10-31,Water,N,,,,False,False,False,PROVISIONAL
+340198,WRD44,136.9344122,-30.6400746,1623.6,2011-10-31,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+267138,DW13,136.9053557,-30.4533094,241.0,2011-11-05,Water,N,,,,False,False,False,PROVISIONAL
+267246,DW18,136.8987107,-30.4526754,361.0,2011-11-13,Water,N,,,,False,False,False,PROVISIONAL
+267247,DW21,136.9034297,-30.4570814,361.0,2011-11-21,Water,N,,,,False,False,False,PROVISIONAL
+267248,DW22,136.9008727,-30.4589504,360.0,2011-11-27,Water,N,,,,False,False,False,PROVISIONAL
+267243,DW04,136.8963697,-30.4441934,362.0,2011-11-29,Water,N,,,,False,False,False,PROVISIONAL
+267327,DW09,136.8939897,-30.4668804,388.0,2011-12-06,Water,N,,,,False,False,False,PROVISIONAL
+267328,DW30,136.8958277,-30.4649234,252.0,2011-12-11,Water,N,,,,False,False,False,PROVISIONAL
+267330,RD 3513 (RE-DRILL),136.9053017,-30.4403554,392.0,2011-12-16,Water,N,,,,False,False,False,PROVISIONAL
+267329,DW49,136.9002647,-30.4613944,385.0,2011-12-18,Water,N,,,,False,False,False,PROVISIONAL
+280121,DW20,136.9027517,-30.4554134,379.0,2012-01-09,Water,N,,,,False,False,False,PROVISIONAL
+267300,RD 3514 (RE-DRILL),136.9023977,-30.4409654,394.0,2012-01-15,,N,,,,False,False,False,PROVISIONAL
+284737,WRD49,136.9581277,-30.6499854,1043.88,2012-02-08,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+267299,DW31,136.9067777,-30.4412904,352.0,2012-02-09,Water,N,,,,False,False,False,PROVISIONAL
+280115,DW19,136.9003347,-30.4534314,241.0,2012-02-12,Water,N,,,,False,False,False,PROVISIONAL
+284738,WRD50A,136.9425947,-30.6428304,1135.5,2012-02-23,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+262963,DW02,136.8839907,-30.4523924,361.0,2012-02-26,Water,N,,,,False,False,False,PROVISIONAL
+284739,WRD51,136.9486417,-30.6452294,997.0,2012-02-27,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+280099,DW14,136.9129917,-30.4529544,390.0,2012-03-16,Water,N,,,,False,False,False,PROVISIONAL
+284740,WRD52,136.9461067,-30.6452134,763.0,2012-03-16,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+268237,DW26,136.8813397,-30.4547584,388.0,2012-03-21,Water,N,,,,False,False,False,PROVISIONAL
+280122,DW32,136.9106737,-30.4515264,360.0,2012-03-24,Water,N,,,,False,False,False,PROVISIONAL
+280123,DW28,136.9123137,-30.4388994,244.0,2012-03-30,Water,N,,,,False,False,False,PROVISIONAL
+280124,PRIORITY 1,136.8902897,-30.4560814,359.0,2012-04-03,Water,N,,,,False,False,False,PROVISIONAL
+284741,WRD53,136.9422407,-30.6402554,1009.0,2012-04-03,"Base Metals, Uranium",Y,,,,False,False,False,PROVISIONAL
+335950,UGSDD001,137.1642748,-30.8566582,1231.3,2012-04-14,"Gold, Copper, Iron Ore, Uranium",Y,,,,False,False,False,PROVISIONAL
+312444,VUD009,137.0224567,-30.2012024,1110.8,2012-09-07,"Gold, Copper, Iron, Uranium",Y,no description > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > breccia,1110.8,breccia,True,False,False,PROVISIONAL
+312445,VUD010,137.0358327,-30.1995974,1256.9,2012-10-11,"Gold, Copper, Iron, Uranium",Y,no description > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > Serle Conglomerate > breccia,1256.9,breccia,True,False,False,PROVISIONAL
+312446,VUD011,137.0295137,-30.2009224,1466.7,2012-11-11,"Gold, Copper, Iron, Uranium",Y,no description > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > Serle Conglomerate > breccia,1466.7,breccia,True,False,False,PROVISIONAL
+312447,VUD012,137.0358547,-30.1996784,1337.4,2012-12-01,"Gold, Copper, Iron, Uranium",Y,Bulldog Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > breccia,1337.4,breccia,True,False,False,PROVISIONAL
+312448,VUD013,137.0297207,-30.2008924,1524.2,2013-04-13,"Gold, Copper, Iron, Uranium",Y,Bulldog Shale > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Tapley Hill Formation > Serle Conglomerate > breccia,1524.2,breccia,True,False,False,PROVISIONAL
+16662,,136.4105828,-30.3902964,35.8,2013-05-04,Water,N,,,,False,False,False,PROVISIONAL
+16666,,136.4597438,-30.4312694,42.0,2013-05-04,Water,N,,,,False,False,False,PROVISIONAL
+245293,WSC-6,136.4220898,-30.3626324,137.0,2013-05-04,Water,N,,,,False,False,False,PROVISIONAL
+312449,VUD014,137.0401457,-30.1906804,1488.2,2013-05-13,"Gold, Copper, Iron, Uranium",Y,Quaternary rocks > Bulldog Shale > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > breccia,1488.2,breccia,True,False,False,PROVISIONAL
+312450,VUD015,137.0142847,-30.1696534,1378.0,2013-06-20,"Gold, Copper, Iron, Uranium",Y,no description > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > breccia,1378.0,breccia,True,False,False,PROVISIONAL
+312451,VUD016,137.0263437,-30.2018374,1503.7,2013-10-27,"Gold, Copper, Iron, Uranium",Y,Quaternary rocks > Bulldog Shale > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > breccia,1503.7,breccia,True,False,False,PROVISIONAL
+279580,ENV N6,137.2232327,-30.8869224,469.0,2013-11-15,Water,N,,,,False,False,False,PROVISIONAL
+312452,VUD017,137.0594697,-30.1840994,1277.0,2013-11-19,"Gold, Copper, Iron, Uranium",Y,Quaternary rocks > Bulldog Shale > Yarrawurta Shale > Andamooka Limestone > Yarloo Shale > Simmens Quartzite Member > Corraberra Sandstone Member > Tregolana Shale Member > Nuccaleena Formation > Tapley Hill Formation > breccia,1277.0,breccia,True,False,False,PROVISIONAL
+279577,ENV N3,137.3440136,-30.9274634,245.0,2013-11-20,Water,N,,,,False,False,False,PROVISIONAL
+275849,,136.8654617,-30.4472044,18.9,2013-11-21,Water,N,,,,False,False,False,PROVISIONAL
+275850,,136.8640017,-30.4475284,16.0,2013-11-21,Water,N,,,,False,False,False,PROVISIONAL
+275852,,136.8642777,-30.4479214,7.9,2013-11-22,Water,N,,,,False,False,False,PROVISIONAL
+275851,,136.8640777,-30.4478344,16.8,2013-11-23,Water,N,,,,False,False,False,PROVISIONAL
+279576,ENV N9,137.3440266,-30.9275704,550.0,2013-11-30,Water,N,,,,False,False,False,PROVISIONAL
+279575,ENV N7,137.2594587,-30.9148524,550.0,2013-12-16,Water,N,,,,False,False,False,PROVISIONAL
+285374,,136.8238937,-30.4388484,8.0,2015-05-20,Water,N,,,,False,False,False,PROVISIONAL
+285375,,136.8238937,-30.4388484,8.0,2015-05-20,Water,N,,,,False,False,False,PROVISIONAL
+285376,,136.8238947,-30.4388664,13.0,2015-05-20,Water,N,,,,False,False,False,PROVISIONAL
+285377,,136.8205967,-30.4115314,14.0,2015-05-30,Water,N,,,,False,False,False,PROVISIONAL
+285378,,136.8194887,-30.4118534,11.3,2015-05-31,Water,N,,,,False,False,False,PROVISIONAL
+291262,BI-1,137.4317236,-30.9667634,448.0,2016-10-27,Water,N,,,,False,False,False,PROVISIONAL
+300625,,136.8632977,-30.4407724,60.0,2017-09-05,,N,,,,False,False,False,PROVISIONAL
+305785,MB 7,136.8475227,-30.4136514,82.0,2017-09-23,Water,N,,,,False,False,False,PROVISIONAL
+305783,MB 4,136.8406027,-30.4021294,76.0,2017-09-25,Water,N,,,,False,False,False,PROVISIONAL
+305784,MB 6,136.8456827,-30.4082554,80.7,2017-09-28,Water,N,,,,False,False,False,PROVISIONAL
+305786,MB 8,136.8409657,-30.4059224,83.2,2017-09-29,Water,N,,,,False,False,False,PROVISIONAL
+305788,MB 10,136.8439327,-30.4126204,85.0,2017-10-03,Water,N,,,,False,False,False,PROVISIONAL
+305789,MB 11,136.8331787,-30.4036504,83.5,2017-10-04,Water,N,,,,False,False,False,PROVISIONAL
+305787,MB 9,136.8422427,-30.4096574,82.0,2017-10-10,Water,N,,,,False,False,False,PROVISIONAL
+306295,,137.4154346,-30.9492014,550.0,2017-11-12,,N,,,,False,False,False,PROVISIONAL
+306483,,137.4019796,-30.8886154,550.0,2017-11-18,,N,,,,False,False,False,PROVISIONAL
+306743,,137.2492657,-30.8426534,550.0,2017-12-01,,N,,,,False,False,False,PROVISIONAL
+307299,,137.2725807,-30.9432514,550.0,2017-12-09,,N,,,,False,False,False,PROVISIONAL
+307301,,137.2077537,-30.9092604,550.0,2017-12-15,,N,,,,False,False,False,PROVISIONAL
+307454,NT 2P (THA),137.3156717,-30.8484724,550.0,2018-02-15,,N,,,,False,False,False,PROVISIONAL
+307468,,137.3752906,-30.9161944,550.0,2018-02-25,,N,,,,False,False,False,PROVISIONAL
+306695,,136.8432857,-30.4126024,85.0,2018-02-28,,N,,,,False,False,False,PROVISIONAL
+307482,NT 12 P,137.2783957,-30.8565844,550.0,2018-03-02,,N,,,,False,False,False,PROVISIONAL
+306696,,136.8428657,-30.4101634,85.0,2018-03-04,,N,,,,False,False,False,PROVISIONAL
+306694,,136.8416877,-30.4095574,85.0,2018-03-09,,N,,,,False,False,False,PROVISIONAL
+307485,,137.3076807,-30.9480954,550.0,2018-03-11,,N,,,,False,False,False,PROVISIONAL
+307457,NT 13 P,137.2960187,-30.8809614,550.0,2018-04-09,,N,,,,False,False,False,PROVISIONAL
+307483,NT 11 P,137.1953027,-30.9013724,550.0,2018-04-13,,N,,,,False,False,False,PROVISIONAL
+307561,NT 11 OB,137.1954807,-30.9013784,550.0,2018-04-18,,N,,,,False,False,False,PROVISIONAL
+312947,RU38-10748,136.8980327,-30.4510204,259.0,2018-04-26,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+307477,LT 83,136.8129817,-30.4438814,75.0,2018-05-01,,N,,,,False,False,False,PROVISIONAL
+307478,,136.8102267,-30.4266064,69.0,2018-05-16,,N,,,,False,False,False,PROVISIONAL
+307479,,136.8245417,-30.4244404,65.0,2018-05-17,,N,,,,False,False,False,PROVISIONAL
+308535,LT 86,136.8049077,-30.4097194,77.0,2018-05-23,,N,,,,False,False,False,PROVISIONAL
+308536,,136.8076067,-30.4205804,69.0,2018-05-24,,N,,,,False,False,False,PROVISIONAL
+308873,,136.8065907,-30.4169044,70.0,2018-05-24,,N,,,,False,False,False,PROVISIONAL
+387303,AD22,137.2082237,-30.9797444,1152.6,2018-05-25,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+308534,,136.8323537,-30.4558254,72.0,2018-06-10,,N,,,,False,False,False,PROVISIONAL
+308501,,136.8301677,-30.4558564,72.0,2018-06-15,,N,,,,False,False,False,PROVISIONAL
+387304,AD23,137.2081753,-30.9753706,1488.7,2018-07-03,"Gold, Copper, Iron, Uranium",Y,,,,False,False,False,PROVISIONAL
+333100,RU41-11782,136.8973677,-30.4470151,219.7,2018-10-20,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+333101,RU41-11782W1,136.8973677,-30.4470151,236.2,2018-10-23,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+333102,RU41-11783,136.8973666,-30.447016,280.0,2018-10-26,"Gold, Base Metals, Copper",Y,,,,False,False,False,PROVISIONAL
+307341,,137.3518757,-30.8917374,427.3,2018-12-21,,N,,,,False,False,False,PROVISIONAL
+325625,,137.4019788,-30.8885335,415.0,2019-03-05,,N,,,,False,False,False,PROVISIONAL
+325649,,137.3156137,-30.8487354,105.0,2019-03-08,,N,,,,False,False,False,PROVISIONAL
+332412,,137.3518188,-30.8919637,550.0,2019-03-30,,N,,,,False,False,False,PROVISIONAL
+325596,,137.3520362,-30.8917055,406.0,2019-04-03,,N,,,,False,False,False,PROVISIONAL
+316466,,136.4014505,-30.4059303,39.0,2019-05-10,,N,,,,False,False,False,PROVISIONAL
+316467,,136.4046595,-30.4061304,37.0,2019-05-11,,N,,,,False,False,False,PROVISIONAL
+332411,,137.3518925,-30.8917657,450.0,2019-06-06,,N,,,,False,False,False,PROVISIONAL
+332594,,136.8720084,-30.4547213,115.0,2019-09-14,,N,,,,False,False,False,PROVISIONAL
+332595,,136.8878768,-30.4503156,262.0,2019-09-19,,N,,,,False,False,False,PROVISIONAL
+332596,,136.8420318,-30.4693032,286.0,2019-10-03,,N,,,,False,False,False,PROVISIONAL
+332597,,136.8425617,-30.4841634,314.0,2019-10-10,,N,,,,False,False,False,PROVISIONAL
+332439,,136.8819159,-30.4549486,260.0,2019-11-01,,N,,,,False,False,False,PROVISIONAL
+354397,PLD0001,136.4500266,-30.1546746,1167.5,2019-11-08,,Y,Quaternary aeolian sediments > Tertiary rocks > Bulldog Shale > Andamooka Limestone > Tregolana Shale Member > Pandurra Formation > Hutchison Group,1167.5,Hutchison Group,True,False,False,PROVISIONAL
+332592,,136.8460666,-30.4794587,106.0,2019-11-09,,N,,,,False,False,False,PROVISIONAL
+332590,,136.865757,-30.4671075,242.0,2019-11-22,,N,,,,False,False,False,PROVISIONAL
+332598,,136.857721,-30.4728156,270.0,2019-12-16,,N,,,,False,False,False,PROVISIONAL
+280186,EP5M-4,136.8274657,-30.4215394,,2020-04-12,Water,N,,,,False,False,False,PROVISIONAL
+354391,LT 101,136.8047994,-30.4150027,69.8,2020-08-25,Water,N,,,,False,False,False,PROVISIONAL
+354393,LT 103,136.8094977,-30.4276133,69.7,2020-09-20,Water,N,,,,False,False,False,PROVISIONAL
+354392,LT 102,136.8067465,-30.4218143,72.7,2020-09-21,Water,N,,,,False,False,False,PROVISIONAL
+271148,LM04,136.8659987,-30.4483794,,2022-04-28,Water,N,,,,False,False,False,PROVISIONAL
+371159,BH04,136.8252488,-30.42033,57.0,2022-07-27,Water,N,,,,False,False,False,PROVISIONAL
+371154,BH05,136.8396039,-30.4169979,55.0,2022-08-01,Water,N,,,,False,False,False,PROVISIONAL
+371156,BH06,136.8368697,-30.4105137,56.0,2022-08-03,Water,N,,,,False,False,False,PROVISIONAL
+371155,BH02,136.8283307,-30.4131055,72.0,2022-08-12,Water,N,,,,False,False,False,PROVISIONAL
+371157,BH03,136.8347711,-30.4118422,72.0,2022-08-15,Water,N,,,,False,False,False,PROVISIONAL
+371160,PBH05,136.8396868,-30.4169786,55.0,2022-08-17,Water,N,,,,False,False,False,PROVISIONAL
+371158,PBH04,136.8283413,-30.4131144,72.0,2022-08-20,Water,N,,,,False,False,False,PROVISIONAL
+387273,NT 13 OB,137.2959582,-30.881052,126.0,2022-12-08,,N,,,,False,False,False,PROVISIONAL
+375391,,137.2060282,-30.9775991,424.0,2022-12-16,,N,,,,False,False,False,PROVISIONAL
+387290,NT 12 OB,137.2784171,-30.8566204,550.0,2022-12-18,,N,,,,False,False,False,PROVISIONAL
+379510,LT 68A,136.840079,-30.417523,76.0,2023-01-14,Water,N,,,,False,False,False,PROVISIONAL
+379473,LT 65A,136.8269891,-30.4059042,77.0,2023-02-06,Water,N,,,,False,False,False,PROVISIONAL
+387301,NT 39,137.2987843,-30.9533143,550.0,2023-02-25,,N,,,,False,False,False,PROVISIONAL
+387871,NT 41,137.3645904,-30.9570514,550.0,2023-04-04,,N,,,,False,False,False,PROVISIONAL
+387904,NP 1,137.2232523,-30.8868774,550.0,2023-06-11,,N,,,,False,False,False,PROVISIONAL
+384243,,137.2380077,-30.9639864,112.8,2023-10-27,,N,,,,False,False,False,PROVISIONAL
+385924,,137.2136141,-30.9511216,600.0,2023-11-25,,N,,,,False,False,False,PROVISIONAL
+385519,,136.8101354,-30.4318312,78.0,2023-12-02,,N,,,,False,False,False,PROVISIONAL
+387510,,137.2139896,-30.9515221,500.0,2024-03-08,,N,,,,False,False,False,PROVISIONAL
+391156,V10 361618 CHBF B99-030,136.8986864,-30.4426896,330.0,2024-03-11,Water,N,,,,False,False,False,PROVISIONAL
+392386,ADHY08,137.2210077,-30.9686864,450.77,2024-12-20,,N,,,,False,False,False,PROVISIONAL
+392863,ADHY10 THA SAMPHIRE,137.2763889,-30.9636111,500.0,2025-02-07,Water,N,,,,False,False,False,PROVISIONAL
+392864,ADHY10 SAMPHIRE,137.2763889,-30.9636111,500.0,2025-02-07,Water,N,,,,False,False,False,PROVISIONAL
+16548,,136.3389598,-30.5079144,,,Water,N,,,,False,False,False,PROVISIONAL
+16549,REID NO.1 BORE,136.3281718,-30.5176504,,,Water,N,,,,False,False,False,PROVISIONAL
+16559,,136.3292358,-30.7313934,13.72,,Water,N,,,,False,False,False,PROVISIONAL
+16563,,136.4151138,-30.8166934,,,Water,N,,,,False,False,False,PROVISIONAL
+16564,,136.3487758,-30.8721134,,,Water,N,,,,False,False,False,PROVISIONAL
+16565,,136.3457818,-30.8778634,,,Water,N,,,,False,False,False,PROVISIONAL
+16566,,136.3565068,-30.8794664,63.7,,Water,N,,,,False,False,False,PROVISIONAL
+16568,,136.3580258,-30.8863974,,,Water,N,,,,False,False,False,PROVISIONAL
+16604,,136.4704508,-30.9438214,42.67,,Water,N,,,,False,False,False,PROVISIONAL
+16606,,136.4904338,-30.9721984,,,Water,N,,,,False,False,False,PROVISIONAL
+16619,,136.3412798,-30.5295534,,,Water,N,,,,False,False,False,PROVISIONAL
+16620,,136.3253138,-30.5573344,,,Water,N,,,,False,False,False,PROVISIONAL
+16660,,136.4658378,-30.3512514,34.75,,Water,N,,,,False,False,False,PROVISIONAL
+16661,,136.4411678,-30.3547094,24.38,,Water,N,,,,False,False,False,PROVISIONAL
+16667,,136.4238618,-30.4648164,75.29,,Water,N,,,,False,False,False,PROVISIONAL
+16668,,136.4166758,-30.4770104,,,Water,N,,,,False,False,False,PROVISIONAL
+16690,,136.3650458,-30.4753864,,,Water,N,,,,False,False,False,PROVISIONAL
+18094,,136.5512968,-30.5088704,51.0,,Water,N,,,,False,False,False,PROVISIONAL
+18095,NOLANS WELL,136.5649378,-30.5420154,51.82,,Water,N,,,,False,False,False,PROVISIONAL
+18096,WENDTS BORE,136.5936298,-30.5553374,53.04,,Water,N,,,,False,False,False,PROVISIONAL
+18097,,136.7640847,-30.6181054,72.85,,Water,N,,,,False,False,False,PROVISIONAL
+18098,CHANCES SWAMP B.,136.7634867,-30.7074194,36.58,,Water,N,,,,False,False,False,PROVISIONAL
+18099,MCLACHLANS WELL,136.5727938,-30.7725714,19.2,,Water,N,,,,False,False,False,PROVISIONAL
+18100,CAMPBELLS TRIAL,136.7316677,-30.8052454,21.34,,Water,N,,,,False,False,False,PROVISIONAL
+18101,LAKE CAMPBELL,136.5904268,-30.8636494,,,Water,N,,,,False,False,False,PROVISIONAL
+18102,PAN WELL,136.5166568,-30.8465894,28.96,,Water,N,,,,False,False,False,PROVISIONAL
+18103,SISTERS WELL OS.,136.5788108,-30.7045184,32.0,,Water,N,,,,False,False,False,PROVISIONAL
+18104,PHILLIPS RIDGE,136.9787727,-30.5452194,18.29,,Water,N,,,,False,False,False,PROVISIONAL
+18105,PHILLIPS RIDGE,136.9751847,-30.5475474,18.29,,Water,N,,,,False,False,False,PROVISIONAL
+18107,,136.8008547,-30.7160354,45.72,,Water,N,,,,False,False,False,PROVISIONAL
+18108,TRIAL HOLE,136.8018117,-30.7633864,12.19,,Water,N,,,,False,False,False,PROVISIONAL
+18109,,136.8086757,-30.7657174,21.34,,Water,N,,,,False,False,False,PROVISIONAL
+18111,PURPLE WELL,136.8707417,-30.7933434,9.75,,Water,N,,,,False,False,False,PROVISIONAL
+18112,SWAMP WELL,136.8769647,-30.8020744,10.97,,Water,N,,,,False,False,False,PROVISIONAL
+18118,,136.7151247,-30.8688234,51.21,,Water,N,,,,False,False,False,PROVISIONAL
+18119,,136.7556247,-30.9023984,11.28,,Water,N,,,,False,False,False,PROVISIONAL
+18120,,136.8187387,-30.9115314,6.1,,Water,N,,,,False,False,False,PROVISIONAL
+18121,,136.8348467,-30.9123864,6.1,,Water,N,,,,False,False,False,PROVISIONAL
+18122,,136.8230777,-30.9158444,6.1,,Water,N,,,,False,False,False,PROVISIONAL
+18123,AJAX DAM,136.5028118,-30.9696934,,,Water,N,,,,False,False,False,PROVISIONAL
+18127,,136.8383037,-30.9034334,,,Water,N,,,,False,False,False,PROVISIONAL
+18129,KOOLYMILKA,136.5377868,-30.9747034,36.58,,Water,N,,,,False,False,False,PROVISIONAL
+18130,LITTLE WELL,136.9399857,-30.5795334,12.19,,Water,N,,,,False,False,False,PROVISIONAL
+18132,BAMBRIDGE WELL,136.5978958,-30.6848954,21.33,,Water,N,,,,False,False,False,PROVISIONAL
+18135,,136.9467587,-30.8728274,,,Water,N,,,,False,False,False,PROVISIONAL
+18139,,136.5951438,-30.5612374,,,,Y,,,,False,False,False,PROVISIONAL
+18148,"ROXBY DOWNS WB3 (""AIRSTRIP"")",136.8768687,-30.5034344,208.0,,Water,N,,,,False,False,False,PROVISIONAL
+18149,"ROXBY DOWNS WB2 (""TOWN"")",136.8762167,-30.6104094,138.0,,Water,N,,,,False,False,False,PROVISIONAL
+18150,,136.9410977,-30.6305404,,,Water,N,,,,False,False,False,PROVISIONAL
+18175,,136.5120828,-30.4897704,73.15,,Water,N,,,,False,False,False,PROVISIONAL
+18176,SUNDAY WELL,136.7551087,-30.4955494,44.2,,Water,N,,,,False,False,False,PROVISIONAL
+18177,,136.9252617,-30.0558454,,,Water,N,,,,False,False,False,PROVISIONAL
+18178,,136.9082597,-30.0798924,,,Water,N,,,,False,False,False,PROVISIONAL
+18179,ANGLE SWAMP B.,136.6317648,-30.0000594,47.24,,Water,N,,,,False,False,False,PROVISIONAL
+18180,ANGLE SWAMP B.,136.6343038,-30.0088344,55.78,,Water,N,,,,False,False,False,PROVISIONAL
+20732,,137.0407757,-30.5919104,8.53,,Water,N,,,,False,False,False,PROVISIONAL
+20735,,137.1866977,-30.6921484,13.72,,Water,N,,,,False,False,False,PROVISIONAL
+20737,,137.2881347,-30.6253724,13.72,,Water,N,,,,False,False,False,PROVISIONAL
+20740,WILLAROO LAGOON,137.2693797,-30.6878224,228.6,,Water,N,,,,False,False,False,PROVISIONAL
+20741,ANDAMOOKA HS.,137.2025117,-30.7320854,4.88,,Water,N,,,,False,False,False,PROVISIONAL
+20742,ANDAMOOKA HS.,137.2278757,-30.7252844,,,Water,N,,,,False,False,False,PROVISIONAL
+20743,TRIAL HOLE,137.2170367,-30.7242704,12.19,,Water,N,,,,False,False,False,PROVISIONAL
+20748,HORSE WELL,137.0579657,-30.7702424,12.19,,Water,N,,,,False,False,False,PROVISIONAL
+20750,,137.1553727,-30.7951904,29.57,,Water,N,,,,False,False,False,PROVISIONAL
+20754,,137.2918977,-30.9418404,45.75,,Water,N,,,,False,False,False,PROVISIONAL
+20757,,137.1369377,-30.8728194,28.3,,Water,N,,,,False,False,False,PROVISIONAL
+20759,,137.1263397,-30.9029784,,,Water,N,,,,False,False,False,PROVISIONAL
+20763,WILSON WELL,137.0429527,-30.9333844,30.48,,Water,N,,,,False,False,False,PROVISIONAL
+20767,WHIM WELL,137.0783907,-30.7897254,22.45,,Water,N,,,,False,False,False,PROVISIONAL
+20776,,137.1227207,-30.3801594,46.63,,Water,N,,,,False,False,False,PROVISIONAL
+20777,TRIAL HOLE,137.1236967,-30.3723314,,,Water,N,,,,False,False,False,PROVISIONAL
+20785,,137.1624637,-30.3799934,29.57,,Water,N,,,,False,False,False,PROVISIONAL
+20786,HORN WELL,137.0195477,-30.4479304,60.96,,Water,N,,,,False,False,False,PROVISIONAL
+20788,,137.1541007,-30.4634854,96.93,,Water,N,,,,False,False,False,PROVISIONAL
+20789,,137.1572977,-30.4540064,18.29,,Water,N,,,,False,False,False,PROVISIONAL
+20792,FOUR CORNERS HUT,137.1634957,-30.4470654,12.19,,Water,N,,,,False,False,False,PROVISIONAL
+20798,OPAL WELL,137.2085707,-30.4356654,15.24,,Water,N,,,,False,False,False,PROVISIONAL
+20799,,137.2956197,-30.4498584,,,Water,N,,,,False,False,False,PROVISIONAL
+20800,,137.1689117,-30.4744174,34.75,,Water,N,,,,False,False,False,PROVISIONAL
+20801,,137.1641727,-30.4786544,42.67,,Water,N,,,,False,False,False,PROVISIONAL
+20806,,137.2023897,-30.3588404,54.86,,Water,N,,,,False,False,False,PROVISIONAL
+20807,,137.2291357,-30.3974564,45.72,,Water,N,,,,False,False,False,PROVISIONAL
+20808,,137.1203407,-30.3701484,82.3,,Water,N,,,,False,False,False,PROVISIONAL
+20809,,137.1217557,-30.3764404,54.86,,Water,N,,,,False,False,False,PROVISIONAL
+20810,,137.1999277,-30.4244274,97.54,,Water,N,,,,False,False,False,PROVISIONAL
+20815,,137.1627567,-30.4499014,9.4,,Water,N,,,,False,False,False,PROVISIONAL
+20816,,137.1652087,-30.4477684,17.07,,Water,N,,,,False,False,False,PROVISIONAL
+136933,CURDIMURKA 4,136.5096618,-30.1485284,,,,Y,,,,False,False,False,PROVISIONAL
+148002,PD 3,137.0076347,-30.5218444,,,,Y,,,,False,False,False,PROVISIONAL
+162313,RD 66,136.8716977,-30.4308914,,,Water,N,,,,False,False,False,PROVISIONAL
+162343,RD116,136.8869207,-30.4935864,,,,N,,,,False,False,False,PROVISIONAL
+162344,RD125,136.8889377,-30.4913134,146.0,,Water,N,,,,False,False,False,PROVISIONAL
+162345,RD 127,136.8912207,-30.4472364,,,,N,,,,False,False,False,PROVISIONAL
+162346,RD 128,136.8891677,-30.4476644,,,,N,,,,False,False,False,PROVISIONAL
+162348,RD 136,136.8750007,-30.4505924,540.0,,,N,,,,False,False,False,PROVISIONAL
+162349,RD 137,136.8730757,-30.4435844,,,,N,,,,False,False,False,PROVISIONAL
+162350,RD 140,136.8671617,-30.4299844,552.0,,,N,,,,False,False,False,PROVISIONAL
+162351,RD 141,136.8795897,-30.4200054,576.0,,Water,N,,,,False,False,False,PROVISIONAL
+162354,RD 146,136.9007867,-30.4508254,490.0,,,N,,,,False,False,False,PROVISIONAL
+162355,RD 148,136.8847287,-30.4392914,552.0,,Water,N,,,,False,False,False,PROVISIONAL
+162357,RD 155,136.8937147,-30.4485724,346.0,,Water,N,,,,False,False,False,PROVISIONAL
+162360,RD 169,136.8755677,-30.4449194,315.0,,Water,N,,,,False,False,False,PROVISIONAL
+162361,RD 170,136.8715227,-30.4457624,319.0,,Water,N,,,,False,False,False,PROVISIONAL
+162363,RD 173,136.8719287,-30.4549514,331.0,,,N,,,,False,False,False,PROVISIONAL
+162364,RD 177,136.8988397,-30.4437894,352.0,,,N,,,,False,False,False,PROVISIONAL
+162365,RD 178,136.8747477,-30.4265534,552.0,,,N,,,,False,False,False,PROVISIONAL
+162367,RD 182,136.8962207,-30.4499254,358.0,,,N,,,,False,False,False,PROVISIONAL
+162374,RD 198,136.8590957,-30.4316404,292.0,,,N,,,,False,False,False,PROVISIONAL
+162382,RD 233,136.8886117,-30.4533394,,,,N,,,,False,False,False,PROVISIONAL
+162397,RD 295,136.8810067,-30.4336164,,,,N,,,,False,False,False,PROVISIONAL
+162398,RD 298,136.8741037,-30.4396534,,,,N,,,,False,False,False,PROVISIONAL
+162403,RD 304,136.8829477,-30.4638034,924.0,,,N,,,,False,False,False,PROVISIONAL
+162406,RD 306,136.8848957,-30.4708234,927.0,,,N,,,,False,False,False,PROVISIONAL
+162410,RD 323,136.8776597,-30.4333334,,,,N,,,,False,False,False,PROVISIONAL
+162435,RD 549,136.8924537,-30.4479054,,,,N,,,,False,False,False,PROVISIONAL
+162438,RD 576,136.8726957,-30.4770514,649.0,,,N,,,,False,False,False,PROVISIONAL
+162440,RD 598,136.8640037,-30.4417654,530.4,,,N,,,,False,False,False,PROVISIONAL
+162441,RD 620,136.8700787,-30.4404874,150.0,,,N,,,,False,False,False,PROVISIONAL
+162449,RD 662,136.8967007,-30.4516584,,,,N,,,,False,False,False,PROVISIONAL
+162454,RD786,136.8391757,-30.4392944,,,,N,,,,False,False,False,PROVISIONAL
+162457,RD 789,136.8899477,-30.4697644,31.0,,,N,,,,False,False,False,PROVISIONAL
+162458,RD 792,136.9011757,-30.4794694,19.0,,,N,,,,False,False,False,PROVISIONAL
+162459,RD 793,136.8971507,-30.4802974,14.0,,,N,,,,False,False,False,PROVISIONAL
+162460,RD 794,136.8907177,-30.4798834,14.0,,,N,,,,False,False,False,PROVISIONAL
+162461,RD 795,136.8886537,-30.4728334,23.0,,,N,,,,False,False,False,PROVISIONAL
+162462,RD 796,136.8912007,-30.4704334,28.0,,,N,,,,False,False,False,PROVISIONAL
+162476,RD 906,136.9094007,-30.4653784,12.0,,,N,,,,False,False,False,PROVISIONAL
+162477,RD 907,136.9127457,-30.4766664,12.0,,,N,,,,False,False,False,PROVISIONAL
+162478,RD 908,136.9086597,-30.4775664,12.0,,,N,,,,False,False,False,PROVISIONAL
+271144,GC 1,136.8903827,-30.5550124,,,Water,N,,,,False,False,False,PROVISIONAL
+271145,LM01,136.8662377,-30.4478214,,,Water,N,,,,False,False,False,PROVISIONAL
+271146,LM02,136.8653807,-30.4481894,,,Water,N,,,,False,False,False,PROVISIONAL
+271147,LM03,136.8657587,-30.4486814,,,Water,N,,,,False,False,False,PROVISIONAL
+271149,LM05,136.8661487,-30.4491044,,,Water,N,,,,False,False,False,PROVISIONAL
+271150,LM06,136.8666257,-30.4487654,,,Water,N,,,,False,False,False,PROVISIONAL
+271151,LM07,136.8642857,-30.4489854,,,Water,N,,,,False,False,False,PROVISIONAL
+271152,LM08,136.8660807,-30.4485684,,,Water,N,,,,False,False,False,PROVISIONAL
+271153,LM09,136.8663917,-30.4482604,,,Water,N,,,,False,False,False,PROVISIONAL
+271154,LM10,136.8668807,-30.4476934,,,Water,N,,,,False,False,False,PROVISIONAL
+271155,LM11,136.8681467,-30.4479234,,,Water,N,,,,False,False,False,PROVISIONAL
+271156,LM12,136.8670567,-30.4493354,,,Water,N,,,,False,False,False,PROVISIONAL
+271157,LM13,136.8697147,-30.4484624,,,Water,N,,,,False,False,False,PROVISIONAL
+271158,LM14,136.8635637,-30.4489534,,,Water,N,,,,False,False,False,PROVISIONAL
+271159,LM15,136.8618937,-30.4504314,,,Water,N,,,,False,False,False,PROVISIONAL
+271215,LM16,136.8617727,-30.4486214,,,Water,N,,,,False,False,False,PROVISIONAL
+271216,LM17,136.8636127,-30.4470824,,,Water,N,,,,False,False,False,PROVISIONAL
+271551,LM18,136.8294457,-30.4479134,,,Water,N,,,,False,False,False,PROVISIONAL
+271552,LM19,136.8594287,-30.4501104,,,Water,N,,,,False,False,False,PROVISIONAL
+271553,LM20,136.8570257,-30.4507474,,,Water,N,,,,False,False,False,PROVISIONAL
+271554,LM21,136.8577507,-30.4473944,,,Water,N,,,,False,False,False,PROVISIONAL
+271555,LM22,136.8669217,-30.4458454,,,Water,N,,,,False,False,False,PROVISIONAL
+271556,LM23,136.8668287,-30.4404664,,,Water,N,,,,False,False,False,PROVISIONAL
+271557,LM24,136.8601847,-30.4394084,,,Water,N,,,,False,False,False,PROVISIONAL
+271562,LM25,136.8944627,-30.4623124,,,Water,N,,,,False,False,False,PROVISIONAL
+271563,LM26,136.8667557,-30.4490044,,,Water,N,,,,False,False,False,PROVISIONAL
+271564,MA 27,136.8668447,-30.4493284,,,Water,N,,,,False,False,False,PROVISIONAL
+271565,LM28,136.8693807,-30.4494264,,,Water,N,,,,False,False,False,PROVISIONAL
+271566,LM29,136.8690517,-30.4505134,,,Water,N,,,,False,False,False,PROVISIONAL
+271567,LM30,136.8678857,-30.4512354,,,Water,N,,,,False,False,False,PROVISIONAL
+271568,LM31,136.8727407,-30.4505424,,,Water,N,,,,False,False,False,PROVISIONAL
+271569,LM43,136.8984467,-30.4285814,,,Water,N,,,,False,False,False,PROVISIONAL
+271570,LM44,136.9077107,-30.4285594,,,Water,N,,,,False,False,False,PROVISIONAL
+271571,LM46,136.9002067,-30.4306784,,,Water,N,,,,False,False,False,PROVISIONAL
+271572,LP 1,136.8468967,-30.4388194,,,Water,N,,,,False,False,False,PROVISIONAL
+271573,LP 2,136.8388447,-30.4321424,,,Water,N,,,,False,False,False,PROVISIONAL
+271574,LP 3,136.8283867,-30.4408064,,,Water,N,,,,False,False,False,PROVISIONAL
+271575,LP 5,136.8487407,-30.4434694,,,Water,N,,,,False,False,False,PROVISIONAL
+271576,LT 36,136.8285807,-30.4464144,,,Water,N,,,,False,False,False,PROVISIONAL
+271577,LT 37,136.8370727,-30.4278724,,,Water,N,,,,False,False,False,PROVISIONAL
+271578,LT 38,136.8420377,-30.4289394,,,Water,N,,,,False,False,False,PROVISIONAL
+271579,LT 42,136.8128987,-30.4491824,,,Water,N,,,,False,False,False,PROVISIONAL
+271580,LT 44,136.9077107,-30.4285594,,,Water,N,,,,False,False,False,PROVISIONAL
+271581,LT 45,136.8339757,-30.4382384,,,Water,N,,,,False,False,False,PROVISIONAL
+271582,LT 47,136.8570267,-30.4507474,,,Water,N,,,,False,False,False,PROVISIONAL
+271583,LT 48,136.8594287,-30.4501104,,,Water,N,,,,False,False,False,PROVISIONAL
+271584,LT 49,136.8577507,-30.4473944,,,Water,N,,,,False,False,False,PROVISIONAL
+271585,LT 52,136.8286697,-30.4464034,,,Water,N,,,,False,False,False,PROVISIONAL
+271586,LT 53,136.8261087,-30.4518924,,,Water,N,,,,False,False,False,PROVISIONAL
+271587,LT 54,136.8259037,-30.4520494,,,Water,N,,,,False,False,False,PROVISIONAL
+271588,LT 56,136.8492637,-30.4173944,,,Water,N,,,,False,False,False,PROVISIONAL
+271589,LT 57,136.8534427,-30.4288734,,,Water,N,,,,False,False,False,PROVISIONAL
+271590,LT 58,136.8609737,-30.4341804,,,Water,N,,,,False,False,False,PROVISIONAL
+271591,LT 59,136.8661367,-30.4301864,,,Water,N,,,,False,False,False,PROVISIONAL
+271592,LT 60,136.8376157,-30.4188074,,,Water,N,,,,False,False,False,PROVISIONAL
+271593,LT 61,136.8332457,-30.4233344,,,Water,N,,,,False,False,False,PROVISIONAL
+271594,LT 62,136.8274577,-30.4215124,,,Water,N,,,,False,False,False,PROVISIONAL
+271595,LT 63,136.8317547,-30.4195604,,,Water,N,,,,False,False,False,PROVISIONAL
+271596,PB 1,136.8155047,-30.4341824,,,Water,N,,,,False,False,False,PROVISIONAL
+271597,PB 2,136.8206767,-30.4323964,,,Water,N,,,,False,False,False,PROVISIONAL
+271598,PB 3,136.8331717,-30.4324864,,,Water,N,,,,False,False,False,PROVISIONAL
+271603,RD 586,136.8969877,-30.4488314,,,Water,N,,,,False,False,False,PROVISIONAL
+271607,RD 806,136.8904577,-30.4424364,,,Water,N,,,,False,False,False,PROVISIONAL
+271608,RD 808,136.8905777,-30.4423744,,,Water,N,,,,False,False,False,PROVISIONAL
+271609,RD 809,136.8883937,-30.4487464,,,Water,N,,,,False,False,False,PROVISIONAL
+271610,RD 815,136.8691537,-30.4332694,,,Water,N,,,,False,False,False,PROVISIONAL
+271611,RD 1953,136.9052707,-30.4539774,,,Water,N,,,,False,False,False,PROVISIONAL
+271612,RD 2082,136.9016627,-30.4401484,,,Water,N,,,,False,False,False,PROVISIONAL
+271613,RD 2149,136.8765207,-30.4521434,,,Water,N,,,,False,False,False,PROVISIONAL
+271614,RD 2153,136.8806467,-30.4511974,,,Water,N,,,,False,False,False,PROVISIONAL
+271615,RD 2321,136.8649537,-30.4257914,,,Water,N,,,,False,False,False,PROVISIONAL
+271616,RD 2501,136.8659197,-30.4719784,,,Water,N,,,,False,False,False,PROVISIONAL
+271617,RD 2551,136.8896147,-30.4568534,,,Water,N,,,,False,False,False,PROVISIONAL
+271618,RD 2709,136.8874597,-30.4452384,,,Water,N,,,,False,False,False,PROVISIONAL
+271619,RD 2719,136.8959977,-30.4391294,,,Water,N,,,,False,False,False,PROVISIONAL
+271620,RD 2872 P1,136.8876747,-30.4498764,,,Water,N,,,,False,False,False,PROVISIONAL
+271621,RD 2873 P1,136.8996577,-30.4449934,,,Water,N,,,,False,False,False,PROVISIONAL
+271622,RD 2875 P1,136.9070827,-30.4504254,,,Water,N,,,,False,False,False,PROVISIONAL
+271623,RD 2876 P1,136.9012637,-30.4488614,,,Water,N,,,,False,False,False,PROVISIONAL
+271624,RD 3504 P1,136.8987427,-30.4585864,,,Water,N,,,,False,False,False,PROVISIONAL
+271625,RD 3514 P1,136.9021367,-30.4480674,,,Water,N,,,,False,False,False,PROVISIONAL
+271628,TPW-04,136.8377617,-30.4188144,,,Water,N,,,,False,False,False,PROVISIONAL
+271629,TPW-05,136.8517797,-30.4051744,,,Water,N,,,,False,False,False,PROVISIONAL
+280169,RT-17B,136.8403467,-30.4200894,,,Water,N,,,,False,False,False,PROVISIONAL
+280175,RD 2773 OPEN,136.9131177,-30.4477964,,,Water,N,,,,False,False,False,PROVISIONAL
+280182,EP5M-1,136.8375427,-30.4187634,,,Water,N,,,,False,False,False,PROVISIONAL
+280183,EP5M-2,136.8517807,-30.4051774,,,Water,N,,,,False,False,False,PROVISIONAL
+280185,EP5M-3,136.8332247,-30.4233444,,,Water,N,,,,False,False,False,PROVISIONAL

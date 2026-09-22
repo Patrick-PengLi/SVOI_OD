@@ -1,0 +1,1690 @@
+===== page 1
+ 
+
+CENTENAIRE DE LA SOCIETE GEOLOGIQUE DE BELGIQUE
+GISEMENTS STRATIFORMES ET PROVINCES CUPRIFERES, LIEGE, 1974, 215-233
+
+ 
+
+STRATIGRAPHY OF COPPER OCCURRENCES
+IN THE ZAMBIAN COPPERBELT
+
+P. L. Brnpa (*) and J. R. MuLGREw (**)
+
+ABSTRACT
+
+Stratigraphic work still in progress has resulted in a revised correlation of the Lower
+Roan from Chililabombwe to Luanshya. The Upper Roan/Lower Roan boundary has been
+redefined at several localities and an attempt has been made to correlate the Lower Roan
+across the Kafue Anticline. At the regional scale, the stratiform nature of major and minor
+copper occurrences 1s highlighted. Not only the prominent orebodies but also anomalous
+copper values can be correlated over a large area. A sedimentary model emphasizing the
+close association of ore occurrences with transgressions of the Katanga sea is proposed.
+
+INTRODUCTION
+
+The Zambian Copperbelt is part of a larger mineral province which includes
+Shaba (Zaire) and also large areas in the Northwestern Province of Zambia. Late
+Precambrian metasediments which have been correlated with the Katanga rocks and
+are reputed to be of some economic interest are present to the West in Angola and
+to the Northeast in the Northern Province of Zambia. Some copper-bearing Late
+Precambrian metasediments of South-West Africa may be part of the same
+province (Clifford, 1962; van Eden and Binda, 1972).
+
+The Copperbelt deposits have long been known as classical examples of strati-
+form orebodies, and are well documented in detailed accounts of the individual
+mines. The main aims of this paper are:
+
+1. To present a revised stratigraphic correlation, which is the preliminary out-
+come of stratigraphic studies involving R.C.M. and N.C.C.M. geologists.
+
+2. To discuss some regional aspects of stratigraphic distribution of copper
+occurrences.
+
+3. To summarize the results of some research carried out in the Copperbelt in
+the last decade. Some of this information has already been published, but much
+
+(*) Roan Consolidated Mines Limited, R.C.M. Geological Services, Geologic Research
+Department, P.O. Box 1, Kalulushi, Zambia.
+
+(**) Nchanga Consolidated Copper Mines Limited, Konkola Division, Geology Depart-
+ment, P.O. Box 1, Chililabombwe, Zambia.
+
+===== page 2
+216 P. L. BINDA AND J. R. MULGREW
+
+of it remains in company reports which are normally not available to the scientific
+community.
+
+STRATIGRAPHY
+
+The Roan Group is the lower subdivision of the Late Precambrian Katanga
+Sequence which covers a large area of Zambia and Zaire. The term Katanga
+Sequence (Binda and van Eden, 1972) is used here in preference to Katanga System
+(Mendelsohn, 1961) and to Katangan (Cahen and Lepersonne, 1967). Isotopic ages
+indicate that the Katanga Sequence was deposited before 620 m.yr. ago, and that
+the Lower Roan is older than 840 m.yr. and younger than 1,300 m.yr. (Cahen,
+1970). In Zambia, the Katanga Sequence is subdivided from top to bottom into
+Kundelungu, Mwashia, and Roan groups (see insert in fig. 1).
+
+The Roan Group is generally subdivided into a predominantly dolomitic Upper
+Roan, 500 to 800 m thick, and a predominantly clastic Lower Roan, up to 1,000 m
+thick (Mendelsohn, 1961). The term Mine Series is used in Zambia for the strata
+comprising Mwashia, Upper Roan, and Lower Roan (Gray, 1930), whereas in
+Zaire the term Série des Mines (now Mines Group) refers to the lithostratigraphic
+unit between the R.A.T. (Roches argilo-talqueuses) and the Dipeta Group (Bartho-
+lomé et al., 1973). It is proposed to abandon the term Mine Series (or Group) in
+Zambia to avoid confusion.
+
+LOWER ROAN
+
+The Lower Roan predominantly comprises clastic metasediments with minor
+dolomites towards the top. The Luanshya terminology has been used here since it
+is the most informal and also perhaps the best known. Work aimed at detailed
+correlation and standardization of stratigraphic terms in the Copperbelt is in
+progress. This wil] entail discarding the existing nomenclature which is confused
+by parochial terms largely related to mining (see figs. 2 and 3).
+
+The present lack of chronostratigraphic horizons in the Roan Group necessitates
+reliance on lithostratigraphy. The Lower Roan/Upper Roan boundary has caused
+considerable confusion owing to the arbitrary choice of the point where the section
+changes from “predominantly clastic” to “predominantly dolomitic.” Detailed
+correlation by Mulgrew (1968 and 1972) from Chililabombwe to Luanshya (Ore
+Shale Alignment of fig. 1) has indicated that a natural boundary exists as shown in
+figure 2. In extending this correlation to other parts of the Copperbelt, it must be
+accepted that the Upper Roan/Lower Roan boundary can be diachronous owing to
+facies changes.
+
+The Lower Roan can be subdivided from base to top as follows:
+
+RL 7 (Footwall Formation)
+
+At Luanshya, this stratigraphic unit includes all the metasediments between the
+basal Katanga unconformity and the Ore Shale (RL 6). The Footwall formation,
+
+===== page 3
+STRATIGRAPHY OF COPPER OCCURRENCES IN ZAMBIA 217
+
+KATANGA SEQUENCE IN THE
+ZAMBIAN COPPERBELT
+
+KUNDELUNGU
+
+GREAT
+CONGLOMERATE
+at : : (TILLITE)
+i n MWASHIA
+ran aomewe NORTH I: 2
+sourn
+
+UPPER ROAN
+
+LOWER ROAN
+
+BASEMENT F.
+COMPLEX
+
+ 
+
+KILOMETRES
+MINDOLA 7 ae 0 20
+
+‘CHIBULUMA KITE
+
+Ons HD
+
+LUSH 7, feSOUTH OREBODY Aes fr
+: @ “A é: EE] ratayga one
+i. “ A amphnbolite
+%y, - 2 \ Ny BASEMENT
+% ro ‘COMPLEX:
+‘
+‘.
+uss
+
+  
+
+Fic. 1. — Map of the Zambian Copperbelt and generalized stratigraphy of the Katanga
+Sequence.
+
+having been deposited on a rugged topography, varies considerably in thickness
+from several hundred metres in the valleys to nil over paleogeographic highs.
+
+The predominant lithologic types are coarse-grained clastics with very little
+argillite, and virtually no carbonates. Correlation of individual units within the
+Footwall formation is uncertain owing to the local control which Basement hills of
+varied rock types exercised on sedimentation. The following generalized succession
+can be recognized at most localities along the Ore Shale Alignment.
+
+Basal Conglomerate (Boulder Conglomerate). — The Basal Conglomerate is
+extremely variable in thickness, poorly sorted and is generally interpreted as a
+scree deposit, whereas metasediments above it may have more distant sources,
+e.g. Nchanga (Binda, 1972a).
+
+Footwall Quartzites. — Above the Basal Conglomerate, or directly overlying
+the Basement Complex, are a few hundred metres of micaceous quartzites and
+“clean” felspathic quartzites. The latter often. exhibit large-scale cross-bedding
+which is interpreted by Mendelsohn (in. Mendelsohn, 1961, p. 41) as eolian in
+
+===== page 4
+218 P, L. BINDA AND J. R. MULGREW
+
+origin. At places, however, the eolian origin of these quartzites is in doubt
+(van Eden and Binda, 1972).
+
+Second Conglomerate. — A lenticular second conglomerate, poorly sorted
+and containing pebbles and cobbles of various Basement lithologies, occurs at
+about the same stratigraphic level in most localities from Chililabombwe to
+Luanshya. Although not correlatable in detail, these occurrences suggest higher
+energy conditions over a large area in the Copperbelt at about the same time.
+
+The Second Conglomerate is overlain by pink to greyish, medium-grained,
+felspathic and micaceous metasandstones. Small-scale cross-bedding and thin layers
+of sandy argillite occur locally and may indicate fluviatile conditions.
+
+Footwall Conglomerate and Sandstone. — Sandstones and conglomeratic lenses
+directly underlie the Ore Shale. A footwall conglomerate is normally present along
+the Ore Shale Alignment, but always as discontinuous lenses in sandstone.
+
+Mendelsohn (in Mendelsohn, 1961, p. 351) interpreted the Footwall Con-
+glomerate in the eastern part of Luanshya as a series of shoestring conglomerates
+parallel to an ancient shoreline and stepping down stratigraphically towards the
+northwest. A marine transgression marks the end of RL7 sedimentation in the
+Copperbelt, therefore beach deposits are to be expected towards the top of the
+RL 7. However, McKenzie (1968) and Binda (1969a) showed that, in two small
+areas in Luanshya, the Footwall Conglomerate was deposited in a high-energy
+fluviatile environment with current directions towards the south.
+
+Footwall Formation at Mufulira. — At Mutfulira, the beds between the base of
+the “C” horizon (fig. 3) and the Basement Complex have been subdivided by
+van Eden (1969) and Hodgson (1969) into a lower and upper Footwall separated
+by a marked truncation plane which is interpreted as a regional disconformity.
+Wedges of unsorted conglomerate mark the basal unconformity at a few places.
+A grey quartzite displaying large-scale cross-bedding is the predominant lithotype
+of the lower Footwall. This quartzite has been interpreted as wind-deposited by
+Garlick (1967) and Maree (1962), but van Eden (1972) found no clear evidence for
+eolian origin. Above the grey quartzite, and locally interfingering with it, are cross-
+bedded reddish grits and quartzites of aqueous origin.
+
+The Mufulira Footwall succession is not easily correlatable with that of the
+Ore Shale Alignment; an alluvial-fan conglomerate in the lower part of the “C”
+horizon (van Eden, 1970) may be equivalent to the Footwall Conglomerate. Uni-
+modal current directions from north to south in this conglomerate are consistent
+with the general transport direction for other areas of the Copperbelt.
+
+RL 6 (Ore Shale)
+
+The Ore Shale is a remarkably persistent horizon that can be traced from
+Chililabombwe to Luanshya, a distance of approximately 100 km. It is a grey-
+green, silty argillite, 5 to more than 50 m thick, passing laterally to a black,
+carbonaceous argillite. Vertical and horizontal variations in lithology have been
+observed both regionally and locally; a carbonate-rich facies is generally present at
+the base, and anhydrite concretions are often present near the top.
+
+At Nkana (Kitwe) and Chililabombwe, the Ore Shale is divided into several
+sub-units. At Luanshya, the RL 6 is sub-divided in two units: a lower argillaceous
+
+===== page 5
+219
+
+STRATIGRAPHY OF COPPER OCCURRENCES IN ZAMBIA
+
+SISSIIND © SLSIHOS
+SHINYYD
+
+ 
+
+eG suvuan079N0D Isve
+
+uziwwno 8
+“| savzcsvn0 snozovriow
+
+Feed suvuswo19No9 aNozas
+
+S3IZL¥¥ND snoIovTIOW
+
+fesse] _2vusw079N02 Tr~ML00s
+
+suINvHD 49
+Gs0NWIN! 1SIHOS NENINT
+
+“VLYWIWOTONOD TwSvE
+
+UIZLBYND TIVMLO04
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NouIsNvEL T¥MLOOs
+
+JNOLSONYS
+
+aiesewo/6u0) samo7
+Thwms003
+
+ouorspues sony
+siesauso/Bu09 j1e61003
+
+ 
+
+aINYHD
+
+JUIZLYND SLSIHOS
+
+zezamoroen Lan
+
+2252] zvazwo10w09 Wwsve
+
+SUIzLW~ND TIvML004
+41v¥3WOTNO 378809
+aumngdy 8 as0KNy
+2LYYIWOTONOD T1¥AALOO:
+
+ 
+
+ 
+
+ 
+
+FTWHS 340
+
+ 
+
+IVS 340
+
+JLINYHD wONMHON
+SSIIND 8 SLSIHDS NENENT
+
+s1v43H079N09 TSYE
+
+spremanos Apiiey us svn) woe
+
+asoxuy
+
+JNOLSONYS NOILISNYEL
+Srziuwno NOWISNVEL
+BIVHS O20NVE_¥IMOT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AWANdHOd WISYTIOW AB
+Q3ONYINI SIND 9 SLSHOS
+
+anawasva
+SUVUINO19NOD evo waMOT
+nc ‘vow wzMO7
+
+on
+OMNES 31VEBHOTONOD 378834
+3L¥BIWOTONOD SNOWOd ¥IMOT
+
+HUZLUND TIvAALOOS
+
+JLWAINOTONOD WaXUYV *
+
+aNOLSONYS sno3av TINNY
+Buvu3M0TON0D snowod
+JNOLSaNWS TIVM1004
+BLNEIWOTONOD TTVML003
+FIWHS 340
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIITIONY TM ONIDNYH
+
+SINIWIOIS 82LYA VIN
+
+1961 wyosjepuoy
+
+ 
+
+JUIZLIYNO INH
+
+HUTLUEND wadan
+
+ 
+
+ 
+
+ 
+
+| FUZLIYNO Wadd
+
+FONINDIS ILITHOWW I1LMOT0T
+
+ 
+
+ 
+
+ 
+
+Se
+BLIOTO0 WILYM Hd
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VAHSNYN1
+
+SINIWIORS 43LYM Us
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOL” PWAOS HILYM ws YLT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(YNVIN) 3AALIN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IHSIGINVHD
+
+—~
+Fmwov00 Asw3H9
+
+NOU WHINOS 310N0100
+
+ 
+
+(wamor} 3NOLSaWYS o3aWva
+aMuVW TIVHS / FLIZLYYNO ANI
+
+BUZLMNND owLwasTz4 IHL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUZLHVAID TIvMONONEH
+
+¥24n0v TIYMONIONYH
+
+4099) HAIMA 3T0HS.
+
+vow vamo7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VONVHIN — VIOSNIHD
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Zé MalBW NVON waaan
+
+=| 3110100 NwOw waddN
+
+WH
+
+aMSWOSVTITIHD
+
+ 
+
+Fic. 2. -~ Stratigraphic correlation of the Lower Roan along the Ore Shale Alignment.
+
+===== page 6
+220 P. L. BINDA AND J. R. MULGREW
+
+dolomite passing laterally to a calcite-biotite-tremolite schist to the west, and an
+upper sandy and silty argillite becoming somewhat finer grained and scapolitic,
+to the west (Mendelsohn, in Mendelsohn, 1961, p. 351).
+
+Annels (1972) describes a lateral facies change within the Ore Shale in the
+Luanshya and Chambishi basins: a silty argillite to the northeast (Luanshya, Min-
+dola, Chambishi), a carbonaceous argillite to the southwest (Nkana South Orebody,
+eastern edge of Chibuluma, northwestern margin of the Chambishi basin), and a
+transitional facies separating the two.
+
+The Ore Shale equivalent in the Mufulira syncline is here interpreted to be the
+section between the base of the “C” and the top of the “B” horizons (fig. 3).
+“C” and “B” wackes, arenites, dolomites, and argillites can be explained as near-
+shore, coarser-grained facies of the Ore Shale. On lithologic criteria, the lower
+boundary of the RL 6 equivalent at Mufulira could be taken at the base of the
+Mudseam (Inter “B-C”). However, the abrupt change from the cross-bedded
+(fluviatile?) grits of the footwall to the marine arenites of the “C” horizon
+(van Eden, 1972) can be equated with the marine transgression at the base of the
+Ore Shale. Supporting evidence for lithostratigraphic correlation of the “B-C”
+sequence with the RL6 is that in both units it is the lowest occurrence, in the
+Katanga Sequence, of bedded carbonates and stromatolites. Stromatolites have been
+described from the Inter “B-C” beds at Mufulira (Malan, 1964) and have recently
+been identified at the same stratigraphic horizon in drillcores from the Ndola area.
+In the Chambishi-Nkana basin, stromatolites and biohermal carbonates occur at
+several localities in the Ore Shale (Annels, 1972; Clemmey, pers. comm.).
+
+Southwest of the Luanshya-Chililabombwe alignment, the Ore Shale and the
+upper part of the Lower Roan pinch out, and dolomitic metasediments of Upper
+Roan affinity directly overlie Footwall clastics. At the eastern edge of the Chi-
+buluma mining area, a pyritic carbonaceous argillite that correlates with the Ore
+Shale at nearby Nkana can still be recognized; further to the west, however, the
+Ore Shale pinches out and dolomite, amphibolite, and albite-chlorite rocks overlie
+the sandstone and conglomerate.
+
+In the Nchanga-Chingola region, the strata between the base of the Lower
+Banded Shale (Ore Shale) and the Felspathic Quartzite are about 80 m thick.
+Further to the southeast, along strike, this part of the succession thins to 8 m of
+dolomitic quartz-micaschist and the Lower Banded Shale cannot be distinguished.
+Further west, the Felspathic Quartzite rests directly on rocks which are reliably
+assigned to the Footwall.
+
+These relationships are consistent with a rapid northeasterly transgression of
+the Katanga sea at the onset of Ore Shale deposition. The area to the southwest of
+Kalulushi was too far from the shoreline to receive much clastic material and
+mainly carbonates were deposited throughout the time of deposition of the upper
+part of the Lower Roan. Unfortunately, thick but irregular bodies of amphibolite
+obscure the sedimentary record in this area.
+
+RL 5 (Hangingwall Formation)
+
+The RL 5 includes the units from the top of the Ore Shale (RL 6) to the base
+of the white dolomite (RL 4). Predominantly. arenaceous, the unit is characterized
+by numerous alternations of arenites and argillites, becoming more dolomitic and
+schistose- towards the top. Several arkosic: beds :provide- useful local markers, but a
+
+===== page 7
+ 
+
+ 
+
+STRATIGRAPHY OF COPPER OCCURRENCES IN ZAMBIA 221
+
+MUFULIRA
+(generalized) NE.
+
+ORE-SHALE ALIGNMENT [Z| uPren Do.omiTe
+
+SW. (generalized) INTERBEDDED SHALE
+ou p AND QUARTZITE
+
+RUT (RU2?)
+BLUE SHALE
+
+UPPER INTERMEDIATE
+DOLOMITE
+
+AL3, SHALE
+WITH GRIT,
+SANDY. TALC
+SCHIST
+
+ 
+
+ 
+
+MIDOLE QUARTZITE
+
+ 
+
+LOWER INTERMEDIATE
+DOLOMITE
+
+IMENDELSOHN, 1961),
+
+ 
+
+GLASSY QUARTZITE
+
+RL4_. CHINGOLA
+DOLOMITE, CHERTY
+DOLOMITE UPPER ARGILLACEOUS
+QUARTZITE
+
+MARKER GAIT
+90° Dolomite
+
+UPPER ARGILLACEOUS
+
+T.F.Q.,UPPER
+oer QUARTZITE
+
+QUARTZITE
+ALS
+
+‘A’ ARENITE AND WACKE
+HANGING WALL - Biases
+UARTZITE. _ 20-4) INTER ‘A.B’ QUARTZITE
+
+MASSIVE SHALE
+LOWER DOLOMITE
+
+Gritty Marker
+
+ORE SHALE
+‘B’ ARENITE AND WACKE
+
+Algal Dolomite INTER “8-C°
+
+ 
+
+‘C’ ARENITE AND WACKE
+
+RL7, FOOTWALL
+
+UPPER FOOTWALL
+
+LOWER FOOTWALL
+
+ 
+
+BASEMENT
+COMPLEX BASEMENT COMPLEX
+
+ 
+
+ 
+
+ 
+
+Fic. 3. — Stratigraphic correlation of the Lower Roan across the Kafue Anticline.
+
+===== page 8
+222 P.L. BINDA AND J. R. MULGREW
+
+conspicuous arkose unit (T.F.Q., Upper Quartzite, etc., in fig. 2) can be traced from
+Chililabombwe to Luanshya. In Luanshya there is a marked lateral change in the
+RL5 : mainly arkose alternating with gritty argillite in the east, less sandy and
+more dolomitic (and anhydritic) towards the west. It should be noted that the
+Felspathic Quartzite of Chingola (Nchanga) is here correlated with the Luanshya
+Marker Quartzite, and not with the RL 3 as in Mendelsohn (1961).
+
+A correlation of the RL 5 with the Mufulira succession can be attempted on
+the basis of tectono-sedimentary events which can be interpolated across the Kafue
+Anticline. At the top of the Ore Shale there is a gradual coarsening of grain size
+heralding the hangingwall arenites. These arenites, often cross-bedded and with
+basal scour features can be interpreted as having been deposited during a regression
+of the Katanga sea. At Mufulira, evidence of uplift and regressive conditions can
+be found in the Inter “A-B” quartzite and grit: overlying the Lower Dolomite are
+some remarkable examples of pre-consolidation slumping in the Massive Shale
+(Brandt et al., in Mendelsohn, 1961, p. 411) followed upwards by a coarse arkose
+displaying some distinct fluviatile cross-bedding. A convenient upper boundary of
+the RL 5 equivalent at Mufulira is the top of the Glassy Quartzite (fig. 3).
+
+RL 4 (Chingola Dolomite)
+
+The RL 4 is a 13 to 35 m thick, white to yellowish-brown dolomite with one
+or two thin beds of argillite towards the top. This unit persists, virtually unchanged
+in its main characters from Luanshya to Chililabombwe. At each mine it con-
+stitutes an important aquifer, if not the principal one, and is known by a variety
+of local names (fig. 2). The lateral continuity of the Cherty Dolomite with the
+shale marker near the top, has already been stressed by Hoffman (1967). In
+Mendelsohn (1961) the Chingola Dolomite, Cherty Dolomite, and Far Water
+Dolomite were correlated with the Upper Roan of Luanshya, and not with the
+RL 4 (Lower Roan) as in this paper (fig. 2).
+
+At Mufulira, and along the whole of the Mufulira-Ndola strike, the litho-
+stratigraphic equivalent of the RL 4 is tentatively taken as the Lower Intermediate
+Dolomite (fig. 3), also the local major aquifer.
+
+RL 3 and Shale with Grit
+
+At Luanshya, the RL 3 consists of more than 100 m of coarse arkose and con-
+glomerate, becoming more argillaceous towards the west. This coarse facies at the
+top of the Lower Roan in Luanshya has long represented an obstacle to a correct
+correlation of the Roan Group in the Copperbelt. Mulgrew (1972) observed from
+the Konkola Dome to Chililabombwe, a lateral facies change from a Luanshya-
+type arkose to the gritty argillite which is the more common lithotype of the
+uppermost Lower Roan in the Copperbelt. Mulgrew therefore correlated the RL 3
+with: Shale with Grit (Chililabombwe), Argillite (Chingola), Sandy Talc Schist
+(Chambishi), Far Water Grits and Argillites (Nkana) as shown in figure 2. The
+coarse arkose is probably a facies deposited near the basin edges during a major
+uplift, while argillites with lenses of coarse sand represent the basinal facies.
+
+===== page 9
+STRATIGRAPHY OF COPPER OCCURRENCES IN ZAMBIA 223
+
+COPPER OCCURRENCES
+
+The relationships between copper occurrences and stratigraphy are discussed
+at three scales: megascale (regional and large stratigraphic units), mesoscale (single
+mining property and small stratigraphic units), microscale (from single exposure to
+microscopic observation).
+
+Copper occurrences include not only orebodies, but also sub-economic mineral-
+ization and some geochemical copper anomalies which are at least one order of
+magnitude above the background. In rocks of the Roan Group, the background
+Copper values are in the order of 10 to 30 ppm as determined by routine A.A.S.
+methods.
+
+MEGASCALE
+
+At the megascale, the stratigraphic control of copper occurrences is remarkable.
+The following points serve to highlight this control:
+
+1. Ore occurrences are restricted to Lower Roan rocks: nearly all of the
+Zambian copper is mined from approximately the middle portion of the Lower
+Roan, from about the Cobble Conglomerate (in the RL 7) to the base of the
+Chingola Dolomite (RL 4). In a sedimentary column 1 000 to 1500 m thick, ore-
+bodies, and also most of the anomalous values, are confined to a well defined
+150-200 m thick stratigraphic interval. The only notable exceptions are the various
+copper occurrences in rocks of the pre-Katanga Basement Complex (Pienaar, in
+Mendelsohn, 1961, p. 30). Some of these lesser occurrences have been interpreted
+by Mendelsohn (in Mendelsohn, 1961, p. 140) as the product of downward percola-
+tion from overlying mineralized Lower Roan rocks. Voet and Freeman (1972)
+have recorded primary copper sulphides in Basement rocks at Chingola and inter-
+preted them as the remnants of the copper lodes which provided a source for some
+Lower Roan orebodies.
+
+2. There is a distinct regional-stratigraphic pattern in the distribution of the
+orebodies. The Zambian Copperbelt can be sub-divided into three sub-parallel belts
+striking northwest-southeast (fig. 1).
+
+To the extreme southwest is a belt in which economic copper mineralization is
+restricted to arenites older than the Ore Shale. Examples of those orebodies are
+Chibuluma and Chibuluma West, Mimbula and Fitula, and a few relatively small
+deposits which are being explored south of Kalulushi. In these areas the Ore Shale
+is absent or represented by argillite which can be pyritic and carbonaceous as in
+Chibuluma, or phyllitic and quartzitic as at Mimbula and Fitula. This mineraliza-
+tion is, however, not restricted to the belt indicated in figure 1, but encroaches onto
+other areas (e.g. Footwall orebodies at Chambishi and Nkana).
+
+The central belt is the Ore Shale Alignment and constitutes a most spectacular
+example of stratiform orebodies stretching over a strike-distance of more than
+one hundred kilometres from Musoshi, in Shaba, to Luanshya. Along this belt the
+Katanga metasediments are preserved from erosion in separate structural basins
+(fig. 1). The orebodies are confined to the 5 to 50 m thick Ore Shale, except at
+Nchanga where orebodies occur locally in most of the Lower Roan succession up to
+
+===== page 10
+224 P.L, BINDA AND J. R. MULGREW
+
+the Chingola Dolomite (RL 4). More than one half of the Zambian copper is mined
+from this alignment. The Ore Shale is not of ore grade along the whole of the
+strike, but its copper content is always at least two orders of magnitude above the
+background.
+
+Minor Footwall and Basement mineralizations are present at several localities
+along the alignment.
+
+To the northeast of the Kafue Anticline, from Luansobe to Bwana Mkubwa, lies
+a belt of orebodies in arenites and wackes (e.g. Mufulira) that are here correlated
+with the Ore Shale. The Lower Roan succession is continuous along the belt, but
+gaps between known orebodies are wider than on the Ore Shale Alignment.
+
+3. Orebodies are controlled by paleotopography. A characteristic of the Copper-
+belt orebodies is their localization adjacent to paleohills of the early-Katanga
+topography; this criterion has become a most useful guide to exploration. The
+copper-bearing horizons are generally lean above paleohills, attain maximum values
+on the slopes, and become lean again above paleovalleys. This paleotopographic
+control is more noticeable in the arenaceous orebodies (Garlick, 1967; Whyte and
+Green, 1971) than in the argillite orebodies, although certainly effective in the latter
+also (Mendelsohn, in Mendelsohn, 1961, p. 124).
+
+At places, during deposition of the RL 6 and its equivalents, Basement paleo-
+hills were the depositional sites of stromatolitic carbonates. These algal mounds,
+although not totally depleted in copper, are not generally of ore grade. Arenites and
+argillites adjacent to the mounds are the sites of rich ore (Garlick, 1964).
+
+4. Major and minor copper occurrences are stratiform and correlate throughout
+the Copperbelt. In figure 4 are shown copper graphs of seven drillholes from
+mining and exploration areas in the Copperbelt. Stratigraphic columns and graphs
+have been drawn on drilled thickness—not true thickness.
+
+Copper values have been truncated at the 500 ppm mark, but orebodies are
+indicated to distinguish them from lesser geochemical anomalies. The seven drill-
+cores in figure 4 may not be entirely representative of the respective areas: they
+represent some of the preliminary results of a larger geochemical investigation.
+
+The anomalous copper values can be subdivided stratigraphically in four
+horizons.
+
+Peak (1): Footwall anomalies occurring in arenites and conglomerates, and not
+related to Ore Shale mineralization. The two small anomalies at Chambishi and
+Mwambashi (fig. 4) may correlate with the Chibuluma, Mimbula, Fitula orebodies,
+the Nkana Footwall orebody, and the deposits south of Kalulushi. However,
+owing to the somewhat erratic nature of Footwall orebodies, closely-spaced strati-
+graphic and geochemical work is needed to assess the continuity of these anomalous
+copper values.
+
+Peak (2): This peak occurs in the Ore Shale, and in the ore wackes and arenites
+northeast of the Kafue Anticline, and may transgress into the immediately under-
+lying Footwall rocks.
+
+The peak is still noticeable even where the copper concentration is not of ore
+grade or thickness, e.g. Luansobe. Peak (2 A), the “A” Orebody of Mufulira, is
+here correlated with the lower part of the RL 5, and thus possibly with the Inter-
+mediate Orebody at Nchanga.
+
+Peak (3): The peak at, or above, the Glassy Quartzite (Upper Q., Marker Q.,
+T.F.Q.), although never emphasized in previous literature, is probably the best
+evidence of stratigraphic control of copper distribution. This mineralization attains
+
+===== page 11
+225
+
+STRATIGRAPHY OF COPPER OCCURRENCES IN ZAMBIA
+
+“yaquaddog uviquvz ay} woaf sajoylfiap uadas ul Saquadingz0 waddoo Aounu pun solput fo uoynqgiasip a1ydvs8yoUg — ‘y ‘O1T
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ey
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+|
+
+so
+
+Minos insvrinw
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+aunoginawy
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+===== page 12
+ 
+
+226 P.L. BINDA AND J. R. MULGREW
+
+ore grade in the Nchanga-Chingola region where it constitutes the Nchanga Upper
+Orebody. Elsewhere the mineralization consists of a few visible grains of chalco-
+pyrite and has values between a few hundred and a few thousand ppm copper.
+At Chambishi and Chililabombwe the mineralization is often found in the Cherty
+Dolomite (fig. 4). In a few exploratory drillholes east of Chililabombwe, where the
+Ore Shale is not of ore grade, the only distinct mineralization (up to 1% total
+copper) is also in the dolomite. Along the whole of the Luansobe-Ndola alignment,
+the anomaly is confined to the top of the Glassy Quartzite and overlying argillite,
+and it is so persistent that it is used by the Mufulira geologists as a stratigraphic
+criterion for the identification of the Glassy Quartzite and Lower Intermediate
+Dolomite.
+
+Peak (4): At places, anomalous copper values have been detected in the upper-
+most subdivision of the Lower Roan, the RL 3 and its equivalents. Unfortunately
+not enough information is available on these anomalies and on their exact strati-
+graphic position.
+
+At Mutulira and in the Ndola area, anomalously high copper values are known
+to occur in the Blue Shale and in the argillaceous and dolomitic quartzites associ-
+ated with it. In a small area at Mwambashi, copper mineralization has been
+encountered in a carbonaceous argillite which could be the equivalent of the Blue
+Shale. At Lufubu North, northwest of Luanshya, there is a small pocket of
+mineralization with values up to 1.5 percent total copper in interbedded arkose and
+argillite a few metres above the RL 3/RL 4 contact.
+
+MESOSCALE
+
+Local factors, not all of which are necessarily stratigraphically significant, are
+also responsible for finer variations in the distribution of copper at individual mines.
+
+The Ore Shale Orebodies
+
+Chililabombwe (Bancroft) and Musoshi. — At the northern tip of the Zambian
+Copperbelt only the Ore Shale mineralization is economic and has been exploited
+at three shafts: Kirila Bombwe North and South orebodies, and Konkola. At
+Musoshi Mine in Zaire, 3 km along strike from the Konkola Orebody, the Ore
+Shale is broadly similar to that of the Chililabombwe region but individual in detail.
+
+At all four localities the Ore Shale is dominantly a silty argillite around 10 m
+thick but there are fine differences between each property in lithology and mineral-
+ization. Lithological subdivision into units of a metre or so has been extended
+over the North and South orebodies which are separated by a barren gap, probably
+a bioherm, but at Konkola Orebody only the basal unit (unit A) is recognizable.
+
+This unit is the basal carbonate schist which is usually recognizable throughout
+the Ore Shale Alignment. At Musoshi, the carbonate schist is missing and the
+Footwall Conglomerate is overlain by a massive siltstone (orebody unit B of
+Chililabombwe). This massive siltstone is unmineralized at Musoshi and well
+mineralized at South Orebody. At North Orebody, there is a gradual transgression
+of mineralization from near the top of unit B into the underlying unit A, and even
+into the Footwall, with increasing depth. At North Orebody, changes in mineral-
+
+===== page 13
+ 
+
+ 
+
+STRATIGRAPHY OF COPPER OCCURRENCES IN ZAMBIA 227
+
+ization at the top of the Ore Shale are gradual, whereas at the bottom they are
+erratic and significant over short distances; east of the mine, the mineralization
+becomes gradually subeconomic as a result of the downward transgression of
+economic values relative to a stratigraphic marker (Anderson, 1968). Thus while
+the Ore Shale thickness remains unchanged, the orebody thins by 3 m over a
+horizontal distance of 650 m.
+
+Nchanga. — The Lower Banded Shale (Ore Shale) constitutes an important
+orebody about 20 m thick. In the Nchanga-Chingola area, the Lower Banded Shale
+(L.B.S.) is dominantly a black, carbonaceous laminated argillite similar to the South
+Orebody facies at Nkana. Details of stratigraphic variations in mineralization are
+largely obscured by supergene effects, but some general observations can be made.
+South of the Nchanga-Chingola region in the area of the Chingola open pit,
+gradual impoverishment in copper is accompanied by thinning of the L.B.S. North
+of the Nchanga Syncline, the L.B.S. is grey and silty rather than black and carbon-
+aceous and it is generally sub-economic. An important exception in this area is at
+River Lode open pit where a cupriferous lamprophyre dyke intrudes the Ore
+Shale. The coincidence of the intrusion with the local mineralization of the L.BS.
+may be fortuitous, but the ore is apparently not stratigraphically controlled, and
+the relationship merits further investigation.
+
+Chambishi. — At Chambishi, the Ore Shale is a silty argillite, rich in carbonate
+towards the base, sandy at the top. To the west and to the south it passes laterally
+to a pyritic-carbonaceous argillite. Garlick (in Mendelsohn, 1961, p. 281) described
+sedimentary thinning and changes to sandy facies against two Basement paleohills.
+A 500 m wide barren gap atop a Basement paleohill separates Chambishi Main
+Orebody from Chambishi West.
+
+Mineralization in the Chambishi Ore Shale is stratiform and analogous to other
+deposits along the same belt, but peculiar to Chambishi are barren breccia zones,
+approximately 10 m wide, that cut across both stratification and folds. The argillite
+within these zones is intensely albitised and veined. Jolly (1971) concluded that
+
+copper, sulphur, and iron minerals in the breccia were replaced by soda and
+carbonate minerals.
+
+Nkana (Kitwe). — The regional Ore Shale facies change, from silty argillite
+in the north to black argillite in the south (Annels, 1972), cuts obliquely through
+the northeastern limb of the Nkana syncline. In the north, at Mindola, the Ore
+Shale is subdivided in several lithotypes, but copper concentrations do not appear
+to favour any particular subunit (Jordaan, in Mendelsohn, 1961, p. 297). It is note-
+worthy that higher-grade mineralization occurs near the top of the Ore Shale at
+Mindola, and near its base at South Orebody. A biohermal barren gap interrupts
+the continuity of the orebody in silty argillite, with rich ore occurring in the
+argillite adjacent to the bioherm.
+
+Luanshya. — The vertical and lateral distribution of copper minerals has been
+described in detail by Mendelsohn (in Mendelsohn, 1961, p. 351), and by Lee-
+Potter (ibid., p. 343) and Vink (1972) for the Baluba area. In summary, two ore-
+bodies, both in Ore Shale (RL 6) are mined at Luanshya: an upper orebody in
+silty argillite in the eastern part and a lower orebody in tremolite-biotite-carbonate
+schist in the west (Muliashi South). In the tightly folded central part of the mine
+workings, where the two orebodies overlap, they are separated by a pyrite-rich
+zone. A barren gap has been described by Mendelsohn (op. cit.) in the same general
+
+===== page 14
+228 P.L. BINDA AND J. R. MULGREW
+
+area: the Ore Shale passes laterally to a talcose dolomite that has tentatively been
+interpreted as a bioherm, although no algal structures have been identified within
+it (Garlick, 1964). Towards the west, at the fringe of the lower orebody, the upper
+boundary of economic mineralization transgresses downwards until only the basal
+part of RL 6 is of ore grade and is overlain by pyritic argillite.
+
+Possibly the step-down of mineralization towards the west should be considered
+within the context of the regional transition towards the Footwall Orebodies belt.
+However, Footwall mineralization at Muliashi South and in the adjacent Roan
+Extension occurs only where the basal RL 6 attains ore grade, and may be the
+result of later redistribution from the overlying carbonate schist (Binda, 19695).
+
+Wacke and Arenite Deposits East of the Kafue Anticline
+
+The wackes and arenites which are here correlated with the RL 6 and basal
+RLS are the host rocks of several orebodies along the Luansobe-Ndola strike. Of
+these only Mufulira is discussed briefly.
+
+The stratiform nature of the Mufulira copper deposit, with three superimposed
+and discrete orebodies in metasandstones, has been emphasized in several published
+accounts. Each of the three ore horizons represents the beginning of a transgressive
+cycle (Maree, 1962). The lowermost of these orebodies (“C”) extends for a strike
+length of approximately 5 km, with a 400 m wide barren (pyritic) gap over a
+Basement paleohill. The hangingwall of this orebody shows remarkable strati-
+graphic control: with the exception of a small area in which “C’” and overlying
+“B” orebodies coalesce, the upper boundary of the “C” orebody is marked by a
+30 cm thick dolomitic siltstone (Mudseam). The lower boundary and the lateral
+extent of the ore do not appear to be controlled either by stratigraphy or by
+lithology. The economic mineralization transgresses lateral facies changes from
+carbonaceous wackes to well sorted arenites and extends, locally, into the under-
+lying Footwall arenites and conglomerate. At places, the whole of the section from
+the Footwall arenites to the top of the “A” horizon (see fig. 3) is of ore grade,
+perhaps the result of diagenetic redistribution of copper minerals (van Eden, 1972).
+
+At the orebody fringes, copper minerals give way abruptly to pyrite to the west
+and to barren arenites to the east without apparent change in lithology. However,
+copper concentrations of ore grade are known to occur in metasandstones of the
+“C” horizon a few kilometres to the northwest of Mufulira. The same general
+characteristics are to be found in the “B” and “A” orebodies: excellent stratigraphic
+control on the economic hangingwall, erratic positioning of the footwall, apparent
+lack of lithologic control over the lateral extent of the ore.
+
+Footwall Orebodies
+
+At all of the mines where the Ore Shale or the correlative ore wackes and
+arenites are exploited, there are erratic patches of copper ore in the clastic meta-
+sediments of the Footwall. Occurrences immediately below the Ore Shale are
+generally attributable to later remobilization of copper minerals. A zone of oxida-
+tion at the base of the Ore Shale occurring locally at most deposits even at great
+depths, is evidence of late remobilization. However, especially in the Footwall Ore-
+bodies belt (fig. 1) there are orebodies that are sufficiently separate from the Ore
+
+===== page 15
+ 
+
+STRATIGRAPHY OF COPPER OCCURRENCES IN ZAMBIA 229
+
+Shale, or its assumed position, to be considered unrelated to overlying copper
+concentrations and possibly deposited during an earlier marine transgression. The
+stratigraphic distribution of these “separate” Footwall ore occurrences requires
+more regional study, but the following common characteristics can be mentioned.
+
+(a) They show stronger paleotopographic control than Ore Shale deposits, being
+invariably located near Basement highs.
+
+(b) They occur in virtually all lithotypes, from the Basal Conglomerate to the
+sandstones of the upper Footwall, but not in the large-scale cross-bedded quartzite
+that Garlick (1967) considers as eolian in origin. At Mimbula, six zones of copper
+mineralization are recognized by Smit (in Mendelsohn, 1961, p. 280) between the
+base of the Katanga Sequence and the base of the Ore Shale; of these zones, only
+one, 2 to 10 m thick, has any lateral persistence.
+
+(c) They are stratiform but lenticular in shape and relatively small by Copper-
+belt standards.
+
+(d) They are often higher grade than the Ore Shale deposits, e.g. Chibuluma
+West (Whyte and Green, 1971), and Fitula.
+
+Hangingwall Orebodies
+
+The occurrence of high copper values at correlatable stratigraphic horizons
+above the Ore Shale and its equivalents has already been noted and illustrated in
+figure 4.
+
+The Felspathic Quartzite and a few metres of the overlying dolomitic argillite
+constitute Nchanga’s Upper Orebody. It is remarkable that such a continuous
+arenaceous unit attains ore grade in only two relatively small areas, one on the
+southern limb of the Nchanga Syncline, the other to the south in the Chingola
+Syncline.
+
+The Nchanga Intermediate Orebody is a smaller lenticular occurrence, mainly
+in the Pink Quartzite (fig. 2) and may be correlative with the Mufulira “A”
+Orebody.
+
+While some of the Hangingwall ore in the Nchanga-Chingola region is regarded
+as redeposited from supergene solutions, the Upper Orebody shows sulphide
+mineral zoning at depth which is thought to be primary, and the main copper
+mineral is chalcopyrite.
+
+MICROSCALE
+
+The accumulation of copper minerals on bedding planes and their even dis-
+semination in the more massive lithotypes have had such large coverage in previous
+literature as to require only brief mention in this paper.
+
+In the Ore Shale, a distinction must be made between lower carbonate schist and
+upper argillite. In the carbonate schist it is often difficult to distinguish the original
+bedding, and the copper minerals usually occur as augen-like blebs, veinlets, and
+concentrations that rather reflect the metamorphic than the sedimentary history of
+the rock. In the bedded argillite there are some remarkable concentrations of
+sulphide grains along bedding planes, whereas in the more massive argillite the ore
+
+===== page 16
+230 P.L. BINDA AND J. R. MULGREW
+
+is evenly disseminated, and the grain size is directly related to that of the rock.
+Clearly diagenetic in origin are the concretionary spherical bodies a few centimetres
+in diameter occurring at several localities towards the top of the Ore Shale. Calcium
+sulphate occupies the centre of the spherules and a thin lining of chalcopyrite or
+pyrite surrounds it, in contact with the host rock.
+
+The ore-bearing arenaceous rocks display some spectacular concentrations of
+copper sulphides on bedding surfaces. At Mufulira and Chibuluma, Garlick (1967)
+described accumulations of copper sulphides along bottomset and foresets of cross-
+bedding, in hollows of ripple-marks, in erosional potholes, and in a variety of other
+sedimentary structures. The concentration of sulphide grains along the dark laminae
+of foresets, which are also richer in detrital heavy minerals, in preference to the
+light laminae, in cross-bedded arenites of the “C” horizon at Mufulira, is suggestive
+of detrital deposition of the ore minerals (Garlick and Fleischer, 1972). As an
+alternative explanation van Eden (1972) suggested that the constituents of the
+dark laminae had a greater chemical affinity for copper circulating in intrastratal
+solutions during diagenesis.
+
+Attempts to identify the mechanisms of deposition of the ore grains through
+microscopic examination have so far proved unsuccessful. Original sedimentary
+textures are obscured by diagenetic and metamorphic reorganization, and the
+sulphides normally occupy interstitial positions among detrital and metamorphic
+grains.
+
+DISCUSSION AND CONCLUSIONS
+
+Work which is still in progress has resulted in a revised stratigraphic correlation
+of the Lower Roan. The RL 3 of Luanshya is correlated with the beds overlying the
+Cherty Dolomite in the Chambishi-Nkana basin and with the Shale with Grit of
+Chililabombwe, and not with the Felspathic Quartzite as formerly (fig. 2). The
+position of the Lower Roan/Upper Roan boundary has been redefined at several
+localities on lithologic criteria, regardless to the fact that it can be diachronous
+away from a type section. At Mufulira, for example, the contact steps down
+stratigraphically towards the southeast owing to the disappearance of the clastic
+units overlying the Lower Intermediate Dolomite.
+
+Stratigraphic work on the beds underlying the Ore Shale is still in its early
+stages, and correlation of these clastic lenses may prove difficult owing to their
+impersistence and local provenance of the materials. The units between the top of
+the Footwall and the Upper Roan dolomites can be satisfactorily correlated along
+strike on both flanks of the Kafue Anticline. Correlation across the three belts of
+figure 1 is possible at a large scale, but uncertain in detail owing to facies changes
+and to the presence of thick bodies of amphibolite in the southwestern part of the
+Copperbelt. Correlation of these Late Precambrian metasediments is necessarily
+lithostratigraphic since time indicators are lacking. Stromatolites and microfossils
+which have been recorded in Katanga rocks (Malan, 1964; Paltridge, 1968; Binda,
+19725, 1973) are still inadequate for detailed biostratigraphy.
+
+Garlick (in Mendelsohn, 1961, p. 89; 1969) suggested that the marine trans-
+gression during which the Ore Shale was deposited, was checked at the site of the
+Kafue Anticline before crossing it, and that the Mufulira ore horizons are therefore
+younger than the Ore Shale. It is, however, more likely that the post-RL 6 uplift
+
+===== page 17
+STRATIGRAPHY OF COPPER OCCURRENCES IN ZAMBIA 231
+
+correlates and is synchronous with that at the end of the Massive Shale deposition
+at Mufulira. In this case the Mufulira “C” and “B” arenaceous horizons must be
+considered as the near-shore facies of the Ore Shale. Thus an important corollary
+of this correlation is that the stratigraphically more persistent copper occurrences
+may be time-dependent.
+
+The association of orebodies with transgressions of the Katanga sea has been
+stressed by several authors (Mendelsohn, in Mendelsohn, 1961, p. 125; Maree,
+1962; Garlick, 1969). It has been shown in this paper that, not only the orebodies,
+but also some minor copper occurrences are strongly controlled by stratigraphy
+(fig. 4). If all copper occurrences, major and minor, are considered within the strati-
+graphic and sedimentologic framework of the Lower Roan, the following succession
+of events can be envisaged:
+
+(1) Transgression covering at least the southwesternmost part of the Copper-
+belt. Copper occurrences associated with this transgression are those of the Foot-
+wall, e.g. Chibuluma. The northern extent of this transgression has not yet been
+investigated: the predominance of continental sediments at Mufulira suggests a
+limit may have existed to the southwest of this area. The regression closing this
+cycle may extend to the Footwall Conglomerate.
+
+(2) A transgression which advanced swiftly towards the northeast over the
+whole of the Copperbelt, depositing the Ore Shale as well as “C” and “B” wackes
+and arenites of Mufulira. Minor oscillations of the shore line in the paralic zone
+produced two cycles in the Mufulira area, while in the centre of the basin the Ore
+Shale sedimentation was continuous. Uplift and regression, with deposition of the
+Hangingwall Quartzites and Inter-“AB” grits and quartzite closed this cycle.
+
+(3) Transgression and minor oscillations of the shore lines expressed by the
+alternations of arkose and argillite in the lower half of the RL 5 formation. Ore
+occurrences associated with these episodes are the “A” Orebody at Mufulira and
+the Intermediate Orebody at Nchanga. Minor copper peaks in the Hangingwall
+beds at Chililabombwe (fig. 4) may be related to these cycles.
+
+(4) Transgression beginning with the Glassy Quartzite (T.F.Q., Upper
+Quartzite), with marine conditions continuing until the top of the Chingola
+Dolomite (Cherty Dolomite). To this cycle can be attributed the minor but wide-
+spread ore occurrences (3) of figure 4, and the Nchanga Upper Orebody.
+
+(5) Local but violent uplift expressed by the coarse clastics of the RL3 at
+Luanshya and Konkola, while marine conditions probably prevailed throughout
+most of the Copperbelt. Local copper occurrences in the Blue Shale, and in the
+RL 3 at Lufubu North (Luanshya) may be attributed to cycles towards the close
+of Lower Roan deposition.
+
+Although the primary source of the metal and the mode of its emplacement
+remain a matter of speculation, the sedimentary model proposed above is an
+attempt at a regional interpretation of stratigraphic, sedimentologic, and geo-
+chemical information up to date. It takes account of the stratiform nature of the
+ore occurrences, their regional-stratigraphic continuity, and their cyclical recurrence
+in the Lower Roan.
+
+===== page 18
+232 P. L. BINDA AND J. R. MULGREW
+
+ACKNOWLEDGEMENTS
+
+The Managements of Roan Consolidated Mines Limited and Nchanga Con-
+solidated Copper Mines Limited are thanked for permission to publish data
+contained in this paper.
+
+The authors wish to express their sincere gratitude to the geologists of the
+Stratigraphic Correlation Study Group and to many other geologists at the various
+Copperbelt mines.
+
+Critical reading and helpful comments by M. W. Ellis, P. V. Freeman, and
+R. J. Wright are gratefully acknowledged.
+
+References
+
+ANDERSON, R. J. (1968). — Stratigraphic control of variation in orebody width, Kirila Bombwe
+North Orebody. Unpublished company report, N.C.C.M., Konkola Division.
+
+ANNELS, A. E, (1972). — Palaeogeography and sedimentology of the Ore Shale formation.
+Unpublished company report R.C.M., Prospecting Dept.
+
+BARTHOLOME, P., EvRARD, P., KATEKESHA, F., LoPEz-Ruiz, J. and Nconco, M. (1973). —
+Diagenetic ore-forming processes at Kamoto, Katanga, Republic of Zaire. In:
+Amstutz, G. C. and BERNARD, A. J. (editors), Ores in Sediments. Springer-Verlag, Berlin,
+p. 21-41.
+
+Bunpa, P. L. (1969a). — The top of RL7 at Muliashi South. Part I: Lithology and depositional
+environment. Unpublished company report, R.C.M., GR 16.
+
+Binpa, P. L. (19695). — The top of RL7 at Muliashi South. Part II: Mineralization and
+sedimentary geology. Unpublished company report, R.C.M., GR 23.
+
+Binpa, P. L. (1972a). — Zircons of the Nchanga Granite and overlying metasediments,
+Zambia. 24th Int. Geol. Congress, section 1, p. 179-186.
+Binpa, P. L. (19726). — Preliminary observations on the palynology of the Precambrian
+
+Katanga Sequence, Zambia. Geologie en Mijnbouw, Vol. 51, p. 315-319.
+
+Binpa, P. L. (1973). — Microfossils from the Lower Kundelungu (Late Precambrian) of
+Zambia. Unpublished company report, R.C.M., GR 51.
+
+Binpa, P. L. and Van Even, J. G. (1972). — Sedimentological evidence on the origin of the
+Precambrian Great Conglomerate (Kundelungu Tillite), Zambia. Palaeogeogr., Palaco-
+climatol., Palaeoecol., Vol. 12, p. 151-168.
+
+Canen, L. (1970). — Etat actuel de la géochronologie du Katangien. In: L. CaHen, J. DELHAL,
+S. Deutscu, N. Grocer, D. Lepenr and P. PASTEELS, Three contributions to the
+geochronology and petrogenesis of granite rocks in the copperbelt of Zambia and South-
+east Katanga Province (Republic of Zaire). Ann. Mus. r. Afr. centr., Vol. 65, p. 7-14.
+
+Canen, L. and LEPERSONNE, J. (1967). — The Precambrian of the Congo, Rwanda, and
+Burundi. In: K. RaNkama (editor), The Precambrian. Interscience, New York, N.Y.,
+Vol. 3, p. 143-290.
+
+CutrForD, T. N. (1962). — The stratigraphy and structure of the Upper Proterozoic rocks of
+northern South-West Africa and their correlation with the “Groupe du Katanga” of
+Central Africa. Sixth Ann. Report (1960-1961), Res. Inst. African Geol. Univ. Leeds,
+p. 41-43,
+
+Epen, J. G, VAN (1969). — Paleocurrent analysis and remarks on lithostratigraphy of “C”
+orebody and footwall formation, Mufulira. Unpublished company report, R.C.M., GR 18.
+
+Eben, J. G. VAN (1970). — Paleocurrent analysis and depositional environment of the “C”
+orebody and footwall formation, Mufulira. Unpublished company report, R.C.M., GR 28.
+Epen, J. G., Van (1972). — Depositional and diagenetic environment related to sulphide
+
+mineralization, Mufulira, Zambia. Unpublished company report, R.C.M., GR 42. |
+Epen, J. G. Van and BINpA, P. L. (1972). — Scope of stratigraphic and sedimentologic analysis
+of the Katanga Sequence, Zambia. Geologie en Mijnbouw, Vol. 51, p. 321-328.
+
+===== page 19
+STRATIGRAPHY OF COPPER OCCURRENCES IN ZAMBIA 233
+
+Gar ick, W. G. (1964). — Association of mineralization and algal reef structures on Northern
+Rhodesian Copperbelt, Katanga, and Australia. Economic Geology, Vol. 59, p. 416-427.
+
+Gartick, W. G. (1967). — Special features and sedimentary facies of stratiform sulphide
+deposits in arenites. Proc. 15th Inter-Univ. Geol. Cong., Univ. of Leicester, p. 107-169.
+
+GarLick, W. G. (1969). —- Geology of the Zambian Copperbelt. Horizon, Vol. 11, No. 9,
+p. 6-13.
+
+Gartick, W. G. and FLEIscHer, V. D. (1972). — Sedimentary environment of Zambian copper
+deposition. Geologie en Mijnbouw, Vol. 51, p. 277-298.
+
+Gray, A. (1930). — The correlation of the ore-bearing sediments of the Katanga and Rhodesian
+Copperbelt. Econ. Geol., Vol. 25, p. 783-801.
+
+Hopcson, W. A. (1969). — Stratigraphy and copper distribution in the “C” horizon and
+footwall beds at Mufulira West. Unpublished company report, R.C.M., GR 24.
+
+Horrman, U. H. G. (1967). — Correlation of the Lower Roan and Upper Roan strata within
+the Copperbelt of Zambia. Unpublished company report, R.C.M., G.R.U. Bull. 7.
+
+Jotty, J. L. W. (1971), — Chambishi breccia zone. Unpublished company report, R.C.M.,
+GR 39,
+
+Matan, S. P. (1964). — Stromatolites and other algal structures at Mufulira, Northern
+Rhodesia. Economic Geology, Vol. 59, p. 397-415.
+
+Maree, S. C. (1962). — Lithology of the Mufulira copper deposits. In: NIcoLINI, P. (editor),
+Stratiform copper deposits in Africa. Part I: Lithology, Sedimentology. Assoc. African
+Geol. Surveys, Paris, p. 159-171.
+
+McKenzie, E. (1968). — Roan Basin—geology and structure. Unpublished company report,
+R.C.M., Luanshya Division, Geology Dept.
+
+MENDELSonN, F. (editor) (1961). — The Geology of the Northern Rhodesian Copperbelt.
+Macdonald, London, 523 pages.
+
+Mutcrew, J. R. (1968). — Recent information on the stratigraphy of the rocks of the Katanga
+System derived from drilling in the area between Bancroft and Konkola. Unpublished
+company report, N.C.C.M., Konkola Division, Geology Dept.
+
+Mutcrew, J. R. (1972). — Further information on the correlation west of the Kafue Anticline.
+Unpublished company report, N.C.C.M., Konkola Division, Geology Dept.
+
+PALTRIDGE, I. M. (1968). — An algal biostrome fringe and associated mineralization at Mufu-
+lira, Zambia. Economic Geology, Vol. 63, p. 207-216.
+
+Vink, B. W. (1972). — Sulphide mineral zoning in the Baluba Orebody, Zambia. Geologie en
+Mijnbouw, Vol. 51, p. 309-313.
+
+Voet, H. W. and Freeman, P. V. (1972). — Copper orebodies in the basal Lower Roan meta-
+sediments of the Chingola Open Pit area, Zambian Copperbelt. Geologie en Mijnbouw,
+Vol. 51, p. 299-308.
+
+Wuyte, R. J. and Green, M. E. (1971). — Geology of Chibuluma West. Economic Geology,
+Vol. 66, p. 400-424.
+

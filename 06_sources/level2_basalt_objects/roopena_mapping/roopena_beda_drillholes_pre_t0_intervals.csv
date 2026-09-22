@@ -1,0 +1,103 @@
+DRILLHOLE_NO,DEPTH_FROM_M,DEPTH_TO_M,GIS_CODE,STRAT_UNIT_NAME,MAJOR_LITHOLOGY,age_class,is_pre_adelaidean,is_pandurra,is_crystalline_basement,DH_NAME,drill_date,dist_od_km,lon_dd,lat_dd,max_depth_m,OPERATOR_NAME
+19796,1.22,28.66,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 1,1967-09-25,257.9,137.398676,-32.7188158,249.58,South Australia. Department of Mines and Energy.
+19796,28.66,49.53,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 1,1967-09-25,257.9,137.398676,-32.7188158,249.58,South Australia. Department of Mines and Energy.
+19796,49.53,75.0,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 1,1967-09-25,257.9,137.398676,-32.7188158,249.58,South Australia. Department of Mines and Energy.
+19796,75.0,92.26,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 1,1967-09-25,257.9,137.398676,-32.7188158,249.58,South Australia. Department of Mines and Energy.
+19796,92.26,115.98,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 1,1967-09-25,257.9,137.398676,-32.7188158,249.58,South Australia. Department of Mines and Energy.
+19796,115.98,131.11,M-talr--01,Roopena Basalt unit 1,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 1,1967-09-25,257.9,137.398676,-32.7188158,249.58,South Australia. Department of Mines and Energy.
+19796,131.11,149.35,M-talf--01,Fresh Well Formation unit 1,Siltstone,Mesoproterozoic,True,False,True,ROOPENA DDH 1,1967-09-25,257.9,137.398676,-32.7188158,249.58,South Australia. Department of Mines and Energy.
+19796,149.35,227.25,M-talf--01,Fresh Well Formation unit 1,Peperite,Mesoproterozoic,True,False,True,ROOPENA DDH 1,1967-09-25,257.9,137.398676,-32.7188158,249.58,South Australia. Department of Mines and Energy.
+19796,227.25,249.58,Y--x-o,Moonabie Formation,Sandstone,Palaeoproterozoic,True,False,True,ROOPENA DDH 1,1967-09-25,257.9,137.398676,-32.7188158,249.58,South Australia. Department of Mines and Energy.
+19845,0.0,6.75,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 4,1968-08-20,257.8,137.3965388,-32.7186762,168.3,South Australia. Department of Mines and Energy.
+19845,6.75,13.75,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 4,1968-08-20,257.8,137.3965388,-32.7186762,168.3,South Australia. Department of Mines and Energy.
+19845,13.75,30.5,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 4,1968-08-20,257.8,137.3965388,-32.7186762,168.3,South Australia. Department of Mines and Energy.
+19845,30.5,38.0,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 4,1968-08-20,257.8,137.3965388,-32.7186762,168.3,South Australia. Department of Mines and Energy.
+19845,38.0,46.25,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 4,1968-08-20,257.8,137.3965388,-32.7186762,168.3,South Australia. Department of Mines and Energy.
+19845,46.25,54.25,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 4,1968-08-20,257.8,137.3965388,-32.7186762,168.3,South Australia. Department of Mines and Energy.
+19845,54.25,79.25,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 4,1968-08-20,257.8,137.3965388,-32.7186762,168.3,South Australia. Department of Mines and Energy.
+19845,79.25,98.75,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 4,1968-08-20,257.8,137.3965388,-32.7186762,168.3,South Australia. Department of Mines and Energy.
+19845,98.75,121.25,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 4,1968-08-20,257.8,137.3965388,-32.7186762,168.3,South Australia. Department of Mines and Energy.
+19845,121.25,126.3,M-talr--01,Roopena Basalt unit 1,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 4,1968-08-20,257.8,137.3965388,-32.7186762,168.3,South Australia. Department of Mines and Energy.
+19845,126.3,139.43,M-talf--01,Fresh Well Formation unit 1,Sandstone,Mesoproterozoic,True,False,True,ROOPENA DDH 4,1968-08-20,257.8,137.3965388,-32.7186762,168.3,South Australia. Department of Mines and Energy.
+19845,139.43,168.3,Y--x-o,Moonabie Formation,Sandstone,Palaeoproterozoic,True,False,True,ROOPENA DDH 4,1968-08-20,257.8,137.3965388,-32.7186762,168.3,South Australia. Department of Mines and Energy.
+19846,0.0,7.6,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 2,1967-10-16,257.9,137.4009197,-32.718953,120.3,South Australia. Department of Mines and Energy.
+19846,7.6,21.43,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 2,1967-10-16,257.9,137.4009197,-32.718953,120.3,South Australia. Department of Mines and Energy.
+19846,21.43,25.0,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 2,1967-10-16,257.9,137.4009197,-32.718953,120.3,South Australia. Department of Mines and Energy.
+19846,25.0,34.14,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 2,1967-10-16,257.9,137.4009197,-32.718953,120.3,South Australia. Department of Mines and Energy.
+19846,34.14,57.25,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 2,1967-10-16,257.9,137.4009197,-32.718953,120.3,South Australia. Department of Mines and Energy.
+19846,57.25,58.6,M-talf,Fresh Well Formation,Peperite,Mesoproterozoic,True,False,True,ROOPENA DDH 2,1967-10-16,257.9,137.4009197,-32.718953,120.3,South Australia. Department of Mines and Energy.
+19846,58.6,66.34,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 2,1967-10-16,257.9,137.4009197,-32.718953,120.3,South Australia. Department of Mines and Energy.
+19846,66.34,83.06,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 2,1967-10-16,257.9,137.4009197,-32.718953,120.3,South Australia. Department of Mines and Energy.
+19846,83.06,101.78,M-talr--01,Roopena Basalt unit 1,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 2,1967-10-16,257.9,137.4009197,-32.718953,120.3,South Australia. Department of Mines and Energy.
+19846,101.78,120.47,Y--x-o,Moonabie Formation,Sandstone,Palaeoproterozoic,True,False,True,ROOPENA DDH 2,1967-10-16,257.9,137.4009197,-32.718953,120.3,South Australia. Department of Mines and Energy.
+19847,0.0,37.19,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 3,1968-07-18,257.9,137.398676,-32.7188158,181.66,South Australia. Department of Mines and Energy.
+19847,37.19,62.63,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 3,1968-07-18,257.9,137.398676,-32.7188158,181.66,South Australia. Department of Mines and Energy.
+19847,62.63,83.0,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 3,1968-07-18,257.9,137.398676,-32.7188158,181.66,South Australia. Department of Mines and Energy.
+19847,83.0,102.11,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 3,1968-07-18,257.9,137.398676,-32.7188158,181.66,South Australia. Department of Mines and Energy.
+19847,102.11,130.22,M-talr--02,Roopena Basalt unit 2,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 3,1968-07-18,257.9,137.398676,-32.7188158,181.66,South Australia. Department of Mines and Energy.
+19847,130.22,141.43,M-talr--01,Roopena Basalt unit 1,Basalt,Mesoproterozoic,True,False,True,ROOPENA DDH 3,1968-07-18,257.9,137.398676,-32.7188158,181.66,South Australia. Department of Mines and Energy.
+19847,141.43,151.97,M-talf--01,Fresh Well Formation unit 1,Sandstone,Mesoproterozoic,True,False,True,ROOPENA DDH 3,1968-07-18,257.9,137.398676,-32.7188158,181.66,South Australia. Department of Mines and Energy.
+19847,151.97,175.87,Y--x-o,Moonabie Formation,Sandstone,Palaeoproterozoic,True,False,True,ROOPENA DDH 3,1968-07-18,257.9,137.398676,-32.7188158,181.66,South Australia. Department of Mines and Energy.
+19902,0.0,0.6,IH,Quaternary rocks,Soil,post-Cambrian cover,False,False,False,PACMINEX EX 53,1973-11-12,249.4,137.4420606,-32.6339094,61.0,Mount Gunson Mines Pty Ltd.
+19902,0.6,49.0,N-hunt,Tapley Hill Formation,Shale,Adelaidean,False,False,False,PACMINEX EX 53,1973-11-12,249.4,137.4420606,-32.6339094,61.0,Mount Gunson Mines Pty Ltd.
+19902,49.0,55.0,N-xcak,Backy Point Formation,Conglomerate,Adelaidean,False,False,False,PACMINEX EX 53,1973-11-12,249.4,137.4420606,-32.6339094,61.0,Mount Gunson Mines Pty Ltd.
+19902,55.0,61.0,M----p,Pandurra Formation,Sedimentary Rock,Mesoproterozoic,True,True,False,PACMINEX EX 53,1973-11-12,249.4,137.4420606,-32.6339094,61.0,Mount Gunson Mines Pty Ltd.
+19904,0.0,6.0,IH,Quaternary rocks,Clay (Undiff. Origin),post-Cambrian cover,False,False,False,PACMINEX EX 45,1973-11-08,240.5,137.4075416,-32.5578454,56.4,Mount Gunson Mines Pty Ltd.
+19904,6.0,43.0,N-hunt,Tapley Hill Formation,Shale,Adelaidean,False,False,False,PACMINEX EX 45,1973-11-08,240.5,137.4075416,-32.5578454,56.4,Mount Gunson Mines Pty Ltd.
+19904,43.0,52.0,N-xcak,Backy Point Formation,Conglomerate,Adelaidean,False,False,False,PACMINEX EX 45,1973-11-08,240.5,137.4075416,-32.5578454,56.4,Mount Gunson Mines Pty Ltd.
+19904,52.0,56.4,M----p,Pandurra Formation,Sandstone,Mesoproterozoic,True,True,False,PACMINEX EX 45,1973-11-08,240.5,137.4075416,-32.5578454,56.4,Mount Gunson Mines Pty Ltd.
+19905,0.0,12.0,IH,Quaternary rocks,Clay (Undiff. Origin),post-Cambrian cover,False,False,False,PACMINEX EX 41,1973-10-03,234.2,137.3935146,-32.5023114,65.5,Mount Gunson Mines Pty Ltd.
+19905,12.0,24.0,N-hu----02,Umberatana Group unit 2,Clay (Undiff. Origin),Adelaidean,False,False,False,PACMINEX EX 41,1973-10-03,234.2,137.3935146,-32.5023114,65.5,Mount Gunson Mines Pty Ltd.
+19905,24.0,34.0,N-hunt,Tapley Hill Formation,Dolomite Rock,Adelaidean,False,False,False,PACMINEX EX 41,1973-10-03,234.2,137.3935146,-32.5023114,65.5,Mount Gunson Mines Pty Ltd.
+19905,34.0,41.0,N-xcak,Backy Point Formation,Conglomerate,Adelaidean,False,False,False,PACMINEX EX 41,1973-10-03,234.2,137.3935146,-32.5023114,65.5,Mount Gunson Mines Pty Ltd.
+19905,41.0,65.5,M----p,Pandurra Formation,Sandstone,Mesoproterozoic,True,True,False,PACMINEX EX 41,1973-10-03,234.2,137.3935146,-32.5023114,65.5,Mount Gunson Mines Pty Ltd.
+19907,0.0,24.0,IH,Quaternary rocks,Sand,post-Cambrian cover,False,False,False,PACMINEX EX 76,1974-03-13,257.7,137.4945895,-32.7003074,37.5,Mount Gunson Mines Pty Ltd.
+19907,24.0,30.0,N-hunt,Tapley Hill Formation,Dolomite Rock,Adelaidean,False,False,False,PACMINEX EX 76,1974-03-13,257.7,137.4945895,-32.7003074,37.5,Mount Gunson Mines Pty Ltd.
+19907,30.0,33.0,N-xcak,Backy Point Formation,Conglomerate,Adelaidean,False,False,False,PACMINEX EX 76,1974-03-13,257.7,137.4945895,-32.7003074,37.5,Mount Gunson Mines Pty Ltd.
+19907,33.0,37.5,M----p,Pandurra Formation,Quartzite,Mesoproterozoic,True,True,False,PACMINEX EX 76,1974-03-13,257.7,137.4945895,-32.7003074,37.5,Mount Gunson Mines Pty Ltd.
+140268,0.0,1.8,IH,Quaternary rocks,Silt,post-Cambrian cover,False,False,False,BHP RP 1,1969-12-12,259.1,137.3918486,-32.7308224,99.1,Broken Hill Pty Co Ltd.
+140268,1.8,91.4,M-talr,Roopena Basalt,Basalt,Mesoproterozoic,True,False,True,BHP RP 1,1969-12-12,259.1,137.3918486,-32.7308224,99.1,Broken Hill Pty Co Ltd.
+140268,91.4,99.1,Y--x-o,Moonabie Formation,Quartzite,Palaeoproterozoic,True,False,True,BHP RP 1,1969-12-12,259.1,137.3918486,-32.7308224,99.1,Broken Hill Pty Co Ltd.
+140269,0.0,1.5,IH,Quaternary rocks,Silt,post-Cambrian cover,False,False,False,BHP RP 2,1969-12-12,258.6,137.3671986,-32.7306594,83.8,Broken Hill Pty Co Ltd.
+140269,1.5,76.2,M-talr,Roopena Basalt,Siltstone,Mesoproterozoic,True,False,True,BHP RP 2,1969-12-12,258.6,137.3671986,-32.7306594,83.8,Broken Hill Pty Co Ltd.
+140269,76.2,83.8,M-talf--01,Fresh Well Formation unit 1,Conglomerate,Mesoproterozoic,True,False,True,BHP RP 2,1969-12-12,258.6,137.3671986,-32.7306594,83.8,Broken Hill Pty Co Ltd.
+140300,0.0,3.0,IH,Quaternary rocks,Gravel,post-Cambrian cover,False,False,False,PACMINEX EX 42,1973-11-04,234.1,137.4228616,-32.4963134,54.9,Mount Gunson Mines Pty Ltd.
+140300,3.0,42.0,N-hunt,Tapley Hill Formation,Shale,Adelaidean,False,False,False,PACMINEX EX 42,1973-11-04,234.1,137.4228616,-32.4963134,54.9,Mount Gunson Mines Pty Ltd.
+140300,42.0,52.7,N-xcak,Backy Point Formation,Conglomerate,Adelaidean,False,False,False,PACMINEX EX 42,1973-11-04,234.1,137.4228616,-32.4963134,54.9,Mount Gunson Mines Pty Ltd.
+140300,52.7,54.9,M----p,Pandurra Formation,Quartzite,Mesoproterozoic,True,True,False,PACMINEX EX 42,1973-11-04,234.1,137.4228616,-32.4963134,54.9,Mount Gunson Mines Pty Ltd.
+140302,0.0,6.0,IH,Quaternary rocks,Soil,post-Cambrian cover,False,False,False,PACMINEX EX 46,1973-11-09,240.6,137.3630806,-32.5661644,80.8,Mount Gunson Mines Pty Ltd.
+140302,6.0,40.0,N-hunt,Tapley Hill Formation,Clay (Undiff. Origin),Adelaidean,False,False,False,PACMINEX EX 46,1973-11-09,240.6,137.3630806,-32.5661644,80.8,Mount Gunson Mines Pty Ltd.
+140302,40.0,70.0,N-xcak,Backy Point Formation,Sandstone,Adelaidean,False,False,False,PACMINEX EX 46,1973-11-09,240.6,137.3630806,-32.5661644,80.8,Mount Gunson Mines Pty Ltd.
+140302,70.0,80.8,M-ta,Gawler Range Volcanics,Volcanics,Mesoproterozoic,True,False,True,PACMINEX EX 46,1973-11-09,240.6,137.3630806,-32.5661644,80.8,Mount Gunson Mines Pty Ltd.
+140307,0.0,3.0,IH,Quaternary rocks,Soil,post-Cambrian cover,False,False,False,PACMINEX EX 51,1973-11-11,250.3,137.4583495,-32.6387304,18.6,Mount Gunson Mines Pty Ltd.
+140307,3.0,6.0,N-hunt,Tapley Hill Formation,Clay (Undiff. Origin),Adelaidean,False,False,False,PACMINEX EX 51,1973-11-11,250.3,137.4583495,-32.6387304,18.6,Mount Gunson Mines Pty Ltd.
+140307,6.0,12.0,N-xcak,Backy Point Formation,Conglomerate,Adelaidean,False,False,False,PACMINEX EX 51,1973-11-11,250.3,137.4583495,-32.6387304,18.6,Mount Gunson Mines Pty Ltd.
+140307,12.0,18.6,M----p,Pandurra Formation,Sedimentary Rock,Mesoproterozoic,True,True,False,PACMINEX EX 51,1973-11-11,250.3,137.4583495,-32.6387304,18.6,Mount Gunson Mines Pty Ltd.
+140312,0.0,3.0,IH,Quaternary rocks,Soil,post-Cambrian cover,False,False,False,PACMINEX EX 56,1973-11-13,249.0,137.3966196,-32.6379424,45.7,Mount Gunson Mines Pty Ltd.
+140312,3.0,37.0,N-hunt,Tapley Hill Formation,Shale,Adelaidean,False,False,False,PACMINEX EX 56,1973-11-13,249.0,137.3966196,-32.6379424,45.7,Mount Gunson Mines Pty Ltd.
+140312,37.0,43.0,N-xcak,Backy Point Formation,Conglomerate,Adelaidean,False,False,False,PACMINEX EX 56,1973-11-13,249.0,137.3966196,-32.6379424,45.7,Mount Gunson Mines Pty Ltd.
+140312,43.0,45.7,M----p,Pandurra Formation,Quartzite,Mesoproterozoic,True,True,False,PACMINEX EX 56,1973-11-13,249.0,137.3966196,-32.6379424,45.7,Mount Gunson Mines Pty Ltd.
+140315,0.0,12.0,IH,Quaternary rocks,Gravel,post-Cambrian cover,False,False,False,PACMINEX EX 59,1973-11-15,256.5,137.4532255,-32.6969944,24.7,Mount Gunson Mines Pty Ltd.
+140315,12.0,22.0,N-xcak,Backy Point Formation,Sandstone,Adelaidean,False,False,False,PACMINEX EX 59,1973-11-15,256.5,137.4532255,-32.6969944,24.7,Mount Gunson Mines Pty Ltd.
+140315,22.0,24.7,M----p,Pandurra Formation,Quartzite,Mesoproterozoic,True,True,False,PACMINEX EX 59,1973-11-15,256.5,137.4532255,-32.6969944,24.7,Mount Gunson Mines Pty Ltd.
+140320,0.0,9.0,IH,Quaternary rocks,Gravel,post-Cambrian cover,False,False,False,PACMINEX EX 70,1974-03-11,262.0,137.4953595,-32.7393554,33.3,Mount Gunson Mines Pty Ltd.
+140320,9.0,15.0,N-hunt,Tapley Hill Formation,Clay (Undiff. Origin),Adelaidean,False,False,False,PACMINEX EX 70,1974-03-11,262.0,137.4953595,-32.7393554,33.3,Mount Gunson Mines Pty Ltd.
+140320,15.0,30.0,N-xcak,Backy Point Formation,Conglomerate,Adelaidean,False,False,False,PACMINEX EX 70,1974-03-11,262.0,137.4953595,-32.7393554,33.3,Mount Gunson Mines Pty Ltd.
+140320,30.0,33.3,M----p,Pandurra Formation,Quartzite,Mesoproterozoic,True,True,False,PACMINEX EX 70,1974-03-11,262.0,137.4953595,-32.7393554,33.3,Mount Gunson Mines Pty Ltd.
+140327,0.0,4.0,IH,Quaternary rocks,Sand,post-Cambrian cover,False,False,False,PACMINEX EX 77,1974-03-13,257.3,137.4815465,-32.6991414,19.0,Mount Gunson Mines Pty Ltd.
+140327,4.0,13.0,N-hueh,Whyalla Sandstone,Sandstone,Adelaidean,False,False,False,PACMINEX EX 77,1974-03-13,257.3,137.4815465,-32.6991414,19.0,Mount Gunson Mines Pty Ltd.
+140327,13.0,17.0,N-xcak,Backy Point Formation,Conglomerate,Adelaidean,False,False,False,PACMINEX EX 77,1974-03-13,257.3,137.4815465,-32.6991414,19.0,Mount Gunson Mines Pty Ltd.
+140327,17.0,19.0,M----p,Pandurra Formation,Quartzite,Mesoproterozoic,True,True,False,PACMINEX EX 77,1974-03-13,257.3,137.4815465,-32.6991414,19.0,Mount Gunson Mines Pty Ltd.
+140329,0.0,5.0,IH,Quaternary rocks,Gravel,post-Cambrian cover,False,False,False,PACMINEX EX 79,1974-03-13,255.9,137.4543975,-32.6910634,46.0,Mount Gunson Mines Pty Ltd.
+140329,5.0,12.5,N-hunt,Tapley Hill Formation,Clay (Undiff. Origin),Adelaidean,False,False,False,PACMINEX EX 79,1974-03-13,255.9,137.4543975,-32.6910634,46.0,Mount Gunson Mines Pty Ltd.
+140329,12.5,45.0,N-xcak,Backy Point Formation,Gravel,Adelaidean,False,False,False,PACMINEX EX 79,1974-03-13,255.9,137.4543975,-32.6910634,46.0,Mount Gunson Mines Pty Ltd.
+140329,45.0,46.0,M----p,Pandurra Formation,Sedimentary Rock,Mesoproterozoic,True,True,False,PACMINEX EX 79,1974-03-13,255.9,137.4543975,-32.6910634,46.0,Mount Gunson Mines Pty Ltd.
+140333,0.0,3.0,IH,Quaternary rocks,Sand,post-Cambrian cover,False,False,False,PACMINEX EX 83,1974-03-16,253.8,137.4305955,-32.6764244,40.0,Mount Gunson Mines Pty Ltd.
+140333,3.0,12.0,N-hueh,Whyalla Sandstone,Sandstone,Adelaidean,False,False,False,PACMINEX EX 83,1974-03-16,253.8,137.4305955,-32.6764244,40.0,Mount Gunson Mines Pty Ltd.
+140333,12.0,28.0,N-hunt,Tapley Hill Formation,Clay (Undiff. Origin),Adelaidean,False,False,False,PACMINEX EX 83,1974-03-16,253.8,137.4305955,-32.6764244,40.0,Mount Gunson Mines Pty Ltd.
+140333,28.0,39.5,N-xcak,Backy Point Formation,Gravel,Adelaidean,False,False,False,PACMINEX EX 83,1974-03-16,253.8,137.4305955,-32.6764244,40.0,Mount Gunson Mines Pty Ltd.
+140333,39.5,40.0,M----p,Pandurra Formation,Quartzite,Mesoproterozoic,True,True,False,PACMINEX EX 83,1974-03-16,253.8,137.4305955,-32.6764244,40.0,Mount Gunson Mines Pty Ltd.
+140340,0.0,13.0,IH,Quaternary rocks,Clay (Undiff. Origin),post-Cambrian cover,False,False,False,PACMINEX EX 90,1974-03-21,234.3,137.3917766,-32.5037604,36.0,Mount Gunson Mines Pty Ltd.
+140340,13.0,20.0,N-hunt,Tapley Hill Formation,Clay (Undiff. Origin),Adelaidean,False,False,False,PACMINEX EX 90,1974-03-21,234.3,137.3917766,-32.5037604,36.0,Mount Gunson Mines Pty Ltd.
+140340,20.0,28.0,N-xcak,Backy Point Formation,Sandstone,Adelaidean,False,False,False,PACMINEX EX 90,1974-03-21,234.3,137.3917766,-32.5037604,36.0,Mount Gunson Mines Pty Ltd.
+140340,28.0,36.0,M-ta,Gawler Range Volcanics,Andesite,Mesoproterozoic,True,False,True,PACMINEX EX 90,1974-03-21,234.3,137.3917766,-32.5037604,36.0,Mount Gunson Mines Pty Ltd.

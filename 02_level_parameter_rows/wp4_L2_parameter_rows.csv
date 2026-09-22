@@ -1,0 +1,7 @@
+parameter,annex_placeholder,in_state_value,source,status,confirmed_2026_09_22
+basalt lateral extent,2 to 20 km,"Roopena outcrop 4.7 x 3.6 km, 8.6 km2, principal axes 4.6 and 2.8 km, long axis 157 deg","PORT AUGUSTA 1:250,000 (1968); Risely 1968","in state, single analog","LogUniform(2, 20) km (citation row L2-2)"
+basalt stacked-flow thickness,50 to 300 m,75 to 141 m in Roopena DDH 1-4 and BHP RP 1-2; Risely bases 131 m and >103 m,Roopena and BHP logs 1967-69; Risely 1968,in state,"LogUniform(75, 300) m (citation row L2-2)"
+lineament intensity multiplier,2 to 5,"no number; 20 blue 1974 targets cover 5.4% of the two sheets, upper bound 1/f = 18","O'Driscoll OD6 iv (Sept 1974), OD4 iv (1974)",in state as a bound; translation,"Uniform(1, 18) (citation row L2-3)"
+basalt density (Level 5 row),2.80 to 3.00,"Risely median 2.80, 10 to 90% 2.66 to 2.95",Risely 1968,in state,"Normal(2.80, 0.12) truncated 2.60 to 3.35 g/cm3 (citation row L5-1)"
+basalt object intensity,"2 to 10 per 10,000 km2",not citable from these pieces,none,"to elicit, from geological reasoning only","Uniform(2, 10), declared (citation row L2-1)"
+WMC targeting rule,(basis piece),memoranda NOT FOUND; two WMC Sept 1974 targeting plans survive on O'Driscoll sheets OD6 iv and OD7 i,O'Driscoll eCat 79287,testimony; memoranda decision pending,encoded as the Level 4 ore rule; testimony

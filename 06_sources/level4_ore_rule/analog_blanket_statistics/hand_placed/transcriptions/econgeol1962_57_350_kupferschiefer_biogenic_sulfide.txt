@@ -1,0 +1,1024 @@
+                           EconomicGeology
+                            Vol. 57, 1962, pp. 350-366
+
+
+
+
+                                         BIOGENIC                  PRIMARY                   SULFIDE         OF THE        PERMIAN
+                                                     KUPFERSCHIEFER                                   AND   MARL      SLATE
+
+                                                                                        L. G. LOVE
+
+
+                                                                                            CONTENTS
+
+                                                                                                                                                  PAGE
+
+                           Abstract       ..............................................................                                            350
+                           Introductionand previousresearch......................................                                                   350
+                           Experimentalmethod ..................................................                                                    353
+                           Descriptionof the sulfidemineralfraction ................................                                                353
+                              Kupferschiefer .....................................................                                                  353
+                              Marl slate .........................................................                                                  354
+                           Microfossils released from the sulfide ....................................                                              354
+                           Sulfide-organic
+                                         matterrelationship in the spheres.........................                                                 357
+                           Formationof the primarysulfide........................................                                                   359
+                           Formationof secondarysulfide..........................................                                                   361
+                           References ............................................................                                                  365
+
+                                                                                            ABSTRACT
+
+
+                                    The sulfide of the Kupferschiefer of Germany includes myriads of
+                                  small spheresmostlyup to 20 t• in diameter. Theseare now shownto con-
+                                  tain    and      be enclosed in delicate                         microfossil   remains   associated      with
+                                  Pyritosphaera barbaria Love 1957, which has been recognizedin the
+                                  pyrite microspheres of many dark shalerocksand somerecentsediments.
+                                  The principal forms are regarded as the remains of micro-organismsthat
+                                  causedthe authigenicprecipitationof the primary sulfidein the sediment
+                                  of the foul-bottomedearly Zechsteinsea of Europe. Similar observations
+                                  have been made from the Marl Slate of north east England, a contiguous
+                                  depositof the same sea. This primary sulfide of the Kupferschieferhas
+                                  been shownby studiesof other workers on pseudomorphism     to have been
+                                  pyrite and not of mixed sulfidesincluding copperas postulatedby earlier
+                                  syngeneticists. Demonstrationhere of its early formation allows consid-
+                                  eration of early diagenetic replacementand the current theories of the
+                                  origin of this secondarymineralization are discussedin this light.
+
+                                                                                      INTRODUCTION
+
+
+                           Ti•is paper arises from paleontologicalstudies of samplesof the Permian
+                           Kupferschieferof Mansfeld, Germany, and the equivalent Marl Slate from
+                           north eastEngland. It givesin particularan explanationof the origin of the
+                           disseminatedsulfidespheresabundantlyoccurringin them and therebypro-
+                           videsa contributionto the understandingof the metalliferousdepositsof these
+                           rocks. The origin of the sphereshas already engagedthe attentionof many
+                           writers without satisfactoryconclusionbut the approachand methodsde-
+                           scribedin the presentwork give a new meansof resolvingthe problem.
+                               The forms in which sulfidesof the Speise or disseminatedore of the
+                                                                                                  350
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                                                               BIOGENIC PRIMARY SULFIDE                                                            351
+
+                           Kupferschieferoccur,especiallythe microscopic
+                                                                       grains,have beendescribed
+                           by Schneiderh6hn (20, 21) for the Mansfelddepositsand by Neuhaus(15)
+                           for those of the Kupfermergel of Lower Silesia. That the Marl Slate of
+                           north eastEngland,briefly describedby Dunham (4, p. 262-3) in its setting
+                           as an ore-bearingdeposit,and the Kupferschieferand the Kupfermergelare
+                           equivalentis discussedby Deans (3, p. 344-347) who describedsimilarmin-
+                           eralization there. Concerningthe form of the sulfide, the compositionof
+                           whichwill be discussed later, Neuhaus'observations adequatelysum up those
+                           of Schneiderh6hn  and coverthree groups.
+                               (a) Most importantin the presentstudy are the Kieskii#elchen(15, p.
+                           318, Fig. 5). These well known small spheres3 to 20 t• in diameter,are
+                           composedof closelypacked sulfide particles each « to 3 t• in size. The
+                           abundance  of thesespheresin the Kupferschieferis notable. Both Schneider-
+                           h6hn (20, p. 14) and Schouten(22, p. 376) record10,000or moreper cu mm
+                           of rock.
+                                 (b) Anothercharacteristic
+                                                       sulfide
+                                                             formis thatof theKieskli•mpchen.
+                                                                                           At
+                           20 to 40 t• the sizeis greaterthan that of the Kiesldigelchenand the individual
+                           grains,too, are coarser,generallyabout 3 to 8 • across. Neuhaus (15, p.
+                           322) notestheir rarity in the Kupferschieferof Mansfeldand althoughthe
+                           presentauthor has found the explanationof [heir form in other rocks (12),
+                           theyhardlyenterinto the presentpaper.
+                               (c) Individualcrystalsof the sizeand form of the grainsfrom which the
+                           Kieskiigelchen   are built up are alsofound. Both Schneiderh6hn    (20, p. 15)
+                           andNeuhaus(15, p. 322) refer to this as fine sulfide"dust"scatteredthrough-
+                           out the bituminousgroundmassof the shale.
+                               The early formationof sulfidespheres,at least of pyrite, in the history
+                           of the Kupferschieferis acceptableto all authors. Schneiderh6hn(20, 21)
+                           introducedthe conceptof vererzte Bakterien or mineralizedbacteriato ex-
+                           plain their origin syngeneticwith depositionof the shale. As vererzteBak-
+                           terien the sphereswere held to be the relics of sulfur bacteriawhosesulfur
+                           had becomefixed by a mixture of metals,includingcopper,previouslyin
+                           solutionin the sea water. The great abundanceof the spheresand their
+                           regular shapewere significantfactorsin association     with the obviouslyfoul
+                           bottom nature of the depositswhere sulfur bacteria would be expectedto
+                           proliferate. To Schouten(9, 23) this theory was unacceptable,       one of the
+                           groundsbeing the lack of resemblance       of the spheresto any known sulfur
+                           bacteria. By detailedstudiesof pseudomorphism         (22) the pyrite spheres
+                           were shownto be a phasegenerallyreplacedby other minerals-•copper,zinc
+                           and leadsulfides--but,evenby inferencefrom studiesof the Mount Isa Shale
+                           of Australia, Schoutenwas unable to disprove,conclusively,the primary
+                           syngenetic
+                                   originof the spheresas postulated
+                                                                   by Schneiderh6hn.If indeed
+                           they were primary then probablySchoutenwould have regardedthem as the
+                           product of the crystallizationof small inorganicallyaccumulatedblobs of
+                           sulfidegel,as did Barringer(Taylor, in 11, p. 438) andRust (19) for similar
+                           formsfrom recognizedhypogeneore deposits.
+                              By the broadrangeof rocksover which Schouten'sdiscussion    rangedit is
+                           clear how widespreadin ore depositsis the occurrenceof sulfidespheres.
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                           352                                                  L. G. LO?E
+
+                           Deans(3, p. 349-350) hasnotedthat pyrite spheresare no lesscommonin
+                           various coals and shale and are to be regarded,in fact, as characteristicof
+                           sapropelic rocks. His commenton their passiverole in the mineralizationof
+                           the Kupferschiefer  in no way reducestheir importance,in their enormous
+                           abundance,  as hoststo many ore mineralsfound as pseudomorphs        of the
+                           spheresafter pyrite or marcasite.
+                               To thisgeneralproblemit hasbeenrelevantto applythemethodsemployed
+                           by the author on other rocks,a brief accountof which follows. Pyrite
+                           spheres, of a sizeand type comparable  with thoseof the Kupferschiefer were
+                           observedby the authorin shalesof the Lower Carboniferous    (Mississippian)
+                           succession in Scotland. It was found possible(11) to isolatethesepyrite
+                           spheres:removalof the pyrite from them by nitric acid left microfossilre-
+                           mains of an organicmaterial,principallyas small spheres,which had been
+                           containedwithin the pyrite spheres. Subsequent   work has confirmedthat in
+                           other deposits,suchas the Lower JurassicShalesof England (12) the same
+                           phenomenoncan be demonstratedwhile a clearer idea of the morphologyof
+                           the micro-organisms  was obtained. It washeld that the consistentassociation
+                           of theseorganismswith sulfideis due to their originalgenerationof hydrogen
+                           sulfidein themudpossibly   in themannerof the sulfate-reducingbacteria. As
+                           a result,actingalsoas the focusfor the inevitableprecipitationof iron from
+                           solutionby the sulfide,they becameinfilledwith someform of iron sulfide,
+                           perhapshydrated,which ultimatelycrystallizedas pyrite. No doubt iron
+                           sulfidealsoformedelsewhereas minutecrystalsin the mud. The organisms
+                           werethoughtto representpart, at least,of an organiclife cycleand perhaps
+                           to be saprophyticin nature. Later studies,still continuing,suggesta sim-
+                           pler interpretationof their morphology, moreconsistent with that of bacteria.
+                           If indeedthe metabolismof the organismsis correctlyinterpreted,then it is
+                           possiblethat they are representativesof the groupDesulfovibriodesulfuricans
+                           Beijerinck (Kluyver and Van Niel). The long geologicalhistory of the
+                           phenomenon    was demonstrated  by Love and Zimmerman(14) who showed
+                           its prevalencein the Lower ProterozoicMount Isa black shale sediments
+                           where, in fact, the organicform of sulfideaccountsfor enormousquantities
+                           of primary pyrite spheresand indeedrepresentsa great sourceof pyrite
+                           availablefor mobilizationinto massivedeposits.
+                              In the presentstudy,the Kupferschieferspecimens     usedwere kindly re-
+                           leasedfrom the collectionsof the University of Freiberg i. Breisgau (Depart-
+                           ment of Geology),the Imperial Collegeof Science& Technologyand Royal
+                           Schoolof Mines, London (Departmentof Mining Geology)and the author's
+                           ownDepartmentof Geologyin the Universityof Sheffield. Carefullylocated
+                           undergroundmaterialwas thus availablefrom the horizonsof the Shwarze-
+                           berge,the Dachberge, the Kammschale andthe Grosseand FeineLette of the
+                           Kupferschiefer(21, p. 143& Fig. 50). Specimens of Marl Slatefrom north
+                           east Englandwere kindly madeavailable,throughthe AssistantDirector,
+                           H. M. GeologicalSurveyOffice,Leeds,by the North EasternDivisionof the
+                           NationalCoal Board of Great Britain. Accuratelylocalizedcoreswere used
+                           from the followingborings:N.C.B. Durhamoff-shoreNo. 3; N.C.B. 5.
+                           Mainsforth"D"; N.C.B. Ferryhill No. 2; Garmondsway
+                                                                            "D."
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                                                               BIOGENIC PRIMARY SULFIDE                                                            353
+
+                                                                      EXPERIMENTAL              METHOD
+
+
+                               The methodsemployedhave been fully describedelsewhereby the
+                           author (11, p. 461; 14, p. 883; 12) and needonly brief mentionhere.
+                               The rockis crushedand carefullygroundand from it the fractionheavier
+                           than Bromoform(s.g. 2.9 grn cc) is extractedby centrifugingin that liquid.
+                           This fractionis predominantlycomposed     of sulfideminerals. If necessary,
+                           residuallight mineralmaterialmay be removedby standingfor somedaysin
+                           warmhydrofluoric  acid,butanyorganicmaterialadheringto thespheres     is not
+                           thusremoved. The sulfidemineralsmay next be dissolved       by the actionof
+                           warm concentratednitric acid and, from the resultingliquid, after careful
+                           washingfree from acid, a suspension   of micro-organisms  releasedfrom the
+                           sulfide may be concentratedby final centrifuging. Permanentmounts in
+                           glycerineon microscope   slidesare then made. Alternatively,the processof
+                           solutionof the sulfidefrom individualgrainsor smallclustersmay be ob-
+                           servedthroughthe microscope      by usinga specialcell previouslydescribed
+                            (14, p. 884). All this preparationis carriedout carefullyunder conditions
+                           allowingfor the exclusionof all contamination,   with freshlydistilledwater
+                           only beingusedthroughout.
+
+                                                DESCRIPTION           OF    THE     SULFIDE        MINERAL          FRACTION
+
+
+                              Kupferschiefer.--Samples  of the sulfideobtainedfrom the disaggregated
+                           rockswere mountedon slidesfor microscopic      examinationby transmitted
+                           light, while a smallnumberof polishedsectionsof the originalrockswere
+                           madefor comparison.The latter methodis that usedby mostearlier ob-
+                           servers. In the grainmounts,as wouldbe expected,  simplesphericalto oval,
+                           4 to 15 t• spheres(Kiesk/igelchen)wereabundant. The surfaceof mostindi-
+                           vidualspheresspeciallyexaminedat high magnification    and underreflected
+                           light showedframboidaltexture,a characteristic   speckledappearance,   de-
+                           scribedby Rust (1, p. 30-31). In polishedsections(Figs. 1, 2) this could
+                           be seento occurinternallytoo,the spherebeingcomposed   throughout of large
+                           numbersof individualsulfidecrystals,mostlyidiomorphic.Instanceswere
+                           observed   wherein parta continuousmassof sulfideformedpartof thesphere
+                           but whetherthe masswas of one homogenous      mineral was not determined.
+                           Schouten    has shownthe possible rangeof secondary  structuresin massive
+                           spheres
+                                 fromthegrowthof sulfide
+                                                       between
+                                                             theprimarysulfide
+                                                                             to thecomplete
+                           replacementof the primary sulfide. Althoughoccasionalclusterswere seen
+                           in the grain mounts,as in the polishedsections,
+                                                                         no clear evidenceof actual
+                           unionof adjacentspheres
+                                                 wasseen,nor wereanybodiesclearlyseenresem-
+                           bling the Kieskl/impchen
+                                                 with their larger individualwell-spaced
+                                                                                       sulfide
+                           crystals,
+                                   although
+                                          someunusuallycoarseKiesldigelchen
+                                                                          spheres werepresent.
+                           The polishedsections also showedsomespheresof a muchlooserstructure
+                           thanaverage,as if heldin theprocess
+                                                             of breakingup. No suchbodieswere
+                           foundin the loosegrainmountsbut probablythe proportionof very small
+                           grainsof sulfidein the latterwasgreaterthanin the originalshale,dueto the
+                           disintegrationof manyforms of sulfideduringgrinding. Small individual
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                           354-                                                 L. G. LOVE
+
+                           grainsof the size2 to «/• and smallerare scatteredthroughoutthe original
+                           shaleas "dust." Besidesthe spheresand "dust," larger angulargrains of
+                           sulfidewere abundantin the sulfideconcentrate.This materialundoubtedly
+                           representsfragments of more massivesulfide to be seen in small lensesand
+                           veinsin the originalrock but now randomlycrusheddown.
+                              In the presentstudy no detaileddeterminations
+                                                                          were made of the min-
+                           eralogicalcomposition
+                                               of the spheresand other sulfideswith respectto
+                           particularmetals. As would be expected,copperand other metalsas well as
+                           iron were takeninto solutionby the nitric acidusedto dissolvethe sulfide.
+                              Althoughthe useof hydrofluoricacidservedwell to removeany clayand
+                           othermineralsthat still remainedadheringto the sulfideafter centrifuging,
+                           it became clear in the course of the work that removal of all the bituminous
+                           material would seldombe possiblealthoughvery intensegrinding of the
+                           original rock reducedits proportion. Careful study showedthat the sulfide
+                           sphereswere firmly united with shredsand fragmentsand even quite large
+                           piecesof organicbituminous  tissuefrom the shale,whichwerecarrieddownby
+                           the sulfideinto the heavyfraction. Tails of suchmaterialcouldalsobe seen,
+                           by transmittedlight, on somespheresand, occasionally,   very thin rims of
+                           translucentmaterialalthoughthesewere not visibleby reflectedlight at the
+                           upper surface. Someof the spheresappearedto be associated   with recogniz-
+                           able sporeand pollenmaterialand carefulsearchrevealeda smallnumberof
+                           Hystrichospheres  with grains of pyrite (not of Kieskiigelchentype) borne
+                           internally. All these observationswill be discussedlater.
+                               Marl Slate.--Qualitativelythe sulfideforms in the Marl Slate closely
+                           resemblethoseof the Kupferschiefer, and spheresof Kieskiigelchentype, 5 to
+                           15• in diameter,andapparently  all of pyrite,predominate
+                                                                                  andin somespeci-
+                           mensare nearly as abundantas in the Kupferschiefer. Somegrains of this
+                           type, however,alsooccurin a multiglobularform up to 20 • or 30 • acrossas
+                           if compounded from individualframboidalspheres. Evidenceis given below
+                           that someof theseare in fact unified bodiesand not simply aggregatedby
+                           chanceon mountingthe slideor by formingagainsteachother in the original
+                           mud. Occasional Hystrichosphereswith granular pyritic contents were
+                           also noted.
+
+
+                                                      MICROFOSSILS           RELEASED         FROM      TIlE     SULFIDE
+
+
+                               The bulk of the microfossils
+                                                          revealedby solutionof the sulfidespheresand
+                           multispheresshowthe featuresof, and are assignedto, the speciesPhyrito-
+                           sphaerabarbariaLove 1957 and the forms recognizedas associated     with that
+                           species(12) from Lias (Lower Jurassic) and Carboniferousstrata. Only
+                           a little distinctioncan be made betweenthe preparationsobtainedfrom the
+                           Marl Slate of north east England and from the Kupferschieferof Germany.
+                               The isolatedsphericalbodies,where free of any outer sac showedthe
+                           characteristicform of being composedof a closelypacked mass of small
+                           translucentgrains « • in size or less giving a microspinoseto microgranular
+                           surfaceappearance(Figs. 3, 9, 12). Weak birefringenceis shownby a few,
+                           the restare isotropic. The birefringence is greatestimmediatelyafter clearing
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                                                               BIOGENIC           PRIMARY           SULFIDE                                        355
+
+
+
+
+                                                                                                                                                  4
+
+
+
+
+                                                                                                                                                   7
+
+
+
+
+                               13,                                                                                                                15
+
+                              Fits. 1-2. Sulfide spheres (Kieskfigelchen) in Mansfeld Kupferschiefer.
+                           1. Upper surface. 2. Section. Reflectedlight, oil immersion,approx. X 2,500.
+                              Fxcs. 3-7. Microfossilsreleasedfrom sulfide spheresof Mansfeld Kupfer-
+                           schiefer. Transmittedlight, oil immersion,approx. X 2,500.
+                              Fx6s. 8-15. Microfossilsreleasedfrom sulfidespheresof Marl Slate of north
+                           east England. Transmittedlight, oil immersion,approx. X 2,500.
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                           356                                                  L. G. LOVE
+
+                           the sulfidewith acid and decreaseswith longer contactwith the acid and
+                           thereforeit may be due to someinitial productof the reaction,perhapsfree
+                           sulfur.
+                              The largestnumberof microfossilsfall in the morecomplexform of P. bar-
+                           baria (12) wherein the microspjnose  body is encasedin a transparentto
+                           translucentouter sac, the latter commonlyirregularlyattachedto or in-
+                           corporatedin other tissuematerial (Figs. 6, 7). Forms with someincom-
+                           plete remnantof the sacare common(Figs. 4, 8). As was found in Lower
+                           Jurassicand Carboniferousrocks,insteadof the typical sphericalcore body,
+                           in any of theseinstances,a smallermore irregular clusterof small granules
+                           may be foundof materialof similarappearance. Alternatively,rather loosely
+                           developed largeformsof the microgranular  to microspinose
+                                                                                   corebodymay be
+                           found. These were regardedas representinglevelsof developmentof the
+                           core material.
+                               Where the sphericalbodiesare associated     with large sheetsof organic
+                           tissue(Fig. 5) they rest in what at first sightare closelyfitting circularpits
+                           within its surface. In some cases,where the necessarilyvery delicate
+                           observationcouldbe made, it has beenconfirmedthat the lining of the pit
+                           continuesover the upper surfaceof the body within, as a thin transparent
+                           skin. Many similarpits are seendevoidof corebodies,as mightbe expected
+                           from the inevitablyroughtreatmentthe materialhas receivedduring prepara-
+                           tion. When on the upper surfaceof the tissueunder examinationthe pits
+                           appearto be completelyclosedon the lower side; but no empty pit with a
+                           closedupper surfaceas well has been positivelyconfirmed. The organic
+                           tissueinvolvedin this way is generallyquite devoidof any regular structure
+                           or ornament to indicate its origin. Much of the abundant bituminous
+                           organicdebrisin theserocksis in a stateof decomposition
+                                                                                 beyondthat allowing
+                           recognitionof its initial form. None the lesssomegenerallyroundedmasses,
+                           with P. barbaria on them, show suggestionof having been spore or pollen
+                           grains and some undoubtedsaccatepollen grains in the same state have
+                           beenrecognized.
+                              A few piecesof tissueshowa singleopenangulardepression      or groupof
+                           depressions that are analogousto someidiomorphicform of sulfidecrystal.
+                           Not appearingsimilarto the form originallydescribed asPyritella poly•Ionalis
+                           (11, p. 434, & P1. 33, Figs. 6, 7; 12) no organicsignificance
+                                                                                       is attachedto
+                           them. It is probablethat the crystalpressedinto the soft organictissue,
+                           perhapsduring its formation,and during the laboratorypreparationof the
+                           materialthe crystalcarriedthe tissuedowninto the heavyfractionand subse-
+                           quentlywas dissolvedout.
+                               The forms describedabove, and attributed to P. barbaria, are common
+                           to both the Kupferschieferand the Marl Slate. In the latter, two further
+                           relatedforms of materialoccurbut only a few exampleshave beenseenfrom
+                           the Kupferschiefer. In the Marl Slatesimplesphericalsacsare (Figs. 10, 13,
+                           14, 15) releasedfrom the sulfide,of a sizeand form comparablewith those
+                           that encasethe sphericalcorebodies. Some,observedvery closely,seemquite
+                           unbrokenand althoughmost contain at least some small speckof material
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                                                               BIOGENICPRIMARY SULFIDE                                                             357
+
+                           inside,thisis not a generalrule. In the Marl Slate,too,compound   bodies
+                           occur,clearto rough-walled  cells,similarto the singleonesbut apparently
+                           in the relationship
+                                             of parentto bud (Figs. 13, 15). Many of thesetoo are
+                           foundwith corematerialpresentfrom smalllooselygranularclusters(Fig.
+                           15) to well developed sphericalmicrospinose or microgranular bodies(Fig.
+                           11). The singleand compound     saccatebodiesresemble  thosefoundin the
+                           samecircumstances   frompyritespheres  and multispheres of lowerJurassic
+                           and Carboniferous age, and are to be includedunder the saccateforms as-
+                           sociatedwith P. barbaria (12).
+                             Currentstudyof recentsediments  that containabundantpyrite spheres
+                           suggests
+                                  that the body P. barbariarepresentsthe fossilizedremainsof a
+                           saprophytic
+                                    organism  that develops
+                                                          randomlywithinappropriate  cavitiesin
+                           decomposingplanttissues.The pyritethenappearsto form thererapidly.
+                           This meansthat sac formationis not an activity in the life of the micro-
+                           organism. This is discussed furtherby Love and Murray (13). The par-
+                           ticularproblemraisedby the purelysaccate  formsremainsto be solved.
+                               The few pyritizedHystrichospheres  principallyassignable
+                                                                                      to the Michry-
+                           stridia presentaspectsthat distinguishthem from the abovegroup. The
+                           sulfidein them doesnot take the form of spheresand commonlyis as little
+                           as one or two grainsin an otherwisenormal microfossil. On solutionthe
+                           pyrite grains reveal individualsmall organic cells; althoughwhen in a
+                           looseclusterthese resemblethe supposedearly stagesof P. barbariathey
+                           nevertake up the full development of the spherecharacteristics
+                                                                                        of the latter.
+                           On thesegrounds,a distinctionfrom P. barbariais maintained;the materialis
+                           more like that foundwithin pyrite of animaltestsof variousages (12). It
+                           will be the subjectof communication  elsewhere.
+
+                                          SULFIDE-ORGANIC              MATTER         RELATIONSHIP            IN    THE     SPHERES
+
+
+                               Somecommentmustnowbe madeon the physicalrelationshipof the sulfide
+                           to the rangeof organicstructuresrecordedas associated
+                                                                               with Pyritosphaera
+                           barbaria. Little can be added,however,to earlier discussions
+                                                                                      becausewith the
+                           equipmentand experience availableit hasnot beenfoundpossible   to prepare
+                           polishedsectionsclearlyshowingthe relationshipof sulfideto organictissue,
+                           either aroundthe whole 5 to 15 t• sphereor aroundthe boundariesof the
+                           individualsmallgrainswhoselight reflectingqualityis very high. This lack,
+                           however,is relievedby the resultsof examiningmountsof separatedspheres
+                           and of watchingthe solutionof individualspheres.
+                              In the first place,thereappearsto be somejustificationin regardingthe
+                           form of P. barbaria (the microspinoseto microgranularcore body) as being
+                           composed  of manycellsof organictissue,eachone of whichis tightly filled
+                           with an individualcrystalof sulfide. At leastin the c•ase
+                                                                                   of pyritethis is
+                           in the form of an octohedronor cube. During solution,the positionof each
+                           crystal is left as the positionof one small cell. The cells normally remain
+                           tightly unitedand they do not fall apart in this process. The outer members
+                           governthe externalsurfacetexture and very closeexaminationcan in some
+                           instancesrevealthe latter to be composedof the outward pointinganglesof
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                           358                                                  L. G. LOVE
+
+                           crystal-shapedchambers, but this detailis normallyseenin a generalized way
+                           overthewholesphere. The organicwall to eachsuch« to 2 t• cellis extremely
+                           thin and has not beenobservedin a polishedsection. The latter doeshow-
+                           everrevealwhatis fairly obviousfrom the solutionstudy,that the regulargrain
+                           structure,and so presumablythe cell structure,generallycontinuesright
+                           throughthe sphere. This is alsoto be observedin both Schneiderh6hn's
+                           and Schouten's  photographs.
+                               The presenceof an outer sac,oftenprovedduring solutionand sometimes
+                           detectedon solid isolatedsulfidespheres,doesnot obscurethe framboidalap-
+                           pearanceof the Kieskfigelchen, and this is in keepingwith its almostcomplete
+                           transparencyafter the sulfidehas been removed,when it is frequentlyonly
+                           detectablebecauseit givesthe apparentlygranularto microspinose     core body
+                           a smoothequatorialoutline. Possibly,too, it is initally thinner than after
+                           attack by nitric acid during which it might swell. In a simple spherethere
+                           may well be no pyrite externalto this thin membrancefor in many regular
+                           sulfidespheresno actualcontractionaccompanies     the early stagesof watched
+                           solutionbefore the thin skin becomesapparentdue to the solutionof sulfide
+                           within it. The sachasbeendetectedon a numberof isolatedspheresobserved
+                           at high magnificationin transmittedlight, but would generally tend to be
+                           obscuredby the bright refraction ring around the black sphere. In many
+                           casestrailing organictissuecanbe seen,of the kind shownin Figures4 and 6.
+                           In the caseswheresolutionimmediatelyproducesa recognizable       microspinose
+                           to microgranular?. barbaria,it is possiblethat in grindingthe outer sachas
+                           beenstrippedfrom the sphere. On the other hand, (with the exceptionof
+                           the Hystrichospheres   previouslydescribed)even when a sphereturns out
+                           to be a saccontaininga smallgranularcore body, only partially filling it, it
+                           doesnonethe lessgenerallyseemto havebeenfull of sulfide. This can be seen
+                           to dissolveaway leavinga hollowcavity besidewhatevercore bodythere may
+                           be. This appliesalsoto the multi-saccate    bodies. This findingis borneout
+                           by polishedsurfacestudies,which do not reveal a classof grain internally
+                           hollow. If the specimens  seenwithoutany corematerialare truly undamaged
+                           and did not loseorganiccontentduring solution,then their relationshipwith
+                           sulfidepresentsan unsolvedproblem. It is not held that all spheresin these
+                           preparationswere restrictedto the size of their sac for it is not difficult to
+                           envisagefurther sulfidebeingprecipitatedexternallyand crystallizingon the
+                           outer side; certainlyevidenceof extra sulfidehas beenseenduring solution.
+                               It hasbeenbornein mind,duringthe observations,      that manyspheresof
+                           sulfideas now seenare the productsof oneor morestagesin a progression       of
+                           replacementsof one sulfide mineral by another. The questionnaturally
+                           arises, given the organism-sulfiderelationshipssuggestedabove, of what
+                           effectthere is likely to be on this when one sulfideis replacedby another
+                           under the conditionsaccompanyingsuch metasomatism. Often evidenceof
+                           t.he nature of a systemcan be deducedfrom the way the systemreacts to
+                           externalinfluences.Little, though,is derivedfrom studyof the reportsby
+                           Schoutenand othersthat during replacementsomedifferentiationmay occur
+                           betweencoreand rim and that new sulfidemay enter interstitiallybetweenthe
+                           grainsin a sphere. Two factorspreventedthis and other replacement        data
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                                                               BIOGENIC PRIMARY SULFIDE                                                            359
+
+                          frombeingof use,for it wasneitherpossible to knowthe precisemineralogical
+                          compositionof a spherewhose solutionwas about to be watchednor to
+                          segregatebatchesof spheresof a uniform composition.The organictissue
+                          of those isolatedsphereswhosesolutionhas been watchedhas not shown
+                          disruptionas if due to earlier replacement
+                                                                   of sulfidebut indeednone might
+                          be expectedfor replacement   would occurparticleby particlethroughwhat
+                          is clearly a permeablestructure. As noted earlier, however,in polished
+                          sectionsof rock, somelooseclustersof sulfidegrainscouldbe seethat might
+                          have been interpretedas being Kieskfigelchenspheresfalling apart. Such
+                          grains have been figured by Schouten(22, Fig. 80). In this case, the
+                           masseswould not remain as completesphereson disaggregationof the rock
+                           to give a sulfide concentrate. There is no knowing, indeed, the number of
+                           Kieskfigelchenthat simply remained as scatteredunit crystals after this
+                           process,and furtherhow manydid so as a resultof changesduring geological
+                           processes. Certainlysomesuchminutegrainsdid yield a tiny cell of organic
+                           tissueon solutionwhile manyothersdid not.
+
+                                                          FORMATION           OF    THE     PRIMARY         SULFIDE
+
+
+                               Syngeneticorigin of the sulfidesphereswas prominentlyexpounded      by
+                           Schneiderh6hn(20, 21) who regardedthem as having formed from blobs
+                           of the mixed gels of iron, copperand other sulfidesall producedcontem-
+                           poraneouslyon the sea floor. The spheres representedsulfur bacteria
+                           mineralizedwith sulfideores,and the pointsor crystalsin the sphereswere
+                           individuallymineralizedsulfur granulesin the bacteria. Schouten,however,
+                           demonstratedthe evidence for the primary sulfide compositionof the
+                           Kiesldigelchenhavingbeenthat of pyritewith subsequent  replacement,in which
+                           "chalcocite,bornite,chalcopyriteand, less commonly,galenaand sphalerite
+                           are found as pseudomorphs   after the originalpyrite crystals"(22, p. 377).
+                           In generalthe replacement  was regardedas havingbeenby the locallypre-
+                           dominantmineral at the relevantstageof metasomatism. Part of the evidence
+                           for the replacementslies in the commonpreservationof the individualgrain
+                           formationcharacteristicof the pyrite spheres,or alternatively,the structure
+                           may appearto havebeenlost in the coreof the sphere,with the outer parts
+                           stillshowing theoriginalstructure. Siegl(25) regarded  pyriteastheprimary
+                           sulfidein the spheres(although itself replacive,see below), while Neuhaus
+                            (15), havingthe sameopinionfor bothKiesldigelchen
+                                                                           andKiesklfimpchen,
+                           notedthat other sulfidesmightfill the interstices
+                                                                           of the pyrite grainsbefore
+                           replacingthe pyrite.
+                                 Schouten(23, p. 529), admitted"that the arguments
+                                                                                 for a syngenetic
+                           depositionof FeS2, with the aid of sulphatereducingbacteria,dominate"but
+                            remained unconvinced of the existence of fossil sulfur bacteria.                                              Also un-
+                           convincedthat the iron sulfide,as the spheres,was syngenetiche elsewhere
+                           suggests
+                                 (22, p. 377) thatthepyritespheres
+                                                                 mighthavearisenfromreplace-
+                            ment of carbonateby iron sulfide. "In the coppershalea most remarkable
+                            conformityexistsbetweenthe great variety of shapes,dimensionsand mode
+                            of distributionof carbonateand sulphidebodies. From this it follows that
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                           36O                                                  L. G. LOVE
+
+                           pseudomorphism     of carbonateby sulphidemay be presumed." While this
+                           refers mainly to lensesand irregularly shapedgrains, an instanceis cited
+                           (op. cit. p. 379) from the Kupferschiefershaleof "accumulations of smaller
+                           carbonategrainsapproaching    moreor lessglobularforms"with sulfidegrains
+                           of similar form adjacent. In the casecited, however,the sulfide is bornite
+                           andgalenaandtheframboidalform doesnot appearto be present. A similar
+                           pointis raisedby Siegl (25, p. 350-51) who findsthe carbonategroundmass
+                           presentin someof the rocksin questionhere to be formedof smallgrains
+                           comparable   in sizewith the Kieskfigelchen,
+                                                                      and regardsthe latter as having
+                           beenformedby pyritizationof the former. No detaileddescriptionof the
+                           calcitegrainswasgiven. Siegl'sdiscussion is referredto by Deans(3, p. 350),
+                              Relevantto this discussion  is an exampleconsideredby Rayner (6, p.
+                           202-3) in a description
+                                                 of a shellylimestone from the CoalMeasuresof Eng-
+                           land. In this shefindsminutespheresof carbonate,     probablyankerite,and
+                           limohire,and alsopyrite; and the association   is .comparedwith that noted
+                           aboveby Siegl. In the caseof theEnglishshellylimestone    the presentauthor
+                           was,by the kindness  of Dr. Rayher,permittedto examinea sampleof the
+                           rockandits thin sections.Withoutdoubtthepyritespheres       wereframboidal
+                           andon separation andchemical  treatmenttheyyieldedthe rangeof organisms
+                           described by Love (12), and identicalwith thosedescribed      in the present
+                           paper. On the other hand, the granular carbonateand limonite,free of
+                           pyrite, were demonstrated to containno suchorganicmatter. They were
+                           completely solublein hydrochloric acidexceptfor a smallamountof mineral
+                           material,probablyclays. In this casethen, there can be no possibilityof
+                           conversion of the carbonateinto pyrite spheresas it would be necessary   to
+                           introducethe forms of P. barbaria as well as the pyrite. Furthermore, at
+                           veryhighmagnificationtherewaslittlesimilaritybetweenthesmall4 to 14v
+                           sub-angulargrainsof calcite,eacha single-crystal
+                                                                         grain,andthe framboidal
+                           Kiesldigelchen
+                                        of thesamegeneralsizebutwiththeirownverycharacteristic
+                           regularform. In the work on the Kupferschiefer described
+                                                                                  in the present
+                           paper,it wasnotfoundthatcalcitegrainsof thissizeare common    in thin
+                           sections,and furthermoreit was not found possibleto obtain the micro-
+                           organisms
+                                   described
+                                          by useof coldor warmdilutehydrochloric
+                                                                             acidon the
+                           rock. This means that none of those bodies were included either in calcite
+                           or othercarbonate  grains. Indeed,followingthe instruction    of Schouten
+                           (22,p. 376) "Asanaxiomatic   principle
+                                                                it maybesaidthattheinternal    struc-
+                           tureof thehostgoverns   thefinalresult"it is difficult
+                                                                               to understandhowthe
+                           framboidal textureof thepyriteKiigelchen,   sotenaciouslyretained through
+                           all butthelaststagesof replacement,should  itselfhavearisenfromdiagenetic
+                           replacement of rathervagueandsimplecalcitegrains.
+                                 We return then to the dominatingconclusionreachedby $choutenof
+                           pyritehaving
+                                      beentheprimary
+                                                   mineral
+                                                         in thespheres,
+                                                                     withtheaddedknowl-
+                           edgeof theparticular
+                                             micro-organisms
+                                                          occurring
+                                                                  withinthemto emphasize
+                           their syngenetic
+                                          origin.
+                                 In the senseusedby earlierauthorson the Kupferschiefer
+                                                                                     problem,the
+                           pyritesphereswouldhavebeentermedsyngenetic,in contrastto an epi-
+                           genetic
+                                 originfromhydrothermal
+                                                     solutions
+                                                            afterlithification
+                                                                            of thesediment.
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                                                               BIOGENIC PRIMARY SULFIDE                                                            361
+
+                          More strictly, however,within the sequenceof formationof the sedimentit
+                          is clearthat muchof the pyrite wasnot presentuntil after finely comminuted
+                          plant debrisand the clay matrix had been depositedas a mud rich in iron.
+                          As part of the earliest processof diagenesis,authigenicgrowth of sulfide
+                          mineral then occurredfrom iron and, presumably,sulfate-sulfurfrom that
+                          part of the water enclosedwithin the mud. Until a point was reachedsuch
+                          that the systembecameclosedin any part of the mud then the formationof
+                          iron sulfidethere would continueas long as sulfate was availablefrom the
+                          overlyingwater and iron from the samesourceor from adsorptioncomplexes
+                           with organicmatteralreadyin the sediment. Indeedthe distinctionbetween
+                           syngeneticandearlydiageneticis noteasyto draw,andit is perhapsallowable
+                           to continueusingthe term syngenetichere for the primarysulfidein simple
+                           distinction
+                                     frommuchlaterdiagenetic or epigenetic
+                                                                         formationof the secondary
+                           sulfide.
+
+                                                        FORMATION           OF    THE     SECONDARY           SULFIDE
+
+
+                              At some time subsequentto the formation of the iron sulfide in the
+                           spheresand elsewherescatteredthroughoutthe sediment,there was an influx
+                           of copper,lead, zinc and othermetalsto replacethe iron. In the literature,
+                           the formationof the oresof thesemetals,whethersyngeneticor epigeneticis
+                           inextricablyboundup with the origin of the iron sulfide. Indeedit is not
+                           possibleto discuss
+                                            the relationship
+                                                           betweentheseprimaryand secondary    sul-
+                           fide mineralswithout bringing in wider issuesof ore genesisas a whole in
+                           the Kupferschieferandelsewhere.
+                               In generalsomecasesof mineralizationappear to accompanydark shale
+                           sedimentsand their particular sedimentaryenvironmentin a manner that
+                           makestheir origin in them,if due to epigenetichydrothermalactivity,difficult
+                           to understand. At the sametime, and the Kupferschieferis typical of this
+                           with regardto the provenance  of the metals,it is equallydifficultto reconcile
+                           thegreatamountsof metalinvolvedwith anybut an originalmagmaticsource.
+                           Againthe regularconcentration  of the oresin termsof areais a factortending
+                           to invokethisformof origin. AlthoughasDeans(3, p. 347) pointsout,the
+                           Kupferschiefer  typeof mineralization
+                                                               canbe recognized   in northeastEngland,
+                           it is in CentralGermanythat copper,zinc,andleadare mostabundant.
+                                In their paleogeographicsetting,the Kupferschiefer  and the Marl Slate
+                           werethe first fine deposits
+                                                     in the Lower Zechsteinseaafter the strongtrans-
+                           gression  thatterminatedthecontinental Rotliegende  period. This submerged
+                           an area from the north east of England acrossGermanyto Russia,and as
+                           shownby Gregory(8, p. 22-3) the Kupferschiefer       itselfformedin an area
+                           receiving  drainagefromtheHarz, theErzegebirge     andtheThuringerwald,   all
+                           uplandswellknownfor theirearliermineralization.Gregoryconcluded          that
+                           a seriesof lagoons mightbeenvisaged   marginalto themainZechstein     seaand
+                           perhapspartiallyenclosedfrom it. The mostthoroughstudyof the condi-
+                           tionsof deposition
+                                            of theKupferschiefer
+                                                               thereis dueto Pompeckj (17), sum-
+                           marizedin Englishby Schuchert (24). The firstdepositin theselagoonsof
+                           the wholeZechsteinsuccession
+                                                      wasthe Kupferschiefer.The latter authorin
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                           362                                                  L. G. LOVE
+
+                           comment,upholdsPompeckj'sconclusions      that the Kupferschieferwas formed
+                           in a foul-bottomedseaareawith upperoxygenatedwatersaboundingin plank-
+                           ton and in drifting plant material, the latter often yielding excellentfossils
+                           and beingindicativeof nearnessto land from whichonly the finestterrigenous
+                           sedimentwas being washed. All this, on sinking to the bottom, gave the
+                           sourceof the rich bituminouscontent(6-20•) of the fine graineddark mud
+                           in processof becomingthe Kupferschiefer.Althoughmuch of the fine-
+                           grainedbitumenis now unrecognizable, it is not entirelystructureless
+                                                                                              for, in
+                           suitablemicro-preparations,
+                                                     abundantplanktonand plant materialcan be
+                           recognized.The Kupferschiefer differedfrom later Zechsteindeposits   also
+                           in that brachiopodand molluscanlife was very sparseand few scavengers
+                           were present. Only one speciesof fish is common,Palaeoniscus  frieslebeni;
+                           mostof the otherswere regardedby Pompeckjas havingbeenwashedin from
+                           rivers rather than having been indigenousto the area of deposition. In
+                           generalthe majorityof life was regardedas havingoccurredin the well
+                           aeratedupperwatersandalthoughsomebottomfeedingtookplace,abundant
+                           bottomlife wasnotpossiblebecauseof the lackof oxygen. The depthof the
+                           Kupferschiefer
+                                        seawasregarded by Schuchert  asnotexceeding600feet,much
+                           lessthan that of the Black Sea, but not lessthan 300 feet, the lower limit of
+                           aerationby stormwaves. The Kupferschiefer    depositsshowno periodic
+                           change to aerated
+                                           conditions,
+                                                     noranydisturbance of theirfinelamination.
+                              Explanationof manyof the extensive and commonly  thickseriesof dark
+                           shalein thegeological
+                                               columnin termsof conditionsknownat thepresenthas
+                           alwaysbeendifficult. Persistency
+                                                          of stagnation,
+                                                                       however,is partlyexplained
+                           by the concept of the barredbasin(29) with circulation of watergreatly
+                           restricted. Indeed if the bar does not reach to the surface then denser saline
+                           waterenteringfromtheopenseaandforminga heavierunderlayer
+                                                                                  maysetup
+                           an extra resistanceto thermal convection. Strgm's studies (27) on Nor-
+                           wegianfjordsshowthe feasibility
+                                                         of reducing
+                                                                   conditions
+                                                                           havingbeenmain-
+                           tained unbrokenat least for many centuries. However, nowhereat the
+                           present time,except in theparticularly
+                                                               deepBlackSea,dowefindthegreat
+                           areasof persistentstagnancy thatmusthaveoccurred in theearlyZechstein
+                           sea,or in theLiassealatercovering muchthesameareaof Europe. The rec-
+                           ognition of thecontinuationof theKupferschiefer
+                                                                        seaintoNorthern England
+                           indeed suggests thata verylargemarginalseaarearatherthansmalllagoons
+                           musthave beenthe case. FollowingStrgm, however,it may be suggested
+                           thatpresent
+                                    dayoceans
+                                            aregeologically
+                                                        abnormal
+                                                              in theirextensive
+                                                                             under-
+                           flows of cold aeratedwaters from polar sources.Both a differentpolar
+                           climateand the Mediterraneansituationof the Tethyan sea, of which the
+                           Kupferschiefer
+                                     andLiasdarkshaleareasweremarginal,
+                                                                     mayhavebeen
+                           factors
+                                 in favoring
+                                           thepersistent
+                                                      stagnancy
+                                                             evidenced
+                                                                    bythesedeposits.
+                                 In this environmentit is now necessary
+                                                                      to considerthe role of the micro-
+                           organisms
+                                  described
+                                         in thispaperin relation
+                                                               to earlierideasontheformation
+                           of thesulfideof thespheres,
+                                                     andon theprovenance of themetalsthemselves.
+                           There are the contrastingviews,alreadymentioned,of Schneiderh6hn  in
+                           favorof simultaneous precipitation
+                                                            of iron, copper,leadand zincsulfides,
+                           andofSchouten
+                                      emphasizing
+                                              thesequences
+                                                       ofmetasomatic
+                                                                replacement
+                                                                        ofiron
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                                                               BIOGENIC PRIMARY SULFIDE                                                            363
+
+                           sulfidein the spheresby epigenetic  solutionsof copper,lead and zinc. The
+                           timingof the latter,however,hasbeenquestioned      by Deans(3, p. 350) who
+                           suggested  on the balanceof evidencethat the replacementwasdiageneticrather
+                           than epigenetic. The fact that the primary sulfidewas pyrite, even if later
+                           pseudomorphed    by the others,is not detrimentalto the diageneticinterpreta-
+                           tion for it hasbeenshownby Love and Murray (13) how earlythis mineral
+                           can appearin foetid sediment.
+                              Two theorieshave been employedby earlier writers to accountfor the
+                           sourceof all thesemetalsfor syngeneticdepositionin the Kupferschiefersea.
+
+                                 1. Leachingfrom pre-existinghumussoilsor crustsof dried-upplaya
+                                    deposits. Thesemay have beenof long standing,themselvesenriched
+                                    by the actionof percolatingwaterson metalliferousrocksbeneath.
+                                 2. Direct weatheringfrom depositsassociated with oresor eruptiverocks,
+                                    perhapshavingoccurredover a long periodof time with the accumu-
+                                    lated solutionslying as deep groundwatersbefore rising again, in a
+                                    periodof greaterrainfall to enrichthe Kupferschiefersea.
+
+                               In the caseof transportby land drainagefrom suchsourcesinto the sea,
+                           a mixed load of metalsmust be considered. Richter (18) from the resulting
+                           regulardistributionof metalsin the water, suggested
+                                                                             that varyingwater con-
+                           ditionswould controldepositionof the metalscopper,lead and zinc. They
+                           would be precipitatedin this order in the most sulfurouswaters but in
+                           fresher streamscoppermight remain in solutionwhile zinc precipitatedas
+                           carbonateor hydroxide. If the chemicalenvironmentin the immediatelocality
+                           changed,then this metal might becomeavailablefor diageneticreplacement.
+                           Richter did not discussthe formationof iron. Deans,however,(3, p. 350)
+                           considering the verticalsequence of stratanotedthat the abundance   of copper,
+                           lead and zinc is what, in terms of potentialseriesand generalorder of solu-
+                           bility, mightresultfrom processes  of sedimentary   deposition.He suggested
+                           it was an early phaseof the later established  succession of salt precipitation
+                           in the Zechsteincontrolledby concentration.Yet with the metalspresent
+                           togetherafterentryfrom a commonsourceit is difficulton theoreticalgrounds
+                           to explainthe selectivedeposition of iron as sulfideleavingthe residualmetals
+                           to be concentrated.Despitethe conditionsof restrictedcirculationpresent,
+                           it is not considered probablethat, followingGoldberg(7, p. 258-9), falling
+                           microplankton  and otherfossilremainswouldplay a significantpart in con-
+                           centratingthe morecommonmetals,particularlyiron, in the sediment.
+                               Lookingmore closelyat the normalstateof thesemetalsit may be noted
+                           that Hutchinson(10, p. 708 et seq.& p. 811) emphasizes    the very smallcon-
+                           centrationsof free ionsof iron, copperand othermetalsnormallyfoundin the
+                           water and sedimentsof rivers and lakes,for most of thesemetalsare present
+                           in non-ionicassociationwith colloidalmaterial both organic and inorganic.
+                           The latter is commonlyclayand ferric hydroxide. In this statethen they are
+                           carried into the sea and the more readily precipitatedon encountering     the
+                           salinewater. Specialconditions    hold,however,in the hypolimnionof stag-
+                           nantlakesand,presumably,
+                                                 marinewaters. Here,wheretheoxygencontent
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                           364                                                   L. G. LOVE
+
+                           hasfallento very low levels(10, p. 716-720and Fig. 215) a considerable
+                           amountof ferrousiron may be foundin solution. It appearsto be drawn
+                           into an ionic state,simpleor complex,from adsorbed,non-ioniciron in the
+                           sediment;and this processwouldcontinue,to balancean equilibrium,as iron
+                           sulfideis precipitated. Hutchinson(10, p. 762) demonstrates   the virtual
+                           indetectabilityof copperas simpleionsin the presence
+                                                                              of ferroussulfideonce
+                           the latter is present. Consideringthe effect of excessiveconcentrationof
+                           iron on the equilibria(and, althoughseldommentioned,   iron is predominant
+                           amongthe metalsof the Kupferschiefer)he shows(10, p. 762) that in the
+                           presence of ferroussulfide"no limnologically
+                                                                     possible concentration  of ferrous
+                           iron could,by decreasing the concentration
+                                                                    of the sulfideion, ever permit the
+                           presenceof analyticallydetectableamountsof copper,"and only a slightly
+                           greater extent of lead and zinc, in solution. NeverthelessHutchinson notes
+                           from equilibriumdata that beneaththis limit, and probablywell belowa toxic
+                           concentration  of copperion in the water, transfersof copperfrom the adsorbed
+                           non-ionicconditionto replaceiron in ferroussulfidewouldproceedsteadily.
+                           Somemobilityperhapsoccursalsoin complexform with an aminocompound
+                           (op. cit., p. 815).
+                              With a differentstartingpoint of a directlysubmerged      Rasenkupferstein
+                           oxide crust, postulatedby someauthors,again reducingconditionsin the
+                           bottomwatersmight allow preferentialleachingof iron, to be redepositedas
+                           sulfidebeforeits replacementmore slowlyby other metalsenteringinto this
+                           more stablephase. Considerationfor the first time for the Kupferschiefer,
+                           however,of traceelementswhichare regardedas characteristic     of ancientsoils
+                           and sapropelsled Deans (3, p. 350) to allow the possibilityof ancientsoilsas
+                           a sourceof metals. But in the light of more recentlyelaboratedtheoriesit
+                           may be possibleto go further than Deansin suggesting      more than a single
+                           sourcefor the major mineralspresent,to give a more satisfactoryexplanation
+                           of the differentiation             of the metals in the formation                    of the sulfides.
+                               Iron is normally an importantconstituentof water rich in humic con-
+                           stituentsand, mostlyprecipitatedas sulfideas a result of biologicalsulfide
+                           reaction,iron is also normallyabundantin the dark foetid mudsof stagnant
+                           basinsrich in organicmatter. But with regard to other heavymineralsin
+                           the KupferschieferDunham (5, p. 288) points out that the suite is "not
+                           normallyformedin quantityevenin a highlyevaporative    lagoon." For this
+                           reasonin the caseof the Zechsteinsea he envisagesthe iron as having been
+                           broughtinto the stagnantwatersby rivers rich in humicand plant material,
+                           andiron sulfideas formingundermicrobiologicalinfluencein the bottommud;
+                           then"springsconnected   with thehydrothermal
+                                                                      mineralisation thenin progress
+                           in the Harz, the Thuringerwald,the EnglishPenninesand possiblyelsewhere
+                           brokethroughinto the Lagoondischarging     a large volumeof mineralised
+                           waters left over after producingextensiveepigeneticdepositsin those dis-
+                           tricts." "The metalswere depositedeither bacteriallyor by reactionwith
+                           iron sulphidealreadypresent." From consideration of the replacement series
+                          alreadydiscussed,of thesetwo possibilities,
+                                                                   replacementof pre-existingiron
+                          sulfidewasthe principalreactionthat occurred. With regardto the time of
+                          thisreactionDunhamrefersto Westoll'sevidence(28; 3, p. 351) that copper
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                                                                BlOGENIC PRIMARY                     SULFIDE                                       365
+
+                           and other metals entered into the head structures of certain fossil fishes in the
+                           Marl Slateof NorthernEnglandearlyin thedecayprocess
+                                                                             beforetheirdelicate
+                           structurecould be crushedbeneaththe accumulatingsediment. Davidson,
+                           however (2), rejectingmodern "syngenetic"hypotheseson the origin of
+                           strata-boundpolymetallicdeposits,suggeststhat the fish structuresmight
+                           earlierhavebeenrepresented  by pyrite of whichthe iron was later replaced
+                           by othermetals. There appearsto be no publishedevidenceon this point.
+                           Dunhameven suggests   that a masskilling of fishesmay have occurredin
+                           connection with the emission of the mineralized waters.                                        None the less it is
+                           probablethat the metalswouldhavebeenvery rapidlyabsorbed      non-ionically
+                           within the sediment,and the possibilityof prolongedtoxicityhasalreadybeen
+                           dismissed.It remainsto bestatedwhethertheemission     wasrelativelysudden
+                           or a prolongedseepage. There seemto be no horizonsof the Kupferschiefer
+                           richestin all metalsas if representing
+                                                                the maximumoutburst,and explanation
+                           is requiredof the trendsof both verticaland horizontaldistributionof the ore
+                           metalssuchas notedby Deans (3, Figs. 85, 86) even if somesubsequent
+                           transporthas occurredalong Rfickenand into over and underlyingstrata.
+                           Oftedahl(16, p. 17) hassuggested   that the submarine exhalations may have
+                           been gases,associated  with magmaticactivity. This would be difficultto
+                           demonstrate, but the associations recognizedin someinstancesby Stanton
+                           (26, p. 24) between submarineextrusive rocks and the accumulationof
+                           sulfideore is certainlynot applicableto the caseof the Kupferschiefer,for
+                           no suchvolcanicrocksare knownfor thisperiodalthoughlavasand tuffs occur
+                           in the underlyingRotliegende.
+                                 DEPARTMENT  OF GEOLOGY,
+                                                      SHEFFIELD,ENGLAND,
+                                   & YALE UNIVERSITY,NEW HAVEN, CONN.,
+                                     Dec. 4, 1961
+
+                                                                               REFERENCES
+
+                            1. Bastin, E. S., 1950, Interpretation of ore textures: Geol. Soc. America Mem., v. 45.
+                            2. Davidson, C. F., 1962, On the origin of some strata-boundsulfide ore deposits. Dis-
+                                    cussion: Ecoa. GEO•.., v. 57, p. 265-273.
+                            3. Deans, T., 1948, The Kupferschiefer and the associated lead-zinc mineralisation in the
+                                    Permianof Silesia,Germanyand England: Rept. 18th Intl. Geol. Cons., Gr. Britain,
+                                    1948.     Pt. vii, p. 340-352.
+                            4. Dunham, K. C., 1960, Syngenetic and Diagenetie Mineralisation in Yorkshire: Yorks.
+                                   Geol. Soe. Proc., v. 32, p. 229-284.
+                            5. --,   1961, Black shale, oil and sulfide ore: Adv. Sci., v. 18, No. 73, p. 284-299.
+                            6. Eagar, R. M. C., and Raynet, D., 1952, A non-marine shelly limestone and other faunal
+                                    horizonsfrom the Coal Measuresnear Wakefield: Leeds Geol. Assoc.Trans., v. 6,
+                                    p. 188-209.
+                            7. Goldberg,E. D., 1954, Marine geochemistry.1. Chemicalscavengers
+                                                                                             of the sea: Jour.
+                                    Geology, v. 62, p. 249-265.
+                            8. Gregory, J. W., 1930, The Copper-Shale(Kupferschiefer) of Mansfeld: Inst. Min. Met.
+                                    Trans., v. 40, p. 1-55.
+                            9. Grondijs,H. F., and Schouten,C., 1937, A studyof Mount Isa ores: EcoN. Gv.oi.., v. 32,
+                                    p. 407-450.
+                           10. Hutchinson,G. E., 1957, A Treatise on Limnology: v. 1, John Wiley & Sons,New York.
+                           11. Love, L. G., 1957, Micro-organismsand the presenceof syngenetiepyrite: Geol. Soe.
+                                    London Quart. Jour., v. 113, p. 429-440.
+                           12.        , 1962, Further studieson micro-organisms
+                                                                              and the presenceof •yngenetiepyrite:
+                                    Palaeontology,v. 5.
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+                           366                                                  L. G. LOVE
+
+                           13. Love, L. G., and Murray, J. W., 1962, Biogenetic pyrite in Recent sediments of Christ-
+                                  church Harbour, England: Am. Jour. Sci.
+                           14. Love, L. G., and Zimmerman, D. O., 1961, Bedded pyrite and micro-organisms from the
+                                  Mount Isa Shale: Ecoa. G•oL., v. 56, p. 873-896.
+                           15. Neuhaus, A., 1940, Ober die Erzffihrung des Kupfermergels der Haaseler und der Gr6ditzer
+                                  Mulde in Schleisien: Zeitschr. f. angew Min., v. 2, p. 304-343.
+                           16. Oftedahl, C., 1958, A theory of exhalative sedimentary ores: Geol. Foren. Forh., v. 80,
+                                    p. 1-19.
+                           17. Pompeckj, F. J., 1914, Das Meer des Kupferschiefer: Branca-Festchrift, Leipzig, p. 444-
+                                    494.
+                           18. Richter, G., 1941, Geologische Gesetzm/issigkeiten in der Metallffihrung des Kupfer-
+                                  schiefers: Arch. Lagerst.-Forsch., v. 73.
+                           19. Rust, G. W., 1935, Colloidal primary copper ores at Cornwall Mines, Southeastern
+                                  Missouri: Jour. Geology, v. 43, p. 398-426.
+                           20. Schneiderh6hn, H., 1923, ChalkographischeUnterschung des Manfelder Kupferschiefers:
+                                  N. Jahrb. f. Min., B47, p. 1-38.
+                           21.--,    1926, Erzfuhrung und Geffige des Mansfelder Kupferschiefers: Metall und Erz,
+                                    v. 23, p. 143-146.
+                           22. Schouten, C., 1946, Some notes on mlcropseudomorphism: Ecoa. G•oI.., v. 41, p. 348-382.
+                           23. --.,     1946, The role of sulfur bacteria in the formation of the so-called sedimentary copper
+                                    ores and pyrite ore bodies: Ecoa. G•oL., v. 41, p. 517-538.
+                           24. Schuchert, C., 1915, The conditions of black shale deposition as illustrated by the Kupfer-
+                                    schiefer and Lias of Germany: Am. Phil. Soc. Trans., v. 54, p. 259-269.
+                           25. Siegl, W., 1941, Zur Genesis des Kupferschiefers: Min. Petr. Mitt., v. 52, p. 347-362.
+                           26. Stanton, R. L., 1960, General features of the conformable "Pyritic" Orebodies. Part I--
+                                    Field Association. Can. Inst. Min. Trans., v. 63, p. 22-27.
+                           27. Str•m, K. M., 1939, Landlocked waters and the deposition of Black Muds: Recent Marine
+                                    Sediments Ed., P. D. Trask, London, p. 356-372.
+                           28. Westoil, T. S., 1943, Mineralisation of the Permian rocks of S. Durham: Geol. Mag.,
+                                    v. 80, p. 119-120.
+                           29. Woolnough, W. G., 1937, Sedimentation in Barred Basins and Source Rocks of Oil:
+                                    Am. Assoc. Petr. Geol. Bull., v. 21, p. 1101-1157.
+
+
+
+
+Downloaded from pubs.​geoscienceworld.​org/​segweb/​economicgeology/​article-pdf/​57/​3/​350/​3481386/​350.​pdf by Stanford University user on 21 September 2026
+

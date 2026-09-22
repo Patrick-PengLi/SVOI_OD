@@ -1,0 +1,1243 @@
+===== page 1
+ 
+
+CENTENAIRE DE LA SOCIETE GEOLOGIQUE DE BELGIQUE
+GISEMENTS STRATIFORMES ET PROVINCES CUPRIFERES, LIEGE, 1974, 235-254
+
+SOME ASPECTS
+
+OF THE STRATIFORM ORE DEPOSITS
+OF THE ZAMBIAN COPPERBELT
+AND THEIR GENETIC SIGNIFICANCE
+
+A. E. ANNELS (*)
+
+ABSTRACT
+
+In recent years the concept of synsedimentary precipitation of copper-iron-(cobalt) sulphides
+for the stratiform deposits of the Zambian Copperbelt has become widely accepted by many
+Zambian based mine Geologists and others who have studied these deposits. However, recent
+work by the author has led him to hold very grave doubts on the ability of this theory to
+satisfactorily explain the facts.
+
+Though the presence of anhydrite in the potentially mineralized horizons of the Lower
+Roan Group has long been recognized, and has been used as an environmental indicator, its
+significance as far as ore genesis is concerned has apparently been missed. Whether the ore
+bearing host rock be arenite, argillite or siltstone, an antipathetic relationship can be
+demonstrated between copper and/or iron sulphides on the one hand, and anhydrite on the
+other. Evidence is presented which indicates that some, if not all, of the sulphides formed
+at the expense of anhydrite, whether this mineral was originally in nodular form or occurred
+as an interstitial cement.
+
+A geologic model is proposed to explain the genesis and localization of the Copperbelt
+mineralization. This model, which bears close similarities with those proposed for Mississippi
+Valley type deposits, is based on the diagenetic evolution of depositional basins containing
+both carbonaceous and sabkha facies.
+
+Other factors, such as the distribution of cobalt, and the tectonic evolution of the present
+structural basins, are examined and their genetic implications discussed.
+
+INTRODUCTION
+
+In very few papers has any reference been made to the presence of anhydrite
+in the Lower Roan Group of the Katanga System. Garlick (1964 and 1972) and
+Davis (1954, p. 608) describe lateral secretion veins of metamorphic origin where
+anhydrite is associated with quartz, felspar, carbonate and either specularite, in
+
+(*) Department of Mineral Exploitation, University College, Newport Road, Cardiff CF 2,
+ITA, U.K.
+
+===== page 2
+ 
+
+236 A. E, ANNELS
+
+the footwall formations, or sulphide (mainly chalcopyrite and pyrite), in the
+mineralized formations. Similar veins containing anhydrite and sulphide are found
+in the Basement Complex at Mufulira but are generally more quartz rich. Garlick
+(1972, p. 285) gives the impression that these are also the products of lateral
+secretion and were derived from the overlying Lower Roan metasediments. How-
+ever, it seems more likely that they are older hydrothermal veins as the wallrock
+shows distinct chloritic and epidotitic alteration. At Mufulira such veins are
+entirely restricted to the Basement and appear truncated at the unconformity.
+Darnley (1960, p. 149) records the presence of large anhydrite plates which
+ophitically enclose detrital grains in the lower part of the Mufulira Section. Garlick
+(1967, p. 132) mentions that the lower and upper parts of the C orebody at Mufulira
+contain nodules or lenticles of anhydrite up to 10 cm in diameter and states that,
+“The anhydrite of the concretions is angular and generally clear of inclusions,
+but ubiquitously a concentration of sulphide grains, similar in composition to the
+disseminated sulphides in the adjacent rock coats the nodule.” He suggests that
+they are sedimentary or diagenetic nodules, the evidence being the lack of replace-
+ment of the host rock. He goes on to say that, “Similar anhydrite nodules or
+concretions with peripheral sulphide concentrations are common in certain
+horizons in the shale deposits, particularly at Roan Extension, Nkana and Cham-
+bishi.” In a more recent paper (1972, p. 284) Garlick realizes the environmental
+significance of the presence of anhydrite by stating that “The abundance of
+anhydrite proves that the shales were deposited in a highly saline environment
+with local super-saturation of calcium sulphate...” Indeed, he came very close to
+recognizing its genetic significance when he stated that, “On the 1450 level at
+
+   
+  
+  
+   
+ 
+
+Possible connection
+with Fitula-Konkola
+Ore -Shale Basin.
+
+Granite
+
+ 
+
+ 
+
+Lufubu shist
+
+ 
+
+ 
+
+Basement Complex
+Hill, immediately
+ms below or close
+
+to base of Ore
+Shale
+
+Festal
+
+HB virccizan
+“ore shale
+
+Da tecorore
+penal
+tonal
+
+54a True Thickness of
+Ore Shale In metres
+
+Postulated
+PALEOGEOGRAPHY OF THE ORE-SHALE — Shoreline
+
+FORMATION
+
+(Basement
+'s/ Complex -Lower
+Roan contact
+
+68
+
+SCALE
+Miles 2 4 biles
+
+Kilometres 20 2 6 6  BKilomatres
+
+Pes.
+
+ 
+
+ 
+
+===== page 3
+STRATIFORM ORE DEPOSITS OF THE ZAMBIAN COPPERBELT 237
+
+Nkana, the anhydrite occurred as lenses in the low grade argillite...,” and later
+by pointing out that “It occurs as ... nodules in the ore horizons in the Lower
+Roan, whether they be argillite or arenite, mineralized or barren, but it is generally
+more common near the margins of the orebody and in the adjacent barren rock.”
+
+THE ANHYDRITE-CARBONATE-SULPHIDE ASSOCIATION
+
+The possible role of anhydrite in relation to the formation of sulphides was
+first recognized by the author in 1968 when RST’s Prospecting Division was drilling
+what subsequently proved to be a subeconomic and rather deep copper-cobalt
+deposit close to the northeastern margin of the Chambishi Basin, between Zam-
+Anglo’s Mindola and RCM’s Chambishi orebodies (fig. 1). Because of the low,
+sub-economic grade of this deposit, referred to as Nkana North Limb, it was pos-
+sible to examine a process which clearly had not gone to completion as it is
+believed to have done at the operating mines. Also, as this deposit straddles the
+transition zone in the ore-shale formation between the carbonaceous argillites of the
+deeper water facies and the argillite-siltstone facies of the littoral zone (see fig. 1),
+the effects of lithological changes could be examined.
+
+At Nkana North Limb the mineralization lies within siltstones, argillites,
+dolomitic argillites, and argillaceous dolomites, which surround a large mass of
+talcose dolomite. This dolomite is capped by a colony of oncolite stromatolites and
+is believed to be a biohermal structure (Annels, 1972). Immediately to the west
+of this bioherm a dolomitic carbonaceous argillite appears just above the more
+dolomitic basal portion of the ore-shale (fig. 2). The upper half of the ore-shale
+consists of argillite and siltstones which may show well defined banding or even
+lamination. Within the mineralized lower portion of this unit there occur numerous
+lenses of carbonate and quartz which contain, or are surrounded by, sulphides.
+These lenses, which are most abundant to the southeast of the bioherm, are between
+1 and 3 cm long and 0.5 and 1.5 cm high. As the economic hangingwall of the
+mineralization is approached, cores of sulphide-free, granular anhydrite appear.
+Initially these are only in the larger lenticles but eventually they also appear in the
+smaller ones. Above the zone of visible sulphide mineralization the entire lenticle
+consists of anhydrite. These anhydrite lenticles are identical in size to the carbonate
+lenses of the main ore zone, except that they have undergone more compaction.
+
+N
+Sf sLubumbashi
+
+~ \ etre \
+ShingotaS— >Mutuira
+rKi
+
+Index map for figure 1
+
+  
+  
+   
+
+i oe Kalutugty / !\Ndola,
+
+‘ uanshya
+
+1 Area covered by
+! Enlarged Map
+
+i *Kapiri Mposhi
+i Kab
+
+i 50 190150200 Miles
+
+: SCALE
+
+‘ 50 0 50 100 150 200 250 300 Kilometres
+
+===== page 4
+ 
+
+238 A. E. ANNELS
+
+This probably reflects the low competence of the anhydrite relative to carbonate
+and quartz indeed, as the proportion of the former mineral in the lenticle decreases,
+so does the degree of elongation parallel to the bedding. The host rock shows
+deformation of the bedding traces around both the anhydrite and carbonate-quartz
+lenticles which is suggestive of growth in a relatively soft sediment prior to complete
+compaction.
+
+Perhaps one of the most significant occurrences in the uppermost portions of
+the ore-shale is the simultaneous appearance of carbonate and sulphide, usually
+pyrite, at the margins of anhydrite nodules. Only when the peripheral rim of pyrite
+is well developed and there is a wide continuous zone of carbonate replacement
+around the nodules do significant quantities of pyrite appear in the host sediment.
+Plate 4 shows a lenticle that is completely replaced by carbonate and has a con-
+tinuous pyrite rim. Similarly the first chalcopyrite to appear is found at the lenticle
+margins as an encrustation, and locally a replacement of, the rim-pyrite. Within the
+main mineralized zone the lenticle may be completely replaced and the central
+cavity infilled with chalcopyrite and pyrrhotite. It seems fairly clear that the first
+formed sulphide was pyrite but later, as competition for the available sulphur
+increased with the precipitation of copper sulphides, pyrrhotite was formed. Both
+chalcopyrite and pyrrhotite show mutual contacts and enclose and replace the early
+subhedral or euhedral pyrite grains.
+
+Within the bornite zone of the deposit the lenticles do not possess a pyrite rim,
+indeed pyrite and bornite appear incompatible. This antipathetic relationship also
+appears to hold true for all Copperbelt orebodies. The bornite and chalcopyrite are
+dispersed through the entire nodule or within the marginal replacement zone, if
+an anhydrite core still exists (see plate 1).
+
+Fringe of ore- shale
+
+  
+
+Thickness of carbonaceous shale incursion
+
+a Lp
+
+Fic. 2. — Copper distribution relative to bioherm and carbonaceous argillite.
+
+===== page 5
+ 
+
+STRATIFORM ORE DEPOSITS OF THE ZAMBIAN COPPERBELT 239
+
+At Nkana North Limb the evidence suggests that a large proportion of the iron
+sulphides were formed during the replacement of anhydrite by carbonate. Estima-
+tion of the relative amounts of the two minerals was made by counting grid inter-
+sections superimposed on cut core. The results from this study for all the drill
+holes in the area were contoured as in figure 3. This diagram shows that the pyrite
+rich areas of the ore-shale coincide with a zone of high replacement (i.e. >60 %)
+while the pyrite-pyrrhotite rich area, to the northwest, roughly corresponds to an
+area in which replacement is between 80 and 100 % complete. There is thus a
+correlation between the amount of replacement which has taken place and the
+amount of iron sulphide present. Drillhole NN 15 (fig. 4), also reveals a close
+relationship between pyrite-rich zones and the abundance of lenticle carbonate
+vertically through the ore-shale.
+
+Figure 3 also shows that the zone of high copper metal content (> 15 metre per-
+cent) east of the bioherm, approximately corresponds with a zone of high lenticle
+replacement. Where iron sulphides occur in quantity the copper sulphides show
+a less obvious correlation with the presence of lenticle carbonate. However, where
+they are absent, or sparsely developed, as in drillhole NN 23 (fig. 5), the correlation
+between copper sulphides and lenticle carbonate is good.
+
+The richest mineralization to the west of the reef is at the base of the carbon-
+aceous argillite horizon and in the upper part of the basal dolomites of the ore-
+shale (see NN 15, fig. 4). This mineralization is in concordant and transgressive
+veins rather than as disseminations. To the southeast, the carbon content of the
+argillite decreases and this horizon becomes a dolomitic argillite or calc-biotite
+
+  
+ 
+
+  
+  
+
+DOLOMITIC =BiOHERM
+
+  
+   
+
+60.
+KD
+
+7 // WV \
+
+Fic. 3. — Sulphide zones relative to % carbonate replacement of nodules.
+
+===== page 6
+240 A. E, ANNELS
+
+    
+
+NN23 148!'—~ B
+
+SS a
+
+  
+
+PLATE 1. — Anhydrite nodule with peripheral replacement zone consisting of calcite-bornite
+and chalcopyrite. Sulphides disseminated throughout calcite zone but absent from anhydrite
+core.
+
+schist. At the same time, abundant nodules and almost enterolithic masses of
+anhydrite appear which are extensively replaced and heavily mineralized (see
+NN 23, fig. 5), as are the enclosing meta-sediments. There is thus an inter-relation-
+ship between the appearance of a carbonaceous argillite interbed, the decrease in
+the quantity of nodular anhydrite or carbonate, and the decrease in the amount of
+copper (see fig. 2).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+===== page 7
+| STRATIFORM ORE DEPOSITS OF THE ZAMBIAN COPPERBELT
+
+ 
+
+Anhydrite present
+
+H/W Quartzkte
+
+241
+
+ 
+
+°f. Carbonate lenticles
+
+ 
+
+ 
+
+   
+   
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+4 3 2 kc] 0 5 1 15 ~ 2 » 35
+“he Cu T GEOLOGY KEY
+SS
+Argillite
+Sparse == Laminated Argillite
+aeonwent j fttstone
+J Quartzite
+y Z coomte
+g
+y ‘calcareous Argillite
+4 =r: Interbedded
+Y Dolomite & Argillite
+] Carbonaceous
+Y) = Argillite
+ge
+Vp
+WO
+d
+| 7
+| Z
+gy
+)
+Y
+Y
+y)
+y)
+-
+A Last lenticle
+Cz
+Te
+GZ etre
+@ | Unters ered ness)
+Z| .
+Cl ORE-SHALE DRILLHOLE NNIS
+
+ 
+
+ 
+
+ 
+
+F/W Conglomerate
+
+Fic. 4
+
+Carrollite shows an extremely close affinity with carbonate in general, but in
+particular with lenticle carbonate. The area in which carrollite has been identified
+corresponds with that in which lenticles are most abundant, i.e. to the southeast
+
+of the bioherm.
+
+ 
+
+===== page 8
+242 A. E, ANNELS
+
+ 
+
+|
+
+‘le Carbonate lenticles,
+5.) 5 DO 2% H 3 4p
+GEOLOGY KEY
+
+Anhydrite present
+ite
+
+ 
+
+Argillite
+| Laminated Argillite
+
+= siltstone
+
+Sparse
+
+   
+  
+
+Relatively
+Abundant
+
+Ca - Carrollite “* Quartzite
+
+Dolomite
+
+Calcareous Argillite
+
+Calcareous Biotite
+Schist
+
+ 
+
+Silty Argillite
+
+ 
+   
+
+ 
+
+ 
+
+ 
+
+i eH
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+| 1 Metre
+Intersected
+Y {inter thickness)
+
+a
+ORE-SHALE DRILLHOLE NN23
+I F/W_ Conglomerate
+
+Fic. 5
+
+ 
+
+SK
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Microscopic studies show that the contact between anhydrite and carbonate
+phases in a lenticle is a replacive one. Rounded and corroded residual grains of
+anhydrite occur enclosed in the carbonate, which also penetrates the anhydrite
+along cleavages and intergrain boundaries.
+
+===== page 9
+STRATIFORM ORE DEPOSITS OF THE ZAMBIAN COPPERBELT 243
+
+THE LENTICLE CARBONATE
+
+There is reason to believe that at Nkana North Limb the carbonate which
+formed initially at the expense of the anhydrite was dolomitic in composition.
+However, as the reef margin is approached, replacive calcite appears at the
+margins of the lenticles, particularly at their apices (see plate 4). Calcite may
+occur also at the centre of dolomite lenticles where it displays the characteristics
+of a cavity infilling. Close to the reef calcite is the dominant constituent and around
+the southeastern margin of this mass it is the sole constituent. The change from
+100 % calcite to 100 % dolomite takes place in as short a distance as 200 m. The
+replacive or late stage character of the calcite suggests that it may be metamorphic
+in origin. The association of calcite with phlogopitic mica and the replacement
+of K felspar by calcite near the reef, suggests that calcite and the mica were
+
+ 
+
+PLATE 2. — Ellipsoidal Cavities — Chambishi Ore-Shale.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+===== page 10
+244 A. E, ANNELS
+
+formed at the expense of dolomite and K felspar. Such a de-dolomitization process,
+however, only took place in the vicinity of the reef margin.
+
+SECONDARY FELSPAR
+
+The following conclusions concerning the secondary felspars associated with
+sulphides and carbonate lenticles are based on thin section studies of material
+from both Chambishi and Nkana North Limb. These felspars may be enclosed in
+the outer carbonate rim or, together with quartz, form a halo around the lenticle.
+
+(a) The amount and type of felspar in the lenticles can differ markedly from
+that in the surrounding host rock. Microcline can be the dominant secondary felspar
+in the host rock, while albite (An7_9) is dominant in the lenticle or vice versa.
+
+(b) Where lenticles contain pyrite alone the associated felspar is microcline.
+
+(c) Where lenticles contain chalcopyrite (or bornite) alone then the associated
+felspar is albite.
+
+(d) Where pyrite and chalcopyrite occur together both albite and microcline
+may coexist but microcline is usually dominant.
+
+Pyrite aggregates in the host rock are frequently surrounded by microcline and
+quartz. Albite may accompany the microcline but is never found as the sole
+secondary felspar around pyrite. It is also closely associated with lenses and bands
+of coarsely crystalline calcite in the host rock.
+
+Though there is an apparent relationship between the appearance of copper
+sulphides and the appearance of secondary albite, there is no quantitative linear
+correlation. Maps of metre-percent copper for the entire ore-shale around the
+Nkana North Limb reef and for the distribution of secondary albite are, however,
+remarkably similar. Analyses for sodium within the ore-zone show increases from
+0.05 % to >1.0 % (weight %) as the reef is approached and in the vicinity of
+the 10 metre percent copper contour. Similarly the sparsely mineralized hanging-
+wall argillites show a two- to threefold increase in sodium content in the same
+direction. These observations cannot be readily explained if the ores are considered
+to be of syngenetic origin. It should, however, be pointed out here that a similar
+relationship between sodium and copper has not been described for the larger
+deposits of the Copperbelt.
+
+LENTICULAR CARBONATE IN OTHER DEPOSITS
+
+Though anhydrite nodules and carbonate-sulphide lenticles were both recog-
+nized in the ore-shale in the past, it seems that even though they show remarkably
+similar shapes, they were never associated. This may be because the transitional
+stage so well displayed at Nkana North Limb was not exposed by mining develop-
+ment elsewhere.
+
+Garlick (1967, p. 132) states that “Concretions of dolomite... occur only
+rarely in the shale type ore, where these nodules contain small biotite flakes and
+aggregates of chalcopyrite or other sulphide.” This is not the case in the carbon-
+
+===== page 11
+STRATIFORM ORE DEPOSITS OF THE ZAMBIAN COPPERBELT 245
+
+ 
+
+PLATE 3. — Lenticles in carbonaceous argillite — Mwambashi Ore-Shale.
+
+aceous argillite facies which, as can be seen in plate 3, is heavily charged with
+small carbonate-quartz nodules rimmed with pyrite. The majority of drillholes
+intersecting this facies in the Chambishi Basin revealed an abundance of such
+nodules. The author has collected examples of carbonate-quartz lenticles rimmed
+with, and including, chalcopyrite and pyrite from drillholes in the deeper inter-
+sections of the Chambishi orebody itself, which like Nkana North Limb, is in the
+argillite-siltstone facies of the ore-shale. Such lenticles may not have been recog-
+nized at Chambishi, because, as is shown in plate 2, they have been completely
+leached out at shallow depths leaving an ellipsoidal cavity lined with grains of
+sulphide and quartz. Similar lenticles occur at Roan Extension in the Luanshya
+Basin.
+
+ 
+
+ 
+
+ 
+
+ 
+
+===== page 12
+246 A. E, ANNELS
+
+ANHYDRITE-CARBONATE RELATIONSHIPS IN ARENITES
+
+Anhydrite has been recorded as constituting a cement to the Footwall
+Quartzites at Mufulira. Garlick (1972, p. 292) considers that it formed interstitially,
+or as concretions, during exposure of muddy sand flats or from detrital gypsum
+accumulated with wind blown dune sands. He records as much as 35 % anhydrite
+in some laminae of the “aeolian” sandstones. In the same paper he states that,
+“Deposition of sandy muds with considerable anhydrite or gypsum terminated the
+‘A’ graywacke deposition.” Darnley (1960, p. 149) mentions that the poikiloblastic
+interstitial habit of anhydrite in the Footwall Quartzites, “...closely resembles
+that of the interstitial carbonates. ...”
+
+ 
+
+PLATE 4. — A dolomite-quartz lenticle with rim of pyrite. Some dolomite crystals show
+
+clouded cores (carbon?). Alizarin-red staining has revealed the presence of secondary calcite
+
+as darker areas at the apices of the lenticle. Specimen from drillhole NN 15, Nkana North
+Limb.
+
+ 
+
+Prate 5. — Unmineralized anhydritic arenite patch within mineralized dolomitic arenite.
+Sharp contact between the two is emphasized by a pencil line. The sulphide is chalcopyrite.
+Specimen from the footwall of the B orebody, Mufulira.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+===== page 13
+STRATIFORM ORE DEPOSITS OF THE ZAMBIAN COPPERBELT 247
+
+At Mufulira there is a very marked antipathetic relationship between interstitial
+anhydrite and copper mineralization (Annels, 1973). The orebodies themselves
+contain variable but often relatively large quantities of interstitial dolomite,
+anhydrite being conspicuously absent, except as late veinlets or pods. However,
+towards the economic footwalls of the “B” and “C” orebodies, and possibly also
+of the “A” orebody (stratigraphically the youngest), there are irregular patches or
+bands of sparsely to un-mineralized arenite within the lower grade, often chalco-
+pytitic, basal zones of the orebodies (see plate 5). These patches are characterized
+by a lower carbonate content and show a mauve to pink colouration due to the
+presence of anhydrite. Similarly in the barren anhydritic footwall rocks there are
+light grey transgressive patches of mineralized arenite. Careful sampling and
+analysis of some of these coexisting mineralized and “barren” arenites produced
+the following results:
+
+ 
+
+Cu% Anhydrite % Dolomite %
+
+Mineralized arenite 1.7-3.0 0-5.0 8-13
+“Barren” arenite <0.3 19-25 2-7
+
+ 
+
+The margins of the above mentioned light grey mineralized transgressive patches
+are very sharply defined, as can be seen in plate 5, and are unrelated to changes
+in the original sediment type. These patchy rocks do not represent slump breccias
+as traces of bedding pass uninterrupted through both the light-grey and pink
+arenites. The very sudden disappearance of anhydrite is marked by the equally
+sudden appearance of copper sulphides.
+
+Work on the anhydrite-carbonate-sulphide relationships at Mufulira is still at
+an early stage, but recent drilling across the fringes of the combined B/C orebody
+has revealed that the barren or sparsely mineralized portions of the “Inter B/C
+Quartzite” including the “Banded Shales and Quartzites“ immediately above the |
+“Mudseam,” are often highly anhydritic. Similarly, recent intersections of the “A”
+horizon, which were un-mineralized, proved to be highly anhydritic.
+
+Returning to the Nkana North Limb deposit in the Chambishi Basin we find
+that the “Footwall Conglomerate” beneath the ore-shale and the coarse, gritty
+feldspathic arenites in the hangingwall, both contain interstitial anhydrite where
+unaffected by recent groundwater movements. However, as the biohermal mass is
+approached, the upper and lower limits of visible copper mineralization in the ore-
+shale rise and drop respectively, so that close to this body they are within the
+arenite and conglomerate respectively. Where this has occurred petrographic studies
+show that the original interstitial anhydrite is almost entirely replaced by calcite.
+
+SIGNIFICANCE OF ANHYDRITE-CARBONATE RELATIONSHIPS
+
+It is envisaged that the original nodular anhydrite formed during early dia-
+genesis under conditions of supersaturation of CaSO,. These may have existed in
+either a supratidal sabkha environment or in sediment at the centre of a basin in
+which dense, CaSO, saturated bottom waters were accumulating. During advancing
+diagenesis, still under relatively low temperature conditions, the anhydrite was
+
+===== page 14
+248 A. E. ANNELS
+
+replaced by carbonate thus liberating sulphur which was then utilized in the pre-
+cipitation of diagenetic sulphides, initially pyrite. However, the presence of co-
+existing anhydrite and calcite in metamorphic secretion veins without evidence of
+replacement of one by the other, indicates that at more elevated temperatures the
+two phases were stable. Cross-cutting masses of quartz-carbonate-chalcopyrite-
+anhydrite do occur in the basal dolomites of the Nkana North Limb ore-shale. Here
+the sulphides and anhydrite co-exist without an intermediate carbonate phase.
+These masses are similarly interpreted as being of metamorphic origin.
+
+At Roan Extension diagenetic nodules of anhydrite or gypsum after anhydrite
+(a post-mining phenomena) are found near the hangingwall of the orebody. These,
+however, are surrounded by a discontinuous rim of chalcopyrite without inter-
+mediate carbonate. This at first presented a problem until it was noted that sulphide
+concentrations at the rims lay adjacent to depleted areas within the very finely
+disseminated chalcopyrite mineralization of the host rock. This is strongly sug-
+gestive of a metamorphic secretion phenomena.
+
+A drillhole intersection of the ore-shale close to the Nkana North Limb bio-
+herm also showed unaltered anhydrite lenticles surrounded by well developed rims
+of sulphide close to the economic hangingwall. However, careful search failed to
+reveal sulphide depletion around the lenticles.
+
+It thus appears that, on the evidence from both Roan and Nkana North Limb,
+it was possible for some nodules to escape replacement during diagenesis and hence
+take no part in the mineralization process, even though the surrounding sediment
+was enriched in sulphides. During diagenesis or metamorphism these nodules
+merely provided a surface on which sulphides could accumulate. It is suggested that
+the cause of replacement was not a metamorphic process but one which was
+patchily operative at the lower temperatures existing during diagenesis. As tem-
+peratures increased and rock porosity decreased under increasing depth of burial,
+reaction between interstitial brines and anhydrite slowed down and eventually
+ceased. Either portions of the ore-shale (i.e. towards the hangingwall) were not
+penetrated by these brines or the reactive constituent was completely depleted by
+reaction with anhydrite elsewhere (e.g. lower in the ore-shale).
+
+Perhaps the main implication of the above observations is that at least some of
+the metals must have been in a mobile non-sulphide form during diagenesis. We
+have the evidence of upward and downward migration of metals as the Nkana
+North Limb bioherm is approached together with the replacement of early dia-
+genetic anhydrite by carbonate. One begins to wonder as a result, whether any of
+the sulphide, with the possible exception of some of the pyrite in the carbonaceous
+argillites, was synsedimentary as proposed by Garlick (1961).
+
+NATURE OF THE REPLACEMENT PROCESS
+
+There are two possible processes which could explain the replacement of
+anhydrite by carbonate and the resulting liberation of sulphide ions.
+(1) BacTERIAL REDUCTION
+
+Anaerobic bacteria, such as Desulfovibrio -desulfotomaculum and desulfu-
+ricans, break down SO, during their metabolic process to retrieve oxygen and in
+
+===== page 15
+ 
+
+STRATIFORM ORE DEPOSITS OF THE ZAMBIAN COPPERBELT 249
+
+the process release H2S and CO, . Such bacteria need not only a plentiful supply of
+SO, but also decomposing organic matter, both of which would be available in the
+carbonaceous argillite facies of the Chambishi Basin. This process would not, of
+course, take place at high temperatures.
+
+(2) INORGANIC REDUCTION
+
+In the literature hydrocarbons have been recorded in association with ore
+deposits either as a coating of ores or wallrock or as immiscible droplets in fluid
+inclusions (e.g. Barton, 1967). Davis and Kirkland (1970) have postulated that the
+native sulphur in the laminated anhydrite-calcite rocks of the Castile Formation is
+the product of a reaction between hydrocarbons and anhydrite, the initial phase of
+which can be represented by:
+
+CaSO, +(C+4H) > H2S +CaCO3+H20
+
+A similar reaction is proposed by Schnellmann (1959) to explain the Ras Gemsa
+sulphur deposit in Egypt. At low temperatures it is possible for methane and SO, to
+coexist metastably in a brine, or to react only sluggishly but above 90 °C a more
+rapid a reaction takes place.
+
+It is very likely that both mechanisms operated, but that the latter became the
+more effective of the two as temperatures and pressures rose with increasing depth
+of burial.
+
+PROPOSED GEOLOGICAL MODEL
+
+In recent years there have been numerous papers describing the possible role
+of intrastratal brines, particularly those derived from carbonaceous oil shales in
+evaporite basins, as a medium for the collection and transport of metals during
+diagenetic compaction of a basinal sedimentary pile. This discussion was initiated
+by the conflict between Davidson and Dunham over the association of evaporites
+with mineralization. Davidson (1966) pointed out the spatial relationships between
+ore deposits and basin margin sabkha facies. Bush (1970) and Llewellyn and
+Stabbins (1968) have recently written on the same subject. A common theme has
+been the existence of potentially hydrocarbon bearing shales in the basin centre
+and the presence of sabkha type facies and reef complexes on the basin periphery.
+Reef complexes, back reef evaporites and supratidal mudflats containing nodular
+anhydrite all appear potential locations of ore deposition. Dozy (1970) quotes
+several examples of producing oil fields with base metal mineralization at the basin
+margins including those around the Kankakee Arch and the Ozark Uplift in the
+Mississippi valley. The Pine Point Pb-Zn mineralization in Canada occurs on the
+flanks of the Elk Point Evaporite Basin known to contain hydrocarbons (e.g. in the
+Keg River Reefs).
+
+Returning to the Zambian Copperbelt once again we see an analogous situa-
+tion for the central portion of the Chambishi Basin contains carbonaceous shale
+which is pyritic but generally lacking in copper sulphides. This passes up-dip into
+a typical sabkha facies in which nodular anhydrite, or carbonate after anhydrite,
+occurs and in which there are several recorded biohermal structures (see fig. 1).
+
+===== page 16
+ 
+
+250 A. E. ANNELS
+
+All known ore deposits of ore-shale type are within this littoral zone. It is thus
+suggested that the geological situation on the Copperbelt bears some resemblance
+to that existing in present day oilfield basins. The carbonaceous argillite of the
+Chambishi and Konkola basins could thus be considered as equivalent to the oil-
+shale and the rather problematical carbonaceous arenites or “graywackes” of
+Mufulira the oil-sands of this postulated Pre-Cambrian oilfield. Hydrocarbons
+may have migrated with the metal enriched chloride brines towards the basin edge
+where they reacted with anhydrite, or escaped into the arenites on the opposite side
+of the Kafue anticline. This hypothesis would account for the occurrence of gra-
+phitic carbon in relatively coarse arenites at Mufulira. It should also be noted that
+each carbonaceous arenite body here is overlain by what would have been fairly
+impermeable “cap rocks” e.g. the dolomitic “Mudseam” plus the “Banded Shales
+and Quartzites” over the C horizon, the “Lower Dolomite” plus “Massive Shale”
+over the B horizon and the “Lower Argillaceous Quartzite” containing silty argil-
+lites, over the A horizon. A summary of the Mufulira stratigraphy is tabulated
+below.
+
+Simplified Stratigraphy of the Mufulira ore-bearing Formations
+
+Formation Facies equivalent
+
+Lower argillaceous quartzite
+
+ 
+
+ 
+
+A Quartzite A Graywacke Ore zone
+Inter A/B quartzite
+
+Banded shales and quartzites
+Massive shale
+
+Lower dolomite
+
+ 
+
+ 
+
+ 
+
+ 
+
+B Quartzite B Graywacke Ore zone
+Inter B/C quartzite Algal dolomite
+Banded shale and quartzite (stromatolite horizon)
+
+Banded shale and dolomite
+Mudseam (dolomitic siltstone)
+
+ 
+
+C Quartzite C Graywacke Ore zone
+FW Quartzite FW Grit |
+
+_t
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Basement granite and schist
+
+ 
+
+We can thus summarize the events which are envisaged to have led to the
+formation of the stratiform orebodies of the Zambian Copperbelt in the following
+way:
+
+(1) Metals brought into the depositional basins either by rivers or by metal
+enriched hot brines emanating from springs along the possibly fault controlled
+basin edge, were dispersed throughout the accumulating sediment. Such metals may
+have been adsorbed onto particles of clay or organic material or may have occurred
+as hydroxides, carbonates or other complexes.
+
+===== page 17
+STRATIFORM ORE DEPOSITS OF THE ZAMBIAN COPPERBELT 251
+
+(2) The basin became restricted from the open sea and the waters became
+increasingly saline. A marked brine density layering developed in the centre as
+described by Schmalz (1969). Sabkha type mudflats appeared along the littoral zone
+in which reef masses were inundated with muddy sediments.
+
+(3) Nodular anhydrite was formed in both the basin centre and peripheral
+sedimentary facies by supersaturation of interstitial waters.
+
+(4) Bacterial action in the carbonaceous argillites at the basin centre quickly
+converted the small nodules of anhydrite (or gypsum) to carbonate and allowed
+the formation of abundant early diagenetic pyrite. Similar replacement may also
+have begun in the littoral facies. The potash rich nature of the interstitial fluids
+allowed the formation of abundant sericite and/or secondary microcline.
+
+(5) As diagenesis proceeded and compactional effects became more pronounced,
+intrastratal brines, plus hydrocarbons generated by the decay of the organic
+material, began to move towards the basin margins. Under elevated temperatures
+these brines desorbed metal ions, and carried them into the littoral zone where
+anhydrite was abundant as a cement or as nodules.
+
+(6) Reaction between the hydrocarbons in the brines and the anhydrite resulted
+in the rapid precipitation of sulphides. Initially iron sulphides dominated, but with
+advancing diagenesis copper, hitherto strongly bonded to organic material, was
+desorbed in increasing amounts and carried into the sabkha facies by the brines and
+then precipitated in the form of chalcopyrite or bornite. The gradual depletion of
+potash in the brine by the formation of potassium silicates produced a relative
+increase in soda concentrations and the appearance of secondary albite along with
+the copper sulphides.
+
+(7) The magnesium rich nature of the brines is indicated by the dominance
+of dolomite in the lenticles and by the dolomitization of the bioherms. Chlorites
+intergrown with the sulphides are magnesium rich varieties such as clinochlore and
+sheridanite.
+
+Thus, during diagenesis we have a reconcentration of metals towards the shore-
+line from which they were originally dispersed during sedimentation. The rate of
+supply of sulphur (or H2S) from the anhydrite was sufficient to balance the rate
+of influx of metals though at times competition for sulphur was great enough for
+pyrrhotite to form instead of pyrite, especially in those areas where the lenticle
+concentration was lowest, i.e. to the northwest of the Nkana North Limb bioherm.
+The small quantity of mineralization in the bioherm is explained by the fact that
+its porosity was restricted by compaction and cementation, by the lack of a pre-
+cipitant there, or by the fact that all the metals had been precipitated from the
+brines before the brines entered this dolomite mass. In the latter case the reef
+masses are envisaged as having acted as a plumbing system for the basin allowing
+the upward and outward escape of the brines.
+
+THE COBALT PROBLEM
+
+It is not intended to deal with this subject in detail. Some of the problems
+which face the proponents of the syngenetic synsedimentary origin for both the
+copper and cobalt mineralization should, however, be pointed out.
+
+===== page 18
+252 A. E. ANNELS
+
+If the metals are derived from weathering of the Basement Complex and then
+deposited in the various basins flanking land masses, then:
+
+(1) Why is cobalt only found on the southwest side of the Kafue Anticline (see
+map, fig. 1)? On the Luanshya-Mufulira-Ndola side cobalt is only at background
+levels.
+
+(2) Why are all known occurrences of cobaltiferous pyrite and cupriferous lin-
+naeite and carrollite found along a narrow belt which passes through Baluba,
+Nkana, Chibuluma, Nkana North Limb, Mwambashi and Bancroft?
+
+Is it fortuitous that virtually all the sills (extrusions?) of amphibolite in the
+Upper Roan are found on the southwest side of the Kafue anticline and that their
+thickest development coincides with the central portion of this cobalt lineation?
+
+Why is it that analyses of pyrites extracted from late stage veinlets in the Upper
+Roan amphibolites show an enrichment in cobalt only when the Lower Roan
+orebody beneath contains cobalt? Up to 2.5 % cobalt has been recorded in these
+pyrites.
+
+Why is it that all analyses of Basement mineralization and Basement rocks
+known to the author fail to reveal the presence of cobalt?
+
+The majority of occurrences of cobalt throughout the world are associated with
+basic magma, why should Zambia (and for that matter, Zaire) be an exception
+to the rule? Perhaps both the amphibolites and the cobalt mineralization are related
+to the same magma body at depth.
+
+SULPHIDE ZONATION
+
+The picture of sulphide zones parallel to shorelines as presented by Garlick
+(1961), Davis (1954) and others, is in the author’s opinion an over simplification.
+In reality such clearly defined zones are extremely difficult to recognize. Vertical
+and lateral sulphide zonation is often explained in terms of transgressions and
+regressions of the shore line which are incompatible with changes in water depth
+as indicated by sedimentological evidence. At Nkana North Limb a gradual
+deepening of the ore-shale basin was accompanied by the deposition of carbon-
+aceous argillites. This event was then followed by a gradual shallowing so that the
+sediments became increasingly silty and sandy and eventually gave way to coarse
+grained quartzites. These lithological changes coincide with a change from Cp + Py
+at the base of the ore-shale to Cp +Bn to Py+Cp and then to Py close to the top.
+Syngenetic theories (Garlick, 1961) indicate that a shallowing of the water should
+not be accompanied by a change to pyrite, or deepening by a change to bornite.
+A similar reversed profile is found at Baluba, Chambishi and Muliashi South. The
+opposite zonation, in which the changes are Py > Cp — Bn > Cc in an upward
+direction, is found at Roan and Roan Extension. It should be borne in mind that
+both the Roan and Chambishi Basins (see fig. 1) were probably part of one large
+depositional basin and should show the same sedimentary trends, which they do.
+We should thus find, after taking into account diachronous contacts, identical pic-
+tures in the mineral zoning which should correspond to lithological zones. This is
+not the case.
+
+===== page 19
+ 
+
+STRATIFORM ORE DEPOSITS OF THE ZAMBIAN COPPERBELT 253
+
+STRUCTURAL CONTROLS
+
+Brock (1962) first postulated the theory that sections of the crust may have
+collapsed in the Katangan geosyncline thus accounting for the distribution of the
+present sedimentary basins. While his conclusions should be treated with reserve,
+there is certainly some evidence which tends to support his ideas.
+
+Firstly, it is remarkable that pinchouts of the ore-shale in the Chambishi Basin
+tend to coincide with the present margins of this structural basin. The extremely
+sudden pinchout of the carbonaceous shale to the southwest between Mwambashi
+North and Chibuluma (fig. 1) is, in the author’s opinion, too rapid to be explained
+in terms of facies changes. What is more remarkable is that this line also marks the
+sudden disappearance of the upper portion of the Lower Roan above the ore-
+shale and possibly even the basal Upper Roan. At the same time the Upper Roan
+amphibolite “sills” lie almost directly on arenites which are believed to represent
+the Footwall Quartzites. In the area where the ore-shale is present, all the amphi-
+bolites are separated from the Footwall Formations by more than a 100 m of
+arenites, argillites and dolomites. Though it is realized that such “sills” could be
+transgressive, the above facts appear to the author to be too much of a coincidence.
+They could, however, be explained by block subsidence during the deposition of the
+Lower Roan.
+
+Secondly, large sections of the margin of the Chambishi Basin are followed by
+monoclinal fold limbs some of which are subvertical or even overturned. A major
+monocline strikes eastwards from Pitanda, in the northwest of the Basin, passing
+immediately to the south of the Chambishi Open Pit, while a second runs approxi-
+mately north-south to the east of Nkana North Limb and links up with another in
+the Nkana syncline. The base of this fold is followed by a thick sedimentary trough.
+
+If block faulting did take place during sedimentation of the Lower Roan, then
+this may have allowed the influx of metal enriched, possibly magmatically derived,
+solutions into the basin from a series of springs around the margins.
+
+CONCLUSIONS
+
+In recent years many geologists have accepted that the syngenetic deposition of
+sulphides in the Copperbelt is a proven fact and have based their studies on this
+assumption. The main aim of this paper is to point out that such a theory by no
+means explains all the facts, and indeed has certain serious limitations. While it is
+attractive in many ways, it is still difficult to accept that sulphides could be pre-
+cipitated from waters beneath which, coarse, often cross bedded, arenites were
+being deposited and in which cryptozoon stromatolites were able to establish
+themselves. Similarly, bicherms, oncolitic stromatolites, and possibly also collenoid
+stromatolites, are also found in the ore-shale surrounded by mineralized sediment.
+
+The theory that at least some of the sulphide mineralization in the Copperbelt
+was formed by the combined bacterial and inorganic reduction of anhydrite in the
+diagenetic environment is presented for critical examination by those familiar with
+such deposits.
+
+===== page 20
+254 A. E. ANNELS
+
+ACKNOWLEDGEMENTS
+
+The work on which this paper is based was undertaken while the author was
+employed in Zambia with the Chibuluma and Mufulira Divisions of Roan Con-
+solidated Mines Limited, and the assistance rendered to the author by his col-
+leagues there is gratefully acknowledged. The ideas expressed in this paper were
+generated during discussions with Mr. W. G. Garlick, the Consulting Geologist,
+now retired. The author is very much indebted to this inspired geologist for whom
+he holds great admiration. Apologies are thus rendered to him for what appears
+to be an attack on his long-held ideas.
+
+References
+
+ANNELS, A. E. (1972). — Palaeogeography and sedimentology of the Ore-Shale Formation.
+Nkana North Limb Research Project, Rept. No. 2, Unpublished R.C.M. Chibuluma
+Division Report.
+
+ANNELS, A. E. (1973). — The genetic significance of anhydrite-sulphide relationships in the
+copper-bearing arenites at Mufulira Mine, Zambia. Unpublished R.C.M. Mufulira
+Division Report.
+
+Barton, P. B. (1967). — Possible role of organic matter in the precipitation of the Mississippi
+Valley ores. Econ. Geol., Monograph 3, p. 371-378.
+
+Brock, B. B. (1962). — On the structure and sedimentation of the Katanga basin. In: Strati-
+form Copper Deposits in Africa. Edited by J. Lombard and P. Nicolini, Assoc. African
+Geol. Sury., Paris, Part 2, p. 116-142.
+
+Bus, P. R. (1970). — Chloride-rich brines from sabkha sediments and their possible role in
+ore formation. Trans. B, Instn. Min. Metall., Vol. 79, p. 137-144.
+
+Darntey, A. G. (1960). — Petrology of some Rhodesian Copperbelt orebodies and associated
+rocks. Trans. Instn. Min. Metall., Vol. 69, p. 137-172; 371-398; 540-569.
+
+Davinson, C. F. (1966). — Some genetic relationships between ore deposits and evaporites.
+Discussions and contributions. Instn. Min. Metall., Trans. B, Vol. 75, p. 300-304.
+
+Davis, G. R. (1954). — The origin of the Roan Antelope Copper deposit of northern Rho-
+desia. Econ. Geol., Vol. 49, p. 575-615.
+
+Davis, J. B. and KirkLanp, D. W. (1970). — Native sulphur deposition in the Castile
+Formation, Culberson County, Texas. Econ. Geol., Vol. 65, No. 2, p. 107-121.
+
+Dozy, J. J. (1970). — A geological model for the genesis of the lead-zinc ores of the
+Mississippi Valley, U.S.A. Trans. Instn. Min. Merall., Vol. 79, p. 163-170.
+
+Garuick, W. G. (1961). — The Geology of the Northern Rhodesia Copperbelt. Edited by
+F. Mendelsohn, Publ. Macdonald, London, p. 146-162.
+
+GarLick, W. G. (1964). — Criteria for recognition of syngenetic sedimentary deposits and
+veins formed by their remobilization, Vol. 6. Proc. Aust. Instn. of Min. and Metall.
+(General).
+
+GarLick, W. G. (1967). — Special features and sedimentary facies of stratiform sulphide
+deposits in arenites. Proc. 15th Inter-Univ. Geol. Congr. Univ. of Leicester, p. 107-164.
+Garlick, W. G. and FLEISCHER, V. D. (1972). — Sedimentary environment of Zambian copper
+
+deposition. Zambia issue, Geologie en Mijnbouw, No. 3, p. 277-298.
+
+LLEWELLYN, P. G. and Stapsins, R. (1968). — Lower Carboniferous evaporites and mineral-
+ization in the eastern and central Midlands of Britain. Trans. B, Instn. Min. Metall.,
+Vol. 77, p. 170-173.
+
+Scumaiz, R. F. (1969). — Deep-water evaporite deposition: a genetic model. Am. Assoc.
+Petrol. Geol. Bull., Vol. 53, No. 4, p. 798-823. .
+SCHNELLMANN, G. A. (1959). — Formation of sulphur by reduction of anhydrite at Ras
+
+Gemsa, Egypt. Econ. Geol., Vol. 54, p. 889-894.
+

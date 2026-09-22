@@ -1,0 +1,2358 @@
+===== page 1 (text)
+                                           I X. . • '-X
+
+
+
+                                                          DEPARTMENT~OF MINES
+                                                           ' SOUTH AUSTRALIA-
+
+
+
+•rv
+             /•
+                                                           GEOLOGICAL SURVEY
+
+
+
+
+t: -
+N >•'..-.
+ >' t v "
+
+
+                                                                                                       /
+                                           BASE METAL MINERALISATION IN THE PERNATTY
+                                       /      . - LAGOON REGION, SOUTH AUSTRALIA
+
+                      1
+                          ,J !
+             •> > v v i
+
+ ''V
+
+
+
+                                                                  by
+
+
+
+
+                                                              R.ll. JOHNS
+i                                                           CHIEF GEOLOGIST^
+                                                                           /
+                                                                       y
+
+V4S                                                                             Rept .Bk.No.-72/1 89
+                                                                                G.S. No. 4955
+                                                                                DM. No. 1004/72
+
+
+
+
+                                 4th October, 1972
+    'ft
+      ti -
+
+
+                  V
+===== page 2 (text)
+f
+
+
+
+               CONTENTS                                      PAGE
+
+           ABSTRACT                                           1
+           INTRODUCTION                                       1
+           REGIONAL GEOLOGY                "                  4
+             Gawler Range Volcanics                          -4
+             Roopena Volcanics                                4
+             Pandurra Formation                               5
+             Woocalla Dolomite                                5
+             Tent Hill Formation                              7
+               Whyalla Sandstone Member                       7
+               Woomera Shale Member                           7
+               Corraberra Sandstone Member                    8
+               Arcoona Quartzite Member                       8
+             Tertiary deposits                                8 •' :
+             Quaternary deposits                              8
+           STRUCTURE                                          8 ,
+           EXPLORATION, NORANDA AUSTRALIA LTD.                9
+             Regional Surveys                ' .              9
+                                                v
+             Geophysical Interpretation                       10
+             Geochemical Surveys                              11
+             Drilling Programme, October to December,1968     11
+             Drilling Programme, March to June, 1971           14
+         ' CONTROLS FOR BASF METAL MINERALISATION              20
+    \J     REFERENCES                                          23
+
+          APPENDIX I - 1968 drilling results summary
+          APPENDIX II - 1971 drilling results summary
+
+          Figure 1 - Locality plan showing Special Mining Leases.
+
+         ^Figure 2 - Geological Map and cross-section Pernatty Lagoon           <(       \
+                     Yudnapinna area.                                 ''
+          Figure 3 - Metal contents, Woomera No. 1 bore.                             "
+                                                                            p
+          Figure 4 - Interpretation of airborne magnetometer results, Torrens
+
+          Figure 5 - Cross-sections through drill holes, Trevenna - Winnie
+                     Pinnie area
+          Figure 6 - Columnar logs showing base metal content:      drill
+                     holes, Lake Dutton area. . '
+
+
+          Plate 1 - Gunyah copper deposits, Pernatty Lagoon.
+
+          Plate 2 - Failing WW1 drilling rig, Trevenna area.
+
+          Plate 3 - E1 000 diamond drilling rig, Lake Hitton area.
+
+          Plate 4 - Diamond drill core, Woocalla Dolomite, from bore
+                    L.D.4o
+
+
+
+                                                                                             i
+===== page 3 (text)
+                     DEPARTMENT OF MINES
+                       BOOTH AUSTRALIA
+
+                                                    Rept.Bk.No„72/l89
+                                                    G.S. No. 4955
+                                                    DM. No.1004/72
+
+
+           BASE METAL MINERALISATION IN THE PERNATTY
+                LAGOON REGION, SOUTH AUSTRALIA
+
+                           ABSTRACT
+
+               Concentrations of copper occur in sand-
+          stone (Whyalla Sandstone Member) and dolomite
+          (Woocalla Dolomite) which rest disconformably
+          on an undulating surface of quartzite (Pandurra
+          Formation) in the Mount Guns on area.. Several
+          attempts have been made to mine chalcocite and
+          oxidised copper ores on the floor of Pernatty
+          Lagoon and on the marginal tablelands„
+
+               Exploration which has been recently under-
+          taken by Noranda Australia Ltd. in the same en-
+          vironment south of;Pernatty Lagoon has dis-
+          covered previously'unsuspected, widespread, but
+          low grade zinc, lead and copper sulphide mineral-
+          isation in dolomitic black shales (Woocalla
+          Dolomite) which underlie the Whyalla Sandstone
+          Member, generally under cover of Quaternary sand„
+
+                Copper mineralisation appears to be con-,
+          eeritrated in sandstone and dolomite adjacent to
+          and within a stromatolite reef complex about a
+         •basement high (the Pernatty culmination) whereas
+          zinc and lead, in subeconomic concentrations,
+          occur in laterally equivalent dolomitic black                     - •
+          shales which accumulated in a restricted lagoonal
+          environment, in depressions within the Pandurra
+          Formationo
+                          INTRODUCTION .
+
+          Copper deposits were discovered adjacent to the western
+shores of Pernatty Lagoon in 1875.    Desultory mining operations resulted
+in the production of 3 250 tons of hand dressed ore, generally containing
+8 to 16°/o Cu, during'the period 1898 to 1937.   During World War II (in the
+period 1941 to 1943) 32 380 tons of ore were recovered for treatment at
+the Broken Hill Associated Smelters at Port Pirie to yield 1 084- tons of
+
+copper metal and 14 523 ozs. of silver-o   Work was discontinued when the
+===== page 4 (text)
+minimum grade of 2.5$ Cu could not be maintained by open cast mining.           .
+          The known copper deposits comprise discrete, shallow, gently
+undulating more or less tabular bodies of generally low grade that range
+up to 15ft. in thickness and are concentrated along disconformities
+which separate sandstones (Whyalla Sandstone Member) and dolomites with
+shales (Woocalla Dolomite) from the underlying Pandurra Formation.        Ore
+minerals which include chalcocite, bornite, covellite, malachite, atacam-
+ite and chrysocolla occur as a cement to rounded quartz grains in the
+friable sandstone and as infillings of irregular fractures in dense .
+quartzite on the surface of disconformity.    Sulphides (principally chal-
+cocite) are restricted to the floor of Pernatty Lagoon and as unoxidised
+cores,of copper carbonate and silicate veinlets in the deeper levels of
+the tableland workings above the. water table.   Elsewhere, oxidised ores
+including malachite, atacamite and chrysocolla have been exposed in the
+Mount Gunson workings which range to 60ft. in depth.     Copper also occurs
+immediately above, within and immediately below the dolomite, occasionally
+with barytes, fluorite and manganese in the "dolomite" v/orkings at Mount
+Gunson, at Sweet Nell and Fair Nell on the southwestern shores of
+Pernatty Lagoon.
+
+          Geological features of the copper deposits of the Pernatty
+                                                               u>
+Lagoon - Mount Gunson area have been previously reported by Wainright
+                                                                  A
+
+
+
+(1914), Dickinson (1942, 1953) and Johns (1965, 1968).
+          Renewal of exploration activity in 1 965 led to reopening of
+the mine by Mount Gunson Mines Pty. Ltd. in May 1970 when open-cut'
+reserves were put at 3.2 million tons of       copper ore.   Mining was
+initiated on the floor of Pernatty Lagoon (Gunyah deposits) and chalcocite
+was recovered by 'flotation-in a mill constructed on the adjacent table-
+                                          i
+land (Plate- 1).   Fall in price of copper and difficulty experienced in
+
+treatment of partially oxidised ores forced closure of operations in
+===== page 5 (text)
+.December, 1971 and the plant-was put on a'^care and maintenance basis,,
+Details of that company's explpration-are- still held' as confidential.
+
+          Manganese and barytes in workable concentrations and fluorite,
+of academic interest, occur on the floor and adjacent western shores of
+Pernatty kagoon within the Woocalla Dolomite immediately above the dis-
+conformity (Johns, 1968).
+
+          Following an appraisal of the Mount Gunson - Pernatty Lagoon
+copper deposits a search in the surrounding area "for repetition of this
+type of mineralisation adjacent to the disconformity above the Pandurra ,
+Formation was initiated by Noranda Australia Pty. Ltd. in 1967.     Explora-
+tion undertaken under aegis of Special Mining Lease (SML) No. 152 of
+2 700 square miles, during the period .1st July, 1967 to 1st January,1968
+led to the selection of several parametres which'suggested areas for
+further investigation.   An area of 88 square miles was subsequently
+granted to Noranda Australia Ltd„ as S.M.L. 247 on 1st October, 1968 but
+this was surrendered on variation of the.application to be replaced by
+S,.M.Lo 256 over a much larger area of 900 square.miles for a two year
+term (1st October, 1968 to 1st October, 1970)„    On 5th November, 1970 a
+
+reduced area of 519 square miles was granted as S.M.L. 499 and, at expiry
+             «
+on 5th November, 1971 was replaced by S.M.L. 647 of 244 "square miles on
+25th November, 1971; this was surrendered on 4th July, 1972.    The bound-
+aries of these S.M.L. are depicted on the locality plan (Fig. 1)„
+         • This report has been prepared to document the results of work
+undertaken by Noranda Australia Ltd. in the Pernatty Lagoon area and is
+largely based on company reports of 'Tonkin (1968), Thomas (1969 a & b),
+Dunlop (1970) Appleyard (1970) and Thomas and Douch (1971).
+===== page 6 (text)
+        /'                REGIONAL GEOLOGY
+
+             The Upper Proterozoic Adelaidean sedimentary"''sequence exnosed
+
+in the-Pernatty. Lagoon area constituted an undeformed shelf facies
+
+(Stuart Shelf), extending along the western margin of the Adelaide Geo-
+
+syncline and forming a cratonic cover of shallow-water marine sediments
+                                      i
+on the Gawler Platform.     This platform is underlain by dominantly meta-
+morphic and igneous rocks.
+             In the area under review the topography is subdued' and is
+characterised by dissected tablelands and low rounded hills rising 250ft.
+to 300ft. above sea level and separated by extensive sand plain.         The
+area is bordered along its northern and northeastern perimeters by the
+dissected Arcoona Plateau, elevated 800ft. with isolated residuals e.g.
+Mount Gunson, Bonney Bluff and Oakden Hills within it.         Rock outcrop and
+sub-outcrop possibly total 15$ of the area; a similar area is occupied
+by normally dry lakes or lagoons which receive local internal drainage;
+the balance is obscured by sand plains and dunes.
+             The stratigraphy and disposition of outcrops depicted in Figure
+2 are based on published maps, Torrens 1:250 000 (Johns et. al. 1964),
+Port Augusta 1:250 000 (Dalgarno et al. 1968) with further refinements
+by Tonkin (1968).
+1.   Gawler Range Volcanics                           '    '
+             The oldest rocks, which are exposed ,in the southwestern extre-
+mity of the area, comprise felspar porphyry of Carpentarian age; these
+outcrops mark the northern limits of crystalline basement which underlie
+the Gawler Ranges.
+2«   Roopena Volcanics
+             Lavas penetrated in Beda Bore, drilled in 1912yfrom 439ft. to
+1 099ft'. 6 ins. (total depth) were considered by Johns (1963) to be of
+Wiliouran age, equivalent to those exposed at Depot Greek and Roopena.
+===== page 7 (text)
+Pyroxene basalt 'haV sinee«,-been identified from cuttings collected at
+
+the bore site (Tonkin, 1968),.   The lavas'are succeeded by what was
+
+described as "dark slaty rock", 158ft. in thickness.
+
+3o   Pandurra Formation
+           The oldest clastic rocks in the sequence belong to a formation
+of arenites known as the Pandurra Formation (Crawford, 1964) and com-
+prise horizontally disposed pebbly quartzite, grits and sandstones,. The
+formation outcrops on the floor of Pernatty Lagoon and in a prominent
+tableland marginal to its western shore where it forms the lower part of
+an undifferentiated series named the Pernatty ,:Grit by Johns et. al.
+(1964).   Mapping by Tonkin has delineated the formation near Trevenna
+Outstation and it extends in a range of low hills from Yudnapinna H.S.
+southerly to beyond Pandurra H.S. and along the west side of Lake
+                                                                     1
+MacFarlane.
+           Pebbles of the characteristically red coloured grit have been
+found as erratics in Sturtian glacigenes in the Flinders Ranges and a
+late Willouran age is assigned, accordingly.     At Roopena the Pandurra
+Formation rests unconformably on Roopena Volcanics (Thomson, 1966).
+           The formation was penetrated in Beda Bore between 237ft. and
+281ft. and in Woomera No. 1 bore from 1 490ft. to 2 005ft. (total, depth)
+without disclosing its base0
+4.   Woocalla Dolomite
+          -Dolomitic shales, dolomite and finely laminated hlack shales
+which comprise the Woocalla Dolomite rest disconformably on the Pandurra
+Formation and fill depressions on the undulating surface of that forma-
+tion immediately to the west and south of Pernatty Lagoon.    The dolomite
+                                     t   1                     .
+
+
+
+beds lens out in the Mount Gunson. H.S. locality so that the succeeding
+
+Whyalla Sandstone Member lies directly on the Pandurra Formation as it
+
+does in the Roopena area and, generally, elsewhere marginal to the
+           /                                 .
+===== page 8 (text)
+"Pernatty Culmination". I
+           Dolomitic black shales have been intersected in drilling for
+water supplies over a wide area.    Woomera No, 1 bore passed through
+372ft. of dark-grey finely laminated shale and dolomitic shale between
+1 118ft. and 1 490ft.     In Bed& bore 14ft. of this formation were inter-
+sected, in the interval 223ft. to 237ft., while a bore located four miles
+north of Maslin H.S. intersected-over. 1 00ft'.    G-ibson's Camp bore drilled
+in.1891 penetrated "hard blue rock" from 75ft. to 253ft. below white
+sandstone.    Ram Swamp bore, drilled in 1 925, two and one half miles north-
+west of Magnacowie Well, intersected 82ft. of "blue clay" without dis-
+closing its base.    Black shales have been observed in the dump of an
+abandoned well one mile west of McLeay R.S. and in drill cuttings of
+several water bores sunk in the Trevenna locality.      However, the forma-
+tion appears to be absent in the Yudnapinna H.S. area and at-Lake Mac-
+Farlane.     The shales exposed at Magazine Hill near Woocalla comprise
+equivalents of the Woocalla Dolomite and are not now correlated with
+Woomera Shale.    Black shales exposed at the copper prospect, 2 miles
+south-east of Pandurra H.S. are lateral equivalents.
+
+             The dolomite which outcrops along the western shore of Pernatty
+Lagoon and southwards to Lake Dutton is yellow, buff or grey, dense,
+massive and laminated and exhibits features of shallow water deposition
+including cross bedding, ripple marks and oolites.       Intraformational
+breccia and crenulated bedding with abrupt terminations are suggestive
+of a stromatolite reef.     Drilling undertaken by Noranda in the Oakden
+Hills - Lake Dutton - Trevenna area indicated irregularities on the
+upper surface of the Pandurra Formation in which finely laminated dolo-
+mites, shales and muds have been deposited.       This suggests black shale
+deposition in a restricted lagoonal environment on the Pandurra surface
+with marginal reef complexes about basement highs which correspond to
+the Pernatty Culmination..                                                  '
+===== page 9 (text)
+5.   Tent Hill Formation              , .
+             Throughout the' extent of .the Stuart Shelf this Marinoan
+formation is. typically exposed in tableland margins ana.in descending
+order comprise. Arcoona (Simmens) Quartzite Member and Corraberra -Sand-
+stone Member which passes down into Woomera (Tregolana) Shale Member
+"that occupies .the lowermost slopes and underlies the surrounding plains.
+The basal unit, the Whyalla Sandstone Member, in the type area rests dis-
+conf ormably on the. iPandurra Formation.   In the 'Pernatty Lagoon region it
+is underlain, locally, by the Woocalla Dolomite„      The oontact between the
+Whyalla Sandstone and the dolomite is disconformable and local channal-
+ling of the dolomite surface can be inferred e.g. at the Gun copper
+prospect near Mt. Gunson H.S. and elsewhere.
+
+     (1)   Whyalla Sandstone Member.• This unit is characterised by its
+white colour and by markedly spherical constituent quartz grains within
+a clayey matrix.      Cobbles of purple-red Pandurra Formation are common in
+the basal beds close to the disconformity.      Cross-bedding is common. The
+unit is often quite shaley towards the base but^ conglomerates are
+developed at the base of' some sections.
+
+             In.Woomera No. 1 bore white rounded quartz grit and sandstone,
+334ft. in thickness was intersected between 784ft. 6 ins. and 1 118ft.
+In Beda bore the topmost 223ft. comprised Whyalla Sandstone.
+
+             This member thus thickens away from the Pernatty Culmination
+and represents a return to clastic sedimentation in a shallow water, high
+energy environment.
+     (2)   Woomera Shale Member.   (Tregolana Shale Member equivalent).
+These shales weather readily to white clay and are seldom seen in out-
+crop.      In Woomera No. 1 bore a sequence of finely laminated purple, brown
+and green shales, 548ft. in thickness, were disclosed -between 236ft. and
+784ft. 6 ins.     The member thins markedly towards the Pernatty Culmination
+===== page 10 (text)
+                                       -8-
+
+
+and is 30ft. thick where exposed in excavations on the floor of an arm .
+of Pernatty Lagoon, overlying the Gunyah copper deposits (Plate 1).
+     (3)       Corraberra Sandstone Membere    Red-brown micaceous, flaggy, fine
+grained sandstones form the lower slopes of escarpments marginal to the
+Arcoona Plateau and in outliers in the northern part of the area.
+Woomera No. 1 bore was collared in this member and the uppermost 236ft.
+comprise laminated sandstones and siltstones with intercalated shales;
+
+slump structures are common.
+     (4)       Arcoona Quartzite Member.' (Simmens Quartzite Member equivalent).
+
+This is the topmost member of the Tent Hill Formation and is generally              .
+
+200ft. to 300ft. in thickness.           It is a dense white quartzite, containing
+
+abundant shale casts, that caps the Arcoona Plateau,,
+
+6.    Tertiary Deposits           '      i       '
+               ' Fluviatile conglomerate of probable Tertiary age are restricted
+
+in" occurrence in the Pernatty Lagoon locality. •
+           '     Silicification of older -units, particularly of the Arcoona
+
+Quartzite Member, Whyalla Sandstone Member and Pandurra Formation is
+
+widespread and relates to a period of extended weathering of peneplained
+
+surfaces.
+7o    Quaternary Deposits
+                 Extensive sand plains isolate exposures of'ancient rocks throug}
+
+out the area.         The sand is locally derived from erosion.of the older
+
+sediments and includes a high content of gypsum along the eastern shores
+                                                                             i
+of the numerous lakes throughout the area of the Bookaloo Lowland's.
+
+                                  STRUCTURE              .
+                                                               r
+
+
+
+                 The dominating structure in the region is a culmination.ex-
+
+pressed by the pre-Marinoan disconformity which outlines inliers of
+
+Pandurra Formation protruding through the younger Whyalla Sandstone
+
+Member          (Fig. 2).   It extends from south of Yudnapinna H , S . , through
+===== page 11 (text)
+Trevenna O.S., along the western side of Pernatty Lagoon to the northern
+
+end of Lake Windabout •         ,, ,       • .
+            The Pernatty Culmination is a basement high.       Erosional
+
+irregularities of the surface controlled the sedimentation of the Woocalla
+                            /   -
+
+
+Dolomite.   Webb and Woyzbun (196?) after study and interpretation of
+
+available aeromagnetic data suggested that the configuration of the 'high.1
+
+was controlled by block faulting.
+
+            The platform cover is draped over the irregular gently undula-
+
+ting older surface but it is, essentially, horizontally disposed through-
+
+out.
+            Structural information derived from mapping.and interpretation
+of aeromagnetic data outlined areas which were considered to hold poten-
+tial for economic copper-mineralisation of the Mount Gunson type.
+
+                 . EXPLORATION, NORANDA AUSTRALIA LTD.
+1.   Regional Surveys
+            Geological mapping of the 2 700 square miles area of S.M.L.
+152 surrounding the Mount Gunson copper deposits was undertaken by
+Noranda in late 1967 to trace the disconformity which is the locus of
+copper mineralisation at Mount Gunson (Tonkin, op. cit.K
+
+            Geochemical analysis of samples taken'from the core of Woomera
+No. 1 bore disclosed that zinc (in particular) with lead, copper and
+manganese are concentrated in the Woocalla Dolomite with a peak in metal
+values occurring at the disconformable contact between the dolomite and
+the overlying sandstone (Fig. 3 ) .    Samples of rock were taken from out-
+crops adjacent to the disconformity throughout the area and of spoil from
+wells and boreholes.    T'errain difficulties, including extensive wind blown
+sand cover, incidence of lakes, paucity of outcrop and attitude of the
+flat lying host to potential targets precluded geochemical soil.sampling
+as a prospecting technique,o                     '         •
+===== page 12 (text)
+                           .   -10-
+
+2.    Geophysical Interpretation
+            Interpretation of available airborne magnetometer;-;survey
+results was undertaken by Webb and Woyzbun (1967) to provide information
+on basement structure1 and thickness of.sedimentary cover,,    Three zones
+were distinguished, quite different in character although each display
+pronounced northwest trends with perpendicular cross tredds (Fig. 4):
+
+  -    the' eastern zone, where the trends are masked by sedimentary
+       cover is characterised by broad, deep-seated anomalies, at a
+       depth in" excess of 20 000ft.   It underlies lake Torrens with
+       the western boundary being more or less coincident with the limit
+       of the Arcoona Plateau in this region.
+  -    the central zone, disturbed by strong magnetic anomalies con-
+       sidered to be related to basement uplifts and estimated to lie
+       at depths of 4 000ft. to 6 000ft., correlates with the Pernatty
+                \*
+      Culmination.x The Mount G-unson copper deposit coincides with a
+      magnetic anomaly and- it was suggested that the major cross feature
+      might represent faults which were instrumental in transport of
+      mineralising fluids.     The most favourable areas for search for
+' '    possible repetitions of this type of mineralisation would thus be
+      located adjacent to local basement uplift where intersected by
+      cross faults.
+. -    the western zone, defined by a series of extensive narrow parallel
+      shallow low-order magnetic anomalies whose sources lie at an esti-
+      mated depth of between 500ft. and -1 200ft.   These are traceable to
+      the south-southeast to the Iron Knob - Roopena area where diamond
+      drilling undertakenbby the Broken Hill Pty. Co. Ltd., has now.
+      demonstrated that they are related to a doleritic dyke swarm (Jones,
+      1970).   The anomalies, trending NW-SE are interrupted by perpen-
+     dicular lineaments which represent fractures and faults that now
+===== page 13 (text)
+     define the shores of .--a number • of lakes in the region and may
+
+     have, exerted a profound control on sedimentation: and mineralisa-
+
+     tion of the Woocalla Dolomite and basal member of the Tent Hill
+
+     Formation.       •                         . ,•   .
+
+3.   Geochemical Surveys
+
+          Rock chip samples taken from exposures of. Woocalla Dolomite,
+
+Whyalla Sandstone Member and Pandurra Formation throughout the area dis-
+
+closed several areas wherein there are anomalous concentrations of lead
+
+and copper.   In the Birthday R.S. - Oakden H n i s H.S. locality lead con-
+tents ranged up to 1850 ppm with copper to 200 ppm adjacent to the dis-
+
+conformity.     Similar results were achieved along the disconformity where
+
+the Pandurra Formation protrudes through Whyalla Sandstone in the Trevenna
+
+Hut - Winnie Pinnie Dam locality. . Elsewhere, lead contents of 15 to 20
+
+ppm were determined for clastic rocks with a mean background of 135 ppm
+
+ih dolomite while associated copper contents were 5 to 10 ppm and 65 ppm
+
+respectively.
+           Black shales penetrated in boring for pastoral water supplies
+at Greenfields Dam (1 mile west of Birthday R.S.) and in the Trevenna -
+Winnie Pinnie area showed anomalous lead values which were virgin pros-
+pects considered to be worthy of further investigation by drilling
+(Thomas, 1969a).    The lead anomalies were discovered because of the avail-
+ability of outcrop and of spoil from bores 'for rock geochemistry.       The ex-
+tensive cover of sand marginal to the axis of the Pernatty Culmination
+from the Winnie Pinnie area to the northern end of Lake Windabout obscure
+potential targets over a wide area.     ."
+4.   Drilling Programme, October to December. 1968
+           The area chosen for test drilling included a concentration of
+geochemically anomalous lead and copper values, also sulphides that had
+   1                                    , -
+been identified in existing borehole samples.                           \
+===== page 14 (text)
+                                -12-
+
+
+            During the period October 4th to December 14th, 1968 thirty
+
+holes, aggregating 3 187ft. were drilled, in the Winnie Pinnie -r Trevenna
+
+locality by truck-mounted, air drill utilizing a combination of percussion
+
+and auger techniques (Thomas, 1969a).         The area tested consists of low
+
+bare stony hills separated by flat sand.plain which supports myall and
+
+mulga scrub.    Drill holes were spaced at intervals of about one half mile
+
+on an irregular grid.
+
+            Drilling conditions proved difficult and core recoveries were
+
+extremely variable since saline water was generally 'c\rt at about 70ft.
+
+and resulted in return of sludge from the shallow weathered shale zones,
+
+and thus contaminated samples.         The results are' summarised in Appendix I
+
+and depicted in Pig. 5o
+
+            Wind blown sand, gravel, and clay, with gypsum and kunkar
+
+commonly in the upper parts, ranges up to almost 50ft. in thickness and
+
+averages about 15ft.    The Whyalla Sandstone attains 200ft. in thickness
+
+and averages about 50ft.       The underlying Woocalla Dolomite proved to be
+
+more or less mineralised throughout, containing galena, sphalerite and
+
+pyrite.     In the upper oxidised zone the formation comprises white, yellow,
+
+buff or brown clays and these pass down into unweathered grey shales with
+
+dolomite.    The formation fills depressions in the undulating Pandurra
+                          }
+
+
+
+surface and is variable in thickness, ranging up to 130ft. in WP10.
+
+            Base metal contents proved to'be highest in two concealed sub-
+
+parallel shallow troughs in the Winnie Pinnie Dam locality and these trend
+
+more or less northerly.       Drilling indicated that the westernmost zone is
+
+almost one mile long and one half mile wide where shales, 20ft. to 30ft.
+
+in thickness and averaging 0.2$ Pb and 0.3$ Zn, extend from 40ft. to
+
+135ft. from the surface.       In WP17, 38ft. of shale averaging' 0.25$ Zn and
+
+0.1$ P b i n c l u d i n g two 5ft. wide sections containing more than 0.5^° Pb
+
+and 0.5$ Zn.    Similar results were disclosed in WP16 and WP15.        In the
+===== page 15 (text)
+                              -13-    .       .. .v
+
+centre of the area drilled another zone almost two miles long and one
+
+half mile wide contains an average of 20ft. to 30ft. of grey clay
+
+averaging 0.1   Pb, 0.1$ 2n at a depth variable from 30ft. to 100ft. from
+
+the surface.
+           South of Trevenna O.S. at the eastern end of the area drilled,
+ J
+the grey shales are deeper but base metal contents are much lower and
+
+both lead and zinc contents rarely exceed 1 000 ppm in the samples re-
+
+covered.
+
+           Lead and zinc contents are more or less sympathetic.   A fall-
+
+off of base metal values is evident in some holes from the central part
+
+of the formation towards both roof and floor (e.g. WP20) while, elsewhere,
+
+the highest Pb, Zn contents are highest at the extremities of the. forma-
+
+tion and decrease towards the centre (e.g. WP10).
+           Study of the form of the undulatory Pandurra surface, as
+revealed by drilling, indicates that the zones of black clay with high
+lead-zinc content are aligned with depressions in this surface.     By con-
+trast, the.shales over the more elevated portions of this surface were
+more dolomitic and relatively deficient in base metals (Thomas, 1969a).
+           Copper contents of samples ranged up to 0.3?° but there appears
+to be no direct relation between higher concentrations of copper with
+those of lead and zinc.   Silver contents proved to be generally in the
+range 5 to 10 ppm.   The general level of manganese in the sections high
+in lead and zinc is of the order of the combined lead and zinc.
+           Petrographic examination was made of samples taken from;drill-
+holes showing high concentrations of lead and zinc as under;
+===== page 16 (text)
+                                 -14-
+
+
+Hole Ho.         Depth (Ft.)          Pb (ppm)        Zn (ppm)    Cu (ppm)
+
+WP15               65-68          '     3 400          2 800         45 •
+WP16                40-45               6 400 .        3 600         100
+WP1 7 ,           1 05i-1 08i-           1 500          4 800 ;        60
+WP20                95r100              4 000     \      960         300
+
+
+             Sphalerite, galena, chalcopyrite and pyrite were identified
+as free grains of average 0.3 mm diameter; however some measure up to
+1 mm across.     Pyrite is common in relatively coarse grains and as ex-
+tremely fine, disseminated grains some of which are spherical andfram-
+boidal.     Chalcopyrite is in places altered to chalcocite and minor
+covellite.
+
+             Sphalerite crystals generally enclose dolomite inclusions and
+.thus accoimts for lower analyses than might be anticipated in sections
+that appear to be relatively strongly mineralised with sphalerite.
+             The presence of sparse primary lead and zinc with minor copper
+sulphides in a stratiform setting within a black shale phase of the
+Woocalla Dolomite was thus established but the concentrations are too
+low to be of economic value.
+5.     Drilling Programme. March to June, 1971
+             Seven widely spaced holes were subsequently drilled in a region
+of sparse outcrop extending from Oakden Hills H.S. to beyond Lake Dutton.
+Iih was considered valuable to simultaneously test the hypothesis that the
+base metals may have originated from hydrothermal intrusion in the - region
+of fault planes.     To this end several drill holes were sited close.to
+presumed fault lineations (Thomas and Douch, 1971).
+                                                                              i
+
+
+            Drilling commenced on. 17th March, 1971 and was completed on
+13th June, 1971.     In all, seven holes were drilled, totalling 2 737ft.
+of which 1 561ft. were drilled using a Failing WW1 combination rotary and
+percussion, truck mounted, rig operated by the Department of Mines
+===== page 17 (text)
+                           -15-
+
+                                           i             x'i
+
+
+
+The remaining 1 176ft. were cored by a Department of Mines E1 000 diamond
+drill rig using 2ir inch BQ diamond bit and core barrel wireline equip-
+ment (Plate 3)o   Core recovery of the shale target sone approached 100#.
+The results are summarised in Fig. 6, tabulated in Appendix II and
+detailed below.
+LD1 - 308ft. vertical; near Oakden Hills H.S. to probe an area in which
+      surface samples returned anomalous lead and copper values.
+Percussion techniques were used to 87ft. rotary with mud fluids from
+87ft. to 264ft.; the remainder was cored.      Below 7ft. of Quaternary sand
+cover, Whyalla Sandstone was penetrated to a depth of 260ft.      Black
+dolomitic shale was intersected from 260ft. to 298ft. 6 ins. and this
+rests on red auartzite of the Pandurra Formation.
+          The mineralised zone comprises black shales with intercalated
+light coloured dolomitic shale and dolomite.      The beds may be massive or
+finely laminated with regularly ribboned diffuse or sharply defined al-
+ternating black and ligher coloured bands ranging from 1/16 inch to 2
+inches in thickness (Plate 4).    The beds are generally horizontally
+disposed but are often delicately waved and slump structures are evident
+throughout.   Similar wavy bedding, truncated by numerous minor faults,
+is observable at the Woocalla clay quarry£ Johns (1968JJ.      Intensively
+dislocated dolomitic shale, obviously resulting from slumping of the
+sediments before compaction, feature intricate pile-up cascade structures,
+zig-zag folding, disrupted bedding, faulting, boudinage and pull-apart
+structures, all on small scale.
+          Finely divided pyritC^f, sphalerite and galena were recognised
+by Douch more or less throughout, as disseminated crystals or as concen-
+trations along cross fractures and steeply dipping joints.      Analysis of
+the" core over short intervals revealed 'that lead and: zinc are more. or
+less sympathetic and range up to' 2 000 ppm with zinc contents being higher
+===== page 18 (text)
+                              -16-
+
+
+than lead.    The uppermost 4ft. 6 ins. of the formation contained 2 000
+ppm zinc, 700 ppm lead and 4 600 ppm copper.     In the topmost 15ft. of
+the formation the copper'content exceeds 500 ppm but below this it is
+generally less than 40 ppm.     Chalcopyrite was not observed and the traces
+of copper present were therefore considered by Thomas and Douch (1971 ) to
+occur as microscopic chalcopyrite or as chalcocite.
+LD2 - 608ft.; north of Lake Dutton
+
+            This hole was commenced with the Failing rigli which drilled
+through 40ft. of sand to a depth.of 150ft. in the Whyalla Sandstone by
+percussion technique.    Here, shale was intersected and cored using the
+same rig'..to 365ft. 9 ins.   The hole was cased and completed using the
+diamond drill.
+
+            Woocalla Dolomite, penetrated from 179ft. 6 ins. to 601ft.
+10 ins. thus proved to be much thicker than anticipated.    Lithology and
+internal structures were similar to those of LD1; slumping was evident
+to 450ft.    Zinc content ranges to 1 400 ppm over intervals of several
+feet but over about 200ft. of section it is less than 200 ppm.     Lead' is
+concentrated in the upper 50ft. and the lowermost 50ft. of the formation
+and, throughout the remainder, it is generally less than 100 ppm.      As
+before, the content of copper is uniformly, low (seldom exceeding 50 ppm)
+except in the topmost 10ft. where it attains 1 000 ppm in one sample and
+averages somewhat less than 500 ppm.
+LD3 - 631ft. 11 ins. east of Lake Blyth
+            The hole was drilled by percussion methods to 273ft. for
+completion by diamond drilling.                       '
+            The mineralised dolomitic shale, intersected from 324ft. 1 in.
+to 629ft. is similar to that recovered from the other holes.   As before,
+the greatest metal concentrations proved to be more or less sympathetic,
+with zinc contents being higher than those of laad, decreasing from the
+
+•, •'•'.' V '                   . '               .
+===== page 19 (text)
+               /      .     - " -17-   •                    •   .'.'". .
+
+
+extremities of the formation towards the central sector and with minor
+
+concentrations of copper in an 8ft. thick- section immediately below-the
+
+contact with the Whyalla Sandstone and .over a width of 6ft. at the
+                                   •i                  .
+Pandurra disconformity.                   •       '
+
+   V       Several samples, representing less than 1ft. of section in
+
+each case, contain in excess of 1$ zinc and a zone from 604ft. to 628ft.
+
+averaging 0.16$ zinc.     Sphalerite occurs throughout in narrow dolomite
+
+bands that are separated by weakly mineralised bands of black shale.
+
+LD4 - 4405ft. 4 in.; west of Windy Valley Well       .
+           Penetration of the Whyalla Sandstone was achieved with the
+                                                               i
+Failing WW1 to 200ft. and of the underlying Woocalla Shale from200ft. to
+
+443ft. 9 ins. by diamond drilling.     - -        :• ' ,                       /
+
+           Mineralisation showed a reversal of the trend disclosed-^by the
+
+previous holes in that lead and zinc values are lowest at the contacts and
+
+reach a peak in the upper central part of the dolomitic shale.             Lead con-
+
+tent of samples proved to be less than'800 ppm while zinc contents ranged
+
+up to 4 600 ppm over a narrow interval.       Minor copper concentration was
+
+evident immediately above the Pandurra disconformity0
+
+LD5 - 274ft. 3 in.; South of Lake Dutton; drilled by Failing WW1 to
+
+       204ft. 6 ins., through the Whyalla. Sandstone and cored by .'diamond
+
+       drill through the Woocalla'Dolomite, the base of which was at 271ft.
+
+           The mineralised formation was less shaley than in previous holes
+
+and dolomitic shale was predominant.       Massive dolomite,' about 5ft. in
+
+thickness, comprises the basal bed.               "'* ; '                      . ''
+
+          Lead and zinc sulphides are more evenly distributed throughout
+
+the section with lead, in association with dolomite sequences, being more
+
+abundant and ranging up to 1 '250 ppm while zinc ranges "&o 435 ppm. , Minor
+
+concentrations .(to 400 ppm) of copper are again evident at the. upper and
+
+lower contacts.    Both zones.are characterised by slump structures and
+===== page 20 (text)
+                            -18-            ' .
+
+
+minor faulting of dolomitic beds.           :                   '   V
+
+LD6 - 222ft. 4 in.; east of Lake Dutton, was drilled to 177ft. with the
+    ' rotary-percussion plant and thence to completion by diamond
+      drilling.
+
+             This site was designed to test a "basement uplift magnetic
+anomaly" lying at the intersection of two major basement fractures in an
+area of no outcrop and where no geochemical information was available.
+
+             The Woocalla Dolomite, penetrated from 150ft. to 215ft. 8 ins.,
+is weakly mineralised throughout with samples showing generaliy less than
+200 ppm lead and 200 ppm zinc.     Copper contents however, are higher; one
+section from 160ft. to 177ft. contained 800 ppm copper while the core from
+210ft. to 216ft. averaged 1 224 ppm.     The zones of anomalous copper are
+associated with more massive dolomites.
+LD7 - 247ft.;south east of Trevenna Well was drilled to completion without
+      encountering shale.     The Whyalla Sandstone 120ft. in thickness, '
+      rests directly on the Pandurra Formation.         Interestingly, the lead
+      and copper contents for at least 20ft."above the disconformity
+      approach 2 000 ppm, while zinc content is less than 150 ppm over
+      the same--interval.                         , .
+
+             Drill holes LD2, 3 and 4 were sited adjacent to a zone which was
+considered by Thomas and Douch (1971) to comprise a graben structure
+occupied by Lakes Dutton, Finnis and Blyth.. Several NE-SW trending faults
+were detected on air photos and traced on the ground in this locality by
+minor scarps, sandstone, breccias and vertical foliation in the Whyalla
+Sandstone.    The recognition of a possible structural control in the depo-
+sition of base metal sulphides would have assisted in" outlining areas of
+potential economic importance.     • ,     '•           •   '
+===== page 21 (text)
+           "Drill holes LD2, 3 and 4 were drilled close to a
+          photo-lineament, where topographic differences suggest
+          minor recurrent fault movements since Proterozoic times.
+                                                                           1
+          No evidence was found of any increase in geochemical
+
+          levels of lead and zinc, attributable to hydrothermal
+          or other effects.
+
+          "Depths of basement Pandurra (Formation) suggest that the
+          most interesting results in LD3 may coincide with a shale-
+          filled depression in the basement, and.this is the same
+          effect as observed originally in the Winnie Pinnie
+         . locality                    .this interpretation narrows
+          down the general area of interest to a corridor some six
+          miles in width trending slightly east of north, from south
+          of the Winnie Pinnie Dam area to Birthday siding.
+          "Anywhere in this zone, except for the Pandurra inlier
+   :      north of Trevenna O.S. there is a reasonable expectation
+          of geochemically anomalous amounts of lead and zinc within
+          the shale equivalent of the Woocalla Dolomite.
+          "Two factors appear to have some bearing on mineralisation;
+          proximity to the keel of the basement depression, and the
+          presence of interfingering dolomite and shale facies of
+          sediments.   G-raben-like movements on lineaments north and
+          south of the lakes may have led to the deposition of great
+          thicknesses of shale and dolomite in the trough occupied at" '
+          surface by the present lake system".         '
+
+          Mineralisation consists of disseminated aggregates of pyrite,'
+sphalerite, galena and chalcopyrite.   The primary host rock appears to be
+dolomitic shale rather than black shale.   The proportion of dolomitic
+shale was observed to be greater adjacent to the Pernatty Culmination
+===== page 22 (text)
+(LD1, 2, 5 and 6) and to be appreciably diminishediin holes removed from .
+               i                       ,                            •
+it (e.g. Ll)4).      In all holes.the proportion of dolomitic shale.was great-
+est in the lowermost 50ft. of-the formation.' In'LD5 and 6 massive
+dolomite 5ft. to 10ft. in thickness occurs at the base while the remainder
+of the section comprises more than 50$ dolomitic shale*         •
+              Galena often occurs as coarse crystals'occupying vughy calcite
+
+veins within dolomitic shale bands or as "smears"'on joint surfaces in
+
+shale.       Sphalerite generally occurs as disseminated crystals ranging from
+0.05 mm to 1 mm diameter with grains of 0.3 mm being common throughout
+
+the dolomitic shales and only rarely as coarse crystals in calcite veins.
+
+Pyrite is common throughout the black shale.               ,-
+              Though no economic concentrations of lead, zinc or copper were
+disclosed.by drilling, the existence of geochemically anomalous levels of
+base metal mineralisation were established in a stratiform setting within
+                          ,                           -i
+
+shaley equivalents of the Woocalla' Dolomite over a wide area.          The
+association of galena and sphalerite with thin dolomitic bands within
+black' shale in a basement trough extending over a distance of 20 miles
+between Winnie Pinnie and Greenfields Dam, are suggestive of a very early
+if not syngentic origin.             .
+                                                                a
+
+
+         '             CONTROLS FOR BASE METAL MINERALISATION
+              The localisation of the copper deposits at the Pernatty Lagoon -
+Mount Gunson - Sweet Nell localities and 'the widespread copper-lead-zinc
+sulphide mineralisation now disclosed over a wide area to the south are
+considered to have been governed by several possible controls:
+  -    Pernatty Culmination                .'   '•
+
+              This represents a positive pre-Marinoan structural feature with
+      . a flanking algal reef in a passive structural environment, situated
+  '' marginal to small partially enclosed basins on the'Stuart Stable
+       Shelf.      Crystalline basement rocks outcropped to the west and south
+===== page 23 (text)
+•while more or less continuous sedimentation proceeded in the
+
+Adelaide Geosyncline* to the east.
+
+the disconformable Pandurra/Woocalla/Whyalla contacts
+
+     The disconformities provide favourable loci for introduced
+
+mineralisation and potential aquifers for ore fluids.     Alternatively
+
+•they represent a depositional hiatus during which time syngenetic
+
+base metal sulphides could have been concentrated on these surfaces,
+
+Woocalla Dolomite "                      "
+     The dolomite may have produced a sufficient increase in pH to
+cause the precipitation of sulphides from fluids, bearing base metals
+and travelling along the disconformities.     Such mineralisation could
+have been syngenetic with the disconformities in which case the
+dolomite, especially in reef form, would have been an influence in
+control.   If base metals had been introduced to the disconformity,
+:the dolomite would have acted merely as a precipitating agent.
+Basement fractures and basement uplift       '','',.
+     The Pernatty Culmination, underlain by basement rocks which are
+intruded by a swarm of basic dykes and dislocated by a system of
+major fractures, comprise a potential zone of weakness through which
+mineralising'solutions could have migrated.     If basement fracturing
+followed the deposition of the Pandurra Formation it would have
+created zones of increased permeability and conduits for passage of
+fluids in that formation'; circulation of meteoric solutions might
+concentrate dispersed syngenetic sulphides at'favourable loci'-on the
+disconformities within troughs in the Pandurra surface»
+===== page 24 (text)
+            Drilling of a north-west trending magnetic anomaly four"miles
+south of the Katinga Hills by the Broken Hill Pty. Co. Ltd. (Jones, 1970)
+disclosed dolerite containing 6$ to 10$ magnetite with traces•of. bornite
+and chalcopyrite as grains'0.01 mm to 0.16 mm diameter.       Three holes, each
+125ft. in depth, intersected dolerite averaging almost 500 ppm copper;
+lead content is generally less than 50 ppm but attains 200 ppm while zinc
+approaches 200 ppm.    Base metal 'sulphides have also been disclosed in
+shales and basaltic lavas at Roopena (Thomson, 1966).        Thus, primary base
+metal sulphide bearing source rocks have been identified in outcrop south
+of this region and it is almost certain that similar rocks underlie, at
+shallow depth, the area under reviewo
+
+            The above controls would be effective whether the base metals
+were originally syngenetic or epigenetic and thus, if these are the major
+controls" for mineralisation, the genesis of the Pernatty type' deposits
+becomes unimportant in the search for further deposits in the area.
+'Favourable conditions exist over a wide area but the search for buried
+zones of enriched sulphides where economically significant grades may occur
+will be inhibited by presence .of relatively shallow cover provided by the
+Whyalla Sandstone Member and by Recent' sand.      '     '
+            Analogies may be drawn between the mineralised black'shales
+(Woocalla Dolomite) and the. Kupferschiefer of northern Europe while the
+association of copper, lead and zinc sulphides, baryte's and fluorite^ with
+black shales and dolomites flanking collenia, reefs on basement highes in-
+                        t
+
+
+
+vites comparison with deposits of the Rhodesian copper belt, Pine Point in
+
+Canada and with the Mississippi Valley (United States) ore deposits, the
+
+origins of which have been variously ascribed ..to the influence of metal
+
+bearing saline solutions or, coversely, to accumulation contemporaneous
+
+with sedimentation.              •    '^J    'n_   '            •
+
+RKJ :FdeA               >           „ ' R.K. JOHNS
+4.10.72      '                  . ..   CHIEF GEOLOGIST
+===== page 25 (text)
+                                     -23-
+
+
+
+
+Appleyard, G.R., 1970.. S.M.L. 256, Lake Dutton area, South'
+
+            Australia, Report for 6 months ended September 30th 1970.
+Crawford, A.R., 1964V) Noranda Australia Ltd.              Report No .^147
+
+           (QJnpub.) Dept^of Mines Env. 1045/Q.y^Geol. Surv. S.Aust. ,
+            1:63 360 Cultana.
+Dalgarno, R.,. Johnson, J.E. , Forbes, B.G. and Thomson, B.P. , 1968.
+           ' Geol. Surv. S.Aust. , 1:250 000 PORT AUGUSTA.. '         • •
+Dunlop, A.C. & Dunlop C.P. , 1970.            Research report, S.M.L. No. 256,
+            Lake Dutton, South Australia.          Noranda Australia Ltd.
+
+           • Report No. 137 (unpublished) Dept. of Mines Env. 1043/1.
+Dickinson, S.B. , 1942.            "The Structural control of ore deposition
+           • in some South Australian copper fields".         Geol. Surv. S.
+
+           ' Aust. Bull. 20', pp. 50-65.
+                           t          ,        •
+
+
+
+              , 1953.     In Geology of Australian Ore Deposits - Symp.
+            5th Emp. Min. Met. Cong. pp. 517-523.
+Johns, R.K., 1965.             In Geology of Australian Ore Deposits - 2nd
+/ ";        Ed. Eighth Comm. Min. Met. Cong. pp. 297-300.
+       ,        , 1968.        Geology and Mineral Resources of the Andamooka -
+            Torrens area.         Geol. Surv. S.Aust. , Bull. 41. •
+'               , Hiern, M.N., Nixon, L.G. , Forbes, B.G. and Olliver,. J.G
+            1964.   Geol. Surv. S.Aust. 1:250 000 TORRENS.
+Jones, M.T., 1970.             Results of the drilling of a magnetic anomaly
+            4 miles southeast of the Katunga Hills, S.A.          The Broken
+            Hill Pty. Co. Ltd. report (unpub.) Dept. of Mines Env. 1175,
+===== page 26 (text)
+Thomas, A., 1969a. March.progress report S.M.L. No. 2.56, Lake Dutton,
+                    South Australia., Noranda Australia Ltd.            Report No. 110
+                    (unpub.).   Dept. of Mines Env. 104-3/1.
+
+          •           , 1969b.' September progress report, S.M.L. No. 256, Lake
+
+                    Dutton, South Australia.      Noranda Australia Ltd.- Report
+                    No. 131 (unpub.) Dept. of Mines Env. 1043/1.
+                                                         1                      ,
+•                       1970.    S.M.L. No..256 Lake Dutton; ^outh Australia,
+                    Report for 6 months ended April , 1970.           Noranda'Australia
+' •                 Ltd.   Report No. 137 (unpub.) Dept. of Mines Env. 104-3/1.
+ Thomas, A., and Douch, C. , 1971.                Annual report on S.M.L. 4-99, Lake
+                    Dutton, South Australia.      Noranda Australia Ltd.        Report
+                    No. 163 (unpub.) Dept. of Mines. Env. 154-1.
+ Thomson, B.P., 1966.                 The lower boundary of the Adelaide System
+                    and older basement relationships in South Australia.
+' '. .              Jour. Geol. Soc. Aust. V13 pt. 1. pp11 203-228. ' '
+      •                    and Johnson, ~ J.E. , 1968.         Marinoan stratigraphy Port
+                    Augusta region.      Geol. Surv. S.Aust. Quart. Geol. Notes
+ .;       >         NO. 25. PP. 4-7.               '       '
+
+ Tonkin, D. , 1968.                 "Report on Lake Mac^arlane region, South
+                    Australia".      Noranda Australia Ltd.        Report Noi 103
+                    (unpub.).     Dept. of Mines Env. 835« " ' •
+' Wainwright, W.E. , 1914-.               "Report on copper deposits of Pernatty
+                    Copper Syndicate".      S.A.'Rev.' of • Min. .Op. 20 pp. 41-52.
+.Webb, J.E. and Woyzbun, P., 1967» ' Interpretation of.the results
+                    of airborne magnetometer sruvey covering S.M.L. 139» 152
+                    (Stages 1 and 2 (unpub.)).         Dept. of Mines Env. 886.
+
+ Anon., 1971 S.M.L. No. 4-99 Lake Dutton, South Australia.
+
+                    Report for the three months ended February 5th 1971
+                          . . . . .                   . 1
+              • -               -                      .       .
+===== page 27 (text)
+              Report for the three months ended May, 5th 1971
+
+              Report for the three'months ended August, 5th 197T.
+
+              Noranda Australia Ltd.   Reports (unpubo). Dept. of Mines
+                                                         1
+          • Env. 1541.                               ,
+
+
+
+
+i V   '   •              '     ,   i
+                                             ;               .   i
+===== page 28 (text)
+                                        •                           APPENDIX I                                 •    \
+
+
+
+
+                                                  1968 Drilling re stiltsj Summary                             >
+
+
+                                                           •
+                                                                                       :
+  Hole      'Feet                               • PPm                                           , •. •                  •Lo3
+-•' No. Prom To Gu                              'Pb   Zn             Mu '        Ag         •
+
+
+
+
+u WP1  . 0   50
+                                                               ••
+                                                                                      White pink sandstone (Whyalla)
+      • 50   80                                                                       Grey black clay (Woocalla) . .
+" WP2   . 0 10                                                                        Gravels
+        10   30 '                                                                     Argillaceous sandstone (Whyalla)
+'WP3     o : 50                             i                                         clays with gravel
+         0   20                                                                              it • .     •
+ WP4
+        20 . '84                                                                      fine grained light sandstone
+                                                                                      (Whyalla)
+  WP5           .0           10                                                       Sand •
+                10           60                                                       White, p'ink sandstone (Whyalla)
+                60            69    130           170    40            25             White"' sandstone         "
+                    69        72 ; 180            140   150            40             Brown-grey clay (Woocalla)
+                    72        78   •120 •         180   150            30             Black clay .     . ."
+                    78       150                                                      Red, pink, white' sandstone
+                                                                                      (Pandurra;      i
+.' WP6              0        48                                                       Gravel.with clay
+                    48        49       ' .30      70   95              25             Buff clay (Woocalla)
+                                                       50                                       II                  II
+- •.       •     49 . 53                . 45    590                    3 0
+                                                                             .
+                                                                       20:                      N                  .II
+       •
+                 53 '58                   55 ' 1200    65
+                                                800                    30                       II    -             II
+                 58   63                  45           55                        .
+
+
+
+
+                 63 . 68                 240   1300 ' 180              30             Black clay (Woocalla)
+                                               1400   160                    10 )               II                  "
+                 68 • 73                '370                            95
+                                                      980              120 • 30                 II                   II J
+               . 73 •76                 1200 " 1800
+                                               1900 2200               90 ' 300                 II                  II
+               ' 76   78               3400
+                                               1900   840            ' 100   40                 U                   II.
+                 78   79                1000
+                 79 ' 88                 440     590  600               40                                 • pyrite (Woolcalla)
+                                                                                       !
+                :                                     200               50 ' 10!        .       IT                      II   .   TI
+       88   90                         ' 260    .510
+       90 ' 96                                                                        Quartzite (Pandurra)
+• WP7 ' .0 10                                                                     Sand
+       10   63                                                                   .White,,pink sandstone (Whyalla)
+     ' 63 • 68                           25        20    20            170 ': -2 Khaki clay.(Woocalla)
+       68   73                         2000       290   900            320    10 Black clay, .pyrite (Woocalla)
+                                                  400   720           ' 300            11       M         .11
+                    73   .     7   4
+                                        95'0'
+                                                                            4
+                    74        90                                       > .      ..Red, pink, white quartzite.
+                                                   /                                   1 "Do v>rlnV>T»ci   >
+===== page 29 (text)
+V 1 Hole      Feet                       ppm
+     No. From' To           Gu -    Pb         Zn   • Mu            Ag                                  Log
+
+   WPS        0        6                            •.. • • „ , .            Sand.    •
+             ,6       35                                                     White sandstone.(Whyalla)
+                      38 120         190    560          90 ,                G-rey, brown clay (Woocalla)
+                                     120    250         200                  Black clay            II
+             38 ,     40 1300
+                                     210    300         240                       •t               ii
+             40 •     44 950                                                                           *
+
+
+                                     880    400'        180                       u                II
+             .44      48 700
+                                    6300   7000         180                       •1               it •
+             48       51 200.
+                            340     3300   1000       250-                        II               it
+        l' ' 51   54
+                            200     3400              270')                    •II                 it
+           . 54  . 56
+                            140     3100              270                         II               II
+            56 . 57
+                                    2900              360                                                     .» it
+            57    60          90                                                     II    .   •   "
+
+
+
+
+            60    62         140    3200              720 '                          II                        II
+
+             62       64    .80     1600             8500                    Grey shale                        -
+
+
+
+                     • 66     '60   2700             4500 '•                     ii                      it
+             64
+             66       68      90    5300             9600                           ."       galena    •. n
+             68       70    280 '   1600   1100      9600                             " . - pyrite • it
+   •
+             70       72    800     1000             4800                        Gre y shale, pyrite, ("Woocalla)
+                               1 100                 4000 1                           n           n      ti
+             72       74 ; 430
+                                                                                                :
+                      76 280    880 1760             4400                5            ti      .          ti
+             74
+                                                     6400                             ti                 ti
+             76      •77 460 ' 1100
+             77      - 80 260  ' 680 760             8800                             "        dolomite it
+             80      120                                                         Red quartzite (Pandurra)
+   WP9        0       10                                                         Sandy-clay
+             10        25                                                        White, buff clay (Woocalla)
+              25     • 50                                                      Red quartzite' (Pandurra)
+   WP10        0       15                                                      Sandy clay
+             ,15       30                                                     White, buff, red clay (Woocalla)
+                                    1500     50              20              •• Purple Clay ' •          it
+              30      35 90
+                                    2800    100              60                                                               it
+              35   . 40 140
+              40 - 45 210           2-400   230            75                    Brown Clay (Woocalla)    ;
+              45    48 950          1500 • 1300           100        20          Black clay, galena, pyrite
+                                                                                 (Woocalla)
+              48 :    50 . 380 1300 . 1800             , 430 15                      it        II
+                                  1100 2400            2000                          II        it      II
+              50      55   40                                 5
+   *   _ "
+                      60 " 40"" " 1100 2600            1500 • 5              '        II               it
+             ' 55
+                                                       1800                           it               II          II
+              60      65   50      940 1200                   5
+              65      70   45 , 640 1200                950   2                       II                II         11
+                                                                                                                        --^
+===== page 30 (text)
+Hole      Feet                                                             A
+ No. From . To                   Cur; • Pb                 Zn        Mu . , Ag              ,          log
+
+V/P10 70             73          140 •       810     '2200      1 500 ,         5    Black' clav galena, pyrite
+(con)                                                                                (Woocalla)
+               73'   74          220       . 1000     2200      1200            2
+                                                                                         it     it       it
+
+               74    85           55          450        880    2000           2            II         TI    |.             II
+
+               85     90          35          320:       840    3300           5            ti         ti                  II
+                                                                                                             I
+               90     93          45          280        330    2400            2           it         it                  ti
+                                                                                                                      a
+
+               93     98          55          480        320    2200
+                                                                  Black shale galena, pyrite
+                                                                                2
+                                                                  (Woocalla)
+               98    104          50          510 1000 2600 ' ' 2     it      II      it
+                     110                      490   900 2400    2     II      II '    II
+               104           ' 50
+               110 •115        40             440 . . 400 1800  5  ' II      • II     ti
+                                              450 ' 200 3400 ' -5     II      II      ii
+               115 '1 20     ' 60
+               120   125          50          710 1800 2600     2     II      it      II
+
+           125       130          55        :. 720 2000 2800    5     II     . ti     II
+
+           130       135         -50        2600 1400 3400     30     it  • dolomite  ti
+
+               135   1 40 ' 600              1 200 . 1 300 4500                 5'          n          galena              II '
+               140   145 ' 380               1000 1 400 5000                   '2           tt         it                   it
+  •            145   150                                                             Red quartzite (Pandurra)'
+WP110                 10                             '-                              Sand
+                                       r                                                                          k               *
+
+
+'".'•••:
+       10    20                              ' .     .          • .
+                                                                . White sandstone (Whyalla)
+       20   52 •                                                  White, grey brown clay (Woocalla)
+       52   56                                                    Black clay, galena, pyrite "
+  .    56    60    20                        1000 2400   510  10' Black shale, •. "           "
+     •60     65    45                        1100 3000 1400   10,         "          "        "
+: ;    65    66   200"                       1 100 2200 2600               "   ' j "           "
+       66 . 6 8   120                        1100 2000 9600            ' •"       j "
+   '   68    71   120                        1300 5200 6000               " . '      "        "
+       71    76   120                        2900 3000 3600               " .   ,    "        "
+       76    78 . 230                        2800 2600 2800               "          "        "
+     . 78    84   320                        1100 1400 3600       .' . .. ' "       , "          »
+     ,84 "89      270                         600 1400 3800 ;        .    " . ' dolomite'     "
+               89 ••• 95         120          440        480    7200            ; Dolomite', galena, pyrite (Woocalla)
+               95    120 •                                             '             Red quartzite (Pandurra)
+WP12            0     10     •                                             ^ v. Sand j
+                10    30                   ' -                                       White sandstone (Whyalla)
+                30    63                                         '                   White orange, black clay (V/hyalla)
+           . 63 . '65            430.            75 ' 150        140 ',              Black clay, galena, pyrite                            "
+           V
+      '         65 . 68          480          170         290    150                 .'          " '                      " .     '   "~   "
+                68    70 " 290                700        300     160 .                ' :        "     '                  ••               "
+===== page 31 (text)
+Hole          Feet
+        rom    . To   Cu. .   •   ,   F   d
+                                              Zn     Mu       .Ag ' .: . .                            ...              . Log
+
+WP1 2 70        72    160         1800        560    220                               Black clay, 'galena, pyrite (WhyaHc£
+(con) 72                                                                               ?Quartzite, ?(Pandurra)
+            . 76*
+WP 13     0 " 10                                                                       Sand
+         10 •  43                                                                      White sandstone (Whyalla)
+        . 43 , 45     400     40               35     50                               Grey clay (Woocalla)
+          45   50     110     20               20     30                       •   •
+                                                                                       Grey clay, galena ("Woocalla)
+          50                  20               85     20                                              II                        -    N
+               55 , 35                                        -        '
+
+
+
+                              20              190                                         .           II                             N
+          55 ' 56 . 50                                • 30
+          56 . 59     110 :  '50              280       60     •                       Black clay, galena (Woocalla)
+                                              600      160                                            IT                            II
+          59 , 62 ... 600    150
+          62 "70      290   900               450   ... 380                                           ii                              it
+
+        :                                                                              Black shale, dolomite galena
+          70   75     190 ' 1400              640    1200
+                                                                                       (Woocalla)
+             78     450 . 1400 3200 . 1500                                                            II                             N
+       75                                                          •       •
+                                                                                                  *                     i
+
+                    170  1.500 1000 1100                                                              II                             II
+       ,75   85
+                         1600   840 2200                                                              II                    .       .IT
+       85 ' .90 • 130
+                                510 3200                                                              N- '                           II
+        90   95 . 160 - 720                                                    t
+
+                                490 3600                                                              II                             II
+       .95 100 - 220 • 790
+      100 . 115                                                                        Red quartzite (Pandurra)
+WP1 4    0'    5 :•                                                                    Sandy clay
+      . 5 , 60
+                              *
+                                      .. - •                                           White sandstone, clayey (Whyalla-).
+        60   7.0    110'     2   .70    130                                            Black shale (Woocalla).
+        70   75 ; -85 • .4.0'    90      55                                            Black shale sulphides- (Woocalla)
+                                                                                              i               .
+             80     170                  30                                                                       it    .                II
+       ,75               • 20    3.5
+       80 ' 85       5.0   .30 , .70     35                                                           ;.'-"       TI                       II
+                   100       550 1000 1 400'                                                                      II                       II
+       85 ' 88                                      i •           -                                               •
+
+
+WP15    0   20                                   'Sand, clay, gravel
+                   f -
+      .20 • 35                                    White ,'' buff clay (Woocalla)
+       35   40     130    i. 900   150   40    2 Buff brown clay          "
+       '40   45 ; 160     .1.500   200 . 65 ' . 2 Brown clay            • "
+     . 45    50 ' 15.0     1600    500  970    2 Grey clay .              "
+       50    55    230      . 760 3000  820  ' 2 Dark grey clay           "
+       55    60   '110     1100 4000    700 ' 16 Black clay          ,    "
+       60    6
+               5 . 40        870 3100 7100    6 Black clay          .   , "
+       65    68      45- - - 34002800 3100   . 6 Black clay'      •       "
+       68    75    600       570   380 2600    5 Black clay, galena       "
+                                                              1
+       75 . '80    340       400   260 3300    5 Bladk clayj, galena      "
+     " 80 ' 100                                   Red quartz'ite (Pandurra)
+===== page 32 (text)
+Hole    Feet "
+ No From To' Gu                     Pb     Zn       . Mn:'. Ag'                  Log
+
+WP16    0 ' 16                                                    Sand" ;        ••    •
+                                                •
+
+       16   29                                                    White .sandstone (Whyalla) .
+       29   40   300             240 ' 340    110            5 Black clay, galena (Woocalla)
+       40   45    100           6400 3600" 110..             6j     II                     .11
+
+
+
+
+       45   50 • 130            4000 '2400    125            7      ii -                    II
+
+
+
+
+       50   55     95.          3200 . 2800   125            6              It              It
+
+                                            1
+       55   60 ' 140            4600 2800 ' '1 20            6              It
+
+
+       60   63   200            2800 1900 • 560              6    Black-clay, galena, pyrite (V/oocall;
+       63   66   '340            170 1000 3500               2         "      dolomite        "
+       66   70. 160              160    640 4150             5
+       70 • 75 220               440    820 2000
+ - .•
+       75 100                                                   Red quartzite, (Pandurra)
+WP17 .0     10                                                   Sandy clay
+                                                               :
+       10   80                                                   white sandstone (V/hyalla)
+       80   90     75              60   150 •• 120           2 Black clay (Woocalla)
+       90   95     55            ' 80   160 ' 360            2       it
+•
+       95;
+            98   340              300   420    •740          6         II
+
+
+
+   -   98 100    300              650   410 -940             5    Dark-grey clay (Woocalla)
+      100 105     1 20          . 6200 4000 1 400            8    Dark grey clay dolomite, galena,
+                                                                  pyrite, sphalerite (V/oocalla)
+             100 ' 108     60       1500   4800      2100         Dark grey shale, dolomite, galena
+<
+
+
+
+                                                                  (Woocalla)
+    n,
+
+             108   115     1 20 . 1000     2600 ' 1 100      2
+     '115          120 '    60   1 200     5400 1900         5                         .galena
+      1 20 130              80     950     2200 1'6000       6                         dolomite
+      130 138               60 ' ' 800     1500 1350         5
+      138 '150                                                  Red quartzite (Pandurra)'
+WP18    0    5 -                                                Sand
+              5     63     20       ,'35     45         45      V/hite sandstone (Whyalla)
+             63     70          !
+                                                                Red quartzite (Pandurra)
+WP19          0
+              5                                                 Sand     >
+         5 • 100                                                White sandstone (Whyalla) ;
+                                                              !
+     •'100' 110   260                180    300        50    2 Blackshale, pyrite (V/oocalla)
+      110 i n : '460                1000    420      2000    6     .
+                                                                   t it    - it
+
+
+WP20     0 ' 20                                                  Sand, clay, gravel .
+                                     - ;            .: . -
+       20                                                       White sandstone (V/hyalla)
+       87    95 : 560                280    420      2000       Dark grey shale (V/oocalla)
+
+
+
+               i
+===== page 33 (text)
+WP20 95                100    300     4000    960      2250    7        Black shale, galena (Woocalla).
+(con)-00-              105     90     4400    4800     2450                  11
+
+       105             110     70     3900    3200     2300    6                 it
+
+
+
+       110             115     70 ' 3800      2400     3150    6
+                              240     1100     640     3150     6                                pyrite
+       115' 120
+                                                                        (Woocalla)
+       120             125    280      450     400     5200     2
+  "    125             130    190 .    400     370     1250     2 Black shale, galena, dolomite
+                                                                        (Woocalla)
+      130 150                                                           Red quartzite (Pandurra)
+YJP21   0'     5                                                        Sand
+        5 ' 60                                                          White sandstone (Whyalla)
+       60 , . 69   15                   25      50      830     2       Grey shale (Woocalla)
+       69 .75      30                   90      80     3700     2         tl         tt
+       75 100 :                                                         Red quartzite (Pandurra)
+WP22    0     57 -                                                      White sandstone (Whyalla)
+           5   7
+                        62    1 40     220     1 30      50     2       Black clay (Woocalla)
+       '           „
+
+
+           62 '  69           380      140     300      130    10       Black shale, pyrite.(Woocalla)
+                                                                                  11        it            11
+           69 ' "73           400      250     640      500     5
+                        80     90      110     270     6300'    2       Black-shale, dolomite (Woocalla)
+           73
+                       100                                              Red - quartzite ', (Pandurra)
+           80 •
+WP23             5.                                                     Sand
+               0
+           5 • 40                                                   White" sandstone (Whyalla)
+         40     52                                                  White, grey-brown clay (V/oocalla)
+       • 52 . 57    180               , 360     70        60   V-5 Dark grey clay-(Woocalla)
+         • 57 ' 62 1200               6000     160       120    10 Dark grey clay, gal ena (Woocalla)
+          62    65  140               2000     900        70      5 Dark grey shale, ( V / o o c a l l a )
+                70   40                940    1100      1100      5      tt       11           it
+          65
+                                                       1 400             11       11            11
+                75   30                800    1000                5
+          70
+                     30               1000    1000     1300    '         11        11           it
+
+       t 75
+                80                                             , 25
+                85   35                900 3000        1 200             11        it           it
+
+        ' 80 .
+                                                                                   11           11
+          85    90'  35                700 ' 7 0 0     1200      .2    ' it
+
+                                                                                                    tt
+                95   30                 250    350     1700       2         tt         it
+          90                                                                                         ti
+                        100           " 280    230     1600'     .2         11         tt
+           : 95               • 30
+                                                        1800                ti         11            it
+                                        190    200             ' .2
+           100 105             30
+                                                        1700                11         ti            ti
+           105 110              30      220    650 '               2
+                                        260    650      2000        2       it         11            tt
+           110 . 11 5           30
+                                                                                                     it
+           1 1 5 1 20           35      260     430 1800            2       tt
+
+
+                                        420     470 ' 1600          2       11                       it
+           120 ' 122          • 30
+===== page 34 (text)
+Hole      Feet
+ N.0 From To                        Cu                 Pb              . Zn£         Mn .          Ag                                                  Log v
+
+WP24       0          18                                                                                            Sand, clay, gravel
+          18          26                                                                                        White sandstone (Whyalla)
+         26           48                                                                               •        White, yellow grey clay (Woocalla
+         48 '         55            850            2200            (       1100      150          20            Grey clay, galena           "
+          55          65                45              750                2400     1800           5 '          Grey shale (Woocalla)
+                      70                30             930                 3400     2800                                    ti                          it
+         65                                                                                   : 5
+         70                             50         3500            -1 200          2400                                     it                          ii
+                      75        .                                                                  5
+                      80            260 •          2700                     400     3600                                    n
+         75      '
+                                                                                                                                                        II
+                                                                                                   5
+         80                         340                 140                 150    3600            2                                           -        it
+                      85        '
+                                                                                                                            II
+
+
+
+
+         85           90            220                390                  300    10000           5         Grey shale, dolomite, pyrite
+                                                                                                            \(Woocalla)
+         90          100                                                                                     Red quartzite (Pandurra)
+WP25       0            5                                                                                    Sand, grave 1
+           5          87                           "                                                       • White sandstone (Whyalla)
+        • 87         107                                                                                     Dark grey shale (Woocalla)
+        107          1081           460                . 160           :    440     1300           5
+                                                                                                                                      II                            II
+
+
+
+
+        108-g-       117            220            1400                     700     1500      '    5
+                                                                                                                                      TI                            II
+
+
+
+
+        117          125    .           90             430             :    420.     820           2                                  II                            II   •
+
+
+
+
+        125          1 30           r   60             930         , 1 500 '        1600           5            Dark grey dolomite, galena,
+                                                                                                                pyrite (Woocalla)
+        130          135 •          .70            1600                . 2000      2000            5            Black shale (Woocalla)
+        135          140                60             730                 1000     1200           2            Black shale (Woocalla)
+        140 .        150                45             480         ;       1 350    1800           2                "      dolomite (Woocalla)
+        150          160            ' 40               380     / 1 200              1600           2 •                           IT                     II                        II
+
+
+
+
+        160          1 7 0 .•           45             420                  900     1700           2 :                           it                     II                        II
+
+
+
+
+        170 " 180                       40             360         '        680    "1 6 0 0        2-:                           it                     II                        II
+
+
+
+
+        180 -        194                90     ' ,820                       900    2500            2                    .        II        *            II                        IT
+
+
+
+
+        194          200                                           , •'                                      Red quartzite (Pandurra)
+                                                                   i
+VJP26      0            9                                                                                    Sand, clay, gravel    ;
+           9         119                                                                                   • White sandstone (Whyalla)
+        119*         125            200        • 170                        200      1 30         '5         Grey shale (Woocalla)
+        125          130            200                780                  480      370                                         it                            it
+                                                                                                   5
+        130          135            140        ' 1300 .                     470      510           5
+                                                                                                                                 II                «           II
+
+
+
+
+        135          140            140                830     ;            450      530           2       "                     II                            N
+
+
+
+
+        1 4 0 '- 1 4 2              240            1700        • 2500              1700            5            Black - shale
+        142          150                90"" " "        720 •               450     • 760          5
+                                                                                                               -•   '            II                            H
+
+
+
+        150          155        '       55             600                  800    1000       • 5 ;
+                                                                                                                                 II                            II
+
+
+
+
+        155     " 160       '           40 .           430                 . 200    . 920          2                             II                            N             ,,        ^
+===== page 35 (text)
+Hole         Feet     • • • '             . .
+ N 0 From    To   Cu . Pb., Zn             Mn.     Ag   • .       . Log
+WP26 160     165     60      460    660 1200  5  Black shale, pyrite (Woocalla)
+(con) l6 ^   .) yo    50    • 420    650 1300. 2. Black shale, galena (Woocalla)
+••• "    170 .175     60    1000    7700 1500 . ' .5 ' Black shale,: (Woocalla)
+                                                        11
+        175 180      70    1000     500 1900 ^ ' 5                     "
+ '      180 185      75     680      330 2500     2 '   • "       ••.    "'
+         "' 185 193                                           ' Red quartzite (Pandurra) •
+ WP27         0    35      '                                    Red sand, clay gravel
+             35    62-^-         ; :                            White yellow, pink clay (V/oocalla)
+             62±' 70      40     '220       45     30     2     Black clay                  "
+     •      '70 . 74 2900         300       90     30     5 -Black clay, galena              "
+             74    80 1800        360 1000        140     5          ":        "            "
+             80 .. 83 , 600 ' .240         900 o560        5         "        • "
+             83    90     90      430     800 1700        2     Black shale, galena pjrite "
+             90    93 v -170    .550      850 1600        5 ' Black shale
+ WP28         0    25                                           Sandy clay, gravel
+             25    50         • • . ''                            White•sandstone (V/hyalla)
+             50                                       '.        Red quartzite (Pandurra)
+ V/P29        0    33    "              • •                     Sandy clay
+             33 114                                          ' White sandstone (V/hyalla)
+  WP30        0      9                                          Sandy clay, gravel     , '
+            • 9     62 ' '       :. ..                           White sandstone (V/hyalla)
+ •         • 62     68   350 • * 20         65 • 40        2     Grey clay (Woocalla)
+'. : ' 68 ' 85             40        20      60     30     2     Dark grey clay (Woocalla)
+ ."••;"'; -85 - 110      ' 20      - 40      ' 60      40      2 •        "            "
+  ' .' 110 120 . '220 .'.140                 440    180      5    Black shale        "
+        :   120. 127     160 " 1400        680.   420      5.        . "     .     "
+            127 .129      90    4000 2300 1500            5             "...       "
+===== page 36 (text)
+                                                                          V    '
+
+
+
+
+                                                    APPENDIX II
+                           • j'
+
+-                                   1971 Drilling Results Summary
+
+    Hole     Feet ;               : Cu        Pb    Zn ' Ag
+    No. From     To                   ,         (ppm)
+           0         7 .                       •                Sand
+           7'      160                                          White sandstone,(Whyalla)
+                                                                          11                      "
+         160 .     210              • 7'       20     34 o„3
+                           A
+         210 •     260               21        20     20 0.2    White,grey,dark grey-black sandy
+                                                                          shale
+         260     264*6" 4600 700 2000 4.8                       Black shale,dolomite     ' (V/oocalla)
+         264'6" 264*11" 800 380 800 3                           Shale,dense,brecciated,pyrite
+         264'11" 267t5" . 480 100 6 5 0 4 .                     Laminated black shale,slumps,galena,
+                                                                          pyrite
+         267'5"    268*3"           500       150    750 4      Black shale,dolomite (4 beds ^"-1")
+                                                                          slumped,galena
+         268'3"    268*8"           700' 230 1000 '2            Fine laminated black shale,slump
+                                                                          structures,pyrite
+         268*8"- •270 '             600        50     70 '2     Laminated black shale,dolomitic
+                                                                          bands,slumped
+         270'    270'11" 1800                  75    150 2      Black shale,pyrite
+         270*11" 271'3"- 700                  100    110 ,2     Laminated black shale,dolomitic,
+                                                                           slumps,galena
+         271'3"    273 ; .          500       100 ' 250 2 •         II
+                                                                          black shale,and dolomite
+                                                                         . (to 2" bands) pyrite
+         273       274*6"           600       120 • 320 2           it
+                                                                                   . black shale, slumped
+                                                                                    pyrite
+         27416"    276*2"           600       200    600 2 ..        tt
+                                                                                   'black shale,sphalerite
+         276'2"    276*8"          . 380       90    100 2           it                   "      dolomite
+         276'8"    277111"          110       120     70 2         • 11
+                                                                                          "      slumped,pyrite
+                                                                                                 galena
+                                          x
+         277'11" 279'9"            • 60  940         650 2' ' ; Black shale,dolomite,slumped pyrite
+         279*9" 281'4"               30 1500         500 2          ti
+                                                                              ."        "    galena,
+                                                                                          sphalerite
+                                                                     11                  II           it
+         281'4"    281 * 7"   30 1600 400 2
+                                                                   • 11                  II           ti        II
+         281'7"    283*)"     20 780 750 2
+         283'3"    284*2"     30 700 1200 2                          ti       . • :           "            "   pyrite
+         284'2"    284'9"     65 1600 800 2 '                   Laminated black shale                 "        "
+         •284'9"   285*7"     40 700 650 2                      Black shale,dolomite                  "        "
+                                                                     11                  it                     II
+         285'7"    286'4"' "" 35 660 1000 2
+         286'7"    286'11"    30 640 800 2                           11
+                                                                                         "             "       galena,
+                                                                                                               pyrite
+                   i
+
+
+                       1
+===== page 37 (text)
+Hole     Feet •         Cu     P"b   Zn   Ag                 Log
+No. From     To     ,            (ppm)
+LD1 286'11" 287'7"      40    880 1000 2    Laminated black shale,dolomite
+   . 287'7" 292 , 3"    28    400 900 2 '        "          "       "
+                                                      slumped galena,sphalerite,
+                   ;                                  pyrite
+     292*3"    293*2" .. 25 280 1400 2 '        "     black shale,dolomite,
+                                                      slumped galena,pyrite
+  •• 293' 2"   293' 11" .' 30 390 1750 2 '.•      "          "          "
+                                             ;
+     293'11"   296'      35    750 400 2         "     black shale,slumped pyrite
+    '296       296*4"    38'   320 2200 2.9 Black shale,slumped,sphalerite
+     296'4"    296'9"    34    220 680 2.7' Laminated shale,dolomite,slumped
+                                                                      :
+     296>9"    297'8"    62    250 1100 2.7      "               "      " pyrite
+                                                    ;
+     297'8"    298*3"    38    190 900 2.6 .. •. ."   •"•    .   " • ,    " sphal-
+                                               ,               ' '   •      erite
+     298*3"    298*6"    36    200   920 2.5' Black shale,breccia
+     296*8"    304                          • Red quartzite (Pandurra)
+===== page 38 (text)
+Hole ••  Feet                          Cu    Pb • Zn         Ag                                 Log
+No. From      To                              (ppm)
+LD2      .0 ,             40                                            Sand ;
+        40 ;             140                                            White sandstone•(Whyalla)
+      140 '              176' 9"                                        White,grey,sandy shale
+      176*9"             180            16    30   210.1.4              Grey shale (Woocalla)
+      180 \              182' 2"       113   105   260 6                Black    shale,dolomite,slumped,pyrite
+                                                                                     galena
+      182' 2'            188'3"        500   140    385 4           :
+
+
+
+
+      188' 3'            1 9 4 ' 8 "    90   175   495 3 '              Laminated black shale,dolomite,
+                                                                                  slumped pyrite,galena,
+                                                                                  sphalerite
+      194'8'             2 0 1 ' 8 "   40    965   795    3 . 4 '
+
+
+      201 ' 8 '          221 M O "      30   265    360 2 .2                              11.
+                                                                                                      minor
+      221 M O " 227'6".                 27   365   745 2.3                                it
+                                                                                                      slumped
+      227* 6'            257'6"         50   235   385 2
+      257'6"             310'2"         37    75    280 1.3                               "       occasional
+                                                                                       sphalerite,pyrite
+                                                                                          11          it     it
+      310'2'   318*11"                  48    57    3 47 0.8
+      318*11 " 410'8"                  -35    60   ' 160 1                                            slumped,trace
+                                                                                       sulphide
+      4 1 0 '       8'   423 :          42    80    555 1.2             Black shale,dolomitic bands,pyrite
+                                                                        .,                        sphalerite
+      443'8" 449f 11"                   38    96   672 1.4               '. . "    -                   .slumped
+      449»11" 557'5"                    38    82    210   1.5           Laminated shale,dolomite              "
+       557'5"            567'8"         34 . 200   463 2.9              Dolomite and black shale,pyrite
+      -567'8"            572'10"        32   190   825 2.9              Black shale,dolomitic shale"
+                f
+      572 10" 574'10"                   37 3133 1390 2 . 9                  11       it
+      574*io"            584 ;          30   300     60 2.8             Dolomitic shale,black shale,galena
+      584i • :           592            56   880 '130 3.2                   "              "    pyrite
+      592                598»3"         79   192 212 3.7
+      598'3"             600'2"        163   400 538 10.1
+      600"2"             601'10"        37    86    167 11.9 Black shale -    "
+      601'10"            608*5" -       31    75    150 1.7 Red quartzite (Pandurra)
+===== page 39 (text)
+                                                                                             4
+V -                                                                        'V          i\
+
+
+                                                                                                                                                  •A
+ \ \ Hole"     Feet                                               Cu     Pb ' Zn            Ag                                                            log
+    ' No. From      To                                                    (ppm)
+
+     f                    LD3                   0      40                                        Sand '          .
+                 4
+                                               40      278'5"                   *                White;sandstone                                                                            (Whyalla)
+     1
+                                          '' 278  5"   324'1"                                    Shaley sandstone
+                     r
+             i                                324 1"   324'8" •   • 24    60        160 2.6      Dolomitic shale,pyrite (V/oocalla)
+                 • ft                         324 8"   332'7"     '277   154        255 5.2      Black shale,minor dolomite,pyrite,
+     '       «
+                                                                                                                               galena
+                                     -i
+                                                                   74 1272    873 4.6
+                                                                                                                  , ti                                                                II            11        11
+                                 •
+                                              332 7"   337'2"                                                     i
+                                              337 2"   343'6"            595 766 2.9
+                                                                                                                    11                                                                11            11
+                                                                   37
+                                              343 6"   353'4"      40    444. 417 2.5                               ti    .                                       '   1           1                 11
+
+
+ 1
+                                              353 4"   384'9"      47 268 740 2.1 '                   •   •         11                                                                11            1.
+
+
+
+
+                                              384 9"   388'1"     163    501 1365 2                                 it    ,                                                           11            11        ti
+
+ i*                                                                                                                                                           . „                                   sphalerite
+                                               388 1"' 394'10"     43 251           618 1.7                         11                                                                11            11        1.
+                                                                                                                          1
+
+
+                                                                                                                                                                                                f
+                   •                           394 10" 398'5"            202 1219 1.8                               "                 '                                                " slumped              "
+                                               398 5" 406'9"       41    171 590 2
+                                                                                                                    11                                                                11            11        11
+
+
+
+
+                                              .406 9" 412'4"      : 37   141 1092 1.6                             • tt        •                                                       11            11        11
+
+
+
+
+             V                                412 4" 414'2"        32    120 435 1.2                                11        .                                                       it            11        11
+
+
+
+
+                                              414 2"' 414'9"       93    113 3640 1.4
+                                                                                                                    11                                                                11            11        11
+
+
+
+
+         ,
+         - fc
+                                              414 9" 419'5"        45    140 897 1.4                                11        •                   .           1               1                     tt        11
+
+
+
+
+                                              419 5" 456'7"        45     81        230 1        Laminated black shale,dolomite,
+                                                                                                           slumped pyrite,sphalerite
+                                              467 7"   457'4"      60    230 4000 1 :            Black shale,dolomitic;slumped " "
+                                              457 4"   544'6"      35     72 - 130 0.8               ."            • "minor" trace sul-
+                                                                                                                                 phide
+                                              544 6"   545*10"     39     70        790 0.7                         IT                                                                II                 II
+
+
+                                                                                                                                                                                              sphalerite
+                                              545 10" 567'10"      39     84        190 0.9                         "                                                                  " in part slumped
+                                                                                                                                                                                         pyrite,trace
+                                          :   567 10" 569'6"     37       90 1428 1                                 ti                                                                11                       i.
+
+
+
+
+                                                                 45      108 245 1.1                               .ti                    -                                           "minor                  "
+                                              569 6" - 587'10"
+                                              587 10" 588'4"     40      110 1900 1o1                                11                                                               tt                 11   11
+
+
+
+
+         :       . • '                        588 4" - 590'3" , 41       117 267 1.5
+                                                                                                                     it                                                                11                it   11
+
+
+
+
+ " - ' '                     t                590 3" 591*10"     53      150 1436 .1.1                               it                                   v                           ti    •            it   11
+
+
+
+
+                                              591 10" 593.4..            110 470 1.4                              • 11            ,                           .           I       I                      11    11
+                     '   -            t   .
+                                                                • 35
+                             •
+
+                                              593 4" 593'10"      32     100 9200 1.4                                ti                       .       1               1                                  11    ti
+
+
+
+
+                                              593 10" 594'7"-- 46        172 145 1                :           '      11           '                                                    tl                I'    1.
+
+
+
+
+ 1                                            594 7" 597'10"      36     121 1171 1.5                                II                                                                II                11    II
+
+         •         ' ••               '
+                                                                                                                     tt                                                                11                it    tt
+                                              597 10" 600'3"     48      198 555 .1.8
+
+                                                                                                      i   .                       1
+===== page 40 (text)
+Hole . •Feet                 Cu    Pb   Zn   Ag                   Log
+No. From     To                     (ppm)
+
+LD.J 600' 3"     600'9"       34   180 1300 1.9
+   , 600'9"      601 M O "    43   160 360 2 •
+     601 1 10"   603'2"        40 206 .1525 2.5
+     603'2"      611'11"       41 513 1111 3.8
+     611M1"      625'7"      . 4 9 2164 4079 5.8
+     625'7"      627 1 10"   492 2269 3380 8.8
+     627'10"     629         160 ' 59   47 4.3     Dolomitic shale,pale grey,pyrite
+     629         631*11"     135   22   10 0.6     Red brown quartzite (Pandurra)
+===== page 41 (text)
+ •V         .           . J "       ...        'V
+
+
+
+
+                ' Hole ' . Feet r                                        Cu    Pb   Zn                              T.occ
+                                                                                                                    •UUg
+                 No. From      To                                               (ppm)
+
+          . LD4                              0           30                                  Sand
+                                           30           100    :•'                           White" sandstone (Wliyalla)
+  •
+                                          100           171*6"                               Grey clayey sandstone
+                                          171 1 6"      200'6"                               Black shale          ,        (Woocalla)
+                                          200'6"        204'6"           90    270    260    Black shale         ;
+      i   _•»
+                                          204'6"        210'11"          41    341    629          "       slumped pyrite,galena
+ 'fi
+                                                                                                      * •                   sphalerit
+                                                                                                     ii             •       'it                    "
+ %                                        210'11" 217                    46    380    480
+                                          217 .   224'5"                  39   550    550            "           dolomite                         "
+                                                                                                     ti                         it
+                                          224'5"        232             * 40          413
+                                          232           246'8"           36    331 1323              "           slumped:,in part pyrite
+                                                                                                     ii
+                                          246'8"        2 5 2 ' 1 0 "    34    378 633                                      in                     "
+
+
+
+                                                                                                     II                                            "
+                                          2 5 2 M 0 "   2 5 9 1 9 "
+                                                                      ' 31     227 1264
+                                          259 1 9"      264'6" • . 36 295 500                        "                      i
+
+                                                                                                     II                     'ti                    "
+                                          264'6"        2 7 7 , 5 . .   53 276 1114
+                                          2 7 7 1       281'6"          33 432 510                   "           laminated                         "
+     >
+                                          281'6"        290'6"          37 308 1271                  "           dolomite,                         "
+                                                                                                     ti                         "                  "
+                        a                 290 1 6"      298'6"          28 102 490
+                                          298'7"        342'6"          35  74 180                   "                           it minor          " ,
+                                                                                                     it                         II
+                                          342'6" 348'2"                  30    71    58
+                                                                             :                       '"                         " crenulated Tr          "
+                                          348'2" 372'10"                 42    78 220
+  t
+                                                                                                      II                        n                        it
+                                          372'10" 3 7 3 . 9 "            .38   72 1300
+            ;
+                        '•                373.9" . 385'6"                 51   84    74          i    II                . 1 1                             "
+
+
+                                                                                                      11
+                                          385'6"        392'1"            80   95 . 315
+                                                                                                                                     "   1
+
+
+
+
+                                          392'1"        403'8"          - 44   82   44                "      •                      " slumped
+                    •           -         403'8"•       414'10"    62           97    270             II i                      It           "   ipp t   "
+
+
+                    •       :
+                                          414'10"       441 1 4"   46           9 2     65       '."'•.                         "            "   in part"
+                                          441'4"        44'3'9" . 200          102    105        , "                            "            "   pyrite •
+                                          443'9"        447'4" •    6           14    .. 8   Red quartzite (Pandurra)-
+                :
+ :
+                                                                                             s
+
+
+                    I
+                    1
+
+
+ 9
+
+!•• V,
+===== page 42 (text)
+Hole     Feet                 Cu    Pb   Zn
+                                                      ,       •          '   !             LOg; *
+No. From      To                     (ppm)
+
+LD5       0         20                                Sand
+         20        130                                White sandstone (Whyalla)
+        130        200                                Shaley sandstone              ;
+        200        217*6"    403    148 ' 346         Black shale,dolomite,slumped pyrite
+                                                                                     (Woocalla)
+        217'6"     221*2"           470    352              "       • "         "sphalerite,
+
+
+                              Lf\
+    !
+                                                                                        galena
+                                                                  II                  it             II       II    11
+        221 1 2"   230         36   735    435'
+                                                                  it                  ii             n        it     ii
+        230        238'5"      38   415    315
+                   242'1"      32                                 ii                  n .            ii       tt     it
+        238'5"                      797    227
+        242 1 1"   244'4"      17   232    290                    II                  11             II       II     "
+
+                                                                  it                  II                 tt   it     it
+        244'4"     248*8"     43    608    147
+                                                                  it                  II    •            II   ti     II
+        248'8"     250*4"    . 42 1250     205
+        250'4"     254   •     38 '377     ..   6 2               "• .'               "                  "galena,pyrite
+        254- .     263        347   98     209        Dolomitic shale-34" black shale bands"
+        263        266*10"    338 .134     370              "       • pyrite
+        266'10" 271    -      218   53     100        Dolomite (massive),pyrite
+        271     27219"         15   23      20        Red quartzite (Pandurra)                                 |
+
+
+
+
+LD6       0'       . 20 '                             Sand
+>        20         90 .                              White sandstone (Whyalla)
+         90 .      150                                Shaley sandstone
+        150 .      160         28    28     46        Black shale                                              (Woocalla)
+                                                                  it •
+        160        177        800    '82   250
+        177        181       '501    70     155       Massive dolomitic shale,black shale
+                                                                               partings pyrite
+                                                                  it             ti                 11               ti
+        181        196'2"   88       54     115
+                                                          •        it            11         1       11               it
+        196'2"     210*4"  432       42     118
+        210 1 4"  215'11" 1224       92     135       Dolomite, black shale,pyrite
+        215 1 11" 216'8"- 260       200     170
+>
+
+        216'8" 222'4"       23       13       6       Red quartzite (Pandurra)
+===== page 43 (text)
+                                                    •-. rt'i
+
+
+
+
+       Hole     Feet .          Cu   Pb   Zn •                         Lo„
+                                                                             1
+       No. From-    To                (ppm)                    .                 '       ,
+   ... LD7      0          20                   Sand.
+   •i          20       • 120             . , ' ' White sandstone (Whyalla)
+   >>-."''    120 .      130    1400 1900, 150        "            "
+     .„ . .   150 '      140    1800 1600 140              .   pyrite,galena
+    V         1ZJ-0 '    150     240 410. 50     Red quartzite,pyrite,manganese (Pandurr^l
+   ''         150 • . 24?                                          "
+
+
+
+
+T ..
+===== page 44 (text)
+?    • i       ',
+                    .J*;'.' Hi:
+                     f
+
+
+
+
+b 4 ^ - '
+
+
+
+
+                         lit.
+
+
+
+
+                                         Lake
+                                       ' MacFarlane               I
+V'-^'IV.
+
+
+
+<        !v              • r.
+
+
+
+
+    5
+           j             t                                        SML 152
+                                               -t'lll                                          .^^NGES
+  - •, .v,i
+^   - f •                                 •J           • /. , t '
+                                      •            '          SML 247
+
+
+
+                                  ,                             v/SML 256
+                                  .                    ;
+                                                        '       v/^ML 499
+                                          . ; ....
+
+                                                                  SML 647
+
+                                  ^         V^flV                                    Iron Baron
+                                  •\       >                ' V       * ^•
+                                                                              KILOMETRES
+                                                                             20        40
+                                      > . - ••..       i.. v
+                                                            r
+    I,   . V* .
+                                  72-1094':--[ '                      •K                    S.A. Department of Mines
+
+
+
+
+                                                                                                    FIG. I
+===== page 45 (text)
+'••,'tL t'v'1   •       a    :           —-
+     j)-' , . -*;•..• . y :*'„.,.j.   .• '    FIG.2
+===== page 46 (text)
+                                                                                                                   v ••• 1. ;
+
+
+                          ^ i -i-'t< •'
+
+
+
+
+  • t
+
+
+           %
+                  t -•            ' }
+
+
+
+                                  i                                                              SPECTROGRAPHIC DATA
+                                          WOOMERA No.l BORE
+                                                                                 MANGANESE . '
+                                                                                           COPPER                              LEAD                         ZINC
+
+           •f                               •QU
+                                              AARRCTOZOINA   I         I  M n ppm        Cu ppm                           Pb      ppm                   Zn     ppm
+                                                        TE     •.'.".'. I                                                                                                       300
+  hr
+                                              MEMBER- • ••{.":'•'•:i o            1000 0    100   200 0
+                •»;                                                                                                            50           100   0   100           200
+
+                                                           o                                         _1_
+
+
+
+' J-Y                                       CORRABERRA
+                                             SANDSTONE
+                                          o MEMBER 236
+                                          <
+                                          CC
+                                          £ WOOMERA
+•r',;. i   "     •    ;                   -j SHALE
+                           ' I            X MEMBER
+
+                                                     784-6"
+                                                WHYALLA
+                                               SANDSTONE
+                                                MEMBER
+                                                       1118'       GO O O O O
+
+                                                <       LLJ
+
+
+
+                                                   < S:
+                                                   O
+                                                   ° O^
+                                                   ° s
+                                                   go
+                                                              1490' o. o " o
+                                                   <     2           n' 0 '
+                                                   S
+                                                   K <o
+                                                      P.            .Oo •
+                                                                          0
+                                                                         0
+                                                                             ^
+W-                                                 5 tr             .    o.o
+                                                   < o '             0 . 0
+                                                   CL   Ll_         • 0 • o
+                                                                    0•0
+                                                                                                                                                        S.A.       Dept.   of   Mines
+                                          73-637                                            After   D.Tonkin   (Noronda   Aust.     Ltd.)
+
+
+
+
+                                                                                                 FIG.3
+
+    •L          ^           •
+
+
+
+
+k ! •• ' . •••r ' " ,
+;     - - ' • .i
+===== page 47 (text)
+MISSING FIGURE 4.
+===== page 48 (text)
+FIG. 5
+===== page 49 (text)
+                            LOU:                     LD2_-              103                       LD4->            LD5                       LD6                     • LD7
+  rf^y /
+
+
+
+
+                                                                                                                                                                             Lead   Copper
+
+
+
+
+                                              Zinc      Lead   Copper
+
+                                                dt
+                                                                                                                           Lead    Copper    , -=-
+
+
+
+             t-
+             UJ    70
+
+             z-
+
+                              Lead   Copper
+
+
+
+
+                                                                                                                                                       K E Y
+                                                                                lead     Copper
+
+                                                                                            i                                       D.D.HOLE S H O W I N G METAL      CONTENTS
+
+                                                                                                                                                LD6
+                                                                                                                                                                                                      VI
+                                                                                                                                                                                              • 350
+
+
+
+
+            u                                                                                                                               J
+            — 120
+            H
+                                                                                                                                                       t
+                                                                                                                                                       t
+                                                                                                                                                                 • 1'
+                                                                                                                                   0         3000     0
+                                                                                                                                                                _ w
+                                                                                                                                                              3000 0         30CC
+                                                                                                                                    Zinc'(ppm)        Lead (ppm)   Copper (ppml
+
+
+
+
+                                                                                                                     LEGEND
+
+
+                                                                                                      QUATERNARY
+                                                                                                                                    Sond
+
+" V 1 -                                                                                                                             TENT HILl FORMATION          -
+
+                                                                                                                                    W h y o l l o Sondstone Member
+
+
+                                                                                                          5   STUBTIAN   7"- : :
+                                                                                                                                    WOOCALIA         DOLOMITE
+
+
+
+
+                                                                                                                                    PANDUSSA         FORMATION
+
+
+
+
+                                                                                                                   FIG. 6
+           m - »   K.I.4)                                                                                                                                                            S » DcpJ'imtvM ol
+                                                                        . Ceme-tfd b. » « Jok»\
+===== page 50 (text)
+£LflHl
+     Qunyah copper deposits, Pernatty Lagoon. Woomera shale exposed
+in top bench overlies Whyalla Sandstone. Pandurra Foraation exposed
+in face of bottoa bench and orerlain disconforaably by Whyalla Sand-
+stone.                                                  Meg,21573.
+
+
+
+
+      »
+     Failing WV1 drilling rig v Trevenna area.
+                                                       Neg.22843.
+===== page 51 (text)
+          m
+         •1000 diaaond drilling rig, Lake Dutton           LD4.
+                                                   l«g. 22844,
+
+
+
+
+                                                       i
+
+r
+
+
+
+
+         Split diamond drill cor*, Woocalla Boloaito fro* bora U H .
+    Light coloured finely laainatad doloaitc intarcalatad with black
+    •halo.                                            Meg. 22842.
+

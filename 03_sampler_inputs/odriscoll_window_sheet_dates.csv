@@ -1,0 +1,35 @@
+sheet,title_as_read,date_on_face,status_t0,what_it_carries,how_read
+OD4_iii,"Tectonic study, geological ingredient boundaries, Andamooka",Feb 1980,out,lineaments + ingredient boundaries; note on back re 1974 tectonic targets,title block
+OD4_iv,"Andamooka photo-lineaments and structural targets, E.S.T.O'D.",1974,in,photo-lineaments + structural target circles (OD in target 3),side tab
+OD4_ix,"Andamooka Bouguer gravity anomalies, 2 mgl contours (71-413 BC)",1971,in,SADM Bouguer anomaly base map (data sheet),top tab
+OD4_v,Andamooka magnetic zones of Hugh Rutter,none,undated,regional interpretation of the aeromagnetic map (magnetic zones),top tab + title
+OD4_vii,Andamooka ... ring outline (1980) ... lineaments (1974),1974 / 1980 / 1984,partly,1974 photo-lineaments with 1980 ring outline and 1984 annotations,side tab + notes
+OD4_xiv,"Andamooka preliminary tectonic targets, L.A. Burgess",1980,out,target circles over magnetic/gravity anomalies,side tab
+OD4_xvi,Andamooka geological (1966 first edition) annotated,1966 base; annotations 1983,partly,sheet with target annotations (three additional targets chosen 1983),top tab + note
+OD4_xvii,Andamooka aeromags,none,undated,aeromagnetic contours with red annotations,top tab
+OD4_xxiii,Andamooka P/lins + Olympic Dam,1974 content; title post-discovery,partly,"ENE photo-lineament trends in 1974 selection; 2nd choice drilling target chosen by H. Rutter, Sept 1974; gravity corridor",side tab + notes
+OD4_xxx,Andamooka/Torrens tectonic targets by D.McP.D.,"1976 (legend: First priority, 1976 assessment)",out,target circles by priority over gravity/magnetic anomalies and corridors,top tab + legend (zoomed)
+OD4_xxxi,Andamooka-Torrens photo-lineaments,none,undated,photo-lineaments across both sheets,top tab
+OD4_xxxii,Andamooka photolineaments and tectonic targets (ERTS lineaments in black),1974,in,photo-lineaments + ERTS lineaments + targets,top tab
+OD5_iii,Torrens lins. + tectonic targets,1974,in,lineaments + target circles on TORRENS,side tab
+OD5_ix,Torrens P/lineaments T.O'D,1974 / 1983,partly,black dotted = 1974 lineaments; red = additional linear trends 1983,side tab + note
+OD5_xi,Torrens geological (1964 first edition) annotated,none (base 1964),undated,sheet with target annotations,side tab
+OD5_xvi,"Torrens gravity (1 mgl), from W.A.S.P. plot, density 2.40",none,undated,Bouguer contours,side tab + note
+OD6_iii,Andamooka Torrens photo lineaments with ODHs,post-discovery (ODHs),out,photo-lineaments with Olympic Dam holes,top tab
+OD6_iv,"Andamooka and Torrens summary plan for the meeting 30/9/74 - 5/10/74 to select targets; D.McP.D targets (1976) in red, T.O'D targets (1974) in blue",Sept 1974 (plan); red targets 1976; tenement notes to Aug 1975,partly,"WMC target-selection plan for the meeting 30/9/74-5/10/74: BLUE = T.O'D targets (1974), in state; RED = D.McP.D targets (1976) and tenement annotations dated 26-11-74 to 8-75, after t0",top tab + header (zoomed) + tenement labels
+OD6_v,"Stuart Shelf WNW lineaments (1974) and the ten most significant intersections (1975-1982); Fig. 3 of period report by EST O'Driscoll, periods 8-9 ending 1/3/83",1983,out,lineament-control statistic: 9 of 12 occurrences within 2.5 miles of a WNW lineament,figure caption
+OD6_vi,"Same, Fig. 2 of the 1983 period report",1983,out,as OD6_v,figure caption
+OD6_viii,"Stuart Shelf, sixty diamond drill holes penetrating basement 1975-1982",Jan 1983,out,drill-hole results,figure caption
+OD7_i,"Stuart Shelf exploration plan 2616-01, Andamooka area (xerox splice)",Sept 1974,in,"WMC exploration plan: gravity and magnetic anomalies, tectonic targets 1 and 2, WMC proposed drill hole",top tab
+OD7_ii,"Stuart Shelf Bouguer gravity anomaly map (2 mgl), D of M 78/57",1978,out,Bouguer contours,top tab
+OD7_iii,"Stuart Shelf Joint Venture area, structural targets in J.V. area",post-1979 (J.V.),out,target circles in the JV area,top tab
+OD7_iv,Stuart Shelf basement contours + regional lineaments (Seltrust / Geoterrex),1980s,out,depth to basement + lineaments,title block
+OD7_ix,Stuart Shelf aeromags,none,undated,aeromagnetic contours with ring annotations,top tab
+OD7_v,"Stuart Shelf photolineaments E.S.T.O'D., by T. O'Driscoll 1974",1974,in,photo-lineaments over the Stuart Shelf,note on face
+OD7_vi,Stuart Shelf depth to basement (Seltrust / Geoterrex),1980s,out,depth to basement,title block
+OD7_vii,Stuart Shelf depth to basement from diamond drilling,1984,out,drilling plan,top tab
+OD7_viii,Stuart Shelf J.V. area photolineaments (1974),1974 content; JV outline post-1979,partly,1974 photo-lineaments clipped to the JV area,top tab
+OD7_x,Stuart Shelf gravity plan,Sept 1982,out,gravity + proposed drill holes,title block
+OD7_xii,Stuart Shelf drilling plan on aeromag base (Seltrust),Sept 1982,out,drilling plan,top tab
+OD7_xv,Stuart Shelf Bouguer gravity (1 mgl interval),none,undated,colour Bouguer contours,top tab
+OD7_xxi,Stuart Shelf depth to basement (Seltrust / Geoterrex),1980s,out,depth to basement,title block
