@@ -1,0 +1,17 @@
+row,topic,statement,reading,source,doc_year,status_t0
+1,geometry,"Iron Knob quarried for 1,600 ft along strike, maximum width 220 ft; long and narrow, strikes north-south",490 x 67 m,"RB 33/00090 (Miles), p. 9",1952 (work 1948-51),before
+2,geometry,"Iron Monarch roughly circular in plan, 2,100 ft north-south by 2,200 ft east-west; benches to about 350 ft below the crest","640 x 670 m, >107 m deep","RB 33/00090, p. 9",1952,before
+3,geometry,"Iron Monarch reserves computed from the 1,154 ft summit to the 540 ft level (drill hole bottom), with extension likely",vertical extent >= 187 m,"Bull 009 (Jack), p. 37-38",1922,before
+4,geometry,Iron Prince: not a single mass but a series of lenticular bodies interfingered with banded iron formation and schist,lens swarm,"RB 33/00090, p. 10",1952,before
+5,count,"Twelve named high-grade bodies along the Middleback Range (Monarch, Knob, Prince, Baron, Duke, Duchess, Knight, Chieftain, Queen, Count, Warrior, South Queen)",12 bodies over about 60 km of range,"RB 33/00090, Table II",1952,before
+6,tonnage,"High-grade reserves per body 47,000 to 59,376,000 tons; total 176,430,000 tons",0.05 to 59 Mt per body,"RB 33/00090, Table II",1952,before
+7,tonnage,"Low-grade banded iron formation 5,430,000,000 tons over the North and South Middleback Ranges, Katunga Hills and Camel Hill line","5.4 Gt, ranges tens of km long","RB 33/00090, Table III",1952,before
+8,ore type,Ore is high-grade hematite or martite with some residual magnetite; 60 to 68% Fe,hematite dominant,"RB 33/00090, pp. 9-11",1952,before
+9,density,Specific gravity of hard ore determined as 4.62; 4.5 taken as general average; a long ton occupies 8 cubic feet in situ,4.5 to 4.62 g/cm3 high grade,"Bull 009, p. 38",1922,before
+10,density,Lower-grade ore reckoned at 9 to 12 cubic feet to the ton,3.0 to 4.0 g/cm3 low grade,"Bull 009, pp. 46-47, 52",1922,before
+11,density,"Mineral specific gravities: magnetite 5.0-5.1, hematite 4.9-5.3 (crystals 4.5-5.3), limonite 4.0-4.4",pure minerals,"Bull 009, pp. 12-13",1922,before
+12,magnetics,"Hematite itself is almost non-magnetic, limonite only slightly; ore-body magnetic effects come from included magnetite particles; Iron Prince ore gives just over 1,000 gammas vertical intensity","ore body about 1,000 gammas","RB 26/00103, p. 5",1948,before
+13,magnetics,"Over the hematite quartzite (banded iron formation) anomalies of up to 8,000 gammas; unoxidised magnetite at 200-300 ft depth","BIF 3,000 to 8,000 gammas",RB 32/00029; RB 35/00060,1950; 1953,before
+14,magnetics,"Uptilted hematite quartzite strata give peaks over 50,000 gammas locally",BIF outcrop peaks,"RB 26/00103, p. 6",1948,before
+15,magnetics,Where the magnetite is sufficiently oxidised there may be no anomaly at all,possibly non-magnetic,RB 32/00030,1951,before
+16,setting,"Ore bodies occupy the keels of synclines in banded iron formation in the Middleback Group basement, replacing the banded iron formation; flanked by granitic schists",in crystalline basement,"RB 33/00090, pp. 9-11",1952,before

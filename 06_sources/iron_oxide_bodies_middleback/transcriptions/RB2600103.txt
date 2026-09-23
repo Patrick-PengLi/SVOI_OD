@@ -1,0 +1,493 @@
+                        Rept. Bk. No. 26-103
+
+
+          DEPARTMENT OF MINES
+              SOUTH AUSTRALIA
+
+
+
+
+MAGNETIC SURVEYS IN THE MIDDLEBACK RANGES
+
+
+
+
+    October    - December 19U8
+
+ Geophysical Report 2/U9    D.M, 62/U9
+
+
+
+
+                 Toy
+          G. Kerr Grant
+                      DEPARTMENT OF MINES.
+                        SOUTH AUSTRALIA'
+
+
+
+          MAGNETIC SURVEYS IN THE MIDDLEBACK RANGES.
+
+
+I.   INTRODUCTION.                                         . -
+         Forsbout six weeks towards the end of 19U8, geophysical
+observations were undertaken together with geological work in the
+Middleback Ranges, South Australia, for the purpose of ascer-
+taining to what extent geophysical work could be used for the
+location of further deposits if oore, iron and to assist
+in the elucidation of the general geological structyre of the
+area.   It had "been known for some that the area was magnetically
+disturbed, and consequently magnetic observations only were
+carried but, in the hope of being able to.elucidate the mag-
+netic anomalies.     The area does not, on cursort examination
+seem particluarly suitable for other types of geophysical
+work,   ^he observations were undertaken dm part also to in-
+vestigate the suitability of the area for an airborne
+magnetometer survey.     Some work of this nature has since been
+carried out.
+II AREA INVESTIGATED
+
+                Firstly the Iron Prince Hill was selected as
+the most suitable area to find out the possible correlation
+of magnetic observations with known bodies of iron ore; the
+geology of this area has been w ell established and the Hill
+is free from the magnetite-bearing haematite quartzite
+formations which form such a prominent feature of the rest of
+the Middleback Ranges.    The observations at the Iron Prince
+were carried out as a series of traverses along the lease
+boundaries of the area with subsequent observations along
+offsets at right angles to these traverses.
+                Secondly, two traverses were aliso observed.
+along the southern boundary of the Iron Queen and South Iron
+Baron leases in order to ascertain the variations of magnetic
+intensity over large masses of haamatite - quartzite.
+                  Thirdly in order to ascertain the regional magnetic
+variation outside the ranges^ a long magnetic traverse, with
+stations a quarter to half a mile apart was carried out along
+the Kimba Road.
+Ill   TECHNIQUE
+              Observations were initially carried out with Watts
+vertical magnetic force variometer No. 1+6898. This instrument
+was made available to the Department by Enterprise Exploration
+Co. Pty. ^Hid, of Broken Hill     The instrument had been adjusted
+to a sensitivity if approximately 11+ gammas per scale division
+by W.G. Fenner of this Department for his observation in the
+Wallaroo-Moonta area.      This high sensitivity was unnecessary
+for the observations and some time could have been saved
+by using a lower sensitivity as the instrument is somewhat
+sluggish at high sensitivitym but having commenced observations
+with this sensitivity, it was decided not to alter it;
+the average distance apart of stations in the area was 200
+feet over rough ground,•and very little actual economy in
+time would have been adieved.      On 27th November 19U8 the
+Department took delivery of a new vertical magnetic force
+variometer No. 60565* and observations were commenced with this
+instrument which had a sensitivity of nearly 30 gammas per scale
+division.
+                  For the purpose of obtaining   accurate Drift curves
+most of the stations in the area were repeated.      The magnitude
+of the magnetic anomalies obtained subsequently proved that this
+refinement was unnecessary.
+                  'The sensitivity of both instruments was ckeched
+every two or three days by standardization with their auxiliary
+magnets, and by interchanging these magnets in different instru-
+ments, the magnets were checked against each other.       During the
+period of the observations, that is from 22nd October,
+until 9th Depeember, the sensitivity of instrument No.
+1+6898 changed in sensitivity from 1U.1 to 11+.3 gammas per scale
+division; and instrument No. 60565 from 29.0 to 29•3 from
+29th November until 9th December;   over the same periods the
+constants of the auxiliary magnets changed,with respect to
+one another by less than fealf of one per cent, and the
+constants of the magnets of instrument 60565, calibrations
+of which had been supplied by Greenwich Observatory, agreed
+in ratio to the same accuracy.
+                    The average drift in a morning or
+afternoon between repeated stations was approximately 10
+gammas, but after correction for drift the error on normal
+readings should be less than 10 gammas except for very large
+readings. Aa    he anomalies even on the Iron Prince Hill
+ are of the order of several hundred gammas, it is evident
+that no appreciable instrumental erros have been introduced.
+          The errors arising from superficial magnetic effects
+on the ground are more difficult to estimate, and are qu$te
+large in the most anomalous areas, up to ficty or a hundred
+gammas, but tests made in areas of si ight variation indicate
+that they are in general less than ten to fifteen gammas.     The
+effect on the results from superficial magnetic effects is thus
+also negligible.
+IV RESULTS -
+          The vertical Magnetic Intensity over the Iron Prince
+Hill is shown ih Fig 1, which also shows the known outcrops
+of haematitie ore . (A geological pain of the same area,
+obtained through the courtesy of the Broken Hill Proprietary
+Co. Ltd. is shown in Fig. 1 A blue areas represent haematite
+ore).   It is seen that there is concentration of the
+magnetic contours over the ore, with magnetic highs on the
+horth and east side, and magnetic lows on the south, with
+a maximum variation of just over 1000 gammas.   The included
+areas of amphibolite produce further complexity of the
+contours as they break the magnetisation of the main
+ore body thus forming an extra magnetic high and low at the
+boundaries of the amphibolite. The ore body is delineated
+to approximately the accuracy to be expected from stations
+200 ft. apart, that is to about   + feet.   It should be possible
+to delineate the limits of the ore considerably more accurately
+by more closely spaced stations, possibly to within + 20 feet.
+Haematite itself is almost non-magnetic and limonite only
+slightly magnetic, so the magnetic effects from the
+haematitic ore bodies are presumed to arise from the presence
+of small particles of magnetite included in the ore.
+
+         In order to observe how the vertical magnetic
+intensity was affected by depth inside the body, Magnetic
+profiles are observed across the top and inside tunnel 1A;
+these are shown in Fig(ifc) together with the geological
+section of the hill along the line,   Little extra information
+can be obtained from these results, and since they can only
+be obserbed in lpcalities where underground workings exist their
+application is very limited, it can perhaps be inferred that
+the maximum depth of ore should be between U00 and 700 feet
+from the.eastern end of the tunnel.
+        .The two east-west profiles along the south end of the
+Iron Queen and South Iron Baron leases are shown in Fig (3)»
+together with annotations on the surface geology along
+the southern traverse.   Phenomally large variations in
+magnetic intensity were obtained over the uptilted haematite
+quartzite strata, the highest peaks being over 50,000 gammas
+in magnitude.   It is evident that it would not be easy to pick
+out in such areas small anomalies of the order of 1,000 gammas
+obtained from ore bodies.   The geology ©hows   fair general
+correlation with the magnetic profile; it is considered that
+much better correlation could be obtained from a regional
+magnetic survey expressed as a contoured plan.
+         Fig. (1+) shows the variation of magnetic intensity
+along the 'Kimba Road which runs from Whyalla to Kimba through
+the Kimba Gap in the Middleback Ranges.      The traverse extends
+from twelve miles east of the Kimba Gap to four miles west.
+One of the geological problems of the Middleback Ranges is
+whether or not the haematite profile does not give sufficient
+information to decide this point.      The relatively small
+magnetic anomalies produced in the gap may be accounted for
+either by the effect of large magnetic poles produced at
+the South End of the iron Warrior on the north side of the
+Gap, and at the north side of Cook's lease and the North Iron
+Knight, on the South side of. the Gap, or by the effect of deep
+seated hameatite quartzite, 100 feet or more below the
+surface in the gap.      It is certain that the haematite
+quartzite does not lie immediately below the surface in the Gap.
+It is considered that by making further traverses through the
+Gap, and across the ends ofthe range near the Gap, the
+absence or otherwise of haematite quartzite under the gap
+could be demonstrated. A cursory examination of the geology
+along this traverse was made by Dr. K.R. Miles and reasonable
+correlation occurs between geological features and magnetic
+anomalies.   As the stations are a quarter to half a mile
+apart, many minor features in the magnetic traverse may habe
+been missed.      The most interesting feature of the traverse is the
+anomaly at its extreme west end; this is in line with the
+geometrical extension of the Camel Range, which contains
+.similar haematite quartzite formations to the main Middleback
+Range.   The magnetic profile indicates that these formations
+must persist under the surface as far south as the Kimba Road.
+The surface in this area consists- of limestone ridges, sand
+dunes and wind blown deposits of seed gypsum.
+
+
+V   CONCLUSIONS
+       It is considered that a magnetic survey over proved
+haematitic ore bodies can be used to delineate the approximate
+limits of the ore and to indicate the presence of bodies of
+amphibolite or other non-magnetic or slightly magnetic minerals
+included in it.
+     With present knowledge it is not considered possible to
+use magnetic observation to locate ore bodies in areas containing
+large masses of haematite-quartzite formations
+      Magnetic methods, including also at times aerial magnetic
+methods, can be used with advantage to interpret geological
+structure in the Middleback Ranges by tracing haematite quartzite
+still more so to find and trace similar buried structures outside
+the area of the ranges, such as the extension of the   Camel Range
+
+
+                         A fO- 33     '        '
+
+                         A. fo- Hk,           el i {
+                         A 5o-            -      f
+                                                                                                               M.S.1194
+
+
+
+
+   M.S.1303                                                                                                                     M.S. 1194                        M.S.I309
+
+
+
+
+                                                                                                 1000
+
+
+  M.S.1304                                             M.S. 1192                                                                                                 M.S. 1308
+
+
+
+
+                                                                                                                          N- I A TUNNEL
+
+
+
+
+  M.S.1305                                                                                                     M.S. 1306                                         M.S. 1307
+
+
+
+
+                                                  1000
+
+
+
+
+                       CHAINS                                                                                                                                               CHAINS
+
+
+
+
+                MAGNETIC                CONTOURS                                                                      MINERAL              SECTION
+            Contours   at SO gamma       intervals            from 00-600
+                       "   200      "                              600-1,000                                          MAGNETIC                 HIGHS
+                                                                                                                                       Areas     over    600     gammas
+
+
+
+                                                                                                                                                          C. Kerr   Grant                 Geophystcist
+Del.   B.C.B.              L50-33
+                                                                          mm
+
+
+
+
+                                                                                                                                                                                                                 F/G.I
+                                                                                                                          S. A. G.      DEPT.    OF      MINES
+                                                                      i'cy Kr ////                                                                                     A op^ovfJ                Sco/e 20C to / f°        h
+
+                                          ( fi* v* tfrrv«Jl                                                                                                                        Drr,   P&ssed
+                                                                                                        MIDDLEBACK   RANGES ,   IRON    PRINCE    HILL
+                                         v   0/~ tSeo/?/?y s/c/sT*"   C        fro'*   (*   (S^O'it
+                                                                                                                                                                                  w r       ry  150-33
+                                                                                                                                                                                                U
+
+
+                                                                                                           VERTICAL   MAGNETIC         INTENSITY                                   fysnes Chief
+                                                                                                                                                                       Ofrector p/Exct    Oro
+                                                                                                                                                                                                    27 7 SO | D£
+                                                                                                                                                                                                    ugt-Tf-sm.
+r-
+      1050
+                                                                                                                                                                                                                                                                                                                                                                H
+lLi
+Ui                                                                                                                                                                                                                                                                                                                           1050                               LLJ
+                                                                                                                                                                                                                                                                                                                                                               'LlJ
+                                                                                                                                                                                                                                                                                                                                                                U-
+      1000 -                                                                                                                                                                                                                                                                                                           h 1000
+Li    9 5 0 -i                                                                                                                                                                                                                                                                                                                  950                           M
+J
+<                                                                                                                                                                                                                                                                                                                                                             <_J
+J      900                                                                                                                                                                                                                                                                                                                     900                             o
+0                                                                                                                                                                                                                                                                                                                                                              (f)
+
+       850 -                                                                                                                                                                                                                                                                                                           ^         850                           H
+r                                                                                                                                                                                                                                                                                                                                                              (Z
+d                                                                                                                                                                                                                                                                                                                                                              UJ
+>                                                                                                                                                                                                                                                                                                                                                              >
+       800      J                                                                                                                                                                                                                                                                                                              800
+                                                                                                                    GEOLOGICAL                                                        S ECT10 N
+               800                                                                                                                                                                                                                                                                                               800
+
+
+      co                                                                                                                                                                                                                                                                                                                                 <f)
+      <        600                                                                                                                                                                                                                                                                                               600                     <
+
+                                                                                                                                                                                                                                                                                                                                         <
+                                                                                                                                                                                                                                                                                                                                         o
+      o
+               400                                                                                                                                                                                                                                                                                               400
+
+      LLJ                                                                                                                                                                                                                                                                                                                                LLJ
+      —
+      < I                                                                                                                                                                                                                                                                                                                                — i
+                                                                                                                                                                                                                                                                                                                                         <
+      o        200                                                                                                                                                                                                                                                                                               200                     o
+      (f)                                                                                                                                                                                                                                                                                                                                cr.)
+
+
+
+                00                                                                                                                                                                                                                                                                                                     00
+                                                                                                                                                                                                                                                                                                  J14
+                o
+                    o
+                                                                                                                        MAGNETIC                                       PROFILES
+
+
+HARD H A E M A T I T E ^                         FRIABLE HAEMATITE                                                        CLAY IRONSTONE                                                             SCHIST.                                |VA\\\'      AM P H I B O L I T E
+
+Pe/   B.C.B.            50-290                                                                                                                                                                                                                        C, Kerr   Grant                        Sen/or                    Geophysicisf.f
+
+
+
+
+                                                                                                                                                                                                                   >r
+                                 i^lWife.                                                                                                                   ////
+                                                                                                                                                                                        S, A. G.   O E P    <             M ! N E S     .
+                                                                                                                                                                                                                                                                    Approved                                                                 Scales.    As      srhotrn
+
+                                 Senior &eojo hys /c/s /
+                                                                                                                    '          ;
+
+
+                                                                                                                                                   0   M.                                                       IRON     PRINCE                                                                   -   —          —
+                                                                                                                                                                                                                                                                                                                                         \
+                                                                                                                                                                                                                                                                                                                                         !
+
+
+
+                                                                         „„                                                                                        C.Kfran*-                               M I DD L E BACK     RANGES                                                                 Dm         $ •   ••   Pass&d       !
+
+                                                                                                                                                                        or/ytno/
+                                                                                                                                                                                          GEOLOGICAL        SECTION       & MAGNETIC        PROFILES                                                                   :                     \         50-290
+                                                                                                                    ;          ;                                             $0-/03
+                                                                                                                                                                                                                                                                   ' f* *•)•                                 i         •    zL               \ -                     ,- -
+                                                           Associated   Drawing   •   No.   ;j   No.   A uthority       Date   ,   .   Amendment                                                       THROUGH          N°IA   TUNNEL                                     Uirecior   of   Mines       Exd.             ,    Draughtsm.   j Date    / 7 - f f - S O   j   D , £ ,
+                                                                                                                                                                                                                                                                ,/ <t*0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 f
+
+
+
+
+                            M   L   2   o   Q   6          M     !    2   6   8   7                M I   2688                     M   L   2   6   8   9             M   L     ?   6        9        C                                  M        L   2          6   9                                                             M   L     2     6    9     2                                                                M   L   2   6   8 - 4
+
+
+
+
+        1050
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                     Reference
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                         Q~Fe....     Quartz                              -Hsemaf/fe
+        950
+
+
+
+  h
+}
+  U     850
+: LLJ
+
+:   L
+
+V
+)
+
+        750                                               ^fia            emaf/te
+                     -Red           S<snd                                                                                                                                   L /mon/fe & Q-Fe                                             L/mon/fe                           &        Q-Fe                                                                                                                                            L eac/ied          Q-Fe
+                                                                                                                                                                                                                                                                                                                           ^-Massive                                Q-Fe
+                I /mon/fe               &       Q~Fe                                                                                                                                                                                   iR    ubh/e
+                                                                                      GEOLOGIC                  AL           S E C T I O N                                                                                                                                                                                                                                       Pfafy               &               Cherfy
+                                                                                                                                                                                                                                                                                                                                                                                 Q ~Fc                           Ruhbfe
+        650
+
+               0                400                 800        1200                   600   2000         2400        2800             3200                3600     4000                    4 4 00 .                          4800                       5200                          56 00                           6000                            6400                        6800                           7200                7600            8000                   8400                            ' 8800
+
+ Del.     A.M.C.S.      L 50 - 4 6                                                                                                                                                              F              E        E                                                                                                                                                                                                                               C. Kerr             Gr^r?f Senior Gecphys/cist
+                                                                                                                                                                                                                                                                                                                                     S .   A .       G .        D E P T .               OF               MINES
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          JEJJ3-l_3.
+                                                                                                                                                                                                                                                                                            ho 171 f                                                                                                                                                        4ppro«eci                                                    Scale   A*-   »h<>wri
+                                                                                                                                                                                                                                                                                       r- K-*                                                                   I   R   O   N                    Q       U   E       E   N
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        r
+                                                                                                                                                                                                                        -                                                                                                                                                                                                                                                          Dr':             f   )     f-'rii
+                                                                                                                      Se n/ o /" Ge op /? y s /c/sf                                                                                                                                    .on^'-lfj fYcrr, L 49 > 1 3                                         M A G N E            T I C       •                T R A V E R S E S
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   L50-/16i
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              fr 1
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                       J
+                                                                                                                                                                                                                                                                                                                                                      A C R O S S                   S O U T H E R N                           L E A S E S                       ; .0   4-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Ckd       • €f
+
+                                                                                                                                                                              4 ssocmec!       Dt       swnq       No       No      Ai>*non K           Dale           Ame'tfdmenf                                                                              • 2686                  -       2692             &       2684                           ^      Oirwc'or of fv|t»*•
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 jesf
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    • £xd.                   . Ji <. - jlS'r
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           -n
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            v-V!e 3 0 B t)0
+                                                                                                                                                                                                                                                                                              „   „     ,   ,-,...„•.,,.   ,-i
+                                                                                                                                                            • 11
+                                                                               1
+
+
+
+
+                                                                      J?
+                                                                           i
+
+
+
+
+                                                            H
+
+
+
+
+                                                                                                                                                                                                                                      zso0
+
+
+
+                                                                                                                                                                                                                                                    h
+
+
+                                                                                                                                                                                                                                                   I
+                                                                                                                                                                                                                                               *    N
+                                                                                                                                                                                                                                                    b
+
+
+                                                                                                                                                                                                                                                    S
+
+
+
+                                                                                                                                                                                                                                      to00 >
+                                                                                                                                                                                                      •Crjr
+                                                                                                                                                                                                                                                   I
+                                                                                                                                                                                                                                      iTCC
+                                                                                                                                                                                                                                                   1
+
+                                                                    Lin c
+
+
+                                                            0                                            §
+                                                            1   *
+                                                            *   §
+                                                                *                                       ,I
+                                                            I
+                                                                *                                       ^ I
+                                                                                                        $ 4   if                                                            •r
+                                                                I
+                                                                                                        I     U                                                                                                                                         3'Pmmgs
+
+                                                                                                                  C                      S,:                              I>EPT                               MINES.
+                                                                                                                  Ia                               SKETCH                             PLAN
+                                                                                                                                        MAGNETIC                                          PROF I LE
+                                                                                                                                       ALONG   KIMBA                                              ROA D
+                                                                                                                                       :   (Wo >>                                                                       APPROX. 'SCALE
+                                                                                           i                           Approved
+                                                                                                                                                    From         original        sketch      6f   C.fferr     Gr^tnA
+                                                                                   6 eophy^ste   fsf,                                                                                                                       M / k s   to   .       / i n c h
+
+
+
+
+                                                                                                                                                    Drstvo       . •C M . 6 .         .. '   ;P$ss'e'of
+              ,4.
+                                                                                                                                                                                                  mL
+                       c,   r,   Z4-                                                                                                                Traced          ft.G.        C,
+Dry.   /Vk          A'jthorrty                                                                                         D/r-ector-   of >M/fi<&S»
+             Ma                  •Date           NoM3&{DM
+                                         'Reg;
+                                                                                                                                                   'C/iecfect.       J.     T.MicD. Chief          Dr$u<fhf$meri-      DATE -2/ -          *
+
