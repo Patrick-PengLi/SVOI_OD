@@ -1,0 +1,7 @@
+# Sensitivity of the Part B gate to the fixed basement-field geometry (2026-10-02)
+
+Run before Change 8, with the method fixed in advance: for each setting, 100 realizations (seeds 1000-1099, the first half of the gate ensemble) forward-modelled and scored with the Part B rule; the ten gate statistics plus the magnetic count and width at a 200 nT threshold (the field's own texture rather than the instrument noise). Settings: texture 4, 6, 8, 12 km at domain share 0.8 and 0.9 (uniform texture), and a variant ('quiet') in which the texture amplitude is scaled by 0.5(1 + tanh D), D the unit-variance domain field, so low-susceptibility domains stay quiet.
+
+Rule for adoption, set before the runs: the smallest change from Change 5 (4 km, 0.8) that passes every statistic. Result: texture 6 km at share 0.8 (count q = 0.17, width 0.43, all PASS, 200 nT check PASS). 8 km / 0.8 and 4 km / 0.9 also pass; 12 km overshoots (count WARN or FAIL from too few, too wide); the quiet variant fails the median peak and residual sd (too little texture energy).
+
+Files: `wp4_sens_basement_texture_summary.csv` (one row per setting: status, q and ensemble median per statistic), `stats_<tag>.csv` (per-realization statistics). The code is the Step 11 ensemble loop with FIX overridden and the level-5 stage swapped; it was run outside the notebook; to reproduce a setting, set `FIX["texture_km"]`, `FIX["domain_share"]` before Part A and rerun Steps 11-12.

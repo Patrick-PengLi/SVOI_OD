@@ -13,7 +13,7 @@ pip install -r requirements.txt
 jupyter lab wp4_period_prior_sediment_hosted.ipynb
 ```
 
-Open the notebook with this folder as the working directory. Steps 0 to 15 run in about 2 minutes. Section 7 (Steps 16 to 19, 1,000 realizations) takes about 8 minutes more and is saved unexecuted; set `N_DELIV` in Step 17 for up to 10,000.
+Open the notebook with this folder as the working directory. Part 0 (Steps R1 and R2, cached after the first run) and Steps 0 to 15 run in about 3 minutes. Section 7 (Steps 16 to 19, 1,000 realizations) takes about 8 minutes more and is saved unexecuted; set `N_DELIV` in Step 17 for up to 10,000.
 
 ## Repository layout
 
@@ -23,16 +23,39 @@ Open the notebook with this folder as the working directory. Steps 0 to 15 run i
 | `01_citation_table/` | `wp4_annexA_citation_table_draft.csv`, the 15 parameters of Annex A Section 5 plus the Change 1 and Change 2 rows, bundled as the annex bundles related draws (17 rows, 22 sampled quantities, all confirmed); `wp4_annexA_documentary_basis.csv`, the Section 6 register of named sources |
 | `02_level_parameter_rows/` | Per-level verdict tables (L1 to L5) and parameter figures: the evidence behind each citation row |
 | `03_sampler_inputs/` | Regional window, O'Driscoll's 1974 lineament targets, Mount Gunson dossier, Level 4 blanket statistics, Level 5 property table |
-| `04_prior_predictive_observed/` | The t0 surveys, used only in the Section 4 check: 342 BMR gravity stations (1969) and the P234 aeromagnetic lines (1962, channel `mag_awagsLevelled`) |
+| `04_prior_predictive_observed/` | The t0 surveys, used only in the Section 4 check: the complete 1969 BMR helicopter gravity surveys 196953 and 196955 (the window selects 398 stations on the Andamooka sheet) and the P234 aeromagnetic lines (1962, channel `mag_awagsLevelled`) |
 | `05_rules/` | Annex A, the WP4 prior guideline, the level-by-level basis check |
 | `06_sources/` | Every source document behind the table, by level, with transcriptions and `NOT_FOUND.md` notes; each level has a README. `iron_oxide_bodies_middleback/` holds the seven pre-1975 Middleback / Iron Knob reports behind Change 1 |
 | `07_notebooks/` | The five executed level notebooks and their figures (read-only records; they point at the project tree and do not re-run here) |
-| `08_prior_models/` | Notebook outputs: figures `wp4_PP_00` to `wp4_PP_14`, draws and check tables, `wp4_sh_prior_sampler.py` (the sampler as a module) |
+| `08_prior_models/` | Notebook outputs: figures `wp4_PP_R1`, `wp4_PP_R2`, `wp4_PP_R2a` (Part 0) and `wp4_PP_00` to `wp4_PP_14`, draws and check tables, `resolution/` (Part 0 caches and tables), `wp4_sh_prior_sampler.py` (the sampler as a module) |
+| `09_sherlock/`, `09_sherlock_middleback/`, `09_sherlock_mountgunson/` | The 10,000-member generators for Sherlock (SLURM arrays): `svoi_core.py` is the shared setting built from the basalt notebook by `build_core.py` and is imported by the Annex B and C notebooks; `svoi_fe.py` and `svoi_mg.py` add the branch stages; `run_gen.py`, `merge_gen.py`, `gen_array.sbatch`, README in each |
+| `10_releases/` | Release notes, checksums and `fetch_ensembles.sh` for the 10,000-member ensembles, which are too large for git and are published as a GitHub release (below) |
+
+## The three branches and the 10,000-member ensembles
+
+The repository now holds three concept branches on one shared setting (Level 1 frame, barren piles, Level 5 properties):
+
+| | Notebook | Concept | Ensemble analysis |
+|---|---|---|---|
+| A | `wp4_period_prior_sediment_hosted.ipynb` | sediment-hosted Cu on altered basalt margins (Haynes), Annex A | `wp4_prior_ensemble_n10000_analysis.ipynb` |
+| B | `wp4_period_prior_middleback.ipynb` | Middleback-type iron: BIF ranges, belt, hematite bodies, Annex B | `wp4_prior_ensemble_n10000_analysis_middleback.ipynb` |
+| C | `wp4_period_prior_mountgunson.ipynb` | Mount Gunson-type stratiform Cu on the Pandurra top, Annex C | `wp4_prior_ensemble_n10000_analysis_mountgunson.ipynb` |
+
+`wp4_bayes_factor_branches.ipynb` compares the three on the t0 surveys at district scale (synthetic likelihood on the Section 4 window statistics, acceptance-ratio check, equal prior weights).
+
+The prior notebooks are self-contained at 200 members. The 10,000-member ensembles (seeds 3000 to 12999, identical across branches; about 1.4 GB per branch) are not in git. They are published as the GitHub release `ensembles-2026-10-07` and placed by
+
+```bash
+bash 10_releases/fetch_ensembles.sh        # needs the GitHub CLI; verifies SHA256 and fills 08_prior_models/**/gen_n10000/
+```
+
+or regenerated on Sherlock from the `09_sherlock*` folders (`README.md` in each). The analysis and Bayes-factor notebooks read them from `08_prior_models/gen_n10000/`, `08_prior_models/middleback/gen_n10000/` and `08_prior_models/mountgunson/gen_n10000/`.
 
 ## What the notebook does
 
 | Steps | Annex section | Content |
 |---|---|---|
+| R1, R2 | (Part 0) | What the t0 surveys can resolve, from their geometry and noise: sampling and coverage; detection probability against anomaly amplitude and width (ideal detector and the anomaly rule), with the observed median peak as a reference line. The anomaly rule, the map grid and the forward operator are fixed here, before the prior |
 | 0 to 7 | 2, 3, 5 | Prior distributions; seeds 43, 77, 99 built level by level (frame, basalt, redox, ore, properties); 50-member check against the rows; 3D view |
 | 8 to 14 | 4 | Prior predictive check: FFT forward operator (checked against SimPEG), 200 realizations against the t0 gravity and magnetics, PASS/WARN/FAIL gate, observed and simulated profiles |
 | 15 | 6 | Audit of the documentary-basis register |

@@ -1,0 +1,76 @@
+{
+  "prior": "WP4 Annex A, sediment-hosted branch",
+  "version": "0.10",
+  "status": "Change 9 (2026-10-06): under each O'Driscoll 1974 target circle the basement is a horst raised by the L1-3 relief draw A (Uniform(0, 150) m; cut off 25 m below the base of the Pandurra; cover undisturbed). No new draw or row: the circles are the existing sampler input, the height is the existing row, and every stage keeps its seed (the Step 17 interface check against reference v4 still passes). Basis: row L1-3 (Bulletin 41 p. 29, the Pernatty Grit high: Woomera Shale 548.5 ft to under 50 ft, about 150 m, the one measured basement high in the record) for the height; O'Driscoll OD4_iv (1974) for the positions; declared as a translation of lineament targets into buried basement highs, not cited as a fault map. Change 8 (2026-10-02): basement texture scale 4 -> 6 km (fixed setting; the smallest of a pre-registered sensitivity set, 08_prior_models/sensitivity/, that passes the magnetic count and width on the Andamooka sheet; chosen with the count in view and declared); reference draws v4. Change 7 (2026-10-02): study window fixed to the Andamooka SH53-12 1:250 000 sheet (136.5-138.0 E, 31-30 S), the unit WMC screened in 1974-75; 1969 gravity read from the complete surveys 196953 and 196955 and clipped by the window like the magnetics (398 stations, 37,095 readings); reference draws v3. Change 6 (2026-09-23): L1-1 as one draw, total cover to basement Uniform(320, 670) m from the cited bores (Bulletin 41, Johns 1974, LY 2), unit thicknesses as fixed shares; the Change 1 and 2 rows bundled by the annex convention (L2-4 iron-oxide body size; density, L5-4 basement density; susceptibility variation), 17 rows; reference draws v2. Change 1 (2026-09-23): basement density field L5-4, iron-oxide bodies L2-4 and L5-5; L5-1 unit erratum corrected; Change 2: independent basement susceptibility field L5-6; Change 3: susceptibility patch size 16 km (fixed setting, chosen from a sensitivity set with the count statistic in view); Change 4: susceptibility median 1,120 x 1e-6 cgs (Grant and West 1965 Table 12-3, rhyolite mean, the Gawler Range Volcanics analog; chosen between the table values 500 and 2,700 after both were run against the survey); Change 5: two-scale basement fields, 30 km domains plus 4 km texture with 80% of the variance at the domain scale (fixed settings; scales from the era maps, share declared and chosen with the count statistic in view)",
+  "t0": "1975-05-02",
+  "built": "2026-10-07",
+  "citation_table_sha": "e74b866aeff0",
+  "documentary_basis_sha": "659f1cac2921",
+  "sampler_sha": "fbd74208265e",
+  "seed_convention": "numpy default_rng(seed); synthetic noise default_rng(seed + 10,000,000)",
+  "seeds": {
+    "figures": [
+      43,
+      77,
+      99
+    ],
+    "row_check": [
+      1000,
+      1049
+    ],
+    "predictive_check": [
+      1000,
+      1199
+    ],
+    "production_run": [
+      3000,
+      12999
+    ]
+  },
+  "section4_rule": {
+    "T_grav_mgal": 2.0,
+    "T_mag_nt": 20.0,
+    "mag_noise_nt": 5.0,
+    "min_cells": 3,
+    "mag_decimate": 4,
+    "elev_gradient": 0.1967
+  },
+  "field_1962": {
+    "F_nt": 57776.0,
+    "inc": -62.44,
+    "dec": 6.0,
+    "clearance_m": 150.0
+  },
+  "section4_gate": {
+    "gravity": {
+      "PASS": 5
+    },
+    "magnetics": {
+      "PASS": 5
+    }
+  },
+  "falsification_rmd": {
+    "rule": "survey RMD above the 95th percentile of 200 realizations on the first 10 principal components falsifies; plane removed, [-1, 1] scaling, MinCovDet",
+    "result": {
+      "gravity": {
+        "verdict": "NOT FALSIFIED",
+        "rmd_observed": 2.702,
+        "rmd_p95": 6.056,
+        "observed_percentile": 28.0
+      },
+      "magnetics": {
+        "verdict": "NOT FALSIFIED",
+        "rmd_observed": 2.708,
+        "rmd_p95": 7.271,
+        "observed_percentile": 24.5
+      },
+      "both": {
+        "verdict": "NOT FALSIFIED",
+        "rmd_observed": 3.63,
+        "rmd_p95": 8.646,
+        "observed_percentile": 10.0
+      }
+    }
+  },
+  "removed_2026_10_06": "likelihood weighting of the deliverable ensemble and local refinement (former Steps 17 to 19); the prior rows and settings are unchanged"
+}

@@ -1,0 +1,9 @@
+,gravity (mGal),gravity (mGal),magnetics (nT),magnetics (nT)
+,ideal,rule,ideal,rule
+width (km),,,,
+2,never (max P 0.17),never (max P 0.26),20,50
+3,never (max P 0.35),never (max P 0.46),10,50
+5,12,8,10,50
+8,8,5,10,50
+12,5,3,10,50
+20,3,3,10,50

@@ -1,0 +1,68 @@
+{
+  "prior": "WP4 Annex C, Mount Gunson-type stratiform Cu branch",
+  "version": "0.1",
+  "status": "v0.1 (2026-10-07): scaffold. Level 3 the Woocalla reduced facies at the top of the Pandurra with a depression term; Level 4 tabular Cu bodies within reach of the facies edge; rows C3-1 to C4-4 translated from mount_gunson_t0_dossier.csv, all 'to elicit'; C5-1 derived. Shared setting imported from svoi_core (Annex A 0.10, Change 9). Invisible to both surveys by construction.",
+  "built_against_annexA": {
+    "version": "0.10",
+    "citation_table_sha": "e74b866aeff0"
+  },
+  "annexC_table_sha": "d0cb7a329032",
+  "core_sha": "ebf85a7eeae2",
+  "t0": "1975-05-02",
+  "built": "2026-10-07",
+  "seed_convention": "numpy default_rng(seed); C.draw first (shared rows, same stream as Annex A), the Annex C rows drawn inside their stages; synthetic noise default_rng(seed + 10,000,000)",
+  "seeds": {
+    "figures": [
+      43,
+      77,
+      99
+    ],
+    "row_check": [
+      1000,
+      1049
+    ],
+    "predictive_check": [
+      1000,
+      1199
+    ]
+  },
+  "declared_settings": {
+    "belt_aspect": 3.2,
+    "belt_az": 10.0,
+    "dep_weight": 1.0,
+    "dep_window_km": 20.0
+  },
+  "section4_rule": {
+    "T_grav_mgal": 2.0,
+    "T_mag_nt": 20.0,
+    "mag_noise_nt": 5.0,
+    "min_cells": 3,
+    "mag_decimate": 4,
+    "elev_gradient": 0.1967
+  },
+  "section4_gate": {
+    "gravity": {
+      "PASS": 5
+    },
+    "magnetics": {
+      "PASS": 5
+    }
+  },
+  "falsification_rmd": {
+    "gravity": {
+      "verdict": "NOT FALSIFIED",
+      "rmd_observed": 2.105,
+      "rmd_p95": 5.566
+    },
+    "magnetics": {
+      "verdict": "NOT FALSIFIED",
+      "rmd_observed": 2.782,
+      "rmd_p95": 7.46
+    },
+    "both": {
+      "verdict": "NOT FALSIFIED",
+      "rmd_observed": 3.855,
+      "rmd_p95": 8.053
+    }
+  }
+}

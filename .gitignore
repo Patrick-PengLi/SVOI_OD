@@ -1,0 +1,7 @@
+# large generated ensembles (regenerate from seeds on Sherlock; do not commit)
+08_prior_models/**/gen_n*/pred_all.npz
+08_prior_models/**/gen_n*/draws_all.csv
+08_prior_models/**/gen_n*/observed.npz
+# notebook forward-model caches (regenerate by running the prior notebooks)
+08_prior_models/**/pp_chunks/
+__pycache__/

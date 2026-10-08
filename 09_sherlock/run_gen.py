@@ -1,0 +1,49 @@
+"""Generate one chunk of prior models: forward-model each seed and sample it at the survey points.
+
+Output: pred_<c0>_<c1>.npz (seeds, grav at the stations, mag at the readings) and draws_<c0>_<c1>.csv per chunk,
+plus observed.npz. Chunk k covers seeds start + k*chunk ... start + (k+1)*chunk - 1. Finished chunks are skipped.
+
+  python run_gen.py --out <output folder> --chunk-id 0          # one chunk; inputs are read from this folder
+  (under SLURM the chunk id defaults to $SLURM_ARRAY_TASK_ID)
+"""
+import argparse, os, sys, time
+from pathlib import Path
+
+ap = argparse.ArgumentParser()
+ap.add_argument("--data", default=str(Path(__file__).resolve().parent), help="folder holding 01_citation_table, 03_sampler_inputs, 04_prior_predictive_observed (default: this folder)")
+ap.add_argument("--out", required=True, help="output folder, e.g. $SCRATCH/svoi_od/gen_n10000")
+ap.add_argument("--start", type=int, default=3000, help="first seed of chunk 0 (production run: 3000; the notebook uses 43, 77, 99 and 1000-1199)")
+ap.add_argument("--chunk", type=int, default=100, help="realizations per chunk")
+ap.add_argument("--chunk-id", type=int, default=int(os.environ.get("SLURM_ARRAY_TASK_ID", 0)))
+ap.add_argument("--noise", type=int, default=0, help="0: noise-free (default; tests add their own noise from observed.npz); 1: add the Step 8 survey noise, as notebook Step 11")
+a = ap.parse_args()
+
+out = Path(a.out).resolve(); out.mkdir(parents=True, exist_ok=True)
+c0 = a.start + a.chunk_id * a.chunk; c1 = c0 + a.chunk - 1
+f = out / f"pred_{c0}_{c1}.npz"
+if f.exists():
+    print(f"{f.name} exists, nothing to do"); sys.exit(0)
+
+here = Path(__file__).resolve().parent
+sys.path.insert(0, str(here))
+os.chdir(a.data)                                    # svoi_core reads its inputs relative to the SVOI_OD folder
+t0 = time.time()
+import numpy as np, pandas as pd
+import svoi_core as C
+print(f"chunk {a.chunk_id}: seeds {c0}-{c1}; core loaded in {time.time() - t0:.1f} s", flush=True)
+
+if not (out / "observed.npz").exists():
+    np.savez_compressed(out / "observed.npz", grav_x=C.GXo, grav_y=C.GYo, grav=C.G_OBS, grav_sd=C.G_SD,
+                        mag_x=C.MXo, mag_y=C.MYo, mag=C.M_OBS, mag_line=C.M_LINE, mag_sd=C.RULE["mag_noise_nt"])
+draws, GS, MS = [], [], []
+t1 = time.time()
+for i, s in enumerate(range(c0, c1 + 1), 1):
+    o, mp, g, t, gs, ms = C.synthetic(s, rng_noise=bool(a.noise))
+    draws.append(o); GS.append(gs.astype(np.float32)); MS.append(ms.astype(np.float32))
+    if i % 10 == 0:
+        print(f"  {i}/{a.chunk} done, {(time.time() - t1) / i:.2f} s per realization", flush=True)
+tmp = out / f".tmp_pred_{c0}_{c1}.npz"                # write then rename, so a killed task never leaves a half file
+np.savez_compressed(tmp, seeds=np.arange(c0, c1 + 1), grav=np.array(GS), mag=np.array(MS))
+pd.DataFrame(draws).to_csv(out / f"draws_{c0}_{c1}.csv", index=False)
+os.replace(tmp, f)
+print(f"chunk {a.chunk_id} written in {time.time() - t0:.0f} s", flush=True)

@@ -1,0 +1,159 @@
+DRILLHOLE_NO,DH_NAME,prefix,operator,year,depth_m,lon,lat,TARGET_COMMODITIES,COMMENTS
+271708,AD1,AD,WMC,1976.0,824.0,137.2460164,-30.9797535,Base Metals,"Drilling to target copper stratiform mineralisation within Adelaidean rocks, Stuart Shelf."
+277527,BD1,BD,WMC,1976.0,647.0,136.8422878,-30.1512344,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+271737,PD1A,PD,WMC,1977.0,414.0,136.9807217,-30.5437744,Base Metals,"Diamond drilling at Phillips Ridge, Stuart Shelf."
+25383,TD 1,TD,WMC,1977.0,498.0,137.6228336,-30.8038344,"Gold, Copper, Uranium",
+277571,TD1,TD,WMC,1977.0,498.0,137.6225136,-30.7978604,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+271728,TOD 1,TOD,WMC,1977.0,630.0,136.7558178,-30.3372594,Base Metals,"Stratigraphic diamond drillhole to target copper stratiform mineralisation within Adelaidean rocks, Stuart Shelf."
+281146,RD16,RD,BHPO,1978.0,480.0,136.8860257,-30.4441724,"Gold, Base Metals, Uranium Oxide",Drilling targeting IOCGU style mineralisation.
+281147,RD16W1,RD,BHPO,1978.0,1318.9,136.8860257,-30.4441724,"Gold, Base Metals, Uranium Oxide",Drilling targeting IOCGU style mineralisation.
+327316,RD20,RD,BHPO,1978.0,465.95,136.8984423,-30.4424251,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+327317,RD20W1,RD,BHPO,1978.0,830.85,136.8984423,-30.4424251,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+25380,WWD 1,WWD,WMC,1978.0,762.1,137.7616236,-30.5101134,"Gold, Copper, Uranium",ENV 8482
+277572,WWD1,WWD,WMC,1978.0,762.0,137.7589776,-30.5086374,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+20830,BLD1,BLD,WMC,1979.0,768.0,137.2157177,-30.3802114,"Gold, Copper, Uranium",
+20831,BLD2,BLD,WMC,1979.0,860.25,137.2667686,-30.4183673,"Gold, Copper, Uranium",Exploration drilling in Stuart Shelf & Opalfields.
+277533,CSD1,CSD,WMC,1979.0,216.0,136.8442877,-30.9464594,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+348598,RD21,RD,BHPO,1979.0,714.0,136.8660106,-30.448792,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+327318,RD24,RD,BHPO,1979.0,1150.07,136.902221,-30.4560869,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+277575,WRD1,WRD,WMC,1979.0,230.0,136.9456857,-30.6445724,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277548,AD1,AD,BHPO,1980.0,823.8,137.2460167,-30.9797534,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277530,BHD1,BHD,WMC,1980.0,268.0,137.3356287,-30.7599194,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+18159,CSD 1,CSD,WMC,1980.0,994.2,136.8437877,-30.9454544,"Gold, Copper, Uranium",
+20769,DRD 1,DRD,WMC,1980.0,1192.0,137.1744907,-30.7843714,"Gold, Copper, Uranium",
+277536,HHD1,HHD,WMC,1980.0,296.0,136.7748227,-30.7836944,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277540,HWD1,HWD,WMC,1980.0,284.0,137.0505887,-30.9372164,Copper,Precollar for diamond hole completed in June 1982 (Dh No 20770).
+335963,RD101,RD,BHPO,1980.0,1001.0,136.8760109,-30.4541223,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+333094,RD102W1,RD,BHPO,1980.0,1000.0,136.9064607,-30.4403698,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+348599,RD103,RD,BHPO,1980.0,986.0,136.8863697,-30.4297022,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+316960,RD104,RD,BHPO,1980.0,1145.6,136.8683304,-30.4260682,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+315987,RD120,RD,BHPO,1980.0,1000.0,136.8740654,-30.447174,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+316966,RD121,RD,BHPO,1980.0,797.2,136.8717142,-30.4308775,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+335964,RD126,RD,BHPO,1980.0,1002.7,136.8500751,-30.4224011,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+335965,RD133,RD,BHPO,1980.0,993.7,136.862053,-30.4347445,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+333095,RD144,RD,BHPO,1980.0,991.7,136.86401,-30.4417626,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+314586,RD19,RD,BHPO,1980.0,864.8,136.8901366,-30.4434761,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+327319,RD26,RD,BHPO,1980.0,1000.0,136.8963791,-30.4350242,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+327320,RD27,RD,BHPO,1980.0,998.0,136.8941184,-30.4577237,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+315990,RD28,RD,BHPO,1980.0,998.1,136.8801887,-30.4384234,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+315991,RD29,RD,BHPO,1980.0,1246.3,136.8882442,-30.4366994,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+315992,RD31A,RD,BHPO,1980.0,990.3,136.9002279,-30.4490483,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+333097,RD32,RD,BHPO,1980.0,1007.5,136.89219,-30.4507566,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+281140,RD33,RD,BHPO,1980.0,697.4,136.8892757,-30.4402224,"Gold, Base Metals, Uranium Oxide",Drilling targeting IOCGU style mineralisation.
+333098,RD38,RD,BHPO,1980.0,1001.1,136.8721117,-30.4400805,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+316963,RD39W1,RD,BHPO,1980.0,979.0,136.8701827,-30.4330879,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+335962,RD40,RD,BHPO,1980.0,914.27,136.8860355,-30.4594516,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+162302,RD41,RD,BHPO,1980.0,1011.2,136.9103259,-30.4543769,"Gold, Base Metals, Copper, Water",Drilling targeting IOCGU style mineralisation.
+314587,RD45,RD,BHPO,1980.0,898.4,136.8886922,-30.4458931,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+316964,RD57,RD,BHPO,1980.0,997.0,136.8782568,-30.4313821,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+327321,RD75,RD,BHPO,1980.0,853.2,136.8842512,-30.4523926,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+281141,RD76,RD,BHPO,1980.0,918.7,136.8877337,-30.4424004,"Gold, Base Metals, Uranium Oxide",Drilling targeting IOCGU style mineralisation.
+333099,RD80,RD,BHPO,1980.0,981.0,136.9083904,-30.4473901,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+162321,RD81,RD,BHPO,1980.0,994.5,136.8601144,-30.4277385,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+162326,RD87,RD,BHPO,1980.0,993.8,136.9041768,-30.4631209,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+277558,SGD1,SGD,WMC,1980.0,236.0,137.0426267,-30.3512514,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277560,SGD2,SGD,WMC,1980.0,268.0,137.0878667,-30.3753444,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277559,SGW1,SGW,WMC,1980.0,212.0,137.0634237,-30.3509244,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277576,WRD2,WRD,WMC,1980.0,300.0,136.9374027,-30.6582284,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277500,WRD3,WRD,WMC,1980.0,760.2,137.0854477,-30.6036144,Copper,Drilling in Stuart Shelf targeting significant Cu.
+277549,AD3,AD,WMC,1981.0,1004.5,137.2296797,-30.9795314,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+18189,BD 1,BD,WMC,1981.0,941.0,136.8437028,-30.1486164,"Gold, Copper, Uranium",
+18190,BD 2,BD,WMC,1981.0,829.4,136.8150278,-30.1224114,"Gold, Copper, Uranium",
+277531,BHD2,BHD,WMC,1981.0,580.0,137.3323097,-30.7219144,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+20832,BLD3,BLD,WMC,1981.0,1024.0,137.3200607,-30.3753144,"Gold, Copper, Uranium",
+18160,HHD 1 (HHD 1 W1) 1,HHD,WMC,1981.0,1186.2,136.7691097,-30.7825924,"Gold, Copper, Uranium",
+277537,HRD1,HRD,WMC,1981.0,330.0,136.9777537,-30.4614084,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277544,IDD2,IDD,WMC,1981.0,316.0,137.5286696,-30.8050024,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277545,IDD3,IDD,WMC,1981.0,316.0,137.5033246,-30.7946714,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277546,IDD4,IDD,WMC,1981.0,316.0,137.4953546,-30.8015894,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+348600,RD141,RD,BHPO,1981.0,1001.0,136.9044333,-30.4332015,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+348601,RD142,RD,BHPO,1981.0,990.7,136.8944992,-30.4280031,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+316961,RD155,RD,BHPO,1981.0,784.5,136.868627,-30.4352327,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+315988,RD160,RD,BHPO,1981.0,1000.8,136.8927889,-30.4413924,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+333096,RD161,RD,BHPO,1981.0,991.3,136.9122965,-30.4614334,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+348602,RD162A,RD,BHPO,1981.0,1007.5,136.852055,-30.429382,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+316962,RD181,RD,BHPO,1981.0,995.7,136.8581907,-30.4207055,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+162377,RD218,RD,BHPO,1981.0,1000.1,136.8763142,-30.4243764,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+335966,RD219,RD,BHPO,1981.0,1019.2,136.9145532,-30.4386526,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+315989,RD220,RD,BHPO,1981.0,1000.9,136.9164737,-30.4456919,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+162378,RD221A,RD,BHPO,1981.0,1012.0,136.9184565,-30.4526829,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+312939,RD222,RD,BHPO,1981.0,995.0,136.9203637,-30.4597274,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+281142,RD252,RD,BHPO,1981.0,889.0,136.8885677,-30.4412534,"Gold, Base Metals, Uranium Oxide",Drilling targeting IOCGU style mineralisation.
+335967,RD286,RD,BHPO,1981.0,997.0,136.8559114,-30.44345,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+313499,RD287,RD,BHPO,1981.0,993.0,136.8678747,-30.4557954,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+281135,RD49,RD,BHPO,1981.0,703.0,136.8908157,-30.4380394,,Drilling targeting IOCGU style mineralisation.
+277561,SGD3,SGD,WMC,1981.0,244.0,136.9901057,-30.4030324,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277563,SGD5,SGD,WMC,1981.0,248.0,137.0989107,-30.3760694,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277564,SGD6,SGD,WMC,1981.0,228.0,137.0887147,-30.3663094,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+20828,SHD 1,SHD,WMC,1981.0,965.0,137.0020987,-30.1857554,"Gold, Copper, Uranium",
+25384,TD 2,TD,WMC,1981.0,881.0,137.6526246,-30.7803904,"Gold, Copper, Uranium",
+18162,TWN 2,TWN,WMC,1981.0,545.6,136.9066237,-30.5781234,"Gold, Copper, Uranium",
+312948,TWN1,TWN,WMC,1981.0,700.8,136.8793581,-30.5678373,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+312949,TWN3,TWN,BHPO,1981.0,641.1,136.9001887,-30.5906474,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+20773,WLD 1,WLD,WMC,1981.0,445.5,137.3079157,-30.6572524,"Gold, Copper, Uranium",
+277578,WRD4,WRD,WMC,1981.0,584.8,136.9995377,-30.6554824,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277579,WRD5,WRD,WMC,1981.0,628.2,136.9581717,-30.6791164,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277522,ACD 8,ACD,WMC,1982.0,910.2,136.8222677,-30.6396854,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+18164,HHD 2,HHD,WMC,1982.0,364.0,136.7929337,-30.7493724,"Gold, Copper, Uranium",
+20770,HWD 1,HWD,WMC,1982.0,1097.15,137.0505887,-30.9372164,"Gold, Copper, Uranium",
+25375,MRD 1,MRD,WMC,1982.0,918.0,137.7693536,-30.9663524,"Gold, Copper, Uranium",
+277553,OFD1,OFD,WMC,1982.0,210.0,137.1293777,-30.4854514,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+312941,RD285,RD,BHPO,1982.0,845.8,136.8539687,-30.4364334,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+313500,RD301,RD,BHPO,1982.0,742.5,136.8779337,-30.4611224,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+281157,RD302,RD,BHPO,1982.0,590.8,136.8698507,-30.4628134,"Gold, Base Metals, Uranium Oxide",Drilling targeting IOCGU style mineralisation.
+313501,RD303,RD,BHPO,1982.0,990.0,136.8597867,-30.4574554,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+313502,RD304,RD,BHPO,1982.0,923.6,136.8578347,-30.4504574,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+313503,RD306,RD,BHPO,1982.0,927.0,136.8497367,-30.4521334,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+162407,RD307A,RD,BHPO,1982.0,676.0,136.8478267,-30.4451604,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+162408,RD308,RD,BHPO,1982.0,607.8,136.8458747,-30.4381044,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+281158,RD451,RD,BHPO,1982.0,889.0,136.8717647,-30.4698244,"Gold, Base Metals, Uranium Oxide",Drilling targeting IOCGU style mineralisation.
+313504,RD452,RD,BHPO,1982.0,1002.0,136.8798617,-30.4681494,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+313895,RD453,RD,BHPO,1982.0,640.4,136.8879654,-30.4664639,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+313896,RD454W2,RD,BHPO,1982.0,792.0,136.8960697,-30.4647794,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+313897,RD478,RD,BHPO,1982.0,1003.3,136.8844087,-30.422682,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+313898,RD479,RD,BHPO,1982.0,998.5,136.8924759,-30.4209839,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+281159,RD480,RD,BHPO,1982.0,976.1,136.9025527,-30.4263274,"Gold, Base Metals, Uranium Oxide",Drilling targeting IOCGU style mineralisation.
+20771,RED 1,RED,WMC,1982.0,410.4,137.3517007,-30.6013994,"Gold, Copper, Uranium",
+25385,TD 3,TD,WMC,1982.0,733.4,137.6304136,-30.7552384,"Gold, Copper, Uranium",
+277567,TOD2,TOD,WMC,1982.0,278.0,136.7601938,-30.3797194,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277581,WRD10,WRD,WMC,1982.0,802.0,136.9407837,-30.6446454,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277582,WRD11,WRD,WMC,1982.0,695.0,136.9602327,-30.6519314,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277501,WRD6,WRD,WMC,1982.0,748.9,137.0582067,-30.6468984,Copper,Drilling in Stuart Shelf targeting significant Cu.
+277580,WRD9,WRD,WMC,1982.0,667.0,136.9539777,-30.6625804,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277550,AD4,AD,WMC,1983.0,1256.2,137.2069737,-30.9755014,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+349230,AD5,AD,WMC,1983.0,284.0,137.2459562,-30.9744845,,Stuart Shelf & Opalfields Exploration
+349231,AD5W1,AD,WMC,1983.0,426.0,137.2459562,-30.9744845,,Stuart Shelf & Opalfields Exploration
+277551,AD6,AD,BHPO,1983.0,735.8,137.2459417,-30.9743154,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+312940,RD284,RD,BHPO,1983.0,988.4,136.8662977,-30.4190234,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+348603,RD305A,RD,BHPO,1983.0,997.1,136.8516248,-30.4591311,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+162429,RD502,RD,BHPO,1983.0,1015.4,136.8439337,-30.4310874,,Drilling targeting IOCGU style mineralisation.
+162430,RD503,RD,BHPO,1983.0,957.4,136.8419687,-30.4240714,Water,Depth 540 m (1994) from W/wClyde report 20/5/94
+313899,RD516,RD,BHPO,1983.0,992.4,136.8400553,-30.4170503,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+314588,RD517,RD,BHPO,1983.0,1000.4,136.8481555,-30.4153704,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+314589,RD526,RD,BHPO,1983.0,994.0,136.8621082,-30.4645099,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+314591,RD982,RD,BHPO,1983.0,1417.0,136.9053054,-30.4517403,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+277583,WRD12,WRD,WMC,1983.0,989.0,136.9500147,-30.6627304,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277584,WRD13,WRD,WMC,1983.0,761.7,136.9560777,-30.6528964,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277524,ACD 11,ACD,WMC,1984.0,261.0,136.8094967,-30.6542084,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277525,ACD 13,ACD,WMC,1984.0,307.0,136.8277597,-30.6099274,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277552,AD7,AD,WMC,1984.0,954.58,137.2145127,-30.9755534,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277554,OFD2,OFD,WMC,1984.0,300.0,137.2010927,-30.5433454,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277502,OFD3,OFD,WMC,1984.0,300.0,137.1801537,-30.5483884,Copper,Drilling in Stuart Shelf targeting significant Cu.
+277585,WRD14,WRD,WMC,1984.0,920.0,136.9539297,-30.6498614,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277586,WRD15,WRD,WMC,1984.0,1037.0,136.9539437,-30.6660994,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+20833,BLD4,BLD,WMC,1985.0,1037.0,137.2538417,-30.3058954,"Gold, Copper, Uranium",
+277538,HRD2,HRD,WMC,1985.0,300.0,136.9832827,-30.4721494,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+277539,HRD3,HRD,WMC,1985.0,344.0,136.9927387,-30.4864394,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+20772,RED 2,RED,WMC,1985.0,686.9,137.3676497,-30.5755294,"Gold, Copper, Uranium",
+277569,TOD3,TOD,WMC,1985.0,300.0,136.7620898,-30.3925954,Copper,Exploration drilling in Stuart Shelf & Opalfields.
+349233,AD11,AD,WMC,1987.0,650.5,137.2439341,-30.9797783,,Drilling targeting IOCGU style mineralisation.
+349234,AD12,AD,WMC,1987.0,741.0,137.2481199,-30.9797055,,Drilling targeting IOCGU style mineralisation.
+349235,AD13,AD,WMC,1987.0,852.0,137.1993147,-30.9697128,,Drilling targeting IOCGU style mineralisation.
+349236,AD14,AD,WMC,1987.0,746.4,137.2449594,-30.9788585,,Drilling targeting IOCGU style mineralisation.
+349237,AD15,AD,WMC,1987.0,782.0,137.2469655,-30.9800322,,Drilling targeting IOCGU style mineralisation.
+349238,AD16,AD,WMC,1987.0,904.67,137.2393491,-30.9744188,,Drilling targeting IOCGU style mineralisation.
+349239,AD18,AD,WMC,1987.0,270.0,137.2522303,-30.9741948,,
+349240,AD19,AD,WMC,1987.0,754.7,137.246123,-30.9851792,,Drilling targeting IOCGU style mineralisation.
+285007,AD9,AD,BHPO,1987.0,754.23,137.2458807,-30.9770864,"Base Metals, Uranium",Drilling targeting IOCGU style mineralisation.
+314590,RD781,RD,BHPO,1987.0,832.3,136.8823981,-30.4462828,"Gold, Base Metals, Copper",Drilling targeting IOCGU style mineralisation.
+284733,WRD19,WRD,BHPO,1988.0,723.3,136.9541367,-30.6447744,"Base Metals, Uranium",Drilling targeting IOCGU style mineralisation.

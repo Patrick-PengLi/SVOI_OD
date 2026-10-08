@@ -14,3 +14,5 @@
 *.xlsx binary
 *.docx binary
 *.zip binary
+*.sh text eol=lf
+*.sbatch text eol=lf

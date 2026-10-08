@@ -1,0 +1,11 @@
+# WMC 1974-75 target picks (Rutter & Esdale 1985)
+
+Rutter, H. and Esdale, D. J., 1985. The geophysics of the Olympic Dam discovery. *Exploration Geophysics* 16(2-3), 273-276 (copy in `06_sources/level5_petrophysical_attachment/wmc_assumed_contrasts/`).
+
+Page 274: a first-stage interpretation of the regional aeromagnetics picked **six** anomalies with a relatively near-surface source. **Five** were on the Andamooka 1:250 000 sheet (Bills Lookout, Olympic Dam, Appendicitis Dam, Andamooka Island, Lake Torrens) and all five coincided with a positive anomaly on the SADM 2 mGal / 6 km regional gravity map. The sixth lay on the Torrens sheet and is neither named nor located in the paper. Gravity depths to source came from profiles recontoured at 1 mGal and modelled with a 0.3 g/cm3 contrast; the authors state in advance that the 6 km sampling would make the sources look too deep.
+
+The paper gives no coordinates. Positions here are the collars of the first WMC drillhole on each prospect, from the SARIG drillhole table (`01_data/wp1_data/database/drillholes/sa_geodata/sarig_dh_details_exp.csv`, GDA2020) and the SARIG envelope abstracts in `01_data/wp1_data/annexA_catalogue_level3.csv`. Uncertainty against the 1975 anomaly centre is a few km (`location_unc_km`). All five lie on the Andamooka 1:250 000 sheet, the notebook's study window (`study_windows.csv`). The 1985 publication date is after t0 (2 May 1975); the picks are the pre-drilling interpretation of the same two surveys the notebook uses, and they are used for orientation only, never by the sampler and never in the Part B gate.
+
+## wmc_bhp_drilling_1975_1990_andamooka_sheet.csv
+
+WMC and BHP (operator codes WMC, BHPO) drillholes on the Andamooka 1:250 000 sheet finished 1975-1990 and deeper than 200 m, from the SARIG drillhole table (`01_data/wp1_data/database/drillholes/sa_geodata/sarig_dh_details_exp.csv`, GDA2020), extracted 2026-10-02. After-t0 record, used in Step 9c for orientation only: it shows which of the sheet's magnetic peaks WMC went on to test after the 1975 picks, and when. The hole-name prefix is the prospect (RD Olympic Dam, ACD Acropolis, WRD Wirrda Well, BLD Bills Lookout, TD Torrens, MRD Murdie, SGD Snake Gully, ...).
